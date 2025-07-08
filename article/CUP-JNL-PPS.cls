@@ -625,7 +625,8 @@
 
 \def\copytext#1{\def\@copyrighttext{\footercopyfont\begin{tabular}[b]{@{}r@{}}#1\end{tabular}}}
 \copytext{\@DOI\\
-\textcopyright\ American Political Science Association \@jyear}%
+%\textcopyright\ American Political Science Association \@jyear
+}%
 
 \AtEndDocument{\label{LastPage}}
 \def\@opjournalheader{\leftmark\space{{(\@jyear), \@jvol:}} {\thepage{--}\pageref*{LastPage}}\\
