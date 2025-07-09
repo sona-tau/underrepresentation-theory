@@ -1,95 +1,95 @@
-acs <- c(
+acs <- list(
 	 title = "American Community Survey",
 	 location = "https://census.gov/", # Update with a more precise link
 	 years = c(),
 	 variables = c()
 )
 
-cps <- c(
+cps <- list(
 	title = "Current Population Survey",
 	location = "https://census.gov/", # Update with a more precise link
 	years = c(),
 	variables = c()
 )
 
-ipeds <- c(
+ipeds <- list(
 	title = "Integrated Postsecondary Education Data System (IPEDS) Institution Lookup",
 	location = "https://surveys.nces.ed.gov/ipeds/public/survey-materials/index",
 	years = c( 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 ), # They have data every year since 1994
 	variables = c()
 )
 
-ncses <- c(
+ncses <- list(
 	title = "National Center for Science and Engineering Statistics",
 	location = "https://ncses.nsf.gov/",
 	years = c(),
 	variables = c()
 )
 
-sed <- c(
+sed <- list(
 	title = "Survey of Earned Doctorates",
 	location = "https://ncses.nsf.gov/surveys/earned-doctorates/2023", # There are probably more years than 2023
 	years = c(),
 	variables = c()
 )
 
-gss <- c(
+gss <- list(
 	title = "Survey of Graduate Students and Postdoctorates in Science and Engineering",
 	location = "https://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2023", # Same as the previous comment
 	years = c(),
 	variables = c()
 )
 
-bls <- c(
+bls <- list(
 	title = "Bureau of Labor Statistics",
 	location = "https://www.bls.gov/",
 	years = c(),
 	variables = c()
 )
 
-ooh <- c(
+ooh <- list(
 	title = "Occupational Outlook Handbook",
 	location = "https://www.bls.gov/ooh/",
 	years = c(),
 	variables = c()
 )
 
-oews <- c(
+oews <- list(
 	title = "Occupational Employment and Wage Statistics",
 	location = "https://www.bls.gov/oes/tables.htm",
 	years = c(),
 	variables = c()
 )
 
-ams <- c(
+ams <- list(
 	title = "American Mathematical Society",
 	location = "https://ams.org/",
 	years = c(),
 	variables = c()
 )
 
-maa <- c(
+maa <- list(
 	title = "Mathematical Association of America",
 	location = "https://maa.org/",
 	years = c(),
 	variables = c()
 )
 
-siam <- c(
+siam <- list(
 	title = "Society for Industrial and Applied Mathematics",
 	location = "https://siam.org/",
 	years = c(),
 	variables = c()
 )
 
-awm <- c(
+awm <- list(
 	title = "Association for Women in Mathematics",
 	location = "https://awm-math.org/",
 	years = c(),
 	variables = c()
 )
 
-cbms <- c(
+cbms <- list(
 	title = "Conference Board of the Mathematical Sciences 2021 Survey",
 	location = "www.ams.org/learning-careers/data/cbms-survey/",
 	years = c( 2021 ),
@@ -163,61 +163,41 @@ cbms <- c(
 		"Percentage of program heads of mathematics departments at public two-year colleges classifying various problems by severity in fall 2021." )
 )
 
-ipums <- c(
+ipums <- list(
 	title = "IPUMS",
 	location = "https://ipums.org/",
 	years = c(),
 	variables = c()
 )
 
-data_gov <- c(
+data_gov <- list(
 	title = "Data.gov",
 	location = "https://data.gov/",
-	years = c(),
-	variables = c()
+	years = list(),
+	variables = list()
 )
 
-harvard_dataverse <- c(
+harvard_dataverse <- list(
 	title = "Harvard Dataverse",
 	location = "https://dataverse.harvard.edu/",
 	years = c(),
 	variables = c()
 )
 
-pewresearch <- c(
+pewresearch <- list(
 	title = "Pewresearch",
 	location = "https://pewresearch.org/",
 	years = c(),
 	variables = c()
 )
 
-urban <- c(
+urban <- list(
 	title = "Urban Institute",
 	location = "https://urban.org/",
 	years = c(),
 	variables = c()
 )
 
-variables <- c(
-	acs = acs,
-	cps = cps,
-	ipeds = ipeds,
-	ncses = ncses,
-	sed = sed,
-	gss = gss,
-	bls = bls,
-	ooh = ooh,
-	oews = oews,
-	ams = ams,
-	maa = maa,
-	siam = siam,
-	awm = awm,
-	cbms = cbms,
-	ipums = ipums,
-	data_gov = data_gov,
-	harvard_dataverse = harvard_dataverse,
-	pewresearch = pewresearch,
-	urban = urban
-)
+variables <- data.frame(t(list(acs, cps, ipeds, ncses, sed, gss, bls, ooh, oews, ams, maa, siam, awm, cbms, ipums, data_gov, harvard_dataverse, pewresearch, urban)))
 
 variables
