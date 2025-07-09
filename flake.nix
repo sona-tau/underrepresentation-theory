@@ -25,6 +25,7 @@
 							TDA
 							deldir
 							dplyr
+							feather
 							flexdashboard
 							ggplot2
 							gutenbergr
@@ -33,6 +34,7 @@
 							readr
 							remotes
 							resampledata
+							rhdf5
 							rmarkdown
 							s2
 							scales
@@ -62,6 +64,7 @@
 							scipy
 							seaborn
 							statistics
+							tables
 							venvShellHook
 						];
 					in with pkgs; [

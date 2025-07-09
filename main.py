@@ -1,99 +1,122 @@
-acs <- list(
+import pandas as pd
+
+class Source:
+    def __init__(s, title: str, location: str, years: list[int], variables: list[str]):
+        s.title = title
+        s.location = location
+        s.years = years
+        s.variables = variables
+    def as_df(s) -> pd.DataFrame:
+        return pd.DataFrame({
+            "title": [s.title],
+            "location": [s.location],
+            "years": [s.years],
+            "variables": [s.variables]
+        })
+    def as_dict(s) -> dict:
+        return {
+            "title": s.title,
+            "location": s.location,
+            "years": s.years,
+            "variables": s.variables
+        }
+
+acs = Source(
 	 title = "American Community Survey",
 	 location = "https://census.gov/", # Update with a more precise link
-	 years = c(),
-	 variables = c()
+	 years = [],
+	 variables = []
 )
 
-cps <- list(
+cps = Source(
 	title = "Current Population Survey",
 	location = "https://census.gov/", # Update with a more precise link
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-ipeds <- list(
+ipeds = Source(
 	title = "Integrated Postsecondary Education Data System (IPEDS) Institution Lookup",
 	location = "https://surveys.nces.ed.gov/ipeds/public/survey-materials/index",
-	years = c( 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 ), # They have data every year since 1994
-	variables = c()
+	years = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024], # They have data every year since 1994
+	variables = []
 )
 
-ncses <- list(
+ncses = Source(
 	title = "National Center for Science and Engineering Statistics",
 	location = "https://ncses.nsf.gov/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-sed <- list(
+sed = Source(
 	title = "Survey of Earned Doctorates",
 	location = "https://ncses.nsf.gov/surveys/earned-doctorates/2023", # There are probably more years than 2023
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-gss <- list(
+gss = Source(
 	title = "Survey of Graduate Students and Postdoctorates in Science and Engineering",
 	location = "https://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2023", # Same as the previous comment
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-bls <- list(
+bls = Source(
 	title = "Bureau of Labor Statistics",
 	location = "https://www.bls.gov/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-ooh <- list(
+ooh = Source(
 	title = "Occupational Outlook Handbook",
 	location = "https://www.bls.gov/ooh/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-oews <- list(
+oews = Source(
 	title = "Occupational Employment and Wage Statistics",
 	location = "https://www.bls.gov/oes/tables.htm",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-ams <- list(
+ams = Source(
 	title = "American Mathematical Society",
 	location = "https://ams.org/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-maa <- list(
+maa = Source(
 	title = "Mathematical Association of America",
 	location = "https://maa.org/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-siam <- list(
+siam = Source(
 	title = "Society for Industrial and Applied Mathematics",
 	location = "https://siam.org/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-awm <- list(
+awm = Source(
 	title = "Association for Women in Mathematics",
 	location = "https://awm-math.org/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-cbms <- list(
+cbms = Source(
 	title = "Conference Board of the Mathematical Sciences 2021 Survey",
 	location = "www.ams.org/learning-careers/data/cbms-survey/",
-	years = c( 2021 ),
-	variables = c(
+	years = [2021],
+	variables = [
 		"Bachelor’s degrees in mathematics, mathematics education, statistics, and computer science in mathematics departments awarded between July 1, 2020 and June 30, 2021, by gender of degree recipient and type of department.",
 		"Bachelor’s degrees in statistics departments awarded between July 1, 2020 and June 30, 2021, by gender of degree recipient and type of department.",
 		"Enrollment (in thousands) in undergraduate mathematics, statistics, and computer science courses (including distance learning enrollments) in mathematics and statistics departments by level of course and type of department in fall 2021. Numbers in parentheses are (2010, 2015) enrollments.",
@@ -160,44 +183,57 @@ cbms <- list(
 		"Percentage of mathematics departments at public two-year colleges using various methods of evaluating teaching of full- and part-time faculty in fall 2021.",
 		"Percentage of two-year colleges that require some form of continuing education or professional development for full-time permanent faculty, and percentage of faculty using various methods to fulfill those requirements, in mathematics departments at two-year colleges in fall 2015 and 2021.",
 		"Percentage of program heads classifying various problems as “major” in mathematics departments at two-year colleges in fall 2005, 2010, 2015, and 2021.",
-		"Percentage of program heads of mathematics departments at public two-year colleges classifying various problems by severity in fall 2021." )
+		"Percentage of program heads of mathematics departments at public two-year colleges classifying various problems by severity in fall 2021." ]
 )
 
-ipums <- list(
+ipums = Source(
 	title = "IPUMS",
 	location = "https://ipums.org/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-data_gov <- list(
+data_gov = Source(
 	title = "Data.gov",
 	location = "https://data.gov/",
-	years = list(),
-	variables = list()
+	years = [],
+	variables = []
 )
 
-harvard_dataverse <- list(
+harvard_dataverse = Source(
 	title = "Harvard Dataverse",
 	location = "https://dataverse.harvard.edu/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-pewresearch <- list(
+pewresearch = Source(
 	title = "Pewresearch",
 	location = "https://pewresearch.org/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-urban <- list(
+urban = Source(
 	title = "Urban Institute",
 	location = "https://urban.org/",
-	years = c(),
-	variables = c()
+	years = [],
+	variables = []
 )
 
-variables <- data.frame(t(list(acs, cps, ipeds, ncses, sed, gss, bls, ooh, oews, ams, maa, siam, awm, cbms, ipums, data_gov, harvard_dataverse, pewresearch, urban)))
 
-variables
+sources = [acs, cps, ipeds, ncses, sed, gss, bls, ooh, oews, ams, maa, siam, awm, cbms, ipums, data_gov, harvard_dataverse, pewresearch, urban]
+
+df = pd.DataFrame({
+    "title": [],
+    "location": [],
+    "years": [],
+    "variables": []
+})
+
+for source in sources:
+    new_df = source.as_df()
+    df = pd.concat([df, new_df])
+
+df.to_csv("variables.csv")
+df.to_hdf("collected_data.h5", "variables")
