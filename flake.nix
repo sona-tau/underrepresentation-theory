@@ -18,23 +18,59 @@
 			devShells = forEachSupportedSystem ({ pkgs }: {
 				default = pkgs.mkShell {
 					venvDir = ".venv";
-					packages = with pkgs; [
+					packages = let
+						myRPackages = with pkgs.rPackages; [
+							Matrix
+							SnowballC
+							TDA
+							deldir
+							dplyr
+							flexdashboard
+							ggplot2
+							gutenbergr
+							pagedown
+							plotly
+							readr
+							remotes
+							resampledata
+							rmarkdown
+							s2
+							scales
+							sf
+							shiny
+							showtext
+							showtextdb
+							stringr
+							sysfonts
+							textdata
+							tidyr
+							tidytext
+							tidyverse
+							tinytex
+							units
+							wordcloud
+						];
+						myPythonPackages = with pkgs.python313Packages; [
+							ipykernel
+							jupyter-core
+							jupyterlab
+							matplotlib
+							numpy
+							openpyxl
+							pandas
+							pip
+							scipy
+							seaborn
+							statistics
+							venvShellHook
+						];
+					in with pkgs; [
+						R
+						rstudio
+						rounded-mgenplus
 						poetry
 						python313
-					] ++ (with python313Packages; [
-						seaborn
-						openpyxl
-						matplotlib
-						ipykernel
-						jupyter-core
-						jupyterlab
-						numpy
-						pandas
-						pip
-						scipy
-						statistics
-						venvShellHook
-					]);
+					] ++ myRPackages ++ myPythonPackages;
 				};
 			});
 		};

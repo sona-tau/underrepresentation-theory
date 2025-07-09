@@ -2,3 +2,5 @@
 .direnv
 .venv
 .ipynb_checkpoints
+.RData
+.Rhistory
