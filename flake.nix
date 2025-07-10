@@ -70,6 +70,7 @@
 							venvShellHook
 						];
 					in with pkgs; [
+						git-lfs
 						R
 						rstudio
 						rounded-mgenplus
