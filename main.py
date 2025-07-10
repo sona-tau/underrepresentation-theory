@@ -21,102 +21,76 @@ class Source:
             "variables": s.variables
         }
 
-acs = Source(
-	 title = "American Community Survey",
-	 location = "https://census.gov/", # Update with a more precise link
-	 years = [],
-	 variables = []
-)
-
-cps = Source(
-	title = "Current Population Survey",
-	location = "https://census.gov/", # Update with a more precise link
-	years = [],
-	variables = []
-)
-
-ipeds = Source(
-	title = "Integrated Postsecondary Education Data System (IPEDS) Institution Lookup",
-	location = "https://surveys.nces.ed.gov/ipeds/public/survey-materials/index",
-	years = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024], # They have data every year since 1994
-	variables = []
-)
-
-ncses = Source(
-	title = "National Center for Science and Engineering Statistics",
-	location = "https://ncses.nsf.gov/",
-	years = [],
-	variables = []
-)
-
-sed = Source(
-	title = "Survey of Earned Doctorates",
-	location = "https://ncses.nsf.gov/surveys/earned-doctorates/2023", # There are probably more years than 2023
-	years = [],
-	variables = []
-)
-
-gss = Source(
-	title = "Survey of Graduate Students and Postdoctorates in Science and Engineering",
-	location = "https://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2023", # Same as the previous comment
-	years = [],
-	variables = []
-)
-
-bls = Source(
-	title = "Bureau of Labor Statistics",
-	location = "https://www.bls.gov/",
-	years = [],
-	variables = []
-)
-
-ooh = Source(
-	title = "Occupational Outlook Handbook",
-	location = "https://www.bls.gov/ooh/",
-	years = [],
-	variables = []
-)
-
-oews = Source(
-	title = "Occupational Employment and Wage Statistics",
-	location = "https://www.bls.gov/oes/tables.htm",
-	years = [],
-	variables = []
-)
-
-ams = Source(
-	title = "American Mathematical Society",
-	location = "https://ams.org/",
-	years = [],
-	variables = []
-)
-
-maa = Source(
-	title = "Mathematical Association of America",
-	location = "https://maa.org/",
-	years = [],
-	variables = []
-)
-
-siam = Source(
-	title = "Society for Industrial and Applied Mathematics",
-	location = "https://siam.org/",
-	years = [],
-	variables = []
-)
-
-awm = Source(
-	title = "Association for Women in Mathematics",
-	location = "https://awm-math.org/",
-	years = [],
-	variables = []
-)
-
-cbms = Source(
-	title = "Conference Board of the Mathematical Sciences 2021 Survey",
-	location = "www.ams.org/learning-careers/data/cbms-survey/",
-	years = [2021],
-	variables = [
+sources = [{
+	 "title": "American Community Survey",
+	 "location": "https://census.gov/", # Update with a more precise link
+	 "years": [],
+	 "variables": []
+}, {
+	"title": "Current Population Survey",
+	"location": "https://census.gov/", # Update with a more precise link
+	"years": [],
+	"variables": []
+}, {
+	"title": "Integrated Postsecondary Education Data System (IPEDS) Institution Lookup",
+	"location": "https://surveys.nces.ed.gov/ipeds/public/survey-materials/index",
+	"years": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+	"variables": []
+}, {
+	"title": "National Center for Science and Engineering Statistics",
+	"location": "https://ncses.nsf.gov/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Survey of Earned Doctorates",
+	"location": "https://ncses.nsf.gov/surveys/earned-doctorates/2023",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Survey of Graduate Students and Postdoctorates in Science and Engineering",
+	"location": "https://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2023", # Same as the previous comment
+	"years": [],
+	"variables": []
+}, {
+	"title": "Bureau of Labor Statistics",
+	"location": "https://www.bls.gov/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Occupational Outlook Handbook",
+	"location": "https://www.bls.gov/ooh/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Occupational Employment and Wage Statistics",
+	"location": "https://www.bls.gov/oes/tables.htm",
+	"years": [],
+	"variables": []
+}, {
+	"title": "American Mathematical Society",
+	"location": "https://ams.org/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Mathematical Association of America",
+	"location": "https://maa.org/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Society for Industrial and Applied Mathematics",
+	"location": "https://siam.org/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Association for Women in Mathematics",
+	"location": "https://awm-math.org/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Conference Board of the Mathematical Sciences 2021 Survey",
+	"location": "www.ams.org/learning-careers/data/cbms-survey/",
+	"years": [2021],
+	"variables": [
 		"Bachelor’s degrees in mathematics, mathematics education, statistics, and computer science in mathematics departments awarded between July 1, 2020 and June 30, 2021, by gender of degree recipient and type of department.",
 		"Bachelor’s degrees in statistics departments awarded between July 1, 2020 and June 30, 2021, by gender of degree recipient and type of department.",
 		"Enrollment (in thousands) in undergraduate mathematics, statistics, and computer science courses (including distance learning enrollments) in mathematics and statistics departments by level of course and type of department in fall 2021. Numbers in parentheses are (2010, 2015) enrollments.",
@@ -184,56 +158,52 @@ cbms = Source(
 		"Percentage of two-year colleges that require some form of continuing education or professional development for full-time permanent faculty, and percentage of faculty using various methods to fulfill those requirements, in mathematics departments at two-year colleges in fall 2015 and 2021.",
 		"Percentage of program heads classifying various problems as “major” in mathematics departments at two-year colleges in fall 2005, 2010, 2015, and 2021.",
 		"Percentage of program heads of mathematics departments at public two-year colleges classifying various problems by severity in fall 2021." ]
-)
+}, {
+	"title": "IPUMS",
+	"location": "https://ipums.org/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Data.gov",
+	"location": "https://data.gov/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Harvard Dataverse",
+	"location": "https://dataverse.harvard.edu/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Pewresearch",
+	"location": "https://pewresearch.org/",
+	"years": [],
+	"variables": []
+}, {
+	"title": "Urban Institute",
+	"location": "https://urban.org/",
+	"years": [],
+	"variables": []
+}]
 
-ipums = Source(
-	title = "IPUMS",
-	location = "https://ipums.org/",
-	years = [],
-	variables = []
-)
-
-data_gov = Source(
-	title = "Data.gov",
-	location = "https://data.gov/",
-	years = [],
-	variables = []
-)
-
-harvard_dataverse = Source(
-	title = "Harvard Dataverse",
-	location = "https://dataverse.harvard.edu/",
-	years = [],
-	variables = []
-)
-
-pewresearch = Source(
-	title = "Pewresearch",
-	location = "https://pewresearch.org/",
-	years = [],
-	variables = []
-)
-
-urban = Source(
-	title = "Urban Institute",
-	location = "https://urban.org/",
-	years = [],
-	variables = []
-)
-
-
-sources = [acs, cps, ipeds, ncses, sed, gss, bls, ooh, oews, ams, maa, siam, awm, cbms, ipums, data_gov, harvard_dataverse, pewresearch, urban]
-
-df = pd.DataFrame({
-    "title": [],
-    "location": [],
-    "years": [],
-    "variables": []
-})
+ts = []
+ls = []
+ys = []
+vs = []
 
 for source in sources:
-    new_df = source.as_df()
-    df = pd.concat([df, new_df])
+    ts.append(source["title"])
+    ls.append(source["location"])
+    ys.append(source["years"])
+    vs.append(source["variables"])
+
+print(ts)
+
+df = pd.DataFrame({
+    "title": ts,
+    "location": ls,
+    "years": ys,
+    "variables": vs
+})
 
 df.to_csv("variables.csv")
 df.to_hdf("collected_data.h5", "variables")
