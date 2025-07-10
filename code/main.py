@@ -735,11 +735,11 @@ for source in sources:
     vs.append(source.variables)
 
 df = pd.DataFrame({
-"title": ts,
-"location": ls,
-"years": ys,
-"variables": vs
+    "title": ts,
+    "location": ls,
+    "years": ys,
+    "variables": vs
 })
 
-df.to_csv("variables.csv")
-df.to_hdf("collected_data.h5", key = "variables")
+df.to_csv("data/variables.csv")
+df.to_hdf("data/collected_data.h5", key = "variables")

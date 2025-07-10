@@ -7,7 +7,7 @@ library(wordcloud) # wordcloud
 
 data("stop_words")
 
-sources <- fromJSON("variables.json")
+sources <- fromJSON("data/variables.json")
 
 counts <- vector("list", length(sources))
 
@@ -49,7 +49,7 @@ for (vars in sources[[4]]) {
 	i <- i + 1
 }
 
-pdf("out.pdf")
+pdf("data/out.pdf")
 wordcloud(words = counts[[14]] $ word, freq = counts[[14]] $ n, max.words = 50)
 # ggplot(counts[[14]], aes(x = reorder(word, n), y = n)) +
 # 	geom_col() +
