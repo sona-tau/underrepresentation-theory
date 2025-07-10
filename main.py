@@ -39,8 +39,12 @@ sources = [Source(
 ), Source(
 	title = "National Center for Science and Engineering Statistics",
 	location = "https://ncses.nsf.gov/",
-	years = [],
-	variables = []
+	years = [2021, 2023],
+	variables = ["Survey of Earned Doctorates",
+		     "Survey of Graduate Students and Postdoctorates in Science and Engineering",
+		     "Survey of Doctorate Recipients",
+		     "Higher Education Research and Development Survey",
+		     "National Survey of College Graduates"]
 ), Source(
 	title = "Survey of Earned Doctorates",
 	location = "https://ncses.nsf.gov/surveys/earned-doctorates/2023",
@@ -49,9 +53,47 @@ sources = [Source(
 ), Source(
 	title = "Survey of Graduate Students and Postdoctorates in Science and Engineering",
 	location = "https://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2023", # Same as the previous comment
-	years = [],
-	variables = []
+	years = [2023],
+	variables = ["Citizenship, ethnicity, and race of graduate students, by detailed field: 2023",
+		     "Master's and doctoral students within science, engineering, and health fields, by enrollment intensity: 2023",
+		     "Demographic characteristics of graduate students, postdoctoral appointees, and doctorate-holding nonfaculty researchers in science, engineering, and health: 2023",
+		     "Graduate students in science, engineering, and health broad fields, by degree program, citizenship, ethnicity, and race: 2023"]
 ), Source(
+	title = "National Survey of College Graduates",
+	location = "https://ncses.nsf.gov/pubs/nsf23306/",
+	years = [2021],
+	variables = ["College graduates, by level of highest degree, minor field of highest degree, and labor force status: 2021",
+		     "Employed scientists and engineers, by sex, major field of highest degree, ethnicity, race, disability status, and type of disability: 2021",
+		     "Employed college graduates, by minor occupation and major field of highest degree: 2021",
+		     "Employed college graduates, by level of highest degree, minor occupation, and primary work activity: 2021",
+		     "Median annual salaries of full-time employed college graduates, by major occupation, age, level of highest degree, and sex: 2021",
+		     "Employment counts and median annual salaries of full-time employed scientists and engineers, by major field of highest degree, employment sector, and primary work activity: 2021",
+		     "College graduates, by broad field of highest degree, father's education, mother's education, level of highest degree, and median amount borrowed to finance undergraduate degree: 2021"]
+), Source(
+	title = "Higher Education Research and Development Survey",
+	location = "https://ncses.nsf.gov/surveys/higher-education-research-development/2023", # There are probably more years than 2023
+	years = [2023],
+	variables = ["Higher education R&D expenditures, ranked by FY 2023 R&D expenditures: FYs 2010–23",
+		      "Total and federally financed higher education R&D expenditures in mathematics and statistics, ranked by FY 2023 total: FYs 2020–23",
+		      "Higher education R&D expenditures, by R&D field: FYs 2010–23",
+		      "Higher education R&D expenditures, by source of funds and R&D field: FY 2023",
+		      "Higher education R&D expenditures at private institutions, ranked by all R&D expenditures, by source of funds: FY 2023",
+		      "Higher education R&D expenditures at public institutions, ranked by all R&D expenditures, by source of funds: FY 2023",
+		      "Higher education R&D expenditures at high-Hispanic-enrollment institutions, ranked by all R&D expenditures, by R&D field: FY 2023",
+		      "Higher education R&D expenditures at historically black colleges and universities, ranked by all R&D expenditures, by source of funds: FY 2023",
+		      "Higher education R&D expenditures at high-Hispanic-enrollment institutions, ranked by all R&D expenditures, by source of funds: FY 2023 ",
+		      "Higher education R&D expenditures at historically black colleges and universities, ranked by all R&D expenditures, by R&D field: FY 2023",
+		      "Higher education R&D expenditures, by source of funds and R&D field: FY 2023",
+		      "Higher education R&D expenditures, by R&D field: FYs 2010–23"]
+	
+		      
+		      
+)
+)
+	   
+	   
+	   
+	Source(
 	title = "Bureau of Labor Statistics",
 	location = "https://www.bls.gov/",
 	years = [],
