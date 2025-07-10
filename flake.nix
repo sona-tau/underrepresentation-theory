@@ -29,6 +29,7 @@
 							flexdashboard
 							ggplot2
 							gutenbergr
+							jsonlite
 							pagedown
 							plotly
 							readr
@@ -61,6 +62,7 @@
 							openpyxl
 							pandas
 							pip
+							plotly
 							scipy
 							seaborn
 							statistics
