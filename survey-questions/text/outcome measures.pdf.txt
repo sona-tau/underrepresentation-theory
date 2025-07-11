@@ -1,26 +1,1158 @@
-Usage: .ebook-convert-wrapped input_file output_file [options]
+2024-25 IPEDS HELP DESK (877) 225-2568 | ipedshelp@rti.org
 
-Convert an e-book from one format to another.
-
-input_file is the input and output_file is the output. Both must be specified as the first two arguments to the command.
-
-The output e-book format is guessed from the file extension of output_file. output_file can also be of the special format .EXT where EXT is the output file extension. In this case, the name of the output file is derived from the name of the input file. Note that the filenames must not start with a hyphen. Finally, if output_file has no extension, then it is treated as a folder and an "open e-book" (OEB) consisting of HTML files is written to that folder. These files are the files that would normally have been passed to the output plugin.
-
-After specifying the input and output file you can customize the conversion by specifying various options. The available options depend on the input and output file types. To get help on them specify the input and output file and then use the -h option.
-
-For full documentation of the conversion system see
-https://manual.calibre-ebook.com/conversion.html
-
-Whenever you pass arguments to .ebook-convert-wrapped that have spaces in them, enclose the arguments in quotation marks. For example: "/some path/with spaces"
-
-Options:
-  --version       show program's version number and exit
-
-  -h, --help      show this help message and exit
-
-  --list-recipes  List builtin recipe names. You can create an e-book from a
-                  builtin recipe like this: ebook-convert "Recipe Name.recipe"
-                  output.epub
+Data Collection System OMB NO. 1850-0582 v.33 : Approval Expires 8/31/2027
 
 
-Created by Kovid Goyal <kovid@kovidgoyal.net>
+
+2024-25 Survey Materials  Form
+
+
+
+Outcome Measures
+
+Overview
+
+Outcome Measures Overview
+
+Welcome to the IPEDS Outcome Measures (OM) survey component. The OM component collects award and enrollment data from degree-granting institutions on four undergraduate cohorts and eight undergraduate subcohorts at three status points: four-years, six-years, and eight-years after entry.
+
+The four cohorts of degree/certificate-seeking undergraduates are:
+
+First-time, full-time entering (FTFT)
+
+First-time, part-time entering (FTPT)
+
+Non-first-time, full-time entering (NFTFT)
+
+Non-first-time, part-time entering (NFTPT)
+
+For each cohort, two subcohort groups have been added to the OM component - Pell Grant recipients and Non-Pell Grant recipients - resulting in eight undergraduate subcohorts.
+
+Data Reporting Reminders:
+
+Report data to accurately reflect the time period corresponding with the IPEDS survey component, even if such reporting is seemingly inconsistent with prior-year reporting.
+
+All institutions must report on a FULL-YEAR cohort. The OM cohort year is 2016-17. The full-year cohort coverage period is July 1, 2016 - June 30, 2017. Institutions will establish their OM cohorts based on their subcohorts of entering Pell Grant recipients and Non-Pell Grant recipients. Institutions should first identify their entering degree/certificate-seeking undergraduates during the cohort coverage period of July 1, 2016 - June 30, 2017, and place each student in the appropriate subcohort. Each student should be reported only once.
+
+All institutions are required to report transfer-out student data.
+
+For each status point, institutions will report the highest type of award conferred to a student for each subcohort. The three award categories are certificates, Associate's degree, and Bachelor's degree.
+
+Institutions should report exclusions for the entire eight year period only on the "Establishing Cohorts" screen. Additional exclusions cannot be reported on the status point screens (i.e., four-years, six-years, or eight-years after entry).
+
+IPEDS will ask for an estimated time it took to complete the OM component. Include in that estimate the time to review instructions, research data sources (i.e., coordinate with IT and Student Aid offices), complete and review the component, and submit the data.
+
+Changes to reporting:
+
+The following changes were implemented for the 2024-25 data collection period:
+
+Revised FAQ about “non-first-time” degree/certificate-seeking undergraduate students.
+
+Added a new FAQ to better clarify the relationship between “transfer-in” enrollment status on the Fall Enrollment (EF) and 12-month Enrollment (E12) components and the “non-first-time” cohort on the Outcome Measures (OM) component.
+
+Added a new example to FAQ about students who change from non-degree/non-certificate-seeking to degree/certificate-seeking at the IPEDS reporting institution.
+
+Added additional information to FAQ about resources for tracking subsequent enrollment.
+
+Revised definition for “Non-first-time student (undergraduate)” Glossary term to improve clarity.
+
+Important Dates to Remember:
+
+All reporting institutions will report on degree/certificate-seeking undergraduates who entered the 2016-17 cohort year: (July 1, 2016-June 30, 2017).
+
+Four-year status point was as of August 31, 2020
+
+Six-year status point was as of August 31, 2022
+
+Eight-year status point was as of August 31, 2024
+
+Reporting Tips
+
+Carefully read each OM FAQ before reporting your institution's data.
+
+
+
+If you have questions about completing this survey, please contact the IPEDS Help Desk at (877) 225-2568.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 1/14 Establishing Cohorts
+
+2016-17 Entering Undergraduate Cohort
+
+July 1, 2016-June 30, 2017: Full Year
+
+Begin by identifying your entering degree/certificate-seeking undergraduates for the full year of July 1, 2016 - June 30, 2017. Then report each student under one of the eight subcohorts (Pell or Non-Pell Grant recipients FTFT, FTPT, NFTFT, NFTPT). Each entering student should be reported only once.
+
+The four cohorts and total entering students will be calculated based on your subcohort reporting.
+
+NOTE: Once a student is in the cohort, the student remains in the cohort, even if the student's attendance status changes (i.e., full-time to part-time, or vice versa) or if the student drops out, transfers out, or transfers back into the institution during the eight-year period. However, institutions can make adjustments to the cohort for allowable exclusions, which include the death of a student, total and permanent disability, military deployment, or service on an official church mission or with a foreign aid service of the Federal government. Exclusions are for the ENTIRE eight years for the entering 2016-17 cohort.
+
+
+
+Degree/Certificate-Seeking Exclusions to Adjusted Prior year
+
+2016-17 cohort
+
+Undergraduate Students 2016-17 cohort 2016-17 cohort Adjusted cohort
+
+First-time entering
+
+Full-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Part-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Non-First-time entering
+
+Full-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Part-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+
+
+Total Entering
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 2/14 Award Status at Four Years
+
+Award Status at Four Years After Entry 2016-17 Entering Undergraduate Cohort
+
+(July 1, 2016-June 30, 2017: Full Year)
+
+Directions: From the adjusted 2016-17 cohort, report the number of students who earned an award at four years after entry for each subcohort. Report the highest award earned for each degree/certificate-seeking student for the four-year status point (August 31, 2020) even if a student earns multiple awards.
+
+
+
+Number of students conferred an award Total number of Percent of
+
+by your institution adjusted cohort adjusted
+
+Adjusted that received an (Highest Award by August 31, 2020) cohort that
+
+Undergraduate Students received
+
+2016-17 cohort award
+
+an award from
+
+from your
+
+Certificates institution Associate's Bachelor's institution your
+
+First-time entering
+
+Full-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Part-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Non-First-time entering
+
+Full-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Part-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+
+
+Total Entering
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 3/14 Award Status at Six Years
+
+Award Status at Six Years After Entry 2016-17 Entering Undergraduate Cohort
+
+(July 1, 2016-June 30, 2017: Full Year)
+
+Directions: From the adjusted 2016-17 cohort, report the number of students who earned an award at six years after entry for each subcohort. Report the highest award earned for each degree/certificate-seeking student for the six-year status point (August 31, 2022) even if a student earns multiple awards.
+
+Number of students conferred an award Total number of Percent of
+
+by your institution adjusted cohort adjusted
+
+Undergraduate Students (Highest Award through August 31, 2022) that received an 2016-17 Adjusted cohort that received
+
+award
+
+cohort an award from
+
+from your
+
+Certificates institution your
+
+Associate's Bachelor's institution
+
+First-time entering
+
+Full-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Part-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Non-First-time entering
+
+Full-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Part-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+
+
+Total Entering
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 4/14 Award and Enrollment Status at Eight Years
+
+Award and Enrollment Status at Eight Years After Entry: 2016-17 Entering Undergraduate Cohort (July 1, 2016-June 30, 2017: Full Year)
+
+From the adjusted 2016-17 cohort, report the number of students who earned an award at eight years after entry for each subcohort.
+
+Report the highest award earned for each degree/certificate-seeking student for the eight-year status point (August 31, 2024) even if a student earns multiple
+
+awards.
+
+For students who did not receive an award from your institution, first report the number of students who are still enrolled at your institution, and then report the
+
+number of students who had enrolled at another institution over the eight-year period.
+
+Note: Subsequent enrollment should be tracked for the entire period of eight years after entry.
+
+
+
+Award Status at Eight Years After Entry Enrollment Status at Eight Years After Entry
+
+
+
+Number of students conferred an Number of students who did not receive an Percent of
+
+
+
+Undergraduate Students cohort adjusted Number award, but are Total 2016-17 cohort that cohort who Number of still enrolled at that number cohort received that Number enrolled at students your institution who did received an award received still another whose or enrolled at an award not Certificates Associate's Bachelor's from your an award enrolled at institution subsequent another receive an from your institution from your your after enrollment institution after institution award institution institution leaving status is leaving from your your Adjusted 2024) Total (From entry through August 31, 2024) Percent of Total cohort that did number of adjusted number of not receive an adjusted (From Entry through August 31, adjusted Prior Year award from your institution award by your institution
+
+unknown your institution
+
+institution
+
+institution
+
+First-time entering
+
+Full-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Part-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Non-First-time entering
+
+Full-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+Part-time
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+
+
+Total Entering
+
+Pell Grant recipients
+
+Non‑Pell Grant recipients
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website. Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 5/14 Prepared by
+
+
+
+
+
+Prepared by
+
+
+Reporting Reminders:
+
+The name of the preparer is being collected so that we can follow up with the appropriate person in the event that there are questions concerning the data. The Keyholder will be copied on all email correspondence to other preparers.
+
+The time it took to prepare this component is being collected so that we can continue to improve our estimate of the reporting burden associated with IPEDS. Please include in your estimate the time it took for you to review instructions, query and search data sources, complete and review the component, and submit the data through the Data Collection System.
+
+Thank you for your assistance.
+
+
+
+This survey component was prepared by:
+
+Keyholder SFA Contact HR Contact
+
+Finance Contact Academic Library Contact Other
+
+Name:
+
+Email:
+
+
+
+How many staff from your institution only were involved in the data collection and reporting process of this survey component?
+
+Number of Staff (including yourself)
+
+
+
+How many hours did you and others from your institution only spend on each of the steps below when responding to this survey component? Exclude the hours spent collecting data for state and other reporting purposes.
+
+Revising Data to Match
+
+Staff member Collecting Data Needed Entering Data Revising and Locking Data
+
+IPEDS Requirements
+
+Your office hours hours hours hours
+
+Other offices hours hours hours hours
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 6/14 Summary
+
+
+
+
+
+Outcome Measures Component Summary
+
+
+The purpose of this summary is to provide you an opportunity to view some of the data that, when accepted through the IPEDS quality control process, will appear
+
+on the College Navigator website and/or your institution’s Data Feedback Report (DFR). In addition, all data reported in IPEDS survey components become publicly
+
+available through the IPEDS Use the Data and appear as aggregated statistics in various Department of Education reports. College Navigator is updated
+
+approximately three months after the data collection period closes and DFRs will be available through the IPEDS Use the Data and sent to your institution’s CEO at the end of 2025.
+
+Please review your data for accuracy. If you have questions about the data displayed below or after reviewing the data reported on the survey screens, please
+
+contact the IPEDS Help Desk at: 1-877-225-2568 or ipedshelp@rti.org.
+
+
+
+Did not receive
+
+Still enrolled Percent enrollment
+
+4-year 6-year 8-year an award and
+
+Cohort at your institution status unknown
+
+Award Rate (%) Award Rate (%) Award Rate (%) subsequently enrolled
+
+after 8 years (%) after 8 years (%)
+
+at another institution (%)
+
+First-time entering
+
+Full-time
+
+Pell Grant recipients
+
+Non Pell Grant recipients
+
+Part-time
+
+Pell Grant recipients
+
+Non Pell Grant recipients
+
+Non-First-time entering
+
+Full-time
+
+Pell Grant recipients
+
+Non Pell Grant recipients
+
+Part-time
+
+Pell Grant recipients
+
+Non Pell Grant recipients
+
+
+
+Total Entering
+
+Pell Grant recipients
+
+Non Pell Grant recipients
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 7/14 Outcome Measures
+
+
+
+
+
+Purpose of Survey
+
+
+Changes in Reporting
+
+General Instructions
+
+Reporting Period Covered
+
+Context Boxes
+
+Coverage
+
+Where to Get Help
+
+Where the Data Will Appear
+
+Reporting Instructions
+
+A. Establishing Cohorts
+
+B. Award Status at Four Years
+
+C. Award Status at Six Years
+
+D. Award and Enrollment Status at Eight Years
+
+
+
+Purpose of Survey
+
+The purpose of the IPEDS Outcome Measures (OM) survey component is to provide the award and enrollment statuses of four degree/certificate-seeking undergraduate student cohorts and eight subcohorts at degree-granting institutions. Student completion awarded by the reporting institution are collected at the four-years, six-years, and eight-years status points after they entered the reporting institution. The enrollment status of students who did not earn an award is also collected at the eight-years status point.
+
+
+
+
+
+Changes in reporting
+
+The following changes were implemented for the 2024-25 data collection period:
+
+Revised FAQ about “non-first-time” degree/certificate-seeking undergraduate students.
+
+Added a new FAQ to better clarify the relationship between “transfer-in” enrollment status on the Fall Enrollment (EF) and 12-month Enrollment (E12) components and the “non-first-time” cohort on the Outcome Measures (OM) component.
+
+Added a new example to FAQ about students who change from non-degree/non-certificate-seeking to degree/certificate-seeking at the IPEDS reporting institution.
+
+Added additional information to FAQ about resources for tracking subsequent enrollment.
+
+Revised definition for “Non-first-time student (undergraduate)” Glossary term to improve clarity.
+
+As a reminder, when reporting the Outcome Measures component, all degree-granting institutions will report on:
+
+1. full-year cohorts (e.g., July 1, 2016 and June 30, 2017),
+
+2. the Pell Grant and Non-Pell Grant recipients subcohorts for each of the four OM cohorts. First-time, full-time (FTFT); First-time, part-time (FTPT); Non-
+
+First-Time, Full-time(NFTFT), and Non-First-Time, Part-time (NFTPT),
+
+3. three status points (four-years, six-years, and eight-years),
+
+4. the highest undergraduate award (i.e., certificate award, Associate’s degree or Bachelor’s degree) for each status point, and 5. all students who transferred out.
+
+
+
+
+
+General Instructions
+
+
+
+Reporting Period Covered
+
+This OM component requests data on four cohorts of entering degree/certificate-seeking undergraduates enrolled in your institution during the cohort coverage period between July 1, 2016 and June 30, 2017. To report data on the four cohorts, institutions will report on eight subcohorts of undergraduates who either received a Pell Grant or did not during the OM coverage cohort period. Institutions are to report the award status of these students as of August 31, 2020 (Four-Years Status) and August 31, 2022 (Six-Years Status), and the award and enrollment status of these students as of August 31, 2024 (Eight-Years Status).
+
+
+
+Context Boxes
+
+Context boxes are provided to allow institutions to provide more information regarding survey component items. Note that some context boxes are posted on
+
+the College Navigator Website, which is the college search tool offered by NCES. NCES will review entries in these context boxes for applicability and
+
+appropriateness before posting them on the College Navigator Website; institutions should check grammar and spelling of their entries.
+
+
+
+
+
+Coverage
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 8/14 The Outcome Measures component collects data from degree-granting institutions on the following degree/certificate-seeking undergraduate student cohorts and subcohorts:
+
+
+
+
+
+First-time, full-time entering students (FTFT)
+
+
+Pell Grant recipients
+
+Non-Pell Grant recipients
+
+First-time, part-time entering students (FTPT)
+
+Pell Grant recipients
+
+Non-Pell Grant recipients
+
+Non-first-time, full-time entering students (NFTFT)
+
+Pell Grant recipients
+
+Non-Pell Grant recipients
+
+Non-first-time, part-time entering students (NFTPT)
+
+Pell Grant recipients
+
+Non-Pell Grant recipients
+
+Each of the four cohorts will be calculated from the reported Pell Grant and Non-Pell Grant recipient subcohorts.
+
+Who to Include in the Cohorts
+
+All degree/certificate-seeking undergraduates should be reported in one of the subcohorts in the 12-month reporting period they become degree/certificate-
+
+seeking. This typically aligns to when students enter the IPEDS reporting institution. However, students who begin at the IPEDS reporting institution as non-
+
+degree/non-certificate-seeking and change to degree/certificate-seeking during the 12-month reporting period should also be included in the relevant OM
+
+cohort. All institutions will report using a full-year cohort, which counts all students who entered the institution between July 1, 2016 and June 30, 2017 (i.e.,
+
+the coverage cohort year). For academic reporting institutions, report students who were enrolled through the term's Census Date for enrollment purposes. For
+
+program/hybrid reporting institutions, report students who were enrolled for at least 15 days in a program of up to, and including, one year in length, or 30
+
+days in a program of greater than one year in length.
+
+
+
+Students must be enrolled in courses creditable toward a degree, diploma, certificate, or other recognized postsecondary credential. Include students enrolled
+
+in courses that are part of a vocational or occupational program, INCLUDING those enrolled in off-campus centers and those enrolled in distance learning/home
+
+study programs.
+
+
+
+Be sure to include students taking remedial courses if the student is considered degree-seeking for the purpose of student financial aid determination.
+
+A student who is designated as a member of a cohort remains in that cohort, even if the student:
+
+Started as either a full-time or part-time student and later changes attendance status.
+
+Transfers to another institution.
+
+Drops out of the institution.
+
+Stops out of the institution.
+
+Has not fulfilled the institution's requirements to receive a degree or certificate.
+
+Went on a study abroad program the first year upon entering the institution.
+
+Who to Exclude from the Cohort
+
+DO NOT include students in the cohort who are:
+
+Enrolled exclusively in courses not creditable toward a recognized postsecondary credential or the completion of a vocational program. Exclusively taking Continuing Education Units (CEUs).
+
+Exclusively auditing classes.
+
+Foreign students who are only taking coursework at a host institution (e.g., an American institution overseas), if these students are not enrolled at a U.S. institution.
+
+
+
+
+
+Where to Get Help with Reporting
+
+IPEDS Help Desk
+
+Phone: (877) 225-2568
+
+E-mail: ipedshelp@rti.org
+
+Web Tutorials
+
+You can consult the IPEDS Website's Trainings & Outreach page which contains several tutorials on IPEDS data collection, a self-paced overview of IPEDS tools,
+
+and other valuable resources.
+
+IPEDS Resource Page
+
+The IPEDS Website's Reporting Tools page contains frequently asked questions, a link to data tip sheets, tutorials, taxonomies, information centers (e.g.,
+
+academic libraries, average net price, human resources, race/ethnicity, etc.), and other valuable information.
+
+
+
+
+
+Where the Reported Data Will Appear
+
+Data collected through IPEDS will be accessible at the institution and aggregate levels.
+
+At the institution-level, data will appear in the:
+
+College Navigator Website
+
+IPEDS Use the Data portal
+
+IPEDS Data Feedback Reports
+
+College Affordability and Transparency Center Website
+
+At the aggregate-level, data will appear in:
+
+IPEDS Data Explorer
+
+IPEDS Data Feedback Reports
+
+The Digest of Education Statistics
+
+The Condition of Education
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 9/14 Reporting Instructions
+
+A. Establishing Cohorts
+
+OM has four cohorts: FTFT, FTPT, NFTFT, and NFTPT. OM also has eight subcohorts based on a student's Pell Grant recipient status. Students are reported only once in one of the subcohorts.
+
+1. Report on a Full Year Cohort
+
+1. Regardless of reporting type (i.e., academic, program, or hybrid), all institutions will report to OM using a full-year cohort of students. Do not use a fall
+
+cohort. Entering students are identified as those students who entered the institution between July 1, 2016 and June 30, 2017 - the coverage cohort year.
+
+2. Determine if a student enters the OM cohort year based on official enrollment procedures. For academic reporters, include undergraduate students who
+
+were enrolled in your institution's official census date for their entering term (i.e., semester or quarter). For program/hybrid reporters, report students who were enrolled for at least 15 days in a program of up to, and including, one year in length, or 30 days in a program of greater than one year in length.
+
+2. Determining Cohort Status
+
+1. A student's cohort status is determined in the first full term (i.e., semester or quarter) that a student becomes degree/certificate-seeking (typically as an
+
+entering student). For example, if a degree/certificate-seeking transfer-in student entered an institution in the Spring term of the coverage cohort year as part-time, this student should be in OM's part-time, non-first-time cohort.
+
+2. Degree/certificate-seeking undergraduate students who take a summer session preceding the start of OM coverage cohort year (July 1, 2016 and June 30,
+
+2017) should be reported in the full year 2016-17 cohort. The cohort status of a summer session student is determined by that student's immediate full-term enrollment. For example, a first-time student takes a summer session that starts May 31, 2017 and enrolls the following fall term as a full-time student. This student should be in OM's full-time, first-time cohort.
+
+3. Pell Grant and Non-Pell Grant Recipient Subcohorts
+
+1. Each OM cohort (FTFT, FTPT, NFTFT, and NFTPT) has two subcohorts of Pell Grant and Non-Pell Grant recipients. For each subcohort, report the number of
+
+students that received a Pell Grant and those that did not receive a Pell Grant (i.e., Non-Pell Grant recipients).
+
+2. Students with disbursed Pell Grants during the OM coverage cohort year of July 1, 2016 and June 30, 2017 are reported in a Pell Grant subcohort. 3. Students who did not receive a disbursed Pell Grant during the cohort coverage period, but received a Pell Grant after the coverage cohort year (i.e., July
+
+1, 2017 to August 31, 2024) are excluded from a Pell Grant subcohort. Report these students in a Non-Pell Grant subcohort.
+
+4. Students, who were awarded but not disbursed a Pell Grant during the coverage cohort year, should be excluded from a Pell Grant subcohort, and reported
+
+in a Non-Pell Grant subcohort.
+
+5. Students, who receive any other forms of student aid, but no Pell Grant during the coverage cohort year, should be reported in the Non-Pell Grant
+
+subcohort.
+
+4. Exclusions to the 2016-17 Cohort (from entry through August 31, 2024)Institutions may choose to exclude students who left your institution after the point of entry through August 31, 2024 for one of the following allowable reasons:
+
+1. The student is deceased or is totally and permanently disabled and thus unable to return to school. 2. The student left school to serve in the armed forces or was called to active duty. (DO NOT include students already in the military who transfer to another
+
+duty station.)
+
+3. The student left school to serve with a foreign aid service of the Federal Government, such as the Peace Corps. 4. The student left school to serve on an official church mission.
+
+NOTE: Students who leave the institution for one of the reasons noted in 2, 3, or 4 above, but return before the status date of August 31, 2024, may be subtracted from the cohort. Review the FAQs for more information on OM exclusions.
+
+5. Adjusted 2016-17 Cohort
+
+For each cohort and subcohort, the adjusted cohort is calculated by subtracting the "Exclusions to 2016-17 cohort" from the "2016-17 cohort".
+
+
+
+
+
+B. Award Status at Four Years
+
+For each subcohort of degree/certificate-seeking undergraduate students, report the number of students that received an award by four years after entering your institution.
+
+
+
+All students entering in the 2016-17 full-year cohort should be reported in one of the eight subcohorts. Report each student only once.
+
+
+
+The adjusted 2016-17 Cohort has been brought forward to this screen from the "Establishing Cohorts" screen. The adjusted cohort is calculated by subtracting the eight-year exclusions from the 2016-17 cohort.
+
+
+
+Number of students conferred an award by your institution (highest award through August 31, 2020): From the adjusted 2016-17 cohort, report the number of degree/certificate-seeking undergraduate students who earned an award (i.e., certificates, associate's or bachelor's) by four years after entry for each subcohort. If a student earned multiple awards, count the student once and report the highest award conferred to the student by the status point (August 31, 2020).
+
+Include non-degree awards in the "certificates" column. Report the highest award conferred by your institution at the four-year status point even if the students are still enrolled at your institution or have transferred to another institution. DO NOT include graduate awards conferred to undergraduate students.
+
+
+
+Total number of adjusted cohort that received an award from your institution: This column will calculate total number of highest awards conferred by your institution by the four-year status point (August 31, 2020).
+
+
+
+Percent of adjusted cohort that received an award from your institution by August 31, 2020: This column will calculate the proportion of entering students who received an award from your institution for each adjusted subcohort. This four-year award rate is derived from the Total number of adjusted cohort that received an award from your institution divided by Adjusted 2016-17 Cohort.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 10/14
+
+C. Award Status at Six Years
+
+For each subcohort of degree/certificate-seeking undergraduate students, report the number of students that received an award by six years after entering
+
+your institution.
+
+
+
+All students entering in the 2016-17 full-year cohort should be reported in one of the eight subcohorts. Report each student only once.
+
+
+
+The adjusted 2016-17 Cohort has been brought forward to this screen from the "Establishing Cohorts" screen. The adjusted cohort is calculated by
+
+subtracting the eight-year exclusions from the 2016-17 cohort.
+
+
+
+Number of students conferred an award by your institution (highest award through August 31, 2022): From the adjusted 2016-17 cohort, report
+
+the number of degree/certificate-seeking undergraduate students who earned an award (i.e., certificates, associate's or bachelor's) by six years after entry for
+
+each subcohort. If a student earned multiple awards, count the student once and report the highest award conferred to the student by the status point
+
+(August 31, 2022).
+
+Include non-degree awards in the "certificates" column. Report the highest award conferred by your institution at the 6-year status point even if the students
+
+are still enrolled at your institution or have transferred to another institution. DO NOT include graduate awards conferred to undergraduate students.
+
+
+
+Total number of adjusted cohort that received an award from your institution: This column will calculate total number of highest awards conferred by
+
+your institution by the six-year status point (August 31, 2022).
+
+
+
+Percent of adjusted cohort that received an award from your institution by August 31, 2022: This column will calculate the proportion of entering
+
+students who received an award from your institution for each adjusted subcohort. This six-year award rate is derived from the Total number of adjusted cohort
+
+that received an award from your institution divided by Adjusted 2016-17 Cohort.
+
+
+
+
+
+D. Award and Enrollment Status at Eight Years
+
+1. Award Status at Eight Years After Entry
+
+For each subcohort of degree/certificate-seeking undergraduate students, report the number of students that received an award by eight years after entering
+
+your institution.
+
+
+
+All students entering in 2016-17 full-year cohort should be reported in one of the eight subcohorts. Report each student only once.
+
+
+
+The adjusted 2016-17 Cohort has been brought forward to this screen from the "Establishing Cohorts" screen. The adjusted cohort is calculated by
+
+subtracting the eight-year exclusions from the 2016-17 cohort.
+
+
+
+Number of students conferred an award by your institution (highest award through August 31, 2024): From the adjusted 2016-17 cohort, report
+
+the number of degree/certificate-seeking undergraduate students who earned an award (i.e., certificates, associate's or bachelor's) by eight years after entry
+
+for each subcohort. If a student earned multiple awards, count the student once and report the highest award conferred to the student by the status point
+
+(August 31, 2024).
+
+Include non-degree awards in the "certificates" column. Report the highest award conferred by your institution at the eight-year status point even if the
+
+students are still enrolled at your institution or have transferred to another institution. DO NOT include graduate awards conferred to undergraduate students.
+
+
+
+Total number of adjusted cohort that received an award from your institution: This column will calculate total number of highest awards conferred by
+
+your institution by the eight-year status point (August 31, 2024).
+
+
+
+Percent of adjusted cohort that received an award from your institution by August 31, 2024: This column will calculate the proportion of entering
+
+students who received an award from your institution for each adjusted subcohort. This eight-year award rate is derived from the Total number of adjusted
+
+cohort that received an award from your institution divided by Adjusted 2016-17 Cohort.
+
+
+
+2. Enrollment Status at Eight Years After Entry
+
+For the remaining students in your adjusted subcohorts who have not earned an award from your institution by August 31, 2024, report each of these students
+
+in the one of the enrollment status columns.
+
+Note: Subsequent enrollment should be tracked for the entire period of eight years after entry.
+
+
+
+Number of students who did not receive an award from your institution (from entry through August 31, 2024):
+
+Number still enrolled at your institution: Report the number of students still enrolled at your institution as of August 31, 2024. Do not include any students who have received an award by August 31, 2024. You may include students who you know are enrolling at your institution in the fall term immediately following August 31, 2024.
+
+Number who enrolled at another institution after leaving your institution: Report the total number of students who transferred out of your institution without an award (i.e., a degree, diploma, certificate, or other recognized postsecondary credential) and enrolled in another institution at any time from point of entry through August 31, 2024. You may include students who you know are enrolling at the other institution in the fall term immediately following August 31, 2024. Only include students for whom you have confirmed subsequent enrollment.
+
+Number of students whose subsequent enrollment status is unknown: This column will be calculated by subtracting the sum of the Number still enrolled at your institution, the Number who enrolled at another institution after leaving your institution, and the Total number of adjusted cohort that received an award from your institution (through August 31, 2024) from the Adjusted 2016-17 cohort.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 11/14
+
+Total number of students who did not receive an award from your institution: The total number of students who did not receive an award by August 31, 2024 will be calculated by summing three columns: Number still enrolled at your institution, Number who enrolled at another institution after leaving your institution, and Number of students whose subsequent enrollment status is unknown.
+
+Percent of the adjusted cohort that did not receive an award, but are still enrolled at your institution or enrolled at another institution after leaving your institution: This column will calculate the proportion of students who are still enrolled at your institution as of August 31, 2024, or left your institution and subsequently enrolled at another institution. The sum of the values from the Number still enrolled at your institution and Number who enrolled at another institution after leaving your institution are divided by Adjusted 2016-17 Cohort.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 12/14 Glossary
+
+Term Definition
+
+The result of removing any allowable exclusions from a cohort (or subcohort). For the Fall Enrollment component, it is the
+
+cohort for calculating retention rate; for the Graduation Rates component, this is the cohort from which graduation and transfer-
+
+Adjusted cohort
+
+out rates are calculated; and for the Outcome Measures component, these are the four cohorts (first-time, full-time; first-time, part-time; non-first-time, full-time; or non-first-time, part-time) for which outcomes rates are calculated at 4, 6, and 8 years.
+
+Associate's degree An award that normally requires at least 2 but less than 4 years of full-time equivalent college work.
+
+An award (baccalaureate or equivalent degree, as determined by the Secretary, U.S. Department of Education) that normally
+
+requires at least 4 but not more than 5 years of full-time equivalent college-level work. This includes all bachelor's degrees
+
+Bachelor's degree conferred in a 5-year cooperative (work-study) program. A cooperative plan provides for alternate class attendance and
+
+employment in business, industry, or government; thus, it allows students to combine actual work experience with their college studies. Also includes bachelor's degrees in which the normal 4 years of work are completed in 3 years.
+
+Calculated value (CV) is used to designate fields that are generated (or calculated) based on data provided on other lines within
+
+Calculated value (CV) the same part of a survey component. For example, a "balance" line or "other (detail)" line will be calculated as the difference
+
+between the total line and the sum of the remaining detail.
+
+A recognized postsecondary credential that is conferred upon the satisfactory completion of a postsecondary education
+
+Certificate
+
+program.
+
+Cohort A specific group of students established for tracking purposes.
+
+Cohort year The year that a cohort of students begins attending college.
+
+An award conferred by a college, university, or other postsecondary education institution as official recognition for the
+
+Degree
+
+successful completion of a program of studies.
+
+Students enrolled in courses for credit who are seeking a degree, certificate, or other recognized postsecondary credential. This includes students who:
+
+- received any type of federal financial aid, regardless of what courses they took at any time;
+
+Degree/certificate-seeking - received any state or locally based financial aid with an eligibility requirement that the student be enrolled in a degree,
+
+students (DCGS) certificate, or transfer-seeking program; or
+
+- obtained a student visa to study at a U.S. postsecondary institution
+
+High school students also enrolled in postsecondary courses for credit are not considered degree/certificate-seeking.
+
+Those students who may be removed (deleted) from a cohort (or subcohort). For the Graduation Rates, Outcome Measures,
+
+and Fall Enrollment retention rate reporting, students may be removed from a cohort if they left the institution for one of the
+
+Exclusions
+
+following reasons: death or total and permanent disability; service in the armed forces (including those called to active duty); service with a foreign aid service of the federal government, such as the Peace Corps; or service on official church missions.
+
+A student who has no prior postsecondary experience (except as noted below) attending any institution for the first time at the
+
+First-time student undergraduate level. This includes students enrolled in academic or occupational programs. It also includes students enrolled
+
+(undergraduate) in the fall term who attended college for the first time in the prior summer session, and students who entered with advanced
+
+standing (college credits or recognized postsecondary credential earned before graduation from high school).
+
+Undergraduate: A student enrolled for 12 or more semester credits, or 12 or more quarter credits, or 24 or more clock hours a week each term. Graduate: A student enrolled for 9 or more semester credits, or 9 or more quarter credits, or a student involved
+
+Full-time student
+
+in thesis or dissertation preparation that is considered full-time by the institution. Doctor's degree - Professional practice - full-time as defined by the institution.
+
+This is a group of students entering at any time during the 12-month period for tracking and reporting. For Graduation Rate (GR),
+
+a full-year cohort is from September 1 through August 31 and is used primarily by institutions that offer occupational programs
+
+Full-year cohort of varying lengths. Students must be full-time and first-time to be considered in the cohort. For Outcome Measures (OM)
+
+component, all degree-granting institutions report on a full-year cohort from July 1 through June 30. Students are reported once in one of the four OM cohorts: first-time, full-time; first-time, part-time: non-first-time, full-time; or non-first-time, part-time.
+
+The Integrated Postsecondary Education Data System (IPEDS), conducted by the NCES, began in 1986 and involves annual
+
+institution-level data collections. All postsecondary institutions that have a Program Participation Agreement with the Office of
+
+Integrated Postsecondary Postsecondary Education (OPE), U.S. Department of Education (throughout IPEDS referred to as "Title IV") are required to report
+
+Education Data System data using a web-based data collection system. IPEDS currently consists of the following components: Institutional
+
+(IPEDS) Characteristics (IC); 12-month Enrollment (E12);Completions (C); Admissions (ADM); Student Financial Aid (SFA); Human
+
+Resources (HR) composed of Employees by Assigned Position, Fall Staff, and Salaries; Fall Enrollment (EF); Graduation Rates
+
+(GR); Outcome Measures (OM); Finance (F); and Academic Libraries (AL).
+
+A student who has previously enrolled at a postsecondary institution (not as a high school student) before enrolling at the IPEDS reporting institution as a degree/certificate-seeking student. Non-first-time cohort includes entering transfer-in students from
+
+Non-first-time student
+
+Fall Enrollment (EF) and 12-month Enrollment (E12) components and also includes students who entered the institution as non-
+
+(undergraduate)
+
+degree/non-certificate-seeking (not as a high school student) but became degree/certificate-seeking during the Outcome Measures (OM) cohort reporting period.
+
+Outcome Measures (OM) This annual component aims to improve the collection of student progression and completion data on a more diverse group of
+
+undergraduate students at degree-granting institutions. Award and enrollment statuses are collected on four cohorts (first-time,
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 13/14
+
+full-time; first-time, part-time; non-first-time, full-time; and non-first-time, part-time) and on eight subcohorts (based on Pell Grant recipient status) of degree/certificate-seeking students at three points of time (four-, six-, and eight-years after entering the institution).
+
+Undergraduate: A student enrolled for either less than 12 semester or quarter credits, or less than 24 clock hours a week each
+
+Part-time student
+
+term. Graduate: A student enrolled for less than 9 semester or quarter credits.
+
+(Higher Education Act of 1965, Title IV, Part A, Subpart I, as amended.) Provides grant assistance to eligible undergraduate
+
+Pell Grant program
+
+postsecondary students with demonstrated financial need to help meet education expenses.
+
+Postsecondary award,
+
+certificate, or diploma (1,800 An award that requires completion of an organized program of study at the postsecondary level (below the baccalaureate
+
+or more clock hours, 60 or degree) designed for completion in 1,800 or more clock hours, or 60 or more semester or trimester credit hours, or 90 or more
+
+more semester or trimester quarter credit hours. Beginning in 2020-21, references to academic year equivalencies were removed from all levels of
+
+credit hours, or 90 or more subbaccalaureate certificates.
+
+quarter credit hours)
+
+Postsecondary award,
+
+certificate, or diploma (300- An award that requires completion of an organized program of study at the postsecondary level (below the baccalaureate
+
+899 clock hours, 9-29 degree) designed for completion in at least 300 but less than 900 clock hours, or in at least 9 but less 30 semester or trimester
+
+semester or trimester credit credit hours, or in at least 13 but less than 45 quarter credit hours. Beginning in 2020-21, this award level category was one of
+
+hours, or 13-44 quarter credit two added options for reporting certificates of less than one academic year in length.
+
+hours)
+
+Postsecondary award,
+
+certificate, or diploma (900- An award that requires completion of an organized program of study at the postsecondary level (below the baccalaureate
+
+1,800 clock hours, 30-60 degree) designed for completion in at least 900 but less than 1,800 clock hours, or in at least 30 but less than 60 semester or
+
+semester or trimester credit trimester credit hours, or in at least 45 but less than 90 quarter credit hours. Beginning in 2020-21, references to academic year
+
+hours, or 45-90 quarter credit equivalencies were removed from all levels of subbaccalaureate certificates.
+
+hours)
+
+Postsecondary award,
+
+certificate, or diploma (less An award that requires completion of an organized program of study at the postsecondary level (below the baccalaureate
+
+than 300 clock hours, 9 degree) designed for completion in less than 300 clock hours, or in less than 9 semester or trimester credit hours, or less than
+
+semester or trimester credit 13 quarter credit hours. Beginning in 2020-21, this award level category was one of two added options for reporting certificates
+
+hours, or 13 quarter credit of less than one academic year in length.
+
+hours)
+
+A recognized postsecondary credential includes any credential that is recognized by the institution’s appropriate governing body and received after completion of an academic program or that is awarded in recognition of an individual's attainment of
+
+Recognized postsecondary
+
+measurable technical or industry/occupational skills necessary to obtain employment or advance within an industry/occupation.
+
+credential
+
+These technical or industry/occupational skills generally are based on standards developed or endorsed by employers or industry associations.
+
+A predefined subset of the initial cohort or the revised cohort established for tracking purposes. Degree/certificate-seeking
+
+Subcohort students in the bachelor's degree-seeking group in the Graduation Rates (GR) component and Pell-Grant, non-first-time, part-
+
+time students in the Outcome Measures (OM) component are examples of subcohorts.
+
+An institution that has a written agreement with the Secretary of Education that allows the institution to participate in any of the Title IV federal student financial assistance programs (other than the Leveraging Educational Assistance Partnerships or LEAP,
+
+Title IV institution
+
+formerly State Student Incentive Grant or SSIG and the National Early Intervention Scholarship and Partnership or NEISP programs).
+
+A degree/certificate-seeking undergraduate student entering the IPEDS reporting institution for the first time but known to have previously enrolled at a different postsecondary institution (not as a high school student). The student may transfer with or
+
+Transfer-in student
+
+without credit. For systems of coordinated institutions (multi-campus system), students are to be identified as transfer-in students upon entering an institution from another institution within the same coordinated system.
+
+A student who discontinues enrollment at the IPEDS reporting institution and enrolls at a different postsecondary institution. For
+
+Transfer-out student systems of coordinated institutions (multi-campus system), students are to be identified as transfer-out students when leaving
+
+an institution to enroll into another institution within the same coordinated system.
+
+A program designed specifically to provide a student with the basic knowledge needed to transfer into a higher level program. For example, this may be the first 2 years of a baccalaureate level program for which the institution does not offer an award, or 2
+
+Transfer-preparatory program
+
+years of undergraduate study needed for entrance into a first-professional program, or 1 or more years of undergraduate study needed for entrance into health services fields.
+
+A student who is taking courses at the baccalaureate or below the baccalaureate level. These students may or may not be
+
+Undergraduate student
+
+enrolled in undergraduate programs.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=13&instructionid=30101&formid=101 14/14
+
+
+
+
+

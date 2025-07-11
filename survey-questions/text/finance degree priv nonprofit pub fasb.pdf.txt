@@ -1,26 +1,1964 @@
-Usage: .ebook-convert-wrapped input_file output_file [options]
+2024-25 IPEDS HELP DESK (877) 225-2568 | ipedshelp@rti.org
 
-Convert an e-book from one format to another.
-
-input_file is the input and output_file is the output. Both must be specified as the first two arguments to the command.
-
-The output e-book format is guessed from the file extension of output_file. output_file can also be of the special format .EXT where EXT is the output file extension. In this case, the name of the output file is derived from the name of the input file. Note that the filenames must not start with a hyphen. Finally, if output_file has no extension, then it is treated as a folder and an "open e-book" (OEB) consisting of HTML files is written to that folder. These files are the files that would normally have been passed to the output plugin.
-
-After specifying the input and output file you can customize the conversion by specifying various options. The available options depend on the input and output file types. To get help on them specify the input and output file and then use the -h option.
-
-For full documentation of the conversion system see
-https://manual.calibre-ebook.com/conversion.html
-
-Whenever you pass arguments to .ebook-convert-wrapped that have spaces in them, enclose the arguments in quotation marks. For example: "/some path/with spaces"
-
-Options:
-  --version       show program's version number and exit
-
-  -h, --help      show this help message and exit
-
-  --list-recipes  List builtin recipe names. You can create an e-book from a
-                  builtin recipe like this: ebook-convert "Recipe Name.recipe"
-                  output.epub
+Data Collection System OMB NO. 1850-0582 v.33 : Approval Expires 8/31/2027
 
 
-Created by Kovid Goyal <kovid@kovidgoyal.net>
+
+2024-25 Survey Materials  Form
+
+
+
+Finance for degree-granting private, not-for-profit institutions and public institutions using FASB Reporting Standards
+
+Overview
+
+Overview
+
+The purpose of the IPEDS Finance component is to collect basic financial information from items associated with the institution's General Purpose Financial Statements.
+
+Data Reporting Reminder:
+
+Report data to accurately reflect the time period corresponding with the IPEDS survey component, even if such reporting is seemingly inconsistent with prior-year reporting.
+
+Changes to reporting:
+
+No changes for the 2024-25 data collection period.
+
+Resources:
+
+To download the survey materials for this component: Survey Materials
+
+
+
+If you have questions about completing this survey, please contact the IPEDS Help Desk at (877) 225-2568.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 1/32 Finance - Private not-for-profit institutions and Public institutions using FASB standards General Information - Fiscal Year and Audit: FASB-Reporting Institutions
+
+Reporting Reminder:
+
+To the extent possible, the finance data requested in this report should be provided from your institution's audited General Purpose Financial Statements (GPFS).
+
+Please refer to the instructions specific to each screen of the survey for details and references.
+
+
+
+1. Fiscal Year Calendar
+
+This report covers financial activities for the 12-month fiscal year: (The fiscal year reported should be the most recent fiscal year ending before October 1, 2024.)
+
+Beginning: month/year (MMYYYY) Month: Year:
+
+And ending: month/year (MMYYYY) Month: Year:
+
+
+
+2. Audit Opinion
+
+Did your institution receive an unqualified opinion on its General Purpose Financial Statements from your auditor for the fiscal year noted above? (If your institution is audited only in combination with another entity, answer this question based on the audit of that entity.)
+
+Unqualified
+
+Qualified (Explain in box below)
+
+Don't know OR in progress (Explain in box below)
+
+
+
+3. Does this institution or any of its foundations or other affiliated organizations own endowment assets?
+
+No
+
+Yes - (report details of endowment net assets)
+
+
+
+4. Intercollegiate Athletics
+
+Does your institution participate in intercollegiate athletics?
+
+No
+
+Yes - answer part a and b below
+
+a) Are the intercollegiate athletics expenses accounted for as? [check all that apply]
+
+Auxiliary enterprises
+
+Student services
+
+Other (specify in box below)
+
+
+
+b) Does your institution have intercollegiate athletics revenue?
+
+No
+
+Yes - select category(s) where these revenues are included [check all that apply]
+
+Sales and services of educational activities Sales and services of auxiliary enterprises
+
+Other (specify in box below)
+
+
+
+5. Does your institution account for Pell grants as pass through transactions (a simple payment on the student's account) or as federal grant revenues to the institution?
+
+Pass through (agency)
+
+Federal grant revenue
+
+Does not award Pell grants
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 2/32
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 3/32 Part A - Statement of Financial Position, Page 1
+
+
+
+Most recent fiscal year ending before October 1, 2024
+
+If your institution is a parent institution then the amounts reported in Parts A and B should include ALL of your child institutions
+
+Line No. Assets, Liabilities, and Net Assets Current year amount Prior year amount
+
+Assets
+
+01 Long-term investments
+
+19 Property, plant, and equipment, net of accumulated depreciation
+
+20 Intangible assets, net of accumulated amortization
+
+02 Total assets
+
+
+
+Liabilities
+
+03 Total liabilities
+
+03a Debt related to Property, Plant, and Equipment
+
+
+
+Net assets
+
+04 Unrestricted net assets
+
+05 Total restricted net assets
+
+05a Permanently restricted net assets
+
+05b Temporarily restricted net assets
+
+06 Total net assets (CV=A04+A05)
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 4/32 Part A - Statement of Financial Position, Page 2
+
+Most recent fiscal year ending before October 1, 2024
+
+Line No. Plant, Property and Equipment Ending balance Prior year Ending balance
+
+Capital Assets
+
+11 Land and land improvements
+
+12 Buildings
+
+13 Equipment, including art and library collections
+
+15 Construction in Progress
+
+16 Other
+
+Total Plant, Property, and Equipment
+
+17
+
+CV=[(A11+...A16)]
+
+18 Accumulated depreciation
+
+19 Property, Plant, and Equipment, net of accumulated depreciation (from A19)
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 5/32 Part B - Summary of Changes in Net Assets
+
+Most recent fiscal year ending before October 1, 2024
+
+If your institution is a parent institution then the amounts reported in Parts A and B should include ALL of your child institutions
+
+Line No. Revenues, Expenses, Gains and Losses Current year amount Prior year amount
+
+01 Total revenues and investment return
+
+02 Total expenses
+
+Other specific changes in net assets
+
+03
+
+CV=[B04-(B01-B02)]
+
+04 Change in net assets
+
+05 Net assets, beginning of year
+
+Adjustments to beginning of year net
+
+06 assets
+
+CV=[B07-(B04+B05)]
+
+07 Net assets, end of year (from A06)
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 6/32 Part C-1 - Scholarships and Fellowships
+
+Most recent fiscal year ending before October 1, 2024
+
+Do not report Federal Direct Student Loans (FDSL) anywhere in this section.
+
+Line No. Scholarships and Fellowships Current year amount Prior year amount
+
+01 Pell grants (federal)
+
+02 Other federal grants (Do NOT include FDSL amounts)
+
+03 Grants by state government
+
+04 Grants by local government
+
+05 Institutional grants (restricted)
+
+06 Institutional grants (unrestricted)
+
+Total revenue that funds scholarships and fellowships
+
+07
+
+CV=[C01+...+C06]
+
+08 Discounts and Allowances applied to tuition and fees
+
+09 Discounts and Allowances applied to auxiliary enterprise revenues
+
+Total Discounts and Allowances,
+
+10
+
+CV=[C08 + C09]
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 7/32 Part C-2 - Sources of Discounts and Allowances
+
+Most recent fiscal year ending before October 1, 2024
+
+Amount of Source Applied to:
+
+Tuition and fees Auxiliary enterprises Total
+
+Line Source of Discounts and
+
+discounts allowances discounts allowances discounts allowances
+
+No. Allowances
+
+Current year Prior year Current year Prior year Current year Prior year
+
+amount amount amount amount amount amount
+
+12 Pell grants (federal)
+
+Other federal grants (Do NOT
+
+13
+
+include FDSL amounts)
+
+14 Grants by state government
+
+15 Grants by local government
+
+16 Endowments and gifts
+
+Other institutional sources
+
+17
+
+CV=[C18-(C12+C13+ … +C16)]
+
+Total (from Part C1 line 8, 9 and
+
+18
+
+10)
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 8/32 Part D - Revenues by Source
+
+
+
+
+
+Most recent fiscal year ending before October 1, 2024
+
+
+Line Temporarily Permanently Prior Year Total
+
+Source of Funds Total Amount Unrestricted
+
+No. restricted restricted Amount
+
+Tuition and fees (net of allowance
+
+01
+
+reported in Part C-1, line 08)
+
+
+
+Government Appropriations
+
+02 Federal appropriations
+
+03 State appropriations
+
+04 Local appropriations
+
+
+
+Government Grants and Contracts
+
+Federal grants and contracts (Do not
+
+05
+
+include FDSL)
+
+06 State grants and contracts
+
+07 Local government grants and contracts
+
+
+
+Private Gifts, Grants and Contracts
+
+08 Private gifts, grants and contracts
+
+08a Private gifts
+
+Private grants and
+
+08b
+
+contracts
+
+09 Contributions from affiliated entities
+
+
+
+Other Revenue
+
+10 Investment return
+
+Sales and services of educational
+
+11
+
+activities
+
+Sales and services of auxiliary
+
+enterprises
+
+12
+
+(net of allowance reported in Part C-1,
+
+line 09)
+
+13 Hospital revenue
+
+14 Independent operations revenue
+
+Other revenue
+
+15
+
+CV=[D16-(D01+...+D14)]
+
+
+
+16 Total revenues and investment return
+
+17 Net assets released from restriction 0
+
+Net total revenues, after assets
+
+18
+
+released from restriction
+
+19 12-month Student FTE from E12
+
+Total revenues and investment return
+
+20 per student FTE
+
+CV=[D16/D19]
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 9/32
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 10/32 Part E-1 - Expenses and Other Deductions: Functional Classification Part 1
+
+
+
+
+
+Most recent fiscal year ending before October 1, 2024
+
+
+Report Total Operating AND Nonoperating Expenses in this section
+
+
+
+Line No. Total amount Salaries and wages Prior Year Prior Year Expense: Functional Classifications Total Amount Salaries and wages (1) (2)
+
+01 Instruction
+
+02 Research
+
+03 Public service
+
+04 Academic support
+
+05 Student services
+
+06 Institutional support
+
+07 Auxiliary enterprises
+
+Net grant aid to students,
+
+08
+
+net of discount/allowances
+
+09 Hospital services
+
+10 Independent operations
+
+Other Functional Expenses and deductions
+
+12
+
+CV=[E13-(E01+...+E10)]
+
+13 Total expenses and Deductions
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 11/32 Part E-2 - Expenses and Other Deductions: Natural Classification Part 2
+
+Most recent fiscal year ending before October 1, 2024
+
+Line No. Expense: Natural Classifications Total Amount Prior year amount
+
+13-2 Salaries and Wages(from Part E-1, line 13 column 2)
+
+13-3 Benefits
+
+13-4 Operation and Maintenance of Plant (as a natural expense)
+
+13-5 Depreciation
+
+13-6 Interest
+
+Other Natural Expenses and Deductions
+
+13-7
+
+CV=[E13-1 - (E13-2 + ... + E13-6)]
+
+Total Expenses and Deductions
+
+13-1
+
+(from Part E-1, Line 13)
+
+14-1 12-month Student FTE (from E12 survey)
+
+Total expenses and deductions per student FTE
+
+15-1
+
+CV=[E13/E14]
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 12/32 Part H - Details of Endowment Net Assets
+
+
+
+
+
+Most recent fiscal year ending before October 1, 2024
+
+
+Include not only endowment net assets held by the institution, but any assets held by
+
+private foundations affiliated with the institution.
+
+Line No. Details of Endowment Net Assets Market Value Prior Year Amounts
+
+01 Value of endowment net assets at the beginning of the fiscal year
+
+02 Value of endowment net assets at the end of the fiscal year
+
+Change in value of endowment net assets
+
+03
+
+CV=[H02-H01]
+
+03a New gifts and additions
+
+03b Endowment net investment return
+
+03c Spending distribution for current use
+
+Other
+
+03d
+
+CV=[H03-(H03a+H03b+H03c)]
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 13/32 Part I - Financial Health
+
+
+
+
+
+Most recent fiscal year ending before October 1, 2024
+
+
+Description
+
+Line No. (If your institution is a parent institution then the amounts reported should include Current year amount Prior year amount
+
+ALL of your child institutions.)
+
+01 Change in unrestricted net assets
+
+02 Total unrestricted operating revenues
+
+03 Change in net assets (from Part B, line 04)
+
+04 Total net assets (from Part B, line 05)
+
+05 Expendable net assets
+
+06 Plant-related debt
+
+07 Total expenses (from Part B, line 02)
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 14/32 Prepared by
+
+Prepared by
+
+Reporting Reminders:
+
+The name of the preparer is being collected so that we can follow up with the appropriate person in the event that there are questions concerning the data. The Keyholder will be copied on all email correspondence to other preparers.
+
+The time it took to prepare this component is being collected so that we can continue to improve our estimate of the reporting burden associated with IPEDS. Please include in your estimate the time it took for you to review instructions, query and search data sources, complete and review the component, and submit the data through the Data Collection System.
+
+Thank you for your assistance.
+
+
+
+This survey component was prepared by:
+
+Keyholder SFA Contact HR Contact
+
+Finance Contact Academic Library Contact Other
+
+Name:
+
+Email:
+
+
+
+How many staff from your institution only were involved in the data collection and reporting process of this survey component?
+
+Number of Staff (including yourself)
+
+
+
+How many hours did you and others from your institution only spend on each of the steps below when responding to this survey component? Exclude the hours spent collecting data for state and other reporting purposes.
+
+Revising Data to Match
+
+Staff member Collecting Data Needed Entering Data Revising and Locking Data
+
+IPEDS Requirements
+
+Your office hours hours hours hours
+
+Other offices hours hours hours hours
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 15/32 Summary
+
+
+
+
+
+Finance Component Summary
+
+
+The purpose of this summary is to provide you an opportunity to view some of the data that, when accepted through the IPEDS quality control process, will appear
+
+on the College Navigator website and/or your institution’s Data Feedback Report (DFR). In addition, all data reported in IPEDS survey components become publicly
+
+available through the IPEDS Use the Data and appear as aggregated statistics in various Department of Education reports. College Navigator is updated
+
+approximately three months after the data collection period closes and DFRs will be available through the IPEDS Use the Data and sent to your institution’s CEO at the end of 2025.
+
+Please review your data for accuracy. If you have questions about the data displayed below or after reviewing the data reported on the survey screens, please
+
+contact the IPEDS Help Desk at: 1-877-225-2568 or ipedshelp@rti.org.
+
+
+
+Core Revenues
+
+Revenue Source Reported values Percent of total core revenues (%) Core revenues per FTE enrollment
+
+Tuition and fees
+
+Government grants and contracts
+
+Private gifts, grants, and contracts
+
+Investment income
+
+Other core revenues
+
+Total core revenues
+
+Total revenues N/A
+
+Other core revenues include federal appropriations; sales and services of educational activities; other operating and nonoperating sources; and other revenues and additions (e.g., capital appropriations, capital grants and gifts, etc.). Core revenues exclude revenues from auxiliary enterprises (e.g., bookstores, dormitories), hospitals, and independent operations. For institutions reporting in Full parent/child relationships, core revenues per FTE enrollment amounts will not be allocated to child institutions.
+
+
+
+Core Expense
+
+Expense function Reported values Percent of total core expenses (%) Core expenses per FTE enrollment
+
+Instruction
+
+Research
+
+Public service
+
+Academic support
+
+Institutional support
+
+Student services
+
+Other core expenses
+
+Total core expenses
+
+Total expenses N/A
+
+Other core expenses include scholarships and fellowships, net of discounts and allowances, and other expenses. Core expenses exclude expenses from auxiliary enterprises (e.g., bookstores, dormitories), hospitals, and independent operations. For institutions reporting in Full parent/child relationships, core expenses per FTE enrollment amounts will not be allocated to child institutions.
+
+
+
+Calculated value
+
+FTE enrollment
+
+The full-time equivalent (FTE) enrollment used in this report is the sum of the institution’s FTE undergraduate enrollment and FTE graduate enrollment (as calculated from or reported on the 12-month Enrollment component). FTE is estimated using 12- month instructional activity (credit and/or clock hours). All doctor’s degree students are reported as graduate students.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 16/32 Finance for Degree-Granting Not-for-Profit and Public Institutions Using FASB
+
+
+
+
+
+Purpose of Component
+
+
+Changes in Reporting for 2024-25
+
+General Instructions
+
+Reporting Period Covered
+
+About the Data
+
+Context Boxes
+
+Coverage
+
+What to Include
+
+What Not to Include
+
+Reporting with "Parent" and "Child" Relationships
+
+Where to Get Help for Reporting
+
+Where to Get Additional Help for Finance
+
+Where the Reported Data Will Appear
+
+Detailed Instructions
+
+General Information
+
+Part A: Statement of Financial Position
+
+Part B: Summary of Changes in Net Assets
+
+Part C: Scholarships and Fellowships
+
+Part D: Revenues and Investment Return
+
+Part E: Expenses and Other Deductions
+
+Part H: Details of Endowment Net Assets
+
+Part I: Financial Health
+
+
+
+Purpose of Component
+
+The purpose of the IPEDS Finance component is to collect basic financial information from items associated with the institution's General Purpose Financial Statements (GPFS). Item areas include:
+
+Statement of Financial Position
+
+Summary of Changes in Net Assets
+
+Scholarships and Fellowships
+
+Revenues and Investment Return
+
+Expenses and Other Deductions
+
+Details of Endowment Net Assets
+
+Financial Health
+
+
+
+
+
+Changes in Reporting
+
+No changes for the 2024-25 data collection period.
+
+
+
+
+
+General Instructions
+
+
+
+Reporting Period Covered
+
+The starting point for reporting should be amounts reported in the GPFS for the most recent fiscal year ending before October 1, 2024. For institutions with fiscal years ending on December 31, this would be the calendar year 2023.
+
+
+
+About the Data
+
+Data providers for this component should be familiar with college and university accounting policies and practices as described by the National Association of College and University Business Officers (NACUBO). To provide additional help, accounting terms are underlined and linked to definitions found in the online glossary.
+
+Four different types of data appear in this component. There are data:
+
+Institutions provide from their GPFS and/or underlying records.
+
+That are prior year data, shown in red, which can be used as a comparison with the current year's data being reported. That are carried forward from one part of the component to another part to ensure that the data are internally consistent. Calculated from the other data elements.
+
+In the latter two cases, the data provider is requested to check that the carried forward data and the calculated data are consistent with the data found in the institution's GPFS. If the data carried forward or calculated are not consistent with the institution's GPFS, then an error in data entry may have occurred.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 17/32
+
+
+
+Context Boxes
+
+
+
+Context boxes are provided to allow institutions to provide more information regarding survey component items. Note that some context boxes are posted on
+
+the College Navigator Website, which is the college search tool offered by NCES. NCES will review entries in these context boxes for applicability and
+
+appropriateness before posting them on the College Navigator Website; institutions should check grammar and spelling of their entries.
+
+
+
+
+
+Coverage
+
+
+
+What to Include
+
+The reporting entity's financial accounting policies and procedures should be the beginning basis for reporting to this IPEDS survey component. However, deviations from the GPFS may be required to respond to this IPEDS survey component. Some of these deviations include:
+
+If financial categories in the institution’s GPFS are more aggregated than required for this IPEDS survey component, then use underlying institutional records to determine the necessary amounts.
+
+If financial categories in the institution’s GPFS are more detailed than required, then combine the GPFS amounts and report only the combined number for this IPEDS survey component.
+
+If amounts are reported in categories in the GPFS that differ from those required for the IPEDS survey, move those amounts to the IPEDS-requested categories.
+
+Report all financial amounts in WHOLE DOLLARS only, omitting cents.
+
+For any item on the survey component where exact data do not exist in the GPFS, please give estimates.
+
+
+
+What NOT to Include
+
+Do not report any projected amounts for future years. Do not make adjustments for prior-year corrections unless they are included as such corrections in the GPFS.
+
+
+
+
+
+Additional Instructions for Institutions Reporting Finance Data for Other Institutions Most degree-granting institutions reporting IPEDS data report all their data for each IPEDS survey component, including the Finance survey component. However, some institutions (called "children") are set up to report only certain parts of the IPEDS Finance survey component, while the “parent” institution reports all portions of the Finance survey component but does NOT double count those items already reported by the children institutions. Here is what each type of institution should report:
+
+Part Parent Institution Child Institution
+
+Part A – Statement of Financial Position Reports sum of parent and child data Does not report Part B – Summary of Changes in Net Assets Reports sum of parent and child data Does not report Part C-1 – Scholarships and Fellowships Reports parent data only Reports child data only Part C-2 – Sources of Discounts and Allowances Reports parent data only Reports child data only Part D – Revenues and Investment Return Reports parent data only Reports child data only Part E-1 – Expenses and Other Deductions: Functional Classification Reports parent data only Reports child data only Part E-2 – Expenses and Other Deductions: Natural Classification Reports parent data only Reports child data only Part H - Details of Endowment Net Assets Reports parent data only Reports child data only Part I - Financial Health Reports sum of Parent and Child data Does not report Parent institutions should report the sum of parent and child data for Parts A, B and I, and should report parent data only in parts C, D, E, and H. This is done so that scholarships and fellowships, revenues and investment return, expenses and other deductions by functional and natural classifications, and details of endowment net assets are not double counted by parent and child institutions.
+
+
+
+
+
+Where to Get Help with Reporting
+
+IPEDS Help Desk
+
+Phone: (877) 225-2568
+
+E-mail: ipedshelp@rti.org
+
+Web Tutorials
+
+You can consult the IPEDS Website's Trainings & Outreach page which contains several tutorials on IPEDS data collection, a self-paced overview of IPEDS tools, and other valuable resources.
+
+IPEDS Resource Page
+
+The IPEDS Website's Reporting Tools page contains frequently asked questions, a link to data tip sheets, tutorials, taxonomies, information centers (e.g., academic libraries, average net price, human resources, race/ethnicity, etc.), and other valuable information.
+
+
+
+
+
+Where to Get Additional Help for Reporting Data on the Finance Survey Component There may be places on and off your campus to get assistance in reporting.
+
+Assistance on campus
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 18/32 Although institutions may be organized in different ways and use different titles for offices, an office on your campus that might help you to report data on this survey component might be called:
+
+Office of the Chief Financial Officer
+
+Office of Administration and Finance
+
+Office of Finance
+
+Office of Budget
+
+Office of Financial Services
+
+Office of the Comptroller (or Controller)
+
+Office of Accounting
+
+Assistance off campus
+
+Additional references may be found in the National Association of College and University Business Officers’ (NACUBO) Financial Accounting and Reporting
+
+Manual (FARM) which is available online. Additional information may be found at the NACUBO website (www.nacubo.org). Someone at your institutions in one or more of the offices listed above may already have access to the FARM.
+
+
+
+
+
+Where the Reported Data Will Appear
+
+Data collected through IPEDS will be accessible at the institution and aggregate levels.
+
+At the institution-level, data will appear in the:
+
+College Navigator Website
+
+IPEDS Use the Data portal
+
+IPEDS Data Feedback Reports
+
+College Affordability and Transparency Center Website
+
+At the aggregate-level, data will appear in:
+
+IPEDS Data Explorer
+
+IPEDS Data Feedback Reports
+
+The Digest of Education Statistics
+
+The Condition of Education
+
+
+
+
+
+Detailed Instructions
+
+This section provides line-by-line instructions for each Part of the Finance Component.
+
+In the instructions, numbers found in parentheses at the end of each line provide additional reference to paragraphs in the National Association of College and Universities' Business Officers' (NACUBO) Financial Accounting and Reporting Manual (FARM). There are also some references to the Statement of Financial Accounting Standards (SFAS).
+
+
+
+General Information
+
+Fiscal Year: Enter the beginning and ending dates of the period covered for the reported financial data. Audit Opinion: Check the appropriate box to indicate if the GPFS received an unqualified opinion from your auditors. A "qualified opinion" occurs when the auditor includes exceptions to the opinion that "The financial statements present fairly, in all respects, the financial position as of (date) and the results of the operations for the year ended, in conformity with accounting standards generally accepted in the United States." When no such exceptions are included, the opinion is considered "unqualified." If “qualified” is checked, please note in the context box the nature of the qualification. If the statements have not been audited, please check “Don’t know OR in progress” and note in the context box that the GPFS are unaudited. Endowments (applicable to degree-granting institutions): Indicate whether the institution or any foundations affiliated with the institution hold endowments for the institution. Endowments are funds required to be held permanently while some or all of its investment earnings are intended for institutional use. This question also refers to term endowments and funds functioning as endowment. Intercollegiate Athletics (applicable to degree-granting institutions): Please indicate whether or not your institution participates in intercollegiate athletics, and if it does, report on intercollegiate athletics expenses (a) and revenue (b).
+
+Expenses: According to NACUBO descriptions of functional expenses, intercollegiate athletics may be treated as auxiliary enterprises (if operated as an essentially self- supporting operation) or as student services (if the program is not operated as an essentially self-supporting operation). Please indicate whether your institution treats expenses for intercollegiate athletics as auxiliary enterprises, and/or as student services, and/or specify in the context box how your institution treats intercollegiate athletics expenses.
+
+Revenues: Please indicate whether or not your institution has intercollegiate athletics revenue, and if it does, select whether revenues are included as sales and services of educational activities, and/or as sales and services of auxiliary enterprises, and/or specify in the context box where your institution includes intercollegiate athletics revenue.
+
+Pell Grants: Indicate whether the institution accounts for Pell grants as pass-through payments or as federal revenue. If the institution does not award Pell grants, select the applicable option.
+
+Institutions that do receive Pell grants have the option to report Pell grants either as:
+
+federal revenue and allowance to tuition and fees and/or auxiliary enterprises (for food and housing, books, etc.). If the Pell grant is counted as federal revenue, then there should be an offsetting discount/allowance to tuition and fees revenue and/or auxiliary enterprise revenue so that the Pell grants are not being double counted in the institution's revenues.
+
+OR
+
+as a pass-through transaction. A pass-through transaction is essentially a payment on the student's account where the institution is purely processing the Pell Grant and those monies are not counted by the institution until they come in as a tuition payment from the student. The latter option is sometimes referred to as an agency transaction. With this option Pell grants are not counted as federal revenues and are not considered to be a discount/allowance to tuition and fees or auxiliary enterprises.
+
+Please note that regardless of how Pell grants are treated for revenues or expenses, they should still be reported in Part C-1: Scholarships and Fellowships under Pell grants.
+
+Context: Enter in this space any explanations specified in other instructions or any other information critical to financial statement users.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 19/32 Part A – Statement of Financial Position, Page 1
+
+This part is intended to report the assets, liabilities, and net assets.
+
+Data should be consistent with the Statement of Financial Position in the GPFS.
+
+01 – Long-term investments - Enter the end-of-year market value for all assets held for long-term investment. Long-term investments should be distinguished from temporary investments based on the intention of the organization regarding the term of the investment rather than the nature of the investment itself. Thus, cash and cash equivalents which are held until appropriate long-term investments are identified should be treated as long-term investments. Similarly, cash equivalents strategically invested and reinvested for long-term purposes should be treated as long-term investments. (FARM para. 405)
+
+19 – Property, plant, and equipment, net of accumulated depreciation - Includes end-of-year market value for categories such as land, buildings, improvements other than buildings, equipment, and library books, combined and net of accumulated depreciation. (FARM para. 415) 20 – Intangible assets, net of accumulated amortization – Report all assets consisting of certain nonmaterial rights and benefits of an institution, such as patents, copyrights, trademarks and goodwill. The amount reported should be reduced by total accumulated amortization. (FARM para. 409) 02 – Total assets - Enter the amount from your GPFS which is the sum of: a) Cash, cash equivalents, and temporary investments;
+
+b) Receivables (net of allowance for uncollectible amounts);
+
+c) Inventories, prepaid expenses, and deferred charges;
+
+d) Amounts held by trustees for construction and debt service;
+
+e) Long-term investments;
+
+f) Plant, property, and equipment; and,
+
+g) Other assets
+
+These terms are discussed below.
+
+a) Cash, cash equivalents, and temporary investments – Cash equivalents are short term, highly liquid investments that are (1) readily converted to known amounts of cash, and (2) so near their maturity that they present insignificant risk of changes in value because of changes in interest rates. Examples are U.S. Treasury bills, certificates of deposit, bankers acceptances, repurchase agreements, and commercial paper. Include amounts for currency on hand and deposits held by financial institutions that can be added to or withdrawn without limitation, such as demand deposits. (FARM para. 402) b) Receivables (net of allowance for uncollectible amounts) – Include amounts receivable for all purposes, including billings for educational and general programs and auxiliary enterprise activities; student loans receivable; government appropriations receivable; amounts receivable on grants and contracts; accrued dividends and interest receivable; claims against vendors; advances to employees; and reimbursements receivable from affiliated organizations. All amounts receivable should be reported net of an allowance for uncollectible accounts. (FARM para. 403) c) Inventories, prepaid expenses, and deferred charges – For inventories, include amounts for merchandise inventory held for resale, for example, items held for sale by a bookstore or a dining service. Include supplies and other inventoried items for internal use if recognized as an asset in the GPFS. For prepaid expenses and deferred charges, include amounts paid in advance of services received and expenses deferred because benefits relate to future rather than to current period activities. Examples include prepaid rent, prepaid insurance, bond issue costs, pension costs or other outflows applicable to future periods. (FARM para. 407)
+
+d) Amounts held by trustees for construction and debt service – Include cash and investments held by trustees in accordance with agreements that limit expenditure of those amounts to purchase of plant, property, or equipment or to payment of principal and interest on bonds and notes payable or other long-term debt.
+
+e) Long-term investments – Include the amount for all assets held for long-term investment. (FARM para. 405) f) Property, plant, and equipment – Include the amount for the balances of land, buildings, equipment, and construction in progress, combined and net of accumulated depreciation. (FARM para. 415)
+
+g) Other assets – Include all other assets not reported elsewhere.
+
+03 – Total liabilities - Enter the amount from your GPFS which is the sum of: a) Accounts payable;
+
+b) Deferred revenues and refundable advances;
+
+c) Post-retirement and post-employment obligations;
+
+d) Other accrued liabilities;
+
+e) Annuity and life income obligations and other amounts held for the benefit of others;
+
+f) Bonds, notes, and capital leases payable and other long-term debt, including current portion; g) Government grants refundable under student loan programs; and,
+
+h) Other liabilities.
+
+These terms are discussed below.
+
+a) Accounts payable – Includes the total of accounts payable to suppliers. (FARM para. 420) b) Deferred revenues and refundable advances – Include short-term deferrals and advances including student deposits, advances from third parties for services not yet performed, short-term advances on grants or contracts (including those from the government), and refunds due third parties for amounts previously received. (FARM para. 422)
+
+c) Post-retirement and post-employment obligations – Include amounts for pension obligations, post-retirement healthcare benefit obligations, severance obligations, and similar post-retirement and post-employment obligations. (FARM para. 478 and 479) d) Other accrued liabilities – Include amounts for any accrued liabilities, including accrued interest payable, salary and benefit (payroll) accruals, and similar accrued expenses not found in another category. (FARM para. 420)
+
+e) Annuity and life income obligations and other amounts held for the benefit of others – Includes agency obligations, the beneficiaries’ interests in assets held by the institution subject to split-interest agreements (i.e., the obligation, measured at present value of payments to be made), deferred compensation amounts, and similar obligations recognized in the GPFS.
+
+f) Bonds, notes, and capital leases payable and other long-term debt, including current portion – Include amounts for all long-term debt obligations including bonds payable, mortgages payable, capital leases payable, and long-term notes payable. If the current portion of long-term debt is separately reported in your GPFS, include that amount. (FARM para. 420 and 423)
+
+g) Government grants refundable under student loan programs – Include amounts advanced to the institution by a governmental entity for purposes of making loans to students (if recognized as a liability in the GPFS).
+
+h) Other liabilities – Include all other liabilities not reported elsewhere.
+
+03a – Debt related to property, plant and equipment - Includes amounts for all long-term debt obligations including bonds payable, mortgages payable, capital leases payable, and long-term notes payable. (FARM para. 420.3, 423) If the current portion of long-term debt is separately reported in the GPFS, include that amount.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 20/32 04 – Unrestricted net assets – Enter the amount of unrestricted (designated and undesignated) net assets. Unrestricted net assets are amounts that are available for the general purposes of the institution without restriction. Include amounts specifically designated by the governing board, such as those designated as quasi-endowments, for building additions and replacement, for debt service, and for loan programs. In addition, include the unrestricted portion of net investment in plant, property, and equipment less related debt. This amount is computed as the amount of plant, property, and equipment, net of accumulated depreciation, reduced by any bonds, mortgages, notes, capital leases, or other borrowings that are clearly attributable to the acquisition, construction, or improvement of those assets. (FARM para. 450)
+
+05a – Permanently restricted net assets – Report the portion of net assets required by the donor or grantor to be held in perpetuity. (FARM para 450.2) 05b – Temporarily restricted net assets – Report net assets that are subject to a donor’s or grantor’s restriction are restricted net assets. Include long-term but temporarily restricted net assets, such as term endowments, and net assets held subject to trust agreements if those agreements permit expenditure of the resources at a future date. (FARM para. 450.3)
+
+06 – Total net assets - This amount is the sum of total unrestricted net assets and total restricted net assets and should be the sum of lines 04 and 05. The amount should be the same as the number for total net assets found on your statement of financial position. NOTE: These two conditions must exist or you will be unable to proceed with data entry: 1) A06 must equal A04 + A05; and,
+
+2) A06 must equal A02 – A03.
+
+
+
+
+
+Part A – Statement of Financial Position, Page 2
+
+Property, Plant, and Equipment
+
+Property obtained under capital leases should be reported in the categories that best describe the property, such as equipment, buildings, etc. Gross Asset Amounts - The amounts on lines A11 - A16 are the total carrying amounts, without reducing the amounts for accumulated depreciation. 11 – Land and land improvements - Provide end of year values for land and land improvements as a reconciliation of beginning of the year values with additions to and retirements of land and land improvements to obtain end of year values. Use your underlying institutional records. 12 – Buildings - End of year values for buildings represent a reconciliation of beginning of the year values with additions to and retirements of building values to obtain end of year values. Capitalized leasehold improvements should be included on this line if the improvements are to leased facilities. 13 – Equipment, including art and library collections - End of year values for equipment represent a reconciliation of beginning of the year values with additions to and retirements of equipment values to obtain end of year values. Capitalized leasehold improvements should be included on this line if the improvements are to leased equipment.
+
+15 – Construction in progress - Report capital assets under construction and not yet placed into service. 16 – Other - Report all other amounts for capital assets not reported in lines 11-15. 17 – Total property, plant, and equipment - This calculated value is generated using this formula:
+
+A17 = (A11 +... + A16)
+
+18 – Accumulated depreciation - Report all depreciation amounts, including depreciation on assets that may not be included on any of the above lines.
+
+
+
+
+
+Part B – Summary of Changes in Net Assets
+
+This part is intended to report a summary of changes in net assets and to determine that all amounts being reported on the Statement of Financial Position (Part A), Revenues and Investment Return (Part D), and Expenses by Functional and Natural Classification (Part E) are in agreement. 01 – Total revenues and investment return – Enter total revenues and investment return. The amount should represent all revenues reported for the fiscal period and should agree with the revenues recognized in the institution's GPFS. If your institution divides its statement of activities into operating and nonoperating sections, selected revenues in the nonoperating section must be added to the operating revenue subtotal. 02 – Total expenses – Enter total expenses. The amount should represent total expenses recognized in the institution's GPFS. If your institution divides its statement of activities into operating and nonoperating sections, selected expenses in the nonoperating section must be added to the operating expense subtotal. Please enter the amount of expenses as a positive number which will then be treated as a negative number in further computations as indicated by the parentheses.
+
+03 – Other specific changes in net assets - This calculated value is generated using this formula:
+
+B03 = B04 –(B01 - B02)
+
+Because this is a calculated value, data providers are advised to compare this amount with the corresponding amount from their GPFS or underlying records. If these amounts differ materially, the data provider is advised to check the other amounts provided on this screen for data entry errors. The amount should equal the sum of these amounts found in your GPFS:
+
+a) Actuarial gain or (loss) on split interest agreements;
+
+b) Gains or (loss) on sale of plant assets;
+
+c) Other gain or (loss);
+
+d) Discontinued operations;
+
+e) Extraordinary gain or (loss); and,
+
+f) Cumulative effect of change(s) in accounting principle.
+
+These terms are discussed below.
+
+a) Actuarial gain or (loss) on split interest agreements – Includes the net adjustment to the beneficial interests of third parties in assets held subject to annuities, unitrusts, and other split-interest agreements as reported in the GPFS. (FARM para. 431) b) Gains or (loss) on sale of plant assets – Includes the net gain or loss on the sale of plant, property and equipment reported in the GPFS. (FARM para. 415)
+
+c) Other gain or (loss) – Includes any other gain or loss recognized in the GPFS other than those accounted for as part of a, b, d, e, and f above or reported in Part D as an investment return.
+
+d) Discontinued operations - Includes gain or (loss) from the disposition of a business segment. These amounts should be the same as those reported in the GPFS.
+
+e) Extraordinary gain or (loss) - Includes the gain or (loss) from an unusual and infrequent transaction. These amounts should be the same as those reported in the GPFS.
+
+f) Cumulative effect of change(s) in accounting principle – These amounts are identical to the amounts reported in the GPFS.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 21/32 04 – Change in net assets - This amount should agree with the change in net assets for the year reported in the GPFS. 05 – Net assets, beginning of year - Enter the amount of net assets, end of year from the previous year's IPEDS Finance report. In all cases except when the institution reports a change in accounting principle via retroactive adjustment, this amount is also the beginning net asset balance in the GPFS. 06 – Adjustments to beginning of year net assets - This calculated value is generated using this formula:
+
+B06 = B07 – (B04 + B05)
+
+The amount should equal any adjustments to beginning net asset balances reported in your GPFS. This includes adjustments for retroactive applications of changes in accounting principle and prior period adjustments. Because this is a calculated value, data providers are advised to compare this amount with the corresponding amount from their GPFS or underlying records. If these amounts differ materially, the data provider is advised to check the other amounts provided on this screen for data entry errors.
+
+07 – Net assets, end of year - This amount is carried forward from Part A, line 06. This amount should agree with the amount reported for total net assets in the GPFS at the end of the fiscal year.
+
+
+
+
+
+Part C-1 - Scholarships and Fellowships
+
+This section collects information about the sources of revenue that support (1) Scholarship and Fellowship expense and (2) discounts applied to tuition and fees and auxiliary enterprises.
+
+For each source on lines 01–06, enter the amount of revenue received from each source for supporting scholarships and fellowships. Scholarships and fellowships include: grants-in-aid, trainee stipends, tuition and fee waivers, and prizes to students. Student grants do not include amounts provided to students as payments for teaching or research or as fringe benefits.
+
+For lines 08 and 09, identify amounts that are reported in the GPFS as discounts and allowances only. "Discounts and allowance" means the institution displays the financial aid amount as a deduction from tuition and fees or a deduction from auxiliary enterprise revenues in its GPFS. The allowance category is intended to be consistent with the definitions provided in the NACUBO Advisory Report Accounting and Reporting Scholarship
+
+Allowances to Tuition and Other Fee Revenues by Higher Education (AR 97-1, January 17, 1997), which is available at the NACUBO website (www.nacubo.org). AR 97-1 states:
+
+"A scholarship allowance is the difference between the stated charge for goods and services provided by the institution and the amount which is billed to students and/or third parties making payments on behalf of students. In considering what is or is not revenue, the following rule applies: amounts received to satisfy student tuition and fees will be reported as revenue only once (e.g. student fees, gifts, investment income) and only amounts received from students and third-party payers to satisfy tuition and fees will be recognized as tuition and fee revenue."
+
+For more information on reporting discounts and allowances in scholarships and fellowships, access the (IPEDS Tip Sheet).
+
+
+
+Refer to these specific instructions for more information about reporting student scholarships and fellowships.
+
+01 – Pell grants (federal) – Report the total amount of Pell Grants awarded to the institution for the fiscal year. Private institutions generally report Pell Grants as agency transactions.
+
+02 – Other federal grants – Report the amount awarded to the institution under federal student aid programs other than Pell, such as the Federal Supplemental Education Opportunity Grants (FSEOG), DHHS training grants (aid portion only), and federal portion of Leveraging Educational Assistance Partnerships or LEAP (formerly State Student Incentive Grant or SSIG). Include Higher Education Emergency Relief Act (HEERF) grants funded under the Coronavirus Aid, Relief, and Economic Security (CARES) Act, Coronavirus Response and Relief Supplemental Appropriations Act (CRRSAA), and American Rescue Plan (ARP) Act. Do not include institutional matching portions for any of these programs here, they should be reported under institutional grants. Do not include Federal Direct Student Loans, Federal Work Study, or federal veteran education benefits. 03 – Grants by state government – Report the amount of state grants received for funding scholarships and fellowships such as the state share of Leveraging Educational Assistance Partnerships or LEAP (formerly State Student Incentive Grant or SSIG). Report portable student aid from another state as a state source.
+
+04 – Grants by local government – Report local government grants received for funding scholarships and fellowships. 05 – Institutional grants (funded) – Report amounts received from institutional resources restricted for the purpose of scholarships and fellowships, such as scholarships and fellowships funded by gifts or endowment return restricted for that purpose. Only if control over how the resources will be spent passes to the student (for example, the grant is paid directly to the student to use to defray the cost of off-campus housing) is the amount reported as revenue and expense.
+
+06 – Institutional grants (unfunded) – Report amounts received from unrestricted institutional resources. Only if control over how the resources will be spent passes to the student (for example, the grant is paid directly to the student to use to defray the cost of off-campus housing) is the amount reported as revenue and expense.
+
+07 – Total revenue that funds scholarships and fellowships – This calculated value is the sum of lines 01 through 06. Because this is a calculated value, data providers are advised to check this amount with the corresponding amount on their GPFS or underlying records. If these amounts differ materially, the data provider is advised to check the other amounts provided on this screen for data entry errors. 08 – Discounts and allowances applied to tuition and fees – Enter the amount of allowances (scholarships) applied to tuition and fees. The amount on this line, when added to the amount in Part D, line 01 equals gross tuition and fees.
+
+09 – Discounts and allowances applied to auxiliary enterprise revenues – Enter the amount of allowances (scholarships) applied to auxiliary enterprise revenues (e.g., dormitory charges). The amount on this line, when added to the amount in Part D, line 12 equals gross auxiliary enterprise revenue.
+
+10 – Total discounts and allowances – This line is generated by summing the discounts and allowances reported to both tuition & fees and auxiliary enterprises entered in lines 8 and 9.
+
+Part C-2 – Sources of Discounts and Allowances
+
+This part is intended to report details about sources of discounts and allowances.
+
+For each source on lines 01 – 05, enter the amount of the scholarships and fellowships source applied to (1) tuition and fees discounts and allowances and (2) auxiliary enterprises discounts and allowances. The amount of the source applied to total discounts and allowances will be automatically calculated for you in the 3rd column. Line 18 has been preloaded from data entered in Part C-1: Scholarships and Fellowships, line 08 for the 1st column "Tuition and fees discounts & allowances," line 09 for the 2nd column "Auxiliary enterprises discounts & allowances," and line 10 for the 3rd column "Total discounts & allowances."
+
+
+
+
+
+Part D – Revenues and Investment Return
+
+PLEASE COMPLETE PARTS B AND C BEFORE PROVIDING DATA FOR PART D.
+
+This part is intended to report revenues by source.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 22/32 The revenues and investment return reported in this part should agree with the revenues reported in the institution’s GPFS. All revenue source categories are intended to be consistent with the definitions provided in Chapter 4 (Accounting for Private Colleges and Universities) of the NACUBO FARM.
+
+Exclude from revenue (and expenses) interfund or intraorganizational charges and credits. Interfund and intraorganizational charges and credits include interdepartmental charges, indirect costs, and reclassifications from temporarily restricted net assets. Revenues are reported by restriction (columns) and by source (rows).
+
+Column 1, Total Amount – This column is calculated by the sum of the columns 2 through 4. Column 2, Unrestricted – Report revenues that are not subject to limitations by a donor-imposed restriction. Column 3, Temporarily Restricted – Report revenues that are subject to limitation by donor specification as to use or the time when use may occur (such as a later period of time or after specified events have occurred).
+
+Column 4, Permanently Restricted – Report revenues that must be maintained in perpetuity due to a donor-imposed restriction. For institutions receiving American Recovery and Reinvestment Act (ARRA) revenues during the reporting period, report these amounts as part of line 16, Total revenues and investment return. If the GPFS shows a separate amount for ARRA revenues in another revenue category (e.g., Federal grants and contracts) remove that amount from that other category for IPEDS reporting.
+
+Refer to these specific instructions for more information about reporting revenues and investment return.
+
+01 – Tuition and fees (net of allowance reported in Part C, line 08) – Enter the amount of tuition and educational fees, net of any allowances applied in the GPFS. Include in this amount all fees for continuing education programs, conferences, and seminars.
+
+Government Appropriations
+
+02 – Federal appropriations – Enter all amounts received from the federal government through a direct appropriation of Congress, except grants and contracts, which should be reported on line D05. An example of a federal appropriation is a federal land-grant appropriation. Do not include Pell Grants on this line. Do not include any ARRA revenues on this line (see line 15 in this part).
+
+03 – State appropriations – Enter all amounts received from a state government through a direct appropriation of its legislative body, except for state grants and contracts, which should be reported on line 06. An example of a state appropriation that should be entered on line 03 is an annual state appropriation for operating expenses of the institution. (FARM para. 463) Do not include any ARRA revenues on this line (see line 15 in this part). 04 – Local appropriations – Enter all amounts received from a local government (i.e., city and/or county) through a direct appropriation of its legislative body, except for local grants and contracts, which should be reported on line 07. An example of a local appropriation that should be entered on line 04 is an annual local appropriation for operating expenses of the institution.
+
+Government Grants and Contracts
+
+05 – Federal grants and contracts – Enter all revenues from federal agencies that are for specific undertakings such as research projects, training projects, and similar activities, including contributions from federal agencies. If federal Pell and similar student aid grants are treated as agency transactions in your GPFS, they are excluded from this amount. If federal Pell and similar student aid grants are treated as student aid expenses or as allowances when awarded, include the grant revenue on this line and in Part C. Include Higher Education Emergency Relief Act (HEERF) grants funded under the CARES, CRRSA, and ARP Acts. Do not include any ARRA revenues on this line (see line 15 in this part). 06 – State grants and contracts – Enter all revenues from state government agencies that are for specific undertakings such as research projects, training projects, and similar activities, including contributions from state agencies. If state grants for student aid are treated as agency transactions in your GPFS, they are excluded from this amount. If state grants for student aid are treated in your GPFS as student aid expenses or as allowances when awarded, include the grant revenue on this line and in Part C. Do not include any ARRA revenues on this line (see line 15 in this part). 07 – Local government grants and contracts – Enter all revenues from local government agencies that are for specific undertakings such as research projects, training projects, and similar activities, including contributions from local agencies. If local grants for student aid are treated as agency transactions in your GPFS, they are excluded from this amount. If local grants for student aid are treated in your GPFS as student aid expenses or as allowances when awarded, include the grant revenue on this line and in Part C.
+
+Private Gifts, Grants, and Contracts
+
+08a – Private gifts – Enter revenues from private (non-governmental) entities including revenues received from gift or contribution nonexchange transactions (including contributed services) except those from affiliated entities, which are entered on line 09. Includes bequests, promises to give (pledges), gifts from an affiliated organization or a component unit not blended or consolidated, and income from funds held in irrevocable trusts or distributable at the direction of the trustees of the trusts. Includes any contributed services recognized (recorded) by the institution. 08b – Private grants and contracts – Enter revenues from private (non-governmental) entities that are for specific research projects, other types of programs, or for general institutional operations (if not government appropriations). Examples are research projects, training programs, and similar activities for which amounts are received or expenses are reimbursable under the terms of a grant or contract, including amounts to cover both direct and indirect expenses.
+
+09 – Contributions from affiliated entities – Enter all revenues received from non-consolidated affiliated entities, such as fund raising foundations, booster clubs, other institutionally-related foundations, and similar organizations created to support the institution or organizational components of the institution.
+
+Other Revenue
+
+10 – Investment return – Enter all investment income (i.e., interest, dividends, rents and royalties), gains and losses (realized and unrealized) from holding investments (regardless of the nature of the investment), student loan interest, and amounts distributed from irrevocable trusts held by others (collectively referred to as "investment return"). Changes in the value of interest rate swaps should be included in this amount. 11 – Sales and services of educational activities – Enter all revenues derived from the sales of goods or services that are incidental to the conduct of instruction, research or public service, and revenues of activities that exist to provide instructional and laboratory experience for students and that incidentally create goods and services that may be sold. Examples include film rentals, scientific and literary publications, testing services, university presses, dairies, and patient care clinics that are not part of a hospital. The revenue of patient care clinics that are part of a hospital is included in Part D, line 13.
+
+12 – Sales and services of auxiliary enterprises (net of allowance reported in Part C, line 09) – Enter the amount of revenues generated by the auxiliary enterprise operations, net of any allowances applied in the general purpose financial statements. Auxiliary enterprises are operations that exist to furnish a service to students, faculty, or staff, and that charge a fee that is directly related to the cost of the service. Examples are residence halls, food services, student health services, intercollegiate athletics, college unions, college stores, and movie theaters. 13 – Hospital revenue – Enter the revenues and gains of hospitals operated as a component of a reporting institution of higher education. If your hospital is reporting in IPEDS educational program activity that is conducted separate from an institution of higher education, do not use this line. Refer to the special instructions below.
+
+SPECIAL INSTRUCTIONS FOR CERTAIN HOSPITALS AND/OR MEDICAL CENTERS Hospitals and/or medical centers reporting educational program activity that is operated by an entity for which the primary function is other than higher education should complete the IPEDS Finance Survey as follows:
+
+a. Include in Part D the revenues directly associated with the educational programs offered. Combine the revenues of all educational programs offered. b. Do not complete Part D, line 13 (Hospital revenue). This information is required only for hospitals whose financial activity is reported as a component of an institution of higher education.
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 23/32
+
+c. Include in Part E all expenses associated with instruction and educational support services based on your underlying accounting records. Combine the expenses of all educational programs offered.
+
+d. Complete Part A and Part B if the information for the educational program(s) component is obtainable from the underlying accounting records. Do not report information for the hospital as a whole.
+
+14 – Independent operations revenue – Enter all revenues associated with operations independent of the primary missions of the institution. This category generally includes only those revenues associated with major federally-funded research and development centers. Do not include the profit (or loss) from operations owned and managed as investments of the institution’s endowment funds, which should be reported on line 10. 15 – Other revenue - This calculated value is generated using this formula:
+
+D15 = D16 – (D01 + … + D14)
+
+Amounts which should NOT be included in this generated number are gains or other unusual or nonrecurring items that are required to be included in Part B, such as gains on the sale of plant assets, actuarial gains, and extraordinary gains.
+
+Because this is a calculated value, data providers are advised to compare this amount with the corresponding amount from their GPFS or underlying records. If these amounts differ materially, the data provider is advised to check the other amounts provided on this screen for data entry errors. For institutions that received American Recovery and Reinvestment Act (ARRA) revenues during the reporting period, allow these amounts to be reported through this calculated value by including the amount in line 16.
+
+16 – Total revenues and investment return - This amount is carried forward from Part B, line 01. This amount should include ARRA revenues received by the institution, if any.
+
+17 – Net assets released from restriction – Enter all revenues resulting from the reclassification of temporarily restricted assets or permanently restricted assets.
+
+18 – Net total revenues, after assets released from restriction – This calculated value is generated using this formula:
+
+D18 = D16 + D17
+
+19 – 12-month Student FTE from E12 – This number for full-time equivalent (FTE) student enrollment is carried over from the 12-month enrollment survey.
+
+20 – Total revenues and investment return per Student FTE – This amount is generated by dividing line 16 by line 19. This calculated value is used by the system to compare the data reported by the institution to the data of institutions that are in the same sector (e.g., public/private, 4-year/2-year) to see if the calculated value is an extreme value that is too high or low. While it is not anticipated that your institution would have the same overall revenues, this comparison may be useful for ensuring that all appropriate revenues have been included in the finance survey component, or excluded when appropriate.
+
+
+
+
+
+Part E-1 – Expenses and Other Deductions: Functional Classification
+
+PLEASE COMPLETE PART B BEFORE PROVIDING DATA FOR PART E.
+
+Part E is intended to report expenses by function. All expenses recognized in the GPFS should be reported using the expense functions provided on lines 01–12. These functional categories are consistent with Chapter 4 (Accounting for Independent Colleges and Universities) of the NACUBO FARM. Institutions that do not have access to FARM can refer to Appendix B of the NACUBO Advisory Report 2010-1, Public Institutions: Methodologies for Allocating Depreciation, Operation and Maintenance of Plant, and Interest Expenses to Functional Expense Categories for more detailed information on the expense categories. Although this document was written for public institutions, the expenditure definitions are applicable to private institutions also. The advisory is
+
+available here.
+
+The total for expenses on line 13 should agree with the total expenses reported in your GPFS including interest expense and any other non-operating expense.
+
+Do not include losses or other unusual or nonrecurring items in Part E. (Special items including gains and losses should be reported in Part B.) Operation and maintenance expenses are no longer reported as a separate functional expense category. Instead these expenses are to be distributed among the other functional expense categories.
+
+Expense by Functional Classification
+
+Column 1, Total amount - Enter the total expense for each applicable functional category listed on lines 01–10. Total expenses, line 13, should agree with the total expenses reported in your GPFS.
+
+Column 2, Salaries and wages – This column describes the natural classification of salary and wage expenses incurred in each functional category. For this classification, enter the amount of salary and wage expenses for the function identified in lines 01-10 and 13. Do NOT include Operation and maintenance of plant (O&M) expenses in this category because O&M expenses are reported in a separate natural classification category.
+
+
+
+Refer to these specific instructions for more information about reporting expenses.
+
+01 – Instruction – Enter the instruction expenses of the colleges, schools, departments, and other instructional divisions of the institution and expenses for departmental research and public service that are not separately budgeted. The instruction category includes general academic instruction, occupational and vocational instruction, special session instruction, community education, preparatory, developmental and adult basic education, and tutorial instruction. Include expenses for both credit and non-credit activities. Exclude expenses for academic administration if the primary function is administration (e.g., academic deans). Such expenses should be entered on line 04. (FARM para. 703.4)
+
+02 – Research – Enter the expenses for activities specifically organized to produce research outcomes and either commissioned by an agency external to the institution or separately budgeted by an organizational unit within the institution. The category includes institutes and research centers, and individual and project research. Do not report nonresearch sponsored programs (e.g., training programs) on this line. Training programs generally are reported on line 01 (Instruction). (FARM para. 703.5)
+
+03 – Public service – Enter the expenses specifically for public service and for activities established primarily to provide noninstructional services beneficial to groups external to the institution. Examples are seminars and projects provided to the particular sectors of the community. Include expenses for community services, cooperative extension services, and public broadcasting services. (FARM para. 703.6) 04 – Academic support – Enter the expenses for support services that are an integral part of the institution’s primary mission of instruction, research, or public service and that are not charged directly to these primary programs. Include expenses for libraries, museums, galleries, audio/visual services, academic administration, and formally organized and/or separately budgeted academic personnel development, academic computing support, course and curriculum development. Include expenses for medical, veterinary and dental clinics if their primary purpose is to support the institutional program, that is, they are not part of a hospital. (FARM para. 703.7)
+
+05 – Student services – Enter the expenses for admissions, registrar activities and activities whose primary purpose is to contribute to students emotional and physical well-being and to their intellectual, cultural and social development outside the context of the formal instructional program. Examples are career guidance, counseling, financial aid administration, student records, athletics, and student health services, except when operated as a self-supporting auxiliary enterprise. (FARM para. 703.8)
+
+06 – Institutional support – Enter the expenses for the day-to-day operational support of the institution. Include expenses for general administrative services, executive direction and planning, legal and fiscal operations, administrative computing support, and public relations/development. (FARM para. 703.9)
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 24/32 07 – Auxiliary enterprises – Enter expenses of essentially self-supporting operations of the institution that exist to furnish a service to students, faculty, or staff, and that charge a fee that is directly related to, although not necessarily equal to, the cost of the service. Examples are residence halls, food services, student health services, intercollegiate athletics (only if essentially self-supporting), college unions, college stores, faculty and staff parking, and faculty housing. (FARM para. 703.11)
+
+08 – Net grant aid to students (net of tuition and fee allowances) - Enter on this line ONLY scholarships and fellowships recognized as expenses in your GPFS. Do not include Federal Work Study expenses on this line. Work study expenses should be reported within the function where the student worked. Whereas in the past, most student awards were recorded as expenses under this classification, most student awards are now reported as either scholarship allowances or agency transactions. Student awards, made from contributed funds or grant funds, that are under the control of the institution (the institution decides who gets the award) result in allowances that reduce tuition or auxiliary enterprise revenue. Student awards, made from grant funds, that are made to students identified by the grantor are considered agency transactions and do not result in either revenues or expenses. Scholarships and fellowships in the form of allowances applied to tuition and fees should be reported in Part C, line 09, and not included in Part E, line 08. Scholarships and fellowships in the form of allowances applied to auxiliary services should be reported in Part C, line 9, and not included in Part E, line 08. (FARM para. 703.10)
+
+According to NACUBO Advisory Report 97-1 (January 17, 1997), scholarships and fellowships are "expenses to the extent that the organization incurs incremental expense in providing goods and services." Thus payments made by the institution to students or third parties in support of the total cost of education are expenses if those payments are made for goods and services NOT provided by the institution. Examples include payments for services to third parties (including students) for off-campus housing or for the cost of board not provided by institutional contract meal plans. 09 – Hospital services – Enter all expenses associated with the operation of a hospital reported as a component of an institution of higher education. Include nursing expenses, other professional services, administrative services, fiscal services, and charges for operation and maintenance of plant. (FARM para. 703.12) Hospitals or medical centers reporting educational program activities conducted independent of an institution of higher education (not as a component of a reporting institution of higher education) should not complete this line. Refer to the special instructions below.
+
+SPECIAL INSTRUCTIONS FOR CERTAIN HOSPITALS AND/OR MEDICAL CENTERS Hospitals and/or medical centers reporting educational program activity operated by an entity for which the primary function is other than higher education should complete the IPEDS Finance Survey as follows: a. Include in Part D the revenues directly associated with the educational programs offered. Combine the revenues of all educational programs offered. b. Do not complete Part D, line 13 (Hospital revenue). This information is required only for hospitals whose financial activity is reported as a component of an institution of higher education.
+
+c. Include in Part E all expenses associated with instruction and educational support services based on your underlying accounting records. Combine the expenses of all educational programs offered.
+
+d. Complete Part A and Part B if the information for the educational program(s) component is obtainable from the underlying accounting records. Do not report information for the hospital as a whole.
+
+10 – Independent operations – Enter all expenses for separately organized operations that are independent of or unrelated to the primary missions of the institution (i.e., instruction, research, public service), although they may contribute indirectly to the enhancement of these programs. This category is generally limited to expenses of major federally-funded research and development centers. Do not include the expenses of operations owned and managed as investments of the institution’s endowment funds. (FARM para. 703.13)
+
+12 - Other Functional Expenses and deductions – This calculated value is generated using this formula:
+
+E12 = E13 – (E01 + … + E10)
+
+Because this is a generated number, data providers are advised to compare this amount with a corresponding amount in the institution's GPFS. If these amounts differ materially, the data provider is advised to check the other amounts provided on this screen for data entry errors. 13 – Total expenses and Deductions – The amount in column 1 is carried forward from Part B, line 02. This should be the same as the amount for total expenses found in your GPFS. Enter in column 2 the total amount of the natural expense incurred by the institution.
+
+
+
+
+
+Part E-2 - Expenses and Other Deductions: Natural Classification
+
+This part is intended to collect expenses by natural classification. Do NOT include Operation and maintenance of plant (O&M) expenses in Salaries and Wages, Benefits, Depreciation, Interest, or Other Natural Expenses because O&M expense is reported in its own separate natural classification category.
+
+Expense by Natural Classification
+
+13-2, Salaries and wages – This line is the total of salary and wage expenses incurred in all of the functional categories from the previous page. It has been carried over from Part E-1, Column 2 line 13.
+
+13-3, Benefits - Enter the total amount of benefits expenses incurred. 13-4, Operation and maintenance of plant - This amount is used to show the distribution of operation and maintenance of plant expenses. Enter in this column the allocated amount of operation and maintenance of plant expenses for all functions listed on lines 01-12 in Part E-1. 13-5, Depreciation - Enter the total amount of depreciation incurred. 13-6, Interest - Enter in the total amount of interest incurred on debt. 13-7, All other natural expenses and deductions - This column will be calculated by the survey program as the difference between the total amount entered in 13-1 and the sum of 13-2 through 13-6. Please check the calculated amount for accuracy to determine that no keying errors have occurred. 13-1, Total expenses and deductions - This amount is carried forward from Part E-1, line 13, and should agree with the total expenses reported in your GPFS.
+
+14-1, 12-month Student FTE from E12 – This number for full-time equivalent (FTE) student enrollment is carried over from the 12-month enrollment survey.
+
+15-1, Total Expenses and Deductions per Student FTE - This amount is generated by dividing line 13-1 by line 14-1. This calculated value is used by the system to compare the data reported by the institution to the data of institutions that are in the same sector (e.g., public/private, 4-year/2-year) to see if the calculated value is an extreme value that is too high or low. While it is not anticipated that your institution would have the same overall expenses, this comparison may be useful for ensuring that all appropriate expenses have been included in the finance survey component, or excluded when appropriate.
+
+
+
+
+
+Part H – Value of Endowment Net Assets
+
+This part is intended to report details about endowments.
+
+This part appears only for institutions answering "Yes" to the general information question regarding endowment net assets. Report the amounts of gross investments of endowment, term endowment, and funds functioning as endowment for the institution and any of its foundations and other affiliated organizations, and components units reduced by the value of endowment-related liabilities for Part H.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 25/32 For institutions participating in the NACUBO Endowment Study, this amount should be comparable with values reported to NACUBO.
+
+01 – Value of endowment net assets at the beginning of the fiscal year — If the market value of some investments is not available, use whatever value was assigned by the institution in reporting market values in the annual financial report. 02 – Value of endowment net assets at the end of the fiscal year — Report here the market values of the endowment assets reduced by the market value of endowment-related liabilities at the end of the fiscal year. If the market value is not available for some investments, use whatever value was assigned by the institution in reporting market values in the annual financial report.
+
+03 – Change in value of endowment net assets - This field will be calculated for you. 03a – New gifts and additions – Report the amount of new gifts and additions to endowments. Include contributions, pledge payments, and reinvested income/gains.
+
+03b – Endowment net investment return - Report the amount of net investment return from endowments. Include realized and unrealized gains (losses) and interest and dividends, net of administrative expenses.
+
+03c – Spending distribution for current use – Report the amount of withdrawals from endowments to fund the institution’s operating budget and other institutional expenses. The reported amount is treated as negative value.
+
+03d – Other – This line will be automatically calculated for you. Other changes to the value of endowment net assets may include transfers and other adjustments.
+
+
+
+
+
+Part I – Financial Health
+
+This part is intended to collect the numerator and denominator used to calculate financial health ratios that compose the Composite Financial Index (CFI).
+
+01 – Enter the sum of the institution’s excess or deficiency of unrestricted operating revenues over unrestricted operating expenses (e.g., change in net assets without donor restriction), available from the statement of activities or other internal financial reports. 02 – Enter the institution’s total unrestricted operating revenues and gains, including net assets released from restriction. 03 – The institution’s change in net assets has been carried forward from Part B, line 04. 04 – The institution’s beginning balance of total net assets has been carried forward from Part B, line 05. 05 – Enter the institution’s expendable net assets. Include net assets without donor restriction and net assets with donor restriction – subject to time or purpose restriction. Exclude net investment in plant and net assets with donor restriction – subject to time or purpose restriction that will be invested in plant.
+
+06 – Enter the institution’s plant-related debt at par (i.e., face value or nominal value). Include the current and non-current portion of plant related debt that must be repaid (e.g., premiums, discounts, issuance costs, and asset retirement obligations are not included). 07 – The institution’s total expense has been carried forward from Part B, line 02.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 26/32 Glossary
+
+Term Definition
+
+A functional expense category that includes expenses of activities and services that support the institution's primary missions of instruction, research, and public service. It includes the retention, preservation, and display of educational materials (for example, libraries, museums, and galleries); organized activities that provide support services to the academic functions of the institution (such as a demonstration school associated with a college of education or veterinary and dental clinics if their primary purpose is to support the instructional program); media such as audiovisual services; academic administration
+
+Academic support (including academic deans but not department chairpersons); and formally organized and/or separately budgeted academic
+
+personnel development and course and curriculum development expenses. Also included are information technology expenses related to academic support activities; if an institution does not separately budget and expense information technology resources, the costs associated with the three primary programs will be applied to this function and the remainder to institutional support. Institutions include actual or allocated costs for operation and maintenance of plant, interest, and depreciation.
+
+The total depreciation charged as expenses as of the reporting date (in the current year and in prior years) on the capital assets
+
+Accumulated depreciation of the institution. FASB Statement No. 117 and GASB Statement No. 34 require that accumulated depreciation to date be
+
+recognized.
+
+Adjustments to beginning net Unusual and infrequent adjustments to assets that are not recorded as current year revenues, expenses, gains, or losses. This assets includes adjustments for retroactive applications of changes in accounting principles and prior period adjustments.
+
+Administrative unit The system or central office in a multi-campus environment.
+
+That part of a scholarship or fellowship that is used to pay institutional charges such as tuition and fees or food and housing
+
+Allowances
+
+charges.
+
+Physical items (tangible) or rights (intangible) that have value and that are owned by the institution. Assets are useful to the
+
+Assets
+
+institution because they are a source of future services or because they can be used to secure future benefits.
+
+An audit, performed by external (or outside) auditors, that usually consists of a one-page "opinion" letter on the general-purpose
+
+financial statements. The "opinion" paragraph of the letter usually states that "In our opinion, the financial statements present fairly, in all material respects, the financial position as of (date) and the results of operations for the year then ended, in
+
+Audit opinion conformity with accounting standards generally accepted in the United States." If the auditor cannot state completely the
+
+substance of the previous "opinion" sentence, then the auditor will add a phrase such as "...except for..." and state the basis for the exception. When the auditor includes exceptions to the opinion, the opinion is considered to be a "qualified opinion;" when no such exceptions are included, the opinion is considered to be an "unqualified opinion."
+
+Expenses for essentially self-supporting operations of the institution that exist to furnish a service to students, faculty, or staff, and that charge a fee that is directly related to, although not necessarily equal to, the cost of the service. Examples are residence
+
+Auxiliary enterprises
+
+halls, food services, student health services, intercollegiate athletics (only if essentially self-supporting), college unions, college
+
+expenses
+
+stores, faculty and staff parking, and faculty housing. Institutions include actual or allocated costs for operation and maintenance of plant, interest and depreciation.
+
+Revenues generated by or collected from the auxiliary enterprise operations of the institution that exist to furnish a service to students, faculty, or staff, and that charge a fee that is directly related to, although not necessarily equal to, the cost of the
+
+Auxiliary enterprises revenues
+
+service. Auxiliary enterprises are managed as essentially self-supporting activities. Examples are residence halls, food services, student health services, intercollegiate athletics, college unions, college stores, and movie theaters.
+
+The dollar value of the physical asset at the time of construction or purchase of that asset, or, if the asset is a gift, the market
+
+Book value value of the asset at the time of the gift. It may also be the difference between the balance of a physical plant asset account
+
+and its related accumulated depreciation account.
+
+Capital assets built or acquired for occupancy and use by the entity. These are structures such as classrooms, research
+
+Buildings facilities, administrative offices, and storage. Includes built-in fixtures and equipment that are essentially part of the permanent
+
+structure. Buildings held for the production of revenue are classified as investments.
+
+The cost of acquiring plant assets, adding to plant assets, and adding utility to plant assets for more than one accounting
+
+Capital outlay
+
+period.
+
+A term used to describe the net amount of revenues, expenses, gains, and losses for the reporting period. This appears on the
+
+Change in net assets Statement of Revenues, Expenses, and Changes in Net Assets for GASB organizations and on the Statement of Activities for
+
+FASB organizations.
+
+Revenues from non-consolidated affiliated entities, such as fund raising foundations, booster clubs, other institutionally-related
+
+Contributions from affiliated foundations, and similar organizations created to support the institution or organizational units of the institution. General
+
+entities purpose financial statements for FASB institutions include a separate line for these revenues; GASB institutions classify such
+
+revenues as gifts.
+
+Total expenses for the essential education activities of the institution. Core expenses for public institutions reporting under GASB standards include expenses for instruction, research, public service, academic support, student services, institutional support, scholarships and fellowships, and other operating and nonoperating expenses. Core expenses for FASB (primarily
+
+Core expenses
+
+private, not-for-profit and for-profit) institutions include expenses on instruction, research, public service, academic support, student services, institutional support, net grant aid to students, and other expenses. For both FASB and GASB institutions, core expenses exclude expenses for auxiliary enterprises (e.g., bookstores, dormitories), hospitals, and independent operations.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 27/32
+
+Total revenues for the essential education activities of the institution. Core revenues for public institutions (using the Governmental Accounting Standards Board (GASB) standards) include tuition and fees; government appropriations (federal, state, and local); government grants and contracts; private gifts, grants, and contracts; investment income; other operating and nonoperating sources; and other revenues and additions. Core revenues for private, not-for-profit and public institutions reporting under the Financial Accounting Standards Board (FASB) standards include tuition and fees; government appropriations
+
+Core revenues (federal, state, and local); government grants and contracts; private gifts, grants, and contracts; investment return; sales and
+
+services of educational activities; and other sources. Core revenues for private, for-profit institutions reporting under FASB standards include tuition and fees; government appropriations (federal, state, and local); government grants and contracts; private grants and contracts; net investment income; sales and services of educational activities; and other sources. In general, core revenues exclude revenues from auxiliary enterprises (e.g., bookstores, dormitories), hospitals, and independent operations.
+
+The allocation or distribution of the cost of capital assets, less any salvage value, to expenses over the estimated useful life of
+
+Depreciation the asset in a systematic and rational manner. Depreciation for the year is the amount of the allocation or distribution for the
+
+year involved.
+
+That part of a scholarship or fellowship that is used to pay institutional charges such as tuition and fees or food and housing
+
+Discounts and allowances
+
+charges.
+
+Funds whose principal is nonexpendable (true endowment) and that are intended to be invested to provide earnings for
+
+Endowment funds
+
+institutional use. Also includes term endowments and funds functioning as endowment.
+
+Gross investments of endowment funds, term endowment funds, and funds functioning as endowment for the institution and
+
+Endowment net assets any of its foundations and other affiliated organizations and component units reduced by the value of endowment-related
+
+liabilities.
+
+The outflow or other using up of assets or incurrence of liabilities (or a combination of both) from delivering or producing goods, rendering services, or carrying out other activities that constitute the institution's ongoing major or central operations or
+
+Expenses
+
+in generating revenues. Alternatively, expenses may be thought of as the costs of goods and services used to produce the
+
+educational services provided by the institution. Expenses result in a reduction of net assets.
+
+Transfers of money or property from the Federal government to the education institution without a requirement to receive
+
+Federal grants anything in return. These grants may take the form of grants to the institutions to undertake research or they may be in the form
+
+of student financial aid. (Used for reporting on the Finance component)
+
+A part-time work program awarding on- or off-campus jobs to students who demonstrate financial need. FWS positions are primarily funded by the federal government (federal share), but are also partially funded by other organizations, including the institution (non-federal share). FWS is awarded to eligible students by the college as part of the student's financial aid package.
+
+Federal Work Study (FWS)
+
+The maximum FWS award is based on the student's financial need, the number of hours the student is able to work, and the amount of FWS funding available at the institution. This is a type of Title IV Aid, but it is not considered grant or loan aid to students.
+
+These are grants-in-aid and trainee stipends to graduate students. Fellowships do not include funds for which services to the
+
+Fellowships
+
+institution must be rendered, such as payments for teaching, or loans.
+
+Cash contributions in the form of supplementary or deferred compensation other than salary. Excludes the employee's contribution. Employee fringe benefits include retirement plans, social security taxes, medical/dental plans, guaranteed disability
+
+Fringe benefits
+
+income protection plans, tuition plans, housing plans, unemployment compensation plans, group life insurance plans, worker's compensation plans, pension, and other benefits in-kind with cash options.
+
+A functional expense classification is a method of grouping expenses according to the purpose for which the costs are incurred.
+
+Functional Expense
+
+The classifications tell why an expense was incurred rather than what was purchased. (NACUBO FARM section 700)
+
+Revenues received by an institution through acts of a legislative body, except grants and contracts. These funds are for meeting
+
+Government appropriations
+
+current operating expenses and not for specific projects or programs. The most common example is a state's general
+
+(revenues)
+
+appropriation. Appropriations primarily to fund capital assets are classified as capital appropriations.
+
+Revenues from governmental agencies and nongovernmental parties that are for specific research projects, other types of programs , or for general institutional operations (if not government appropriations). Examples are research projects, training programs, student financial assistance, and similar activities for which amounts are received or expenses are reimbursable
+
+Grants and contracts under the terms of a grant or contract, including amounts to cover both direct and indirect expenses. Includes Pell Grants and (revenues) reimbursement for costs of administering federal financial aid programs. Grants and contracts should be classified to identify
+
+the governmental level - federal, state, or local - funding the grant or contract to the institution; grants and contracts from other sources are classified as nongovernmental grants and contracts. GASB institutions are required to classify in financial reports such grants and contracts as either operating or nonoperating.
+
+Grants by local government Local government grants include scholarships or gift-aid awarded directly to the student. (Used for reporting on the Finance (student aid) component)
+
+Grant monies provided by the state such as Leveraging Educational Assistance Partnerships (LEAP) program (formerly State
+
+Grants by state government
+
+Student Incentive Grant program or SSIG); merit scholarships provided by the state; and tuition and fee waivers for which the
+
+(student aid)
+
+institution was reimbursed by a state agency. (Used for reporting on the Finance component)
+
+Expenses associated with a hospital operated by the postsecondary institution (but not as a component unit) and reported as a part of the institution. This classification includes nursing expenses, other professional services, general services, administrative
+
+Hospital services
+
+services, and fiscal services. Also included are information technology expenses, actual or allocated costs for operation and
+
+maintenance of plant, interest and depreciation related to hospital capital assets.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 28/32
+
+Revenues generated by a hospital operated by the postsecondary institution. Includes gifts, grants, appropriations, research
+
+revenues, endowment income, and revenues of health clinics that are part of the hospital unless such clinics are part of the
+
+Hospitals (revenues) student health services program. Sales and service revenues are included net of patient contractual allowances. Revenues
+
+associated with the medical school are included elsewhere. Also includes all amounts appropriated by governments (federal, state, local) for the operation of hospitals.
+
+Expenses associated with operations that are independent of or unrelated to the primary missions of the institution (i.e.,
+
+instruction, research, public service) although they may contribute indirectly to the enhancement of these programs. This
+
+category is generally limited to expenses of a major federally funded research and development center. Also includes
+
+Independent operations
+
+information technology expenses, actual or allocated costs for operation and maintenance of plant, interest and depreciation related to the independent operations. Expenses of operations owned and managed as investments of the institution's
+
+endowment funds are excluded.
+
+Revenues associated with operations independent of or unrelated to the primary missions of the institution (i.e., instruction,
+
+Independent operations research, public service) although they may contribute indirectly to the enhancement of these programs. Generally includes only
+
+(revenues) those revenues associated with major federally funded research and development centers. Net profit (or loss) from operations
+
+owned and managed as investments of the institution's endowment funds is excluded.
+
+Scholarships and fellowships awarded to students from institutional resources that are restricted to student aid. Private
+
+Institutional grants
+
+institutions generally report these grants as allowances. If control over these resources passes to the student, the amount is
+
+(restricted) (allowances)
+
+reported as an expense. (Used for reporting under FASB Standards on the Finance component.)
+
+Scholarships and fellowships awarded to students from unrestricted institutional resources. Private institutions generally
+
+Institutional grants
+
+report these grants as allowances. If control over these resources passes to the student, the amount is reported as an expense.
+
+(unrestricted) (allowances)
+
+(Used for reporting under FASB Standards on the Finance component.)
+
+A functional expense category that includes expenses for the day-to-day operational support of the institution. Includes expenses for general administrative services, central executive-level activities concerned with management and long range planning, legal and fiscal operations, space management, employee personnel and records, logistical services such as
+
+Institutional support
+
+purchasing and printing, and public relations and development. Also includes information technology expenses related to institutional support activities. If an institution does not separately budget and expense information technology resources, the IT costs associated with student services and operation and maintenance of plant will also be applied to this function.
+
+A functional expense category that includes expenses of the colleges, schools, departments, and other instructional divisions of the institution and expenses for departmental research and public service that are not separately budgeted. Includes general academic instruction, occupational and vocational instruction, community education, preparatory and adult basic education, and regular, special, and extension sessions. Also includes expenses for both credit and noncredit activities. Excludes expenses for
+
+Instruction
+
+academic administration where the primary function is administration (e.g., academic deans). Information technology expenses related to instructional activities if the institution separately budgets and expenses information technology resources are included (otherwise these expenses are included in academic support). Institutions include actual or allocated costs for operation and maintenance of plant, interest, and depreciation.
+
+Intangible assets Assets consisting of nonmaterial rights and benefits of an institution, such as patents, copyrights, trademarks and goodwill.
+
+The Integrated Postsecondary Education Data System (IPEDS), conducted by the NCES, began in 1986 and involves annual
+
+institution-level data collections. All postsecondary institutions that have a Program Participation Agreement with the Office of
+
+Integrated Postsecondary Postsecondary Education (OPE), U.S. Department of Education (throughout IPEDS referred to as "Title IV") are required to report
+
+Education Data System data using a web-based data collection system. IPEDS currently consists of the following components: Institutional
+
+(IPEDS) Characteristics (IC); 12-month Enrollment (E12);Completions (C); Admissions (ADM); Student Financial Aid (SFA); Human
+
+Resources (HR) composed of Employees by Assigned Position, Fall Staff, and Salaries; Fall Enrollment (EF); Graduation Rates
+
+(GR); Outcome Measures (OM); Finance (F); and Academic Libraries (AL).
+
+The price paid (or received) for the use of money over a period of time. Interest income is one component of investment
+
+Interest
+
+income. Interest paid by the institution is interest expense.
+
+Investment return Income from assets including dividends, interest earnings, royalties, rent, gains (losses) etc.
+
+Capital assets consisting of land and improvements such as athletic fields, golf courses, or lakes. Land is nondepreciable; some
+
+Land and land improvements
+
+land improvements are depreciable and some are nondepreciable.
+
+Debts and obligations of the institution owed to outsiders or claims or rights, expressed in monetary terms, of an institution's
+
+Liabilities
+
+creditors. GASB institutions are required to report liabilities under two categories - current liabilities and noncurrent liabilities.
+
+An organized collection of printed, microform, and audiovisual materials which (a) is administered as one or more units, (b) is located in one or more designated places, and (c) makes printed, microform, and audiovisual materials as well as necessary
+
+Library
+
+equipment and services of a staff accessible to students and to faculty. Includes units meeting the above definition which are part of a learning resource center.
+
+Revenues from local government agencies that are for training programs and similar activities for which amounts are received or expenditures are reimbursable under the terms of a local government grant or contract. These amounts can be treated as an
+
+Local government grants and
+
+allowance, an agency transaction, or as a student aid expense in the institution's General Purpose Financial Statements
+
+contracts (revenues)
+
+(GPFS) and are reported differently depending on their treatment. Generally, however, private institutions report these grants
+
+as allowances when applied to the student's account and as local grant revenues when received.
+
+Long-term investments Money or capital invested for purposes of receiving a profitable return over a period of time of more than one year. Long-term
+
+investments should be distinguished from temporary investments based on the intention of the organization regarding the terms of the investment rather than the nature of the investment itself. Includes: 1) cash held until appropriate investments are identified; 2) repurchase agreements and other money market media; 3) equity securities and mutual fund investments; 4) debt
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 29/32
+
+securities; 5) real estate held for income production; 6) beneficial interest in trusts; and 7) other. GASB institutions report these investments under "noncurrent assets."
+
+The value of a good as determined in the market at a specific point in time or what individuals in the market for the good are
+
+Market value
+
+willing to pay to obtain the good at a given point in time.
+
+A natural expense classification is a method of grouping expenses according to the type of costs that are incurred. The
+
+Natural Expense
+
+classifications tell what was purchased rather than why an expense was incurred. (NACUBO FARM section 700)
+
+The excess of assets over liabilities or the residual interest in the institution's assets remaining after liabilities are deducted.
+
+The change in net assets results from revenues, gains, expenses, and losses. FASB institutions classify net assets into three
+
+Net Assets categories: permanently restricted, temporarily restricted, and unrestricted. This term is similar to the "Net position" term used
+
+by GASB institutions.
+
+
+
+Net grant aid to students The portion of scholarships and fellowships granted by an institution that exceeds the amount applied to institutional charges
+
+(expenses) such as tuition and fees or food and housing. The amount reported as expense excludes allowances.
+
+An expense category that includes expenses for operations established to provide service and maintenance related to campus grounds and facilities used for educational and general purposes. Specific expenses include: janitorial and utility services; repairs and ordinary or normal alterations of buildings, furniture, and equipment; care of grounds; maintenance and operation of buildings and other plant facilities; security; earthquake and disaster preparedness; safety; hazardous waste disposal; property,
+
+Operation and maintenance of
+
+liability, and all other insurance relating to property; space and capital leasing; facility planning and management; and central
+
+plant (O&M)
+
+receiving.
+
+This expense does include amounts charged to auxiliary enterprises, hospitals, and independent operations. Also includes information technology expenses related to operation and maintenance of plant activities if the institution separately budgets
+
+and expenses information technology resources (otherwise these expenses are included in institutional support).
+
+Federal monies awarded to the institution under federal government student aid programs, such as the Federal Supplemental
+
+Educational Opportunity Grants (FSEOG), DHHS training grants (aid portion only), the Leveraging Education Assistance Partnership (LEAP) program (formerly State Student Incentive Grant program or SSIG), and other federal student aid programs. Pell Grants are not included in this classification. Note: if the federal government selects the student recipients and simply
+
+Other federal grants
+
+transmits the funds to the institution for disbursement to the student, the amounts are not considered as revenues and
+
+subsequently there are no discounts and allowances or scholarships and fellowships expenses. If the funds are made available
+
+to the institution for selection of student recipients, then the amounts received are considered as nonoperating revenues and subsequently as discounts and allowances or scholarships and fellowships expenses.
+
+The sum of operating and nonoperating expenses not classified as salaries and wages, benefits, operation and maintenance of
+
+Other Natural Expenses and plant, interest, or depreciation. Prior to fiscal year 2016, this value included operation and maintenance of plant expenses. This Deductions category can include bad debts, income taxes, changes in value in split interest agreements, or changes in environmental
+
+liability obligations.
+
+Changes that occur infrequently rather than on a regular basis, but still affect the net assets of the institution. Included in this
+
+Other specific changes in net
+
+category are: actuarial gain or (loss) on split interest agreements; gain or (loss) on sale of plant assets; other gain or (loss);
+
+assets
+
+discontinued operations; extraordinary gain or (loss); and cumulative effect of change(s) in accounting principle.
+
+(Higher Education Act of 1965, Title IV, Part A, Subpart I, as amended.) Provides grant assistance to eligible undergraduate
+
+Pell Grant program
+
+postsecondary students with demonstrated financial need to help meet education expenses.
+
+Funds held by an institution that must be held in perpetuity with only the income available for use. Endowments are usually the
+
+Permanent endowment
+
+result of a gift or grant received that is required to be held in perpetuity by the donor or granting agency.
+
+Net assets of FASB institutions that must be maintained in perpetuity. Permanently restricted net assets increase when institutions receive contributions for which donor-imposed restrictions limiting the institution's use of an asset or its economic
+
+Permanently restricted benefits neither expire with the passage of time nor can be removed by the organization's meeting certain requirements. Donor-
+
+imposed restrictions on the use of the investment income on the assets may also change the amount of such net assets.
+
+Permanent endowment funds are the most common example.
+
+These assets consist of land, buildings, improvements, equipment, and library books. Excluded are assets that are part of
+
+Physical plant assets endowment or other capital fund investments in real estate. Construction in progress is excluded from this total until
+
+completed.
+
+Debt incurred in financing the institution's capital assets, including bonds, mortgages, notes, capital leases, and any other
+
+outstanding debt that was incurred to acquire, construct, or improve capital assets such as land, buildings, and improvements
+
+Physical plant indebtedness
+
+other than buildings, equipment, and library books. Excludes indebtedness that is part of endowment or other capital fund
+
+investments in real estate. Also excludes construction in progress.
+
+Revenues from private (non-governmental) entities including revenues received from gift or contribution nonexchange transactions (including contributed services) except those from affiliated entities. Includes bequests, promises to give (pledges),
+
+Private gifts (Revenues) gifts from an affiliated organization or a component unit not blended or consolidated, and income from funds held in irrevocable
+
+trusts or distributable at the direction of the trustees of the trusts. Includes any contributed services recognized (recorded) by the institution.
+
+Revenues from private donors for which no legal consideration is involved and from private contracts for specific goods and
+
+Private gifts, grants and services provided to the funder as stipulation for receipt of the funds. Includes only those gifts, grants, and contracts that are contracts (revenues) directly related to instruction, research, public service, or other institutional purposes. Includes monies received as a result of
+
+gifts, grants, or contracts from a foreign government. Also includes the estimated dollar amount of contributed services.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 30/32
+
+Revenues from private (non-governmental) entities that are for specific research projects, other types of programs, or for general
+
+Private grants and contracts institutional operations (if not government appropriations). Examples are research projects, training programs, and similar (Revenues) activities for which amounts are received or expenses are reimbursable under the terms of a grant or contract, including
+
+amounts to cover both direct and indirect expenses.
+
+A functional expense category that includes expenses for activities established primarily to provide noninstructional services beneficial to individuals and groups external to the institution. Examples are conferences, institutes, general advisory service, reference bureaus, and similar services provided to particular sectors of the community. This function includes expenses for
+
+Public service community services, cooperative extension services, and public broadcasting services. Also includes information technology
+
+expenses related to the public service activities if the institution separately budgets and expenses information technology resources (otherwise these expenses are included in academic support). Institutions include actual or allocated costs for operation and maintenance of plant, interest, and depreciation.
+
+Funds established by the governing board to function like an endowment fund but which may be totally expended at any time at
+
+Quasi-endowment funds the discretion of the governing board. These funds represent nonmandatory transfers from the current fund rather than a direct
+
+addition to the endowment fund, as occurs for the true endowment categories.
+
+A functional expense category that includes expenses for activities specifically organized to produce research outcomes and commissioned by an agency either external to the institution or separately budgeted by an organizational unit within the institution. The category includes institutes and research centers, and individual and project research. This function does not
+
+Research include nonresearch sponsored programs (e.g., training programs). Also included are information technology expenses related
+
+to research activities if the institution separately budgets and expenses information technology resources (otherwise these expenses are included in academic support.) Institutions include actual or allocated costs for operation and maintenance of plant, interest, and depreciation.
+
+Restricted net assets (FASB Assets held by the institution upon which restrictions have been placed by donors. These restrictions may be temporary or
+
+institutions only) permanent. They restrict the institution in its use of the assets and/or the period of time for which the restriction applies.
+
+The inflow of resources or other enhancement of net assets (or fund balance) of an institution or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the institution's ongoing major or central operations. Includes revenues from fees and charges, appropriations, auxiliary enterprises, and
+
+Revenues
+
+contributions and other nonexchange transactions. Revenues are reported net of discounts and allowances (that is, the revenue
+
+reported is reduced by the amount of discounts and allowances) for FASB institutions and for GASB institutions that have implemented GASB Statement No. 34.
+
+Amounts paid as compensation for services to all employees - faculty, staff, part-time, full-time, regular employees, and student employees. This includes regular or periodic payment to a person for the regular or periodic performance of work or a service
+
+Salaries and wages
+
+and payment to a person for more sporadic performance of work or a service (overtime, extra compensation, summer compensation, bonuses, sick or annual leave, etc.).
+
+Sales and services of Revenues from the sales of goods or services that are incidental to the conduct of instruction, research or public service. educational activities Examples include film rentals, sales of scientific and literary publications, testing services, university presses, dairy products, (revenues) machine shop products, data processing services, cosmetology services, and sales of handcrafts prepared in classes.
+
+Outright grants-in-aid, trainee stipends, tuition and fee waivers, and prizes awarded to students by the institution, including Pell
+
+grants. Awards to undergraduate students are most commonly referred to as "scholarships" and those to graduate students as "fellowships." These awards do not require the performance of services while a student (such as teaching) or subsequently as a
+
+Scholarships and fellowships
+
+result of the scholarship or fellowship. The term does not include loans to students (subject to repayment), College Work-Study
+
+Program (CWS), or awards granted to a parent of a student because of the parent's faculty or staff status. Also not included are awards to students where the selection of the student recipient is not made by the institution.
+
+State and local monies awarded to the institution under state and local student aid programs, including the state portion of
+
+State and local government
+
+Leveraging Educational Assistance Partnerships (LEAP) program (formerly State Student Incentive Grant program or SSIG).
+
+grants
+
+(Used for reporting on the Student Financial Aid component)
+
+State grants (revenues) A sum of money or property bestowed on a postsecondary institution by a state government.
+
+A functional expense category that includes expenses for admissions, registrar activities, and activities whose primary purpose is to contribute to students emotional and physical well-being and to their intellectual, cultural, and social development outside the context of the formal instructional program. Examples include student activities, cultural events, student newspapers, intramural athletics, student organizations, supplemental instruction outside the normal administration, and student records.
+
+Student services
+
+Intercollegiate athletics and student health services may also be included except when operated as self-supporting auxiliary enterprises. Also may include information technology expenses related to student service activities if the institution separately budgets and expenses information technology resources (otherwise these expenses are included in institutional support.) Institutions include actual or allocated costs for operation and maintenance of plant, interest, and depreciation.
+
+An institution that has a written agreement with the Secretary of Education that allows the institution to participate in any of the Title IV federal student financial assistance programs (other than the Leveraging Educational Assistance Partnerships or LEAP,
+
+Title IV institution
+
+formerly State Student Incentive Grant or SSIG and the National Early Intervention Scholarship and Partnership or NEISP programs).
+
+The amount of tuition and required fees covering a full academic year most frequently charged to students. These values represent what a typical student would be charged and may not be the same for all students at an institution. If tuition is
+
+Tuition and fees (published
+
+charged on a per-credit-hour basis, the average full-time credit hour load for an entire academic year is used to estimate average
+
+charges)
+
+tuition. Required fees include all fixed sum charges that are required of such a large proportion of all students that the student who does not pay the charges is an exception.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 31/32
+
+The net assets of both FASB and GASB institutions that do not fit the definition of other categories of net assets. These are net
+
+Unrestricted net assets
+
+assets held by the institution upon which no restrictions have been placed by the donor or other party external to the institution.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=30067&formid=67 32/32
+
+
+
+
+

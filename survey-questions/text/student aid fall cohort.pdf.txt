@@ -1,26 +1,2538 @@
-Usage: .ebook-convert-wrapped input_file output_file [options]
+2024-25 IPEDS HELP DESK (877) 225-2568 | ipedshelp@rti.org
 
-Convert an e-book from one format to another.
-
-input_file is the input and output_file is the output. Both must be specified as the first two arguments to the command.
-
-The output e-book format is guessed from the file extension of output_file. output_file can also be of the special format .EXT where EXT is the output file extension. In this case, the name of the output file is derived from the name of the input file. Note that the filenames must not start with a hyphen. Finally, if output_file has no extension, then it is treated as a folder and an "open e-book" (OEB) consisting of HTML files is written to that folder. These files are the files that would normally have been passed to the output plugin.
-
-After specifying the input and output file you can customize the conversion by specifying various options. The available options depend on the input and output file types. To get help on them specify the input and output file and then use the -h option.
-
-For full documentation of the conversion system see
-https://manual.calibre-ebook.com/conversion.html
-
-Whenever you pass arguments to .ebook-convert-wrapped that have spaces in them, enclose the arguments in quotation marks. For example: "/some path/with spaces"
-
-Options:
-  --version       show program's version number and exit
-
-  -h, --help      show this help message and exit
-
-  --list-recipes  List builtin recipe names. You can create an e-book from a
-                  builtin recipe like this: ebook-convert "Recipe Name.recipe"
-                  output.epub
+Data Collection System OMB NO. 1850-0582 v.33 : Approval Expires 8/31/2027
 
 
-Created by Kovid Goyal <kovid@kovidgoyal.net>
+
+2024-25 Survey Materials  Form
+
+
+
+Student Financial Aid for institutions reporting on a fall cohort (academic reporters)
+
+Overview
+
+IPEDS Student Financial Aid Component Overview
+
+Welcome to the Student Financial Aid (SFA) survey component. The purpose of the SFA component is to collect information about financial aid provided to various groups of undergraduate students and military/veteran educational benefits for all students at your institution.
+
+Data Reporting Reminders:
+
+Report data to accurately reflect the period(s) corresponding with the IPEDS survey component requested, even if such reporting seems inconsistent with
+
+prior-year reporting.
+
+Undergraduate Student Counts
+
+You will be asked to report information for:
+
+All undergraduate students
+
+Degree/certificate-seeking undergraduate students
+
+Full-time, first-time degree/certificate-seeking undergraduate students (FTFT)
+
+Non-degree/certificate-seeking undergraduate students
+
+Interactive Edits and Error Messages
+
+The SFA survey component contains interactive edits to check for blank fields, invalid values, or values outside expected ranges. Some error messages
+
+require you to confirm or explain the values entered whereas other error messages are fatal and require you to contact the IPEDS Help Desk at (877) 225-2568
+
+for resolution.
+
+Context Boxes
+
+You will find optional text boxes throughout the SFA survey component. These text boxes allow you to provide more information or context about the data
+
+entered. Some context boxes may be made available to the public on College Navigator, so make sure the information you enter can be understood easily by
+
+students, parents, and the public.
+
+Changes to reporting:
+
+The following changes were implemented for the 2024-25 data collection period:
+
+Moved the cost of attendance and average net price data items to the new IPEDS Cost (CST) survey component.
+
+Updated the SFA Survey form and instructions based on legislative changes, U.S. Department of Education guidance, and industry practices.
+
+Applied the screening question from Section 2 to all institutions.
+
+Applied the context box from Section 2 to all institutions.
+
+Clarified loans to students reported in Section 1, Part C, Line 7 include private education loans.
+
+Clarified Fall Enrollment (EF) student counts are carried forward and used to calculate average aid amounts and percentages for academic reporters whereas
+
+12-Month Enrollment (E12) student counts are carried forward and used to calculate average aid amount and percentages for program reporters throughout
+
+the survey.
+
+Eliminated the multiple forms that were historically presented on the survey materials page; however, there remain differences in how institutions report.
+
+Those differences are indicated in gold text on the single remaining form as presented to OMB. Institutions will not see the gold text and will only see the
+
+screens that are applicable to them.
+
+
+
+Resources:
+
+To download the survey materials for this component: Survey Materials
+
+
+
+If you have questions about completing this survey, please contact the IPEDS Help Desk at 1-877-225-2568.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 1/27 Section 1 - Student Financial Aid - Undergraduate Students Part A - Establish Your Student Counts
+
+Part A - Establish Your Student Counts
+
+Instructions:
+
+In the fields below, report student counts for the reporting period requested for each student category and financial aid type. Reporting period loaded based on reporter type: Academic Reporter (AR) OR Program Reporter (PR). Section 1 is applicable to institutions offering undergraduate programs, as determined by the following items in Institutional Characteristics (IC):
+
+Q3, award level = 1a, 1b, 2, 3, 4, 5, and 6; or
+
+Q5, Undergraduate (undergraduate or occupational programs), full-time or part-time = Yes; or First-time degree/certificate seeking undergraduate, Full-time or Part-time = Yes.
+
+Reporting Reminders:
+
+Part A establishes student counts.
+
+The numbers on this screen are carried forward to other parts of the Student Financial Aid Survey component and checked for consistency with data reported in other survey components.
+
+
+
+YOUR CURRENT YEAR YOUR PRIOR YEAR
+
+STUDENT COUNTS DATA DATA
+
+Fall 2023 Fall 2022
+
+02 All undergraduate students
+
+All degree/certificate-seeking undergraduate students
+
+03
+
+Of those on line 02, those who are degree/certificate-seeking
+
+04 Of those on line 02, those who are non-degree/non-certificate-seeking (Line 02 – Line 03)
+
+All full-time, first-time degree certificate-seeking undergraduate students
+
+05
+
+Of those on line 03, those who are full-time, first-time
+
+Of those on line 05, those awarded any:
+
+Federal Work Study,
+
+Loans to students,
+
+06
+
+Grant or scholarship aid from the federal government, state/local government, the
+
+institution, or
+
+Other sources known to the institution
+
+Of those on line 05, those awarded any:
+
+loans to students or
+
+07
+
+Grant or scholarship aid from the federal government, state/local government, or the
+
+institution
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 2/27 Section 1 - Student Financial Aid - Undergraduate Students Part B - UG Student Counts and Financial Aid Award Amounts
+
+Part B - Enter Student Counts and Financial Aid Award Amounts
+
+Instructions:
+
+In the fields below, report student counts and the total financial aid amount awarded for each student category and financial aid type for the reporting period requested. Enter unduplicated student counts within each aid type (e.g., Federal Pell Grants). However, a student can appear in more than one financial aid program group.
+
+Reporting Reminders:
+
+Reported values must be consistent with the Information from Part A carried forward to this screen.
+
+Report students awarded Federal Pell Grant enrolled in post-baccalaureate teacher certification or licensure programs, or courses required by a state to obtain
+
+certification to teach the state as undergraduate students.
+
+Report all other students, including students with intellectual disabilities enrolled in a U.S. Department of Education approved comprehensive transition and
+
+postsecondary (CTP) program, at the degree/certificate program level assigned by the institution.
+
+If students are not admitted and enrolled as degree/certificate seeking taking prerequisites (preparatory courses) offered as part of a Title IV eligible program
+
+to satisfy entrance requirements for a Title IV eligible program at your institution or another institution, report them as non-degree/certificate seeking
+
+undergraduates.
+
+
+
+For this part, report:
+
+For These Students The Following Type(s) of Aid Awarded in This Period
+
+Grant or scholarship aid from:
+
+federal government
+
+state/local government
+
+All undergraduate students enrolled in Fall
+
+the institution Any time during academic
+
+2023 for the 2023-24 academic year as
+
+other sources known to the year 2023-24
+
+defined by the institution
+
+institution
+
+Loans to students from:
+
+the federal government
+
+Information from Part A Fall 2023
+
+All undergraduate students (This number is carried forward from Part A, Line 02.)
+
+Degree/certificate-seeking undergraduate students (This number is carried forward from Part A, Line 03.)
+
+Non-degree/non-certificate-seeking undergraduate students (This number is carried forward from Part A, Line 04.)
+
+
+
+In the fields below, report the student counts and the total amount of aid awarded for each aid type and student category.
+
+2023-24 Academic Year as defined by the institution
+
+All non-degree/non-certificate-seeking
+
+All undergraduate All degree/certificate-seeking undergraduates
+
+undergraduates
+
+Number
+
+students Total
+
+Number Percentage Number Percentage Percentage
+
+Aid Type Average Average who amount Average
+
+students of students Total students of students Total of students
+
+amount of amount of were of aid amount
+
+who were who were amount of who were who were amount of who were
+
+aid awarded aid awarded awarded awarded of aid
+
+awarded awarded aid awarded awarded awarded aid awarded awarded
+
+(Col.3/Col.1) (Col.7/Col.5) aid (Col.3- awarded
+
+aid aid aid aid aid
+
+(Col.1- Col.7) Col.5)
+
+Col. 1 Col. 2 Col. 3 Col. 4 Col. 5 Col. 6 Col. 7 Col. 8 Col. 9 Col. 10 Col. 11 Col. 12
+
+Grant or scholarship
+
+aid from the federal
+
+government,
+
+state/local
+
+government, the
+
+01
+
+institution, and other
+
+sources known to
+
+the institution (Do
+
+NOT include federal
+
+student loans)
+
+02 Federal Pell Grants
+
+Federal loans to
+
+03
+
+students
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context
+
+notes will be posted on the College Navigator website. Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+Non-applicable
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 3/27
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 4/27 Section 1 - Student Financial Aid- Full-time, First-time Undergraduate Students Part C - FTFT Degree/certificate-seeking UG
+
+
+
+Part C - Enter Information about full-time, first-time degree/certificate-seeking undergraduate students.
+
+Instructions:
+
+In the fields below, report student counts and the total financial aid amount awarded for full-time, first-time degree/certificate seeking undergraduates only for each financial aid type. Enter unduplicated student counts within each aid category (e.g., Federal Pell Grants). However, a student can appear in more than one financial aid program group.
+
+Reporting Reminders:
+
+Reported values must be consistent with the Information from Part A carried forward to this screen.
+
+Report all other students, including students with intellectual disabilities enrolled in a U.S. Department of Education approved comprehensive transition and
+
+postsecondary (CTP) program, at the degree/certificate program level assigned by the institution.
+
+For this part, report:
+
+For These Students The Following Type(s) of Aid Awarded in This Period
+
+Grant or scholarship aid from:
+
+federal government
+
+state/local government
+
+the institution
+
+Loans to students from:
+
+Full-time, first-time degree/certificate-seeking
+
+the federal government Any time during academic year
+
+undergraduate students enrolled in Fall 2023 for the
+
+other sources, including private or other loans 2023-24
+
+2023-24 academic year as defined by the institution
+
+Do not include:
+
+grant or scholarship aid from private or other
+
+sources
+
+PLUS loans or loans made to anyone other than
+
+the student
+
+
+
+Information from Part A Fall 2023
+
+Full-time, first-time degree/certificate-seeking undergraduate students
+
+(This number is carried forward from Part A, Line 05)
+
+(This number is carried forward from Part A, Line 06)
+
+Full-time, first-time degree/certificate-seeking undergraduate students awarded:
+
+Federal Work Study
+
+Loans to students
+
+Grant or scholarship aid from the federal government, state/local government, or the institution
+
+Other sources known to the institution
+
+(This number is carried forward from Part A, Line 07)
+
+Full-time, first-time degree/certificate-seeking undergraduate students awarded:
+
+Loans to students
+
+Grant or scholarship aid from the federal government, state/local government, or the institution
+
+
+
+Full-time, first-time degree/certificate-seeking undergraduate students (Part A, Line 05)
+
+YOUR PRIOR
+
+CURRENT YEAR DATA
+
+YEAR DATA
+
+2023-24 2022-23
+
+Aid Type
+
+Average amount Average amount
+
+Number of Percentage of Total amount of
+
+of aid awarded of aid awarded
+
+FTFT students FTFT students aid awarded to
+
+to FTFT to FTFT
+
+awarded aid awarded aid FTFT students
+
+students students
+
+Col. 1 Col. 2 Col. 3 Col. 4 Col. 5
+
+Grants or scholarships from the federal
+
+01 government, state/local government, or the
+
+institution
+
+02 Federal grants and scholarship aid
+
+03 Federal Pell Grants
+
+Other federal grants and
+
+04
+
+scholarship aid
+
+State/local government grant or
+
+scholarship aid
+
+05
+
+(includes fellowships/tuition
+
+waivers/exemptions)
+
+Institutional grant or scholarship aid
+
+06 (includes fellowships/tuition
+
+waivers/exemptions)
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 5/27
+
+07 Loans to students
+
+08 Federal loans to students
+
+Other loans to students (including
+
+09
+
+private loans)
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+Non-applicable
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 6/27 Section 1 - Comparison Chart
+
+Summary Data by Student Category and Financial Aid Type
+
+Instructions:
+
+The SFA Comparison Chart provides a summary of the data reported in Section 1 of the survey. Summary data is based on the preloaded data and
+
+information reported on the previous screens in this section for all undergraduate students and full-time, first-time degree/certificate-seeking undergraduate
+
+students.
+
+Values displayed for All undergraduate students, All degree/certificate seeking undergraduate students, and All non-degree/certificate seeking
+
+undergraduate students should match the values reported in Section 1, Part B;
+
+Values displayed for Full-time, First-time degree/certificate seeking undergraduate students should match the values reported in Section 1, Part C; and
+
+NCES calculated values for the student count and total amount of aid awarded for All other degree/certificate seeking undergraduate students should
+
+be the difference between the values reported for All undergraduate students and Full-time, first-time degree/certificate seeking undergraduate
+
+students.
+
+If values displayed do not match your institution’s calculations, please correct the numbers reported before moving forward to complete Section 2 of the SFA
+
+Survey.
+
+Data for all degree/certificate seeking undergraduate students and full-time, first-time degree/certificate undergraduate students are published on College
+
+Navigator.
+
+Note:
+
+Data for the 'all other degree/certificate undergraduate' students and all non-degree/certificate undergraduate students will appear in the IPEDS Data Center
+
+for data users, but not in College Navigator.
+
+2023-24 Academic Year 2023-24 Academic Year 2023-24
+
+Student Categories Number of students Federal Pell grants Federal Student Loans
+
+Col. 1 Col. 2 Col. 3
+
+01 All undergraduates
+
+01a Number of students awarded aid
+
+01b Percentage awarded aid
+
+01c Total amount of aid awarded
+
+01d Average amount of aid awarded
+
+02 All degree/certificate seeking undergraduate students
+
+02a Number of students awarded aid
+
+02b Percentage awarded aid
+
+02c Total amount of aid awarded
+
+01d Average amount of aid awarded
+
+Full-time, first-time degree/certificate seeking
+
+03
+
+undergraduate students
+
+03a Number of students awarded aid
+
+03b Percentage awarded aid
+
+03c Total amount of aid awarded
+
+03d Average amount of aid awarded
+
+04 All other degree/certificate seeking undergraduate students
+
+04a Number of students awarded aid
+
+04b Percentage awarded aid
+
+04c Total amount of aid awarded
+
+04d Average amount of aid awarded
+
+05 All non-degree/non-certificate-seeking undergraduate students
+
+05a Number of students awarded aid
+
+05b Percentage awarded aid
+
+05c Total amount of aid awarded
+
+05d Average amount of aid awarded
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 7/27 Section 2: Military Servicemembers and Veteran's Benefits - Undergraduate and Graduate Students
+
+
+
+
+
+Section 2: Screening Question
+
+
+1. Did your institution participate in the U.S. Department of Veterans Affairs Post-9/11 GI Bill or U.S. Department of Defense Military Tuition Assistance benefit
+
+programs during the 2023-24 award period? (You are required to complete Section 2 of the SFA Survey if you answer “Yes” to this screening question.)?
+
+No
+
+Yes, please check all programs available to students at your institution.
+
+U.S. Department of Veterans Affairs Post-9/11 GI Bill
+
+U.S. Department of Defense Military Tuition Assistance
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 8/27 Section 2: Military Servicemembers and Veteran's Benefits - Undergraduate and Graduate Students
+
+
+
+
+
+Section 2: Military Servicemembers and Veteran's Benefits - Undergraduate and Graduate Students
+
+
+Instructions:
+
+Report for Post-9/11 GI Bill Benefits: July 1, 2023 - June 30, 2024.
+
+Report for Department of Defense Tuition Assistance Program: October 1, 2023 - September 30, 2024
+
+Information for ALL programs offered by the institution.
+
+Reporting Reminders:
+
+Report student counts and total benefit amounts disbursed known to the institution for the U.S. Department of Veteran's Affairs Post-9/11 GI Bill Program.
+
+Report student counts and disbursed amounts received and disbursed by the institution for the U.S. Department of Defense Tuition Assistance Program.
+
+Report unduplicated student counts within a category (e.g., Post-9/11 GI Bill Benefits), however, a student can appear in both categories (i.e., a student can be
+
+counted as a Post-9/11 GI Bill Benefits recipient and a Department of Defense Tuition Assistance recipient).
+
+Student recipients can also include eligible dependents.
+
+A student may receive benefits at the undergraduate level and the graduate level during award period.
+
+Consult with your campus certifying official, who may not be in the student financial aid office.
+
+For Post-9/11 GI Bill Benefits, do not include the institutional or state matching share for aid provided through the Yellow Ribbon Program if your school
+
+participated.
+
+Do not leave a cell blank. Enter zero (0) if your institution did not have recipients for the financial assistance program or program level.
+
+
+
+U.S. Department of Veterans Affairs Post-9/11 GI-Bill Benefits
+
+YOUR CURRENT YEAR DATA YOUR PRIOR YEAR DATA
+
+Number of students Total dollar amount of
+
+Average dollar amount of Average dollar amount of
+
+Type of disbursed benefits/assistance
+
+benefits/assistance disbursed benefits/assistance disbursed
+
+benefit/assistance benefits/assistance disbursed
+
+known to institution known to institution
+
+known to the institution known to institution
+
+Col 1 Col 2 Col 3 Col 4
+
+Post-9/11 GI Bill Benefits
+
+01 Undergraduate
+
+students
+
+02 Graduate students
+
+03 Total
+
+
+
+U.S. Department of Defense Tuition Assistance Program
+
+YOUR CURRENT YEAR DATA YOUR PRIOR YEAR DATA
+
+Number of students Total dollar amount of
+
+Average dollar amount of Average dollar amount of
+
+who received benefits/assistance received
+
+Type of benefits/assistance received benefits/assistance received
+
+benefits/assistance and
+
+benefit/assistance and disbursed through the and disbursed through the
+
+disbursed through the disbursed through the
+
+institution institution
+
+institution institution
+
+Col 1 Col 2 Col 3 Col 4
+
+Department of Defense Tuition Assistance Program
+
+04 Undergraduate
+
+students
+
+05 Graduate students
+
+06Total
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 9/27 Prepared by
+
+
+
+
+
+Prepared by
+
+
+Reporting Reminders:
+
+The name of the preparer is being collected so that we can follow up with the appropriate person in the event that there are questions concerning the data. The Keyholder will be copied on all email correspondence to other preparers.
+
+The time it took to prepare this component is being collected so that we can continue to improve our estimate of the reporting burden associated with IPEDS. Please include in your estimate the time it took for you to review instructions, query and search data sources, complete and review the component, and submit the data through the Data Collection System.
+
+Thank you for your assistance.
+
+
+
+This survey component was prepared by:
+
+Keyholder SFA Contact HR Contact
+
+Finance Contact Academic Library Contact Other
+
+Name:
+
+Email:
+
+
+
+How many staff from your institution only were involved in the data collection and reporting process of this survey component?
+
+Number of Staff (including yourself)
+
+
+
+How many hours did you and others from your institution only spend on each of the steps below when responding to this survey component? Exclude the hours spent collecting data for state and other reporting purposes.
+
+Revising Data to Match
+
+Staff member Collecting Data Needed Entering Data Revising and Locking Data
+
+IPEDS Requirements
+
+Your office hours hours hours hours
+
+Other offices hours hours hours hours
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 10/27 Summary
+
+
+
+
+
+Student Financial Aid Component Summary
+
+
+The purpose of this summary is to provide you an opportunity to view some of the data that, when accepted through the IPEDS quality control process, will appear
+
+on the College Navigator website and/or your institution’s Data Feedback Report (DFR). In addition, all data reported in IPEDS survey components become publicly
+
+available through the IPEDS Use the Data and appear as aggregated statistics in various Department of Education reports. College Navigator is updated
+
+approximately three months after the data collection period closes and DFRs will be available through the IPEDS Use the Data and sent to your institution’s CEO at the end of 2025.
+
+Please review your data for accuracy. If you have questions about the data displayed below or after reviewing the data reported on the survey screens, please
+
+contact the IPEDS Help Desk at: 1-877-225-2568 or ipedshelp@rti.org.
+
+
+
+GENERAL INFORMATION
+
+Reporter Type
+
+Calendar System
+
+Award Levels Offered
+
+Levels of Enrollment Offered
+
+System
+
+
+
+Financial Aid Information Summary
+
+2023-24 Academic Year 2023-24 Academic Year 2023-24
+
+Number of
+
+Federal Pell grants Federal Student Loans
+
+students
+
+01 All degree/certificate seeking undergraduate students
+
+02 Number of students awarded aid
+
+03 Percentage awarded aid
+
+04 Total amount of aid awarded
+
+05 Average amount of aid awarded
+
+Full-time, first-time degree/certificate seeking
+
+06
+
+undergraduate students
+
+07 Number of students awarded aid
+
+08 Percentage awarded aid
+
+09 Total amount of aid awarded
+
+10 Average amount of aid awarded
+
+All other degree/certificate seeking
+
+11
+
+undergraduate students
+
+12 Number of students awarded aid
+
+13 Percentage awarded aid
+
+14 Total amount of aid awarded
+
+15 Average amount of aid awarded
+
+All non-degree/non-certificate-seeking undergraduate
+
+16
+
+students
+
+17 Number of students awarded aid
+
+18 Percentage awarded aid
+
+19 Total amount of aid awarded
+
+20 Average amount of aid awarded
+
+
+
+Military Service Members and Veteran's Benefits
+
+Total dollar amount of
+
+Number of students
+
+Type of benefit/assistance benefits/assistance disbursed
+
+receiving benefits/assistance
+
+through the institution
+
+Post-9/11 GI Bill Benefits
+
+Undergraduate students
+
+Graduate students
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 11/27
+
+Total
+
+Department of Defense Tuition Assistance Program
+
+Undergraduate students
+
+Graduate students
+
+Total
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 12/27 Student Financial Aid, Academic Reporters
+
+
+
+
+
+Overview
+
+
+Table of Contents
+
+
+The Student Financial Aid (SFA) survey component is divided into two sections. Section 1 collects data for undergraduate students only. Section 2 collects data for undergraduate and graduate military and veteran students. As you complete both sections of SFA, please refer to the "Where to Get Help" and "Where the Data Will Appear" sections.
+
+Where to Get Help
+
+Where the Data Will Appear
+
+Purpose of Survey Component
+
+Changes in Reporting
+
+General Instructions
+
+Who Must Report
+
+What You Will Need
+
+About the Data
+
+Context Boxes
+
+Interactive Edits
+
+Coverage
+
+Reporting Period
+
+Student Cohort
+
+What to Include
+
+Detailed Instructions
+
+Section 1. Student Financial Aid - Undergraduate Students
+
+Purpose
+
+What NOT to Include
+
+Part A - Establish Your Student Counts
+
+Instructions
+
+Reporting Reminders
+
+Part B - Financial Aid About All undergraduate students
+
+Instructions
+
+Reporting Reminders
+
+Part C - Enter Financial Aid About Full-time, first-time (FTFT) degree/certificate-seeking undergraduate students
+
+Instructions
+
+Reporting Reminders
+
+Comparison Chart
+
+Instructions
+
+Reporting Reminders
+
+Section 2. Military Servicemembers and Veteran Students with Benefits
+
+Purpose
+
+What Not to Include
+
+Instructions
+
+Reporting Reminders
+
+
+
+Where to Get Help with Reporting
+
+IPEDS Help Desk
+
+Phone: (877) 225-2568
+
+E-mail: ipedshelp@rti.org
+
+Web Tutorials
+
+You can consult the IPEDS Website's Trainings & Outreach page which contains several tutorials on IPEDS data collection, a self-paced overview of IPEDS tools, and other valuable resources.
+
+IPEDS Resource Page
+
+The IPEDS Website's Reporting Tools page contains frequently asked questions, a link to data tip sheets, tutorials, taxonomies, information centers (e.g., academic libraries, average net price, human resources, race/ethnicity, etc.), and other valuable information.
+
+
+
+
+
+Data Collection Information
+
+Here you will find links to:
+
+Information on IPEDS data reporting and data uses;
+
+The data collection schedule and survey materials;
+
+Current and archived survey changes; and
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 13/27 Current announcements.
+
+IPEDS Survey Components
+
+Here you will find:
+
+Information on each IPEDS survey component, which includes job aids and FAQs, and
+
+A link to the IPEDS Survey Methodology.
+
+Reporting Guides and Reporting Tools
+
+Here you will find reporting guides such as glossaries, handbooks, instructions, and software provider resources. Reporting tools include links to IPEDS tutorials; the IPEDS Survey Components and Data Collection Cycle reporting tool, reporting tips, FAQs, and other reporting tools.
+
+
+
+
+
+Where the Reported Data Will Appear
+
+Data collected through IPEDS will be accessible at the institution and aggregate levels.
+
+At the institution-level, data will appear in the:
+
+College Navigator Website
+
+IPEDS Use the Data portal
+
+IPEDS Data Feedback Reports
+
+At the aggregate-level, data will appear in:
+
+IPEDS Data Explorer
+
+IPEDS Data Feedback Reports
+
+The Digest of Education Statistics
+
+The Condition of Education
+
+Projections of Education Statistics
+
+
+
+
+
+Purpose of Survey Component
+
+The purpose of the IPEDS Student Financial Aid (SFA) survey component is to collect information about financial aid provided to various categories and sub-categories of undergraduate and graduate students at your institution to meet requirements of the:
+
+Higher Education Act of 1965 (HEA), as amended,
+
+Executive Order No. 13607, Establishing Principles of Excellence for Educational Institutions Serving Service Members, Veterans, Spouses, and Other Family Members, and
+
+Improving Transparency of Education Opportunities for Veterans Act.
+
+The U.S. Department of Education, Department of Defense, and Department of Veteran’s Administration collaborated with the education community to develop consumer information and outcome measures to help military students and their families make informed decisions about attending postsecondary schools. Beginning with the 2014-15 data collection year, SFA expanded to collect information on the federal dollars supporting military servicemember and veteran undergraduate and graduate students. Continuous improvement efforts at each agency have led to refined and expanded consumer information that student and families may use to make informed postsecondary education decisions.
+
+Student counts and dollar amounts are collected for:
+
+All undergraduate students,
+
+Degree/certificate-seeking undergraduate students,
+
+Full-time, first-time (FTFT) degree/certificate-seeking undergraduate students,
+
+Non-degree/certificate-seeking undergraduate students, and
+
+Undergraduate and graduate students who received certain military service and/or veterans education benefits.
+
+
+
+
+
+Changes in reporting
+
+The following changes were implemented for the 2024-25 data collection period:
+
+Moved the cost of attendance and average net price data items to the new IPEDS Cost (CST) survey component. Updated the SFA Survey form and instructions based on legislative changes, U.S. Department of Education guidance, and industry practices. Applied the screening question from Section 2 to all institutions.
+
+Applied the context box from Section 2 to all institutions.
+
+Clarified loans to students reported in Section 1, Part C, Line 7 include private education loans. Clarified Fall Enrollment (EF) student counts are carried forward and used to calculate average aid amounts and percentages for academic reporters whereas 12-Month Enrollment (E12) student counts are carried forward and used to calculate average aid amount and percentages for program reporters throughout the survey.
+
+Eliminated the multiple forms that were historically presented on the survey materials page; however, there remain differences in how institutions report. Those differences are indicated in gold text on the single remaining form as presented to OMB. Institutions will not see the gold text and will only see the screens that are applicable to them.
+
+
+
+
+
+General Instructions
+
+Report students in the categories and sub-categories described enrolled during the period(s) requested who received the types of aid as defined for IPEDS reporting purposes.
+
+Who Must Report
+
+All institutions participating or eligible to participate in Title IV financial aid programs and had students enrolled during the prior academic year must report data to IPEDS. Non-Title IV institutions may and are strongly encouraged but are not required to submit data.
+
+Data Reporting Reminders:
+
+Report data to accurately reflect the period(s) corresponding with the IPEDS survey component requested, even if such reporting seems inconsistent with prior-year reporting.
+
+Report financial aid programs under the correct funding source (i.e., federal, state, or local government, the institution, private entity, etc.).
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 14/27
+
+
+
+
+
+Contact the financial aid office if you are not sure where to report matching funds or financial aid received by the institution for the student.
+
+
+If there are no students in a category or sub-category, enter zero (0). Do NOT leave the cell blank.
+
+Report student counts and total benefit amounts disbursed known to the institution for the U.S. Department Veteran's Affairs Post-9/11 GI Bill Program.
+
+Report student counts and disbursed amounts received and disbursed by the institution for the U.S. Department of Defense Tuition Assistance Program.
+
+Report unduplicated student counts for each aid type.
+
+Student recipients can also include eligible dependents.
+
+Consult with your campus certifying official, who may not be in the student financial aid office.
+
+For Post-9/11 GI Bill Benefits, do not include the matching institutional or state aid provided through the Yellow Ribbon Program if your school
+
+participated.
+
+NOTE: In Section 2 of the SFA survey component, all institutions, including program reporters, should report information for ALL programs (not just the largest program).
+
+What You Will Need
+
+The institution's financial aid system should be the starting point for reporting to the IPEDS SFA survey component. Data providers should also be familiar with college and university practices associated with student financial aid and other financial assistance benefits.
+
+In general, there are three types of financial aid data that will be requested in this component. These types are:
+
+Student counts by financial aid type and student categories;
+
+Total financial aid dollars awarded to these students, and
+
+Total military and veterans' education benefits dollars disbursed to students known to the institution.
+
+To complete Section 1 of this survey component, data providers will need student counts and financial aid award amounts for:
+
+All undergraduate students,
+
+Degree/certificate-seeking undergraduate students,
+
+Full-time, first-time degree/certificate-seeking undergraduate students, and
+
+Non-degree/certificate-seeking undergraduate students.
+
+To complete Section 2 of this survey component, you will need student counts, and military tuition assistance and Post-9/11 benefit disbursed amounts for:
+
+Undergraduate students, and
+
+Graduate students.
+
+If you are not familiar with these educational benefits, a general synopsis of each program is provided below.
+
+U.S. Department of Veterans Affairs Post-9/11 GI Bill program
+
+Effective August 1, 2009, includes payment of tuition and fees, a monthly housing allowance, and a books and supplies stipend.
+
+Tuition and fees are paid directly to the institution on behalf of students and data on materials, books, supplies, and housing amounts is available to the
+
+institution; thus, institutions should know which students have Post-9/11 GI Bill benefits and the benefit amounts.
+
+Educational benefits can be transferred to eligible dependents.
+
+Program expanded in 2011 to cover non-degree-granting programs, apprenticeships/on-the-job training programs, flight training programs, and training
+
+correspondence.
+
+The Post-9/11 GI Bill Yellow Ribbon program is an institutional aid matching program which covers tuition and fees for students attending participating
+
+institutions only.
+
+For information on additional program benefits, see How can I use my Post-9/11 GI Bill (Chapter 33) benefits? at https://www.va.gov/education/about-gi-bill-
+
+benefits/post-9-11/
+
+U.S. Department of Defense (DOD) Tuition Assistance Program
+
+Available to active duty servicemembers, reservists called to active duty, and their spouses.
+
+Includes the U.S. National Guard and the U.S. Coast Guard.
+
+Eligibility criteria may vary by branch of service.
+
+Educational payments cover only tuition and fees and are made directly to the institution.
+
+GI Bill benefits can be used to supplement costs not covered by this program.
+
+For more information, visit the Department of Defense Tuition Assistance Program website at http://www.dodmou.com/ and visit https://www.dantes.mil/mil-
+
+ta/ for specific information for each U.S. military service branch.
+
+Consult and verify the data with your institutional representative who certifies these benefits. This individual or office may not be in the student financial aid office.
+
+About the Data
+
+Several types of data appear in the SFA Survey component. It includes data values:
+
+Provided based on the institution's financial aid records,
+
+Provided in prior years displayed for comparison with current year data (i.e., the data being reported),
+
+Carried forward from the IPEDS Fall Enrollment (EF) survey completed during the most recent EF data collection (Academic year reporters),
+
+Carried forward from the IPEDS 12-Month Enrollment (E12) survey completed during the most recent E12 data collection (Program reporters),
+
+Carried forward from one part of the Student Financial Aid survey to another part to ensure internal data consistency, and
+
+Calculated by NCES from reported data values.
+
+In the latter two cases, the data provider should check that the data that are carried forward and calculated are consistent with the data in the institution's underlying financial aid records. If the data carried forward or calculated are not consistent with the institution's records, then an error in data entry may have occurred.
+
+Federal, state/local government, institutional, and private grants, scholarships, and loan aid are collected in Section 1 of the SFA Survey. This includes data for all Title IV programs except Federal Work Study awards and earnings.
+
+The Post-9/11 GI Bill and Tuition Assistance programs highlight two of many educational benefits provided to military servicemembers, veterans, and eligible dependents. However, from a national perspective, Post-9/11 GI Bill and Tuition Assistance programs are more likely to be found across over 6,000 IPEDS institutions. Data on these programs is collected in Section 2 of the SFA Survey.
+
+Data reporters should work closely with data providers, the institution's data owners and state and system data collection coordinators to confirm data values carried forward and calculated are consistent with the data in the institution's records. If the data carried forward or calculated are not consistent with the institution's records, then a data item change or an error in data entry may have occurred.
+
+Context Boxes
+
+Optional context boxes throughout the survey component allow institutions to provide more information regarding reported data. Note that the information in these context boxes may be posted on the U.S. Department of Education’s College Navigator website. NCES will review entries in these context boxes for applicability and appropriateness before posting them on College Navigator. However, institutions should ensure that entries in these context boxes are free from grammatical and spelling errors and are written so that they can be understood by students and parents.
+
+Interactive Edits
+
+This survey component contains interactive edits that will check for blank fields, invalid values, or values that fall outside expected ranges. Some error messages will require you to confirm or explain the values that you entered. Some error messages are fatal and will require you to contact the IPEDS Help
+
+Desk at (877) 225-2568 or ipedshelp@rti.org for resolution.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 15/27
+
+Coverage
+
+
+
+Reporting Period
+
+The financial aid data reported for this survey component should be for the prior academic year as defined by the institution, including cross-over financial aid award periods assigned to the prior academic year. Contact your institution's financial aid office if you have questions about cross-over award periods.
+
+Note U.S. Department of Veterans Affairs Post-9/11 GI Bill program benefits and U.S. Department of Defense Tuition Assistance benefits are reported to IPEDS for different time periods. The reporting period for Post-9/11 GI Bill program benefits is July 1 to June 30. The reporting period Department of Defense Tuition Assistance program benefits is October 1 to September 30.
+
+Student Cohort
+
+Section 1: For academic reporters, the student cohort covered by the SFA survey component includes undergraduate students enrolled for the prior academic year as of October 15 or as of the institution's official fall reporting date. For program reporters, the student cohort covered by this survey component includes undergraduate students enrolled any time during the academic period from July 1, 2023 – June 30, 2024. For hybrid reporters, the student cohort covered includes undergraduate students enrolled in the prior academic year between August 1 and October 31.
+
+Section 2: For all institutions, the student cohort covered by this section of the SFA Survey includes all undergraduate and graduate students enrolled any time during the prior academic year disbursed benefits for the award period known to the institution.
+
+What to Include
+
+Financial aid types are defined as follows for IPEDS reporting purposes:
+
+Title IV aid: Title IV aid includes Federal Pell Grant, Federal Supplemental Educational Opportunity Grant (FSEOG), Teacher Education Assistance for College and Higher Education (TEACH) Grant, Federal Work Study (FWS), and the Subsidized and Unsubsidized Direct Loan programs. Report 100% of student FSEOG award amounts. That is, include the federal and matching share, regardless of the source of the match. Also, FSEOG award amounts should not exceed program amounts budgeted for the award year. That is, if the institution’s packaging policy includes an over-awarding strategy to account for attrition to make sure all funds are expended, exclude these amounts from award amounts reported to IPEDS. Federal grants and scholarships (including educational assistance funds): Grants and scholarships provided by federal agencies such as the U.S. Department of Education. Include Title IV federal student aid program grants such as Federal Pell Grants, FSEOG, and TEACH Grants and federal grants and scholarships awarded by various Department of Health and Human Services (HHS) agencies. Also include need-based and merit-based educational assistance funds and training vouchers provided from other federal agencies and federally- sponsored educational benefits programs.
+
+Do not include veterans' education benefits, as defined in section 480(c) of the HEA of 1965 as amended. For more information, see the Guidance on Federal Veterans' Education Benefits for Purposes of the Title IV Student Assistance Programs Q&A posted on August 30, 2009, on the Federal Student Aid Knowledge Center website.
+
+Federal Work Study: Money earned by students based on financial need to meet postsecondary education costs who are employed part-time, typically in education related credit or non-credit employment at the institution; in community service activities on- campus or off-campus; or at a private for-profit or nonprofit business, agency, or organization. Earnings include the federal and nonfederal share of wages, benefits, withholdings, and other employment deductions. It includes, but is not limited to, assistantships, apprenticeships, internships, externships, and cooperative education experiences. It may also include work-based fellowships. While it does not include institutional and state work study programs, the non-federal share includes all state and local funds used to match these programs.
+
+Do not include Department of Veteran's Affairs (VA) work study. See applicable federal, state, local, and institutional program rules for additional information.
+
+Federal loans to students: Money borrowed from the federal government that must be repaid for which the student is the designated borrower. It includes all Title IV federal student loan aid such as Subsidized Direct Loans and Unsubsidized Direct Loans. It also includes Health Professions Student Loans, Loans for Disadvantaged Students, Nursing Student Loans, Primary Care Loans, and other federal student loans. Do not include PLUS loans and other federal loans not made directly to the student.
+
+State/local government grants and scholarships (includes fellowships, waivers, and employee exemptions): Grants, scholarships, fellowships, and waivers funded or awarded by the state/local government where the institution is located including the state matching share of Leveraging Educational Assistance Partnerships (LEAP) (formerly SSIGs), the Special Leveraging Educational Assistance Program (SLEAP), the Grants for Access and Persistence (GAP) Program, and other awards to students. Include need-based and merit-based grants or scholarships provided by a state or local government. Also include tuition and fee waivers, and employee exemptions for which your institution was reimbursed by a state or local government agency. Do not include the federal or institutional share of grant, scholarship, fellowship, waiver awards or employee exemption. Do not include federal or other pass-through funds known to the institution (i.e., funding provided to the institution by the state for students on behalf of a non-state or non-local entity).
+
+Institutional grants and scholarships (including fellowships, waivers, and employee exemptions): Grants, scholarships, fellowships and waivers granted and funded, or awarded by the institution and/or individual departments within the institution limited to students attending the institution. Include scholarships targeted to certain individuals (e.g., based on state of residence, major, or participation in athletic activities) for which the institution designates the recipient. Also include institutional tuition and fee waivers, and employee exemptions for which your institution was not reimbursed by a state or local government agency. Include institutional grants, and the non-work-study portion of scholarships, fellowships, and waivers used to satisfy matching requirements for other programs. Do not include the work study portion of awards. Do not include grants, scholarships, fellowships, waivers, and employee exemptions passed through to the institution from other entities if the institution does not select or designate the recipient. Do not include the institutional or state matching share of Post-9/11 Yellow Ribbon tuition and fee waivers.
+
+Institutional loans to students: Short-term and long-term education loans to students made by the institution or its Schools, Colleges, or student organizations, including emergency education loans backed by a surety (i.e., financial guarantee). Exclude loans not made directly to the student, loans contingent on the student’s financial aid (also known as payment deferments) not backed by another source of security, and Income Share Agreements. Private grants or scholarships: Grants or scholarships to students awarded and paid by an outside organization but directed through the institution's financial aid office and/or business office also known as pass-through funds (e.g., Rotary Club Scholarship). Private loans to students: Monies that must be repaid to the lending institution for which the student is the designated borrower. Include all institutionally and privately sponsored loans such as Income Share Agreements. Do not include loans that are not made directly to the student (i.e., the student is not a primary borrower). Do not include loans contingent on the student’s financial aid (also known as payment deferments) not backed by another source of security.
+
+Post-9/11 GI Bill Benefits: A federal education benefit for veterans, who served on active duty after September 10, 2001, administered by the Department of Veteran’s Affairs that provides up to 36 months of education benefits at an approved institution for tuition and fees; books and supplies; and housing. The tuition and fees payment, which is the cost for an in-state student attending a public institution, is made directly to the postsecondary institution whereas payments for books, supplies, and housing are sent directly to the student. Some benefits may be transferred to dependents. Do not include Yellow Ribbon Program institutional or state match.
+
+Department of Defense Military Tuition Assistance Program: A federal program available to eligible servicemembers, which includes active duty, selected reservist, coast guard, and army national guard personnel to pay up to 100% of college tuition and course-specific fees. Funds are paid directly to the institution for enrollment in a U.S. Department of Education accredited postsecondary institution to support voluntary off-duty professional and self-development education goals.
+
+Other Sources Known to the Institution: This includes other types of aid not listed in any of the aid types defined above but not excluded in the SFA survey component instructions.
+
+NOTE: In this component, "aid awarded" refers to grant, scholarship, or loan aid awarded to students. For grant or scholarship aid, institutions should report aid awarded to students. This amount may be different from the amount actually disbursed to students. For example, a student may be awarded grant or scholarship aid at the beginning of the academic year but then leave the institution before the entire amount is disbursed. In this case, institutions should
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 16/27 report the original amount of grant or scholarship aid that was awarded. For loans to students, institutions should report loans awarded to and accepted by the student. Institutions report Post-9/11 veterans' benefits disbursed known to the institution, and DOD Tuition Assistance benefits received and disbursed through the institutions during the reporting periods requested.
+
+Institutions report different financial aid types for undergraduate and graduate students on the SFA Survey. Please read the instructions carefully on each screen to identify the enrollment period, types of aid, and reporting period required. Video tutorials on types of aid and student categories are available on the Association for Institutional Research (AIR) website: https://www.airweb.org/collaborate-learn/professional-development-training/ipeds-tutorials/student-financial-aid-(sfa)
+
+Total financial aid amounts and student counts are reported in this survey component. Round total aid amounts to the nearest whole dollar. Do not report cents. Report unduplicated student counts within a given financial aid type (e.g., Federal Pell Grants). However, count each student once for each type of aid. This means a student may appear under more than one aid type (e.g., Federal Pell Grants and Federal Loans to Students).
+
+
+
+
+
+Section 1, SFA – Undergraduate Students
+
+Detailed Instructions
+
+This section provides line-by-line instructions for each part in Section 1 of the Student Financial Aid component.
+
+Purpose
+
+The purpose of the section is to collect student counts and financial aid amounts for degree/certificate-seeking undergraduate students and non-degree-certificate seeking undergraduate students enrolled during the 2023-24 academic year.
+
+What NOT to Include
+
+Do not report student counts or aid amounts in Section 1 for the following:
+
+Students who were only graduate students at the institution during the reporting period and
+
+Students in U.S. Department of Education Experimental sites projects.
+
+Do not report:
+
+Federal Work Study amounts into any total aid amounts,
+
+ROTC aid, which is excluded from estimated financial assistance, also known as EFA, in any total aid amounts,
+
+Loans that are made to someone other than the student,
+
+Military/veterans aid in Section 1 because such aid is ONLY reported in Section 2, or
+
+Experimental Sites federal financial aid amounts
+
+
+
+
+
+Part A - Establish Your Student Counts
+
+Consult with the institution’s enrollment data reporter to edit the preloaded student counts on Lines 02 -05 carried forward from the EF Survey if needed. Disaggregate the full-time, first-time degree/certificate seeking undergraduate student count reported on Line 05 to report student counts by the financial aid types listed on Lines 06 – 07. Note the data you report on this screen is carried forward to other parts of the Student Financial Aid Survey component and used to perform Cost and Net Price Survey edit checks.
+
+Instructions:
+
+In the fields provided, report the student counts for each student category below. Some values are preloaded from your institution’s IPEDS Fall Enrollment (EF) survey component (for academic reporters) or 12-Month Enrollment (E12) survey component for program reporters; these may be modified if necessary. If you have questions about the value that has been preloaded in this field, please contact your institution’s IPEDS Keyholder.
+
+Line Description
+
+02. All undergraduate students (Editable Preload, EF)
+
+For academic reporters, report an unduplicated count of all undergraduate students enrolled for the
+
+prior academic year as of October 15 or your institution’s official fall reporting date. For program
+
+reporters, report an unduplicated count of all undergraduate students enrolled anytime during the
+
+prior academic year. Include all new and continuing undergraduate students (full-time students,
+
+part-time students, degree/certificate-seeking students, non-degree/certificate-seeking students,
+
+and all others). This number will be preloaded from your institution's IPEDS Fall Enrollment
+
+component, but it may be modified if necessary. If you have questions about the value that has been
+
+preloaded in this field, please contact your institution’s IPEDS Keyholder.
+
+03. All degree/certificate-seeking undergraduate students (Editable Preload, EF)
+
+Of those on line 02, those who are degree/certificate-seeking
+
+For academic reporters, report the number of degree/certificate-seeking undergraduate students
+
+enrolled for the prior academic year as of October 15 or your institution’s official fall reporting date.
+
+For program reporters, report the number of degree/certificate seeking undergraduate students
+
+enrolled during the prior academic year. Include all new and continuing degree/certificate-seeking
+
+undergraduate students. This number will be preloaded from your institution's IPEDS Fall Enrollment
+
+Survey (EF) for academic reporters or IPEDS 12-Month Enrollment Survey (E12) for program
+
+reporters, but it may be modified if necessary. If you have questions about the value that has been
+
+preloaded in this field, please contact your institution’s IPEDS Keyholder.
+
+04. All non-degree/certificate-seeking undergraduate students (Editable Preload, EF)
+
+Of those on Line 02 (all undergraduate students), those who are non-degree/certificate-
+
+seeking
+
+For academic reporters, report the number of non-degree/certificate-seeking undergraduate students
+
+enrolled for the prior academic year as of October 15 or your institution’s official fall reporting date.
+
+For program reporters, report the number of non-degree/certificate-seeking undergraduate students
+
+enrolled for the prior academic year, which is typically July1 – June 30. Include all new and
+
+continuing non-degree/certificate-seeking undergraduate students. This number will be preloaded
+
+from your institution's IPEDS Fall Enrollment Survey (EF) for academic reporters or IPEDS 12-Month
+
+Enrollment Survey (E12) for program reporters, but it may be modified if necessary. If you have
+
+questions about the value that has been preloaded in this field, please contact your institution’s
+
+IPEDS Keyholder.
+
+05. All full-time, first-time degree certificate-seeking undergraduate students (Editable
+
+Preload, EF)
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 17/27
+
+
+
+
+
+Of those on Line 02, those who are ull-time, first-time degree/certificate seeking
+
+
+undergraduates
+
+Report the number of students who are full-time, first-time degree/certificate-seeking
+
+undergraduates. This number will be preloaded from your institution's IPEDS Fall Enrollment component, but it may be modified if necessary. If you have questions about the value that has been preloaded in this field, please contact your institution’s IPEDS Keyholder.
+
+06. Of the full-time, first-time degree certificate-seeking undergraduate students those on
+
+Line 05, those awarded any of the following (Reported value):
+
+Federal Work Study;
+
+Loans to students;
+
+Grant or scholarship aid from the federal government, state/local government, or the
+
+institution; or
+
+Grant or scholarship aid from other sources known to the institution, such as aid from private sources (e.g., Rotary Club Scholarship).
+
+07. Of the full-time, first-time degree certificate-seeking undergraduate students those on
+
+Line 05, those awarded any of the following (Reported value):
+
+Government and/or private loans to students; or
+
+Grant or scholarship aid from the federal government, state/local government, or the
+
+institution.
+
+
+
+
+
+Part B - Financial Aid About All Undergraduate Students
+
+This part collects information about the number of undergraduate students. Student counts reported in Section 1, Part A, Lines 02 – 04 are carried forward for all undergraduates, all degree/certificate seeking undergraduates, and all non-degree/certificate seeking undergraduates and cannot be edited on this screen. Report the student counts requested in Column 1 and Column 5, and total aid amounts requested in Column 3 and Column 7 by aid types listed on Lines 01 – 03. All other row and column valves are calculated for the institution by NCES, which includes percentages of students awarded aid and average aid amounts.
+
+Note: The disaggregated student counts reported by aid type for each student category must equal the values carried forward listed under Information from Part A. Because financial aid types reported are disaggregated by financial aid program or program group(s) and students may be awarded from more than one program, each program or program group student count reported must be less than or equal to the student count reported for the main or primary financial type. For example, Federal Pell Grant student counts reported cannot exceed the student count reported for Grant or scholarship aid from the federal government, state/local government, the institution, and other sources known to the institution. You will get an error message if data reported do not meet these conditions.
+
+
+
+Reporting Reminders:
+
+Reported values must be consistent with the Information from Part A carried forward to this screen. Report students awarded Federal Pell Grant enrolled in post-baccalaureate teacher certification or licensure programs, or courses required by a state to obtain certification to teach the state as undergraduate students.
+
+Report all other students, including students with intellectual disabilities enrolled in a U.S. Department of Education approved comprehensive transition and postsecondary (CTP) program, at the degree/certificate program level assigned by the institution. Report students not admitted and enrolled as degree/certificate seeking taking prerequisites (preparatory courses) offered as part of a Title IV eligible program to satisfy entrance requirements for a Title IV eligible program at your institution or another institution as non-degree/certificate seeking undergraduates.
+
+For These Students The Following Type(s) of Aid Awarded in This Period
+
+All undergraduate students enrolled in Grant or scholarship aid from: Any time during the academic year
+
+Fall 2023 for the 2023-24 academic federal government 2023-24
+
+year as defined by the institution state/local government
+
+the institution
+
+other sources known to the
+
+institution
+
+Loans to students from:
+
+the federal government
+
+Information from Part A Fall 2023
+
+All undergraduate students
+
+(This number is carried forward from Part A, Line 02.)
+
+Degree/certificate-seeking undergraduate students
+
+(This number is carried forward from Part A, Line 03.)
+
+Non-degree/certificate-seeking undergraduate students
+
+(This number is carried forward from Part A, Line 04.)
+
+The total student count for each student category is preloaded at the top of the screen. Reported student counts in each aid category cannot be greater than this preloaded number.
+
+Instructions:
+
+In the fields provided, report the number of students in each category and the total amount of aid awarded.
+
+Line Description
+
+01 Grant or scholarship aid from the federal government, state/local government, the institution, or other sources
+
+known to the institution. This type of aid is a program group. It includes all federal, state/local, and institutional grant and scholarship aid described for each entity as defined for IPEDS reporting purposes in the What to Include section of the SFA Survey Instructions.
+
+All undergraduates
+
+Column 1. Number of undergraduate students awarded one or more type of grant or scholarship aid from the federal government, state/local government, the institution, or other sources known to the institution. (Reported value)
+
+This is an unduplicated student count. If a student was awarded aid from more than one type listed on Lines 01 through 02, count the student once for Line 01. This student count must be greater than or equal to the student count reported on Line 02.
+
+Do not include work study awards or earnings; veteran’s education benefits; military service education benefits; students awarded grants or scholarships from private sources only (e.g., Rotary Club Scholarship); other specifically excluded from this financial aid program group in Section 1 of the instructions.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 18/27
+
+Column 2. Percentage of undergraduate students awarded one or more types of grants or scholarship aid from the
+
+federal government, state/local government, the institution, or other sources known to the institution. (Calculated
+
+value)
+
+Column 3. Total dollar amount of financial aid awarded for this program group to undergraduate students. (Reported
+
+value)
+
+Column 4. Average dollar amount of grant or scholarship aid from the federal government, state/local government,
+
+the institution, or other sources known to the institution awarded to undergraduate students. (Calculated value)
+
+All degree/certificate seeking undergraduates
+
+Column 5. Number of degree/certificate undergraduate students awarded one or more type of grant or scholarship
+
+aid from the federal government, state/local government, the institution, or other sources known to the institution.
+
+(Reported value)
+
+This is an unduplicated student count. If a student was awarded aid from more than one type listed on Lines 01 through 02,
+
+count the student once for Column 5, Line 01. This student count must be greater than or equal to the student count reported in
+
+Column 5, Line 02.
+
+Do not include work study awards or earnings; veteran’s education benefits; military service education benefits; students
+
+awarded grants or scholarships from private sources only (e.g., Rotary Club Scholarship); other specifically excluded from this
+
+financial aid program group in Section 1 of the instructions.
+
+Column 6. Percentage of degree/certificate seeking undergraduate students awarded one or more types of grants
+
+or scholarship aid from the federal government, state/local government, the institution, or other sources known to
+
+the institution. (Calculated value)
+
+Column 7. Total dollar amount of financial aid awarded for this program group to degree/certificate seeking
+
+undergraduate students. (Reported value)
+
+Column 8. Average dollar amount of grant or scholarship aid from the federal government, state/local government,
+
+the institution, or other sources known to the institution awarded to degree/certificate seeking undergraduate
+
+students. (Calculated value)
+
+All non-degree/certificate seeking undergraduates
+
+Column 9. Number of non-degree/certificate undergraduate students awarded one or more type of grant or
+
+scholarship aid from the federal government, state/local government, the institution, or other sources known to
+
+the institution. (Calculated value)
+
+This is an unduplicated student count. If a student was awarded aid from more than one type listed in Column 09, Lines 01
+
+through 02, count the student once for Column 9, Line 01. This student count must be greater than or equal to the student count
+
+reported in Column 9, Lines 02.
+
+Do not include work study awards or earnings; veteran’s education benefits; military service education benefits; students
+
+awarded grants or scholarships from private sources only (e.g., Rotary Club Scholarship); other specifically excluded from this
+
+financial aid program group in Section 1 of the instructions.
+
+Column 10. Percentage of degree/certificate seeking undergraduate students awarded one or more types of grants
+
+or scholarship aid from the federal government, state/local government, the institution, or other sources known to
+
+the institution. (Calculated value)
+
+Column 11. Total dollar amount of financial aid awarded for this program group to degree/certificate seeking
+
+undergraduate students. (Calculated value)
+
+Column 12. Average dollar amount of grant or scholarship aid from the federal government, state/local
+
+government, the institution, or other sources known to the institution awarded to degree/certificate seeking
+
+undergraduate students. (Calculated value)
+
+Federal Pell Grants.
+
+All undergraduates
+
+Column 1. Total number of undergraduate students awarded a Federal Pell Grant. (Reported value)
+
+This is an unduplicated count. Count each student who received a Federal Pell Grant once on Line 02. This student count must be
+
+less than or equal to the federal grant and scholarship aid count reported in Column 1, Line 01.
+
+Column 2. Percentage of undergraduate students awarded a Federal Pell Grant. (Calculated value)
+
+Column 3. Total dollar amount of all Federal Pell Grants awarded to undergraduate students. (Reported value)
+
+Column 4. Average dollar amount of Federal Pell Grants awarded to undergraduates. (Calculated value)
+
+All degree/certificate seeking undergraduates
+
+Column 5. Number of degree/certificate undergraduate students awarded a Federal Pell Grant. (Reported value)
+
+This is an unduplicated student count. Count the student once for Line 02 even if the student received more than one full Federal
+
+Pell Grant award under the year-round Pell (also known as additional Pell) program. This count must be less than or equal to the
+
+count reported in Column 5, Line 01.
+
+Do not include work study awards or earnings; veteran’s education benefits; military service education benefits; students
+
+awarded grants or scholarships from private sources only (e.g., Rotary Club Scholarship); other specifically excluded from this
+
+financial aid program group in Section 1 of the instructions.
+
+Column 6. Percentage of degree/certificate seeking undergraduate students awarded a Federal Pell Grant.
+
+(Calculated value)
+
+02 Column 7. Total dollar amount of Federal Pell Grant awarded to degree/certificate seeking undergraduate students
+
+(Reported value).
+
+Column 8. Average dollar amount of Federal Pell Grant awarded to degree/certificate seeking undergraduate
+
+students. (Calculated value).
+
+All non-degree/certificate seeking undergraduates
+
+Column 9. Number of non-degree/certificate undergraduate students awarded a Federal Pell Grant. (Calculated
+
+value)
+
+This is an unduplicated student count. Count the student once in Column 09, Line 02 even if the student received more the one
+
+full Federal Pell Grant award under the year-round Pell (also known as additional Pell) program. This student count must be less
+
+than or equal to the student count reported in Column. 9, Lines 01.
+
+Do not include work study awards or earnings; veteran’s education benefits; military service education benefits; students
+
+awarded grants or scholarships from private sources only (e.g., Rotary Club Scholarship); other specifically excluded from this
+
+financial aid program group in Section 1 of the instructions.
+
+Column 10. Percentage of non-degree/certificate seeking undergraduate students awarded a Federal Pell Grant.
+
+(Calculated value)
+
+Column 11. Total dollar amount of Federal Pell Grant awarded to non-degree/certificate seeking undergraduate
+
+students. (Calculated value)
+
+Column 12. Average dollar amount of Federal Pell Grant awarded to non-degree/certificate seeking undergraduate
+
+students. (Calculated value)
+
+03 Federal loans to students. Report loans awarded and accepted by the student from the federal government that must be
+
+repaid by the student for which the student is the designated borrower. Includes all Title IV federal student loan aid such as
+
+Subsidized Direct Loans and Unsubsidized Direct Loans. Also include Health Professions Student Loans, Loans for Disadvantaged
+
+Students, Nursing Student Loans, Primary Care Loans, and other federal student loans. Do not include PLUS loans or other
+
+federal loans for which the student is not a primary borrower.
+
+All undergraduates
+
+Column 1. Total number of undergraduate students awarded (and who accepted) a federal student loan. (Reported
+
+value)
+
+This is an unduplicated count. Count each student who received a federal student loan once on Line 03. Do not include loans to
+
+others (e.g., PLUS loans to parents or federal loans for which the student is not a primary borrower) and do not include
+
+state/local, institutional, or private loans.
+
+Column 2. Percentage of undergraduate students awarded (and who accepted) a federal student loan. (Calculated
+
+value)
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 19/27
+
+Column 3. Total dollar amount of federal student loans awarded to and accepted by undergraduate students. (Reported value)
+
+Column 4. Average dollar amount of federal student loans awarded and accepted by undergraduate students. (Calculated value)
+
+All degree/certificate seeking undergraduates
+
+Column 5. Total number of degree/certificate seeking undergraduate students awarded (and who accepted) a federal student loan. (Reported value)
+
+This is an unduplicated count. Count each student who received a federal student loan once in Column 5, Line 03. Do not include loans to others (e.g., PLUS loans to parents or federal loans for which the student is not a primary borrower) and do not include state/local, institutional, or private loans.
+
+Column 6. Percentage of degree/certificate seeking undergraduate students awarded (and who accepted) a federal student loan. (Calculated value)
+
+Column 7. Total dollar amount of federal student loans awarded to and accepted by degree/certificate seeking undergraduate students. (Reported value)
+
+Column 8. Average dollar amount of federal student loans awarded and accepted by degree/certificate seeking undergraduate students. (Calculated value)
+
+All non- degree/certificate seeking undergraduates
+
+Column 9. Total number of non-degree/certificate seeking undergraduate students awarded (and who accepted) a federal student loan. (Reported value)
+
+This is an unduplicated count. Count each student who received a federal student loan once in Column 9, Line 03. Do not include loans to others (e.g., PLUS loans to parents or federal loans for which the student is not a primary borrower) and do not include state/local, institutional, or private loans.
+
+Column 10. Percentage of non-degree/certificate seeking undergraduate students awarded (and who accepted) a federal student loan. (Calculated value)
+
+Column 11. Total dollar amount of non-federal student loans awarded to and accepted by degree/certificate seeking undergraduate students. (Reported value)
+
+Column 12. Average dollar amount of federal student loans awarded and accepted by non-degree/certificate seeking undergraduate students. (Calculated value)
+
+
+
+
+
+Part C - Enter Financial Aid about full-time, first-time degree/certificate-seeking undergraduate students This part collects information about the number of full-time, first-time degree/certificate-seeking undergraduate students and the total amounts of aid awarded by aid types. For academic reporters, this includes full-time, first-time degree/certificate seeking undergraduate students enrolled in the prior Fall. For Program Reporters, this includes full-time, first-time degree/certificate-seeking undergraduate students enrolled anytime during the prior academic period from July 1 – June 30.
+
+Student counts reported in Section 1, Part A, Lines 05 – 07 are carried forward for full-time, first-time degree/certificate seeking undergraduates and cannot be edited on this screen. Report the student counts requested in Column 1 and total aid amounts requested in Column 3 by the aid types listed on Lines 01 – 09. Prior year average aid amounts are listed in Column 5. All other row and column valves are calculated for the institution by NCES, which includes percentages of students awarded aid and average aid amounts.
+
+Note: The disaggregated student counts reported by aid type in each sub-category of full-time, first-time degree/certificate undergraduate students must equal the values carried forward listed under Information from Part A. Because financial aid types reported are disaggregated by financial aid program or program group(s) and students may be awarded from more than one program, each program or program group student count reported must be less than or equal to the student count reported for the main or primary financial type. For example, the sum of student counts reported for federal loans to students and other loans to students (including private loans) cannot exceed the student count reported for loans to students. You will get an error message if data reported do not meet these conditions.
+
+Reporting Reminders:
+
+Reported values must be consistent with the Information from Part A carried forward to this screen. Report all students, including students with intellectual disabilities enrolled in a U.S. Department of Education approved comprehensive transition and postsecondary (CTP) program, at the degree/certificate program level assigned by the institution.
+
+For this part, report:
+
+For These Students The Following Type(s) of Aid Awarded in This Period
+
+Full-time, first-time degree/certificate- Grant or scholarship aid from: Any time during academic year
+
+seeking undergraduate students federal government 2023-24
+
+enrolled in Fall 2023 for the 2023-24 state/local government
+
+academic year as defined by the the institution
+
+institution Loans to students from:
+
+the federal government
+
+other sources, including private or other
+
+loans
+
+Do not include:
+
+grant or scholarship aid from private or
+
+other sources
+
+PLUS loans or loans made to anyone
+
+other than the student
+
+
+
+Information from Part A: Fall 2023
+
+students Carried forward from Part A Line 05 Full-time, first-time degree/certificate-seeking undergraduate
+
+Full-time, first-time degree/certificate-seeking undergraduate
+
+students awarded:
+
+Federal Work Study
+
+Grant or scholarship aid from the federal government, Carried forward from Part A Line 06 Loans to students
+
+state/local government, or the institution
+
+Other sources known to the institution
+
+Full-time, first-time degree/certificate-seeking undergraduate
+
+students awarded:
+
+Grant or scholarship aid from the federal government, Carried forward from Part A Line 07 Loans to students
+
+state/local government, or the institution
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 20/27
+
+In the fields provided, report the number of full-time, first-time degree/certificate-seeking (FTFT DGCS) undergraduate students and the total amount of aid they were awarded for each type of aid.
+
+Line Description
+
+01 Grant or scholarship aid from the federal government, state/local government, and the institution This type of aid is
+
+a program group. It includes all federal, state/local, and institutional grant and scholarship aid described for each entity as
+
+defined for IPEDS reporting purposes in the What to Include section of the SFA Survey Instructions.
+
+Column 1. Number of FTFTDGCS students awarded one or more grant or scholarship aid from the federal
+
+government, state/local government, or the institution. (Reported value)
+
+This is an unduplicated student count. If a student appears in more than one type of aid category on Lines 02 through 06, that
+
+student should only be counted once for Line 01. This student count must be greater than or equal to largest student count
+
+reported on Lines 02, 05, and 06.
+
+Do not include work study awards or earnings; veteran’s education benefits; military service education benefits; students
+
+awarded grants or scholarships from private sources only (e.g., Rotary Club Scholarship); or others specifically excluded from
+
+this financial aid program group in Section 1 of the instructions.
+
+Column 2.Percentage of FTFTDGCS students awarded one or more grant or scholarship aid from the federal government,
+
+state/local government, or the institution. (Calculated value)
+
+Column 3.Total dollar amount of financial aid awarded for this program group to FTFT DGCS. (Calculated value = [(Line 02,
+
+Column 3) + (Line 05, Column 3) + (Line 06, Column 3)])
+
+Column 4. Average dollar amount of grant or scholarship aid from the federal government, state/local government, or the
+
+institution awarded to FTFT DGCS students. (Calculated value)
+
+Column 5. Average dollar amount of grant or scholarship aid from the federal government, state/local government, or the
+
+institution awarded to FTFT DGCS students. (Prior year value)
+
+02. Federal grant and scholarship aid
+
+This aid category is disaggregated into one financial aid program—Federal Pell Grants—and a program group—Other federal grant
+
+and scholarship aid. Report the federal share of grants and scholarships provided by federal agencies such as the U.S.
+
+Department of Education. Include Title IV federal student aid program grants such as Federal Pell Grants, FSEOG, and TEACH
+
+Grants and federal grants and scholarships awarded by other federal agencies/entities such as the Department of Health and
+
+Human Services, or (HHS) agencies. Also include need-based and merit-based educational assistance funds and training
+
+vouchers provided from (a) other federal agencies and (b) federally- sponsored educational benefits programs.
+
+Do not include veterans' education benefits, as defined in section 480(c) of the HEA of 1965, as amended. For more information,
+
+see the Guidance on Federal Veterans' Education Benefits for Purposes of the Title IV Student Assistance Programs Q&A posted
+
+on August 30, 2009, on the Federal Student Aid Knowledge Center website. Do not include Post 9-11 Veterans' education
+
+assistance or Department of Defense Tuition Assistance benefits since these programs are reported in Section 2 of the SFA
+
+survey component.
+
+Column 1. Number of FTFT DGCS students awarded one or more types of federal grant or scholarship aid. (Reported value)
+
+This is an unduplicated count. If a student was awarded aid from more than one type listed on Lines 03 through 04, count the
+
+student once on Line 02. This student count must be less than or equal to the student count reported on Line 01, and greater
+
+than or equal to the largest student count reported on Lines 03 and 04.
+
+Column 2. Percentage of FTFT DGCS students awarded federal grant and scholarship aid. (Calculated value)
+
+Column 3. Total dollar amount of all financial aid awarded for this program group. (Calculated value = [(Line 03, Column 3) +
+
+(Line 04, Column 3)])
+
+Column 4. Average dollar amount of federal grant and scholarship aid awarded to FTFT DGCS students. (Calculated value)
+
+Column 5. Average dollar amount of federal grant and scholarship aid awarded to FTFT DGCS students. (Prior year value)
+
+03 Federal Pell grants
+
+Column 1. Number of FTFT DGCS students awarded a Federal Pell Grant. (Reported value)
+
+This is an unduplicated count. Count each student who received a Federal Pell Grant once on Line 03. Count the student once
+
+even if the student received more than one full Federal Pell Grant award under the year-round Pell (also known as additional Pell)
+
+program. This student count must be less than or equal to the Federal grant and scholarship aid count reported in Column 1,
+
+Line 02.
+
+Column 2. Percentage of FTFT DGCS students awarded a Federal Pell Grant. (Calculated value)
+
+Column 3. Total dollar amount of all Federal Pell Grants awarded to FTFT DGCS students. (Reported value)
+
+Column 4. Average amount of Federal Pell Grants awarded to FTFT DGCS students. (Calculated value)
+
+Column 5. Average dollar amount of Federal Pell Grants awarded to FTFT DGCS students. (Prior year value)
+
+04 Other federal grant and scholarship aid Report the federal share only. Do not include Post-9/11 Yellow Ribbon institutional or
+
+state tuition and fee waivers.
+
+Column 1. Number of FTFT DGCS students awarded other federal grant and scholarship aid (include Title IV grant aid other than
+
+a Pell grant). (Reported value)
+
+This is an unduplicated count and must be less than or equal to the Federal grants and scholarships aid count reported in Column
+
+1, Line 02. Do not include students awarded Federal Pell Grants only.
+
+Column 2. Percentage of FTFT DGCS students awarded Other federal grant and scholarship aid awarded to FTFT DGCS students.
+
+(Calculated value)
+
+Column 3. Total dollar amount of all Other federal grant and scholarship aid awarded to FTFT DGCS students. (Reported value)
+
+Column 4. Average dollar amount of Other federal grant and scholarship aid awarded to FTFT DGCS students. (Calculated value)
+
+Column 5. Average dollar amount of Other federal grant and scholarship aid awarded to FTFT DGCS students. (Prior year value)
+
+05. State/local government grant or scholarship aid (includes fellowships, waivers, and employee exemptions) Report
+
+grants, scholarships, fellowships, waivers, and employee exemptions funded or awarded by the state or local government where
+
+the institution id located. Include all municipalities, townships, and other jurisdictions within the state. Include need-based and
+
+merit-based grants and scholarships. Also include tuition and fee waivers, and employee exemptions for which your institution
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 21/27
+
+was reimbursed by a state or local government agency. Report the state and local share of the awards only. Do not include the
+
+federal or institutional shares of grant, scholarship, fellowship, waiver, or employee exemption awards. Do not include funds
+
+known and passed through to the institution for the student by the state on behalf of a non-state or non-local entity.
+
+Column 1. Number of FTFT DGCS students awarded grant or scholarship aid from a state/local government. (Reported value)
+
+This is an unduplicated count and must be less than or equal to grant or scholarship aid from the federal government, state/local
+
+government, or the institution in Column1, Line 01. Do not include federal or institutional grant or scholarship aid, or other aid
+
+known to the institution from a non-state or non-local entity.
+
+Column 2. Percentage of FTFT DGCS students awarded grant or scholarship aid from a state/local government. (Calculated
+
+value)
+
+Column 3. Total dollar amount of all grant or scholarship aid from a state/local government awarded to FTFT DGCS students.
+
+(Reported value)
+
+Column 4. Average dollar amount of grant or scholarship aid from a state/local government awarded to FTFT DGCS students.
+
+(Calculated value)
+
+Column 5. Average dollar amount of grant and scholarship aid awarded from the state/local government awarded to FTFT DGCS
+
+students. (Prior year value)
+
+06. Institutional grant or scholarship aid ( includes fellowships, waivers, and employee exemptions)
+
+Report grants, scholarships, fellowships, waivers, and employee exemptions granted and funded, or awarded by the institution
+
+and/or individual departments within the institution limited to students attending the institution. Include scholarships targeted to
+
+certain individuals (e.g., based on state of residence, major, or participation in athletic activities) for which the institution
+
+designates the recipient. Also include institutional tuition and fee waivers, and employee exemptions for which your institution
+
+was not reimbursed by a state or local entity. Include institutional grants, and the non-work-study portion of scholarships,
+
+fellowships, and waivers used to satisfy matching requirements for other programs. Do not include the work study portion of
+
+financial aid awards. Do not include grants, scholarships, fellowships, waivers, or employee exemptions passed through to the
+
+institutional from other entities if the institution does not select or designate the recipient. Do not include the federal or state
+
+matching share of financial aid awards.
+
+Column 1. Number of FTFT DGCS students awarded grant or scholarship aid from the institution. (Reported value) This is an
+
+unduplicated count and must be less than or equal to grant or scholarship aid from the federal government, state/local
+
+government, or the institution in Column 1, Line 01. Do not include federal grant or scholarship aid; state grant or scholarship
+
+aid; or other aid types awarded excluded above.
+
+Column 2. Percentage of FTFT DGCS students awarded grant or scholarship aid from the institution. (Calculated value)
+
+Column 3. Total dollar amount of all grants or scholarship aid from the institution awarded to FTFT DGCS students. (Reported
+
+value)
+
+Column 4. Average dollar amount of grant or scholarship aid from the institution awarded to FTFT DGCS students. (Calculated
+
+value)
+
+Column 5. Average dollar amount of grant and scholarship aid from the institution awarded to FTFT DGCS students. (Prior year
+
+value)
+
+07. Loans to students
+
+This aid type is disaggregated into two program groups—Federal loans to students and Other loans to students (including
+
+private loans). Report loans awarded to and accepted by the student. Include money borrowed by the student from the federal
+
+government that must be repaid. Include all Title IV federal student loan programs. Include all institutionally sponsored short-
+
+term and long-term education loans to students made by the institution or its Schools, Colleges, or student organizations.
+
+Include emergency education loans backed by a surety (i.e., financial guarantee) and Health Professions Student Loans, Loans
+
+for Disadvantaged Students, Nursing Student Loans, Primary Care Loans, and other federal loans borrowed by the student.
+
+Include private loans from lending institutions for which the student is the designated borrower. This includes Income Share
+
+Agreements and other loans certified by the institution, or known by or passed through the institution, borrowed by the student
+
+to cover the student’s cost of attendance. Also include loans cosigned by a student borrower to cover the student’s education
+
+costs if the student is the primary borrower legally obligated to repay to the lender.
+
+Exclude loans not made directly to the student such as PLUS loans or loans borrowed by others for the student on which the
+
+student is not listed as a primary borrower. Do not include loans contingent on the student’s financial aid (also known as
+
+payment deferments) not backed by another source of security.
+
+Column 1. Number of FTFTGDCS students awarded one or more type of loans to students. (Reported value)
+
+This is an unduplicated count. If a student was awarded a loan from more than one type listed on Line 08 and Line 09, count the
+
+student once on Line 07. This student count must be greater than or equal to the largest student count reported on Line 08 and
+
+Line 09. Include loans awarded and accepted by the student from federal and state/local government lenders, the institution,
+
+and other sources (including private lenders). Note that this number should be at least as large as the largest number
+
+reported in Line 11, Column 1 or Line 12, Column 1. In addition, this number cannot exceed the sum of [(Line 11,
+
+Column 1) + (Line 12, Column 1)].
+
+Column 2. Percentage of FTFT DGCS students awarded one or more loans to students. (Calculated value)
+
+Column 3. Total dollar amount of all loans awarded to FTFT DGCS students. (Calculated value)
+
+Column 4. Average dollar amount of loans to students awarded to FTFT DGCS students. (Calculated value)
+
+Column 5. Average dollar amount of loans awarded to FTFT DGCS students. (Prior year value)
+
+
+
+08. Federal loans to students
+
+Report loans awarded to the student from the federal government that must be repaid by the student for which the student is
+
+the designated borrower. Includes all Title IV federal student loan aid such as Subsidized Direct Loans and Unsubsidized Direct
+
+Loans. Also include Health Professions Student Loans, Loans for Disadvantaged Students, Nursing Student Loans, Primary Care
+
+Loans, and other federal student loans. Do not include PLUS loans and other federal loans not made directly to the student (I.e.,
+
+the student is not a primary borrower).
+
+Column 1. Number of FTFT DGCS students awarded one or more federal student loans. (Reported value)
+
+This is an unduplicated count. Count each student who received a federal student loan once on Line 08. This student count must
+
+be less than or equal to the loans to students reported in Column 1, Line 07. Do not include loans to others (e.g., PLUS loans to
+
+parents or loans for which the student is not a primary borrower) and do not include any other type of grant, scholarship, or loan
+
+aid. Do not include loans to others (e.g., PLUS loans to parents) and do not include any other type of grant or loan aid.
+
+Column 2. Percentage of FTFT DGCS students awarded one or more federal student loans. (Calculated value)
+
+Column 3. Total dollar amount of all federal student loans awarded to FTFT DGCS students. (Reported value)
+
+Column 4. Average dollar amount of federal student loans awarded to FTFT DGCS students. (Calculated value)
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 22/27
+
+Column 5. Average dollar amount of federal student loans awarded and accepted by FTFT DGCS students. (Prior year value)
+
+
+
+09. Other loans to students (including private loans). Report institutional, private, and other non-federal education loans to
+
+students. Include short-term and long-term education loans to students made by the institution or its Schools, Colleges, or
+
+student organizations, including emergency education loans backed by a surety (i.e., financial guarantee). Also include loans
+
+borrowed by the student to cover education costs that must be repaid by the student to a lender ; all institutionally and privately
+
+funded or sponsored loans such as Income Share Agreements; and all other loans certified by the institution, or known by or
+
+passed through the institution, borrowed by the student to cover the student's the cost of attendance.
+
+Included loans cosigned by a student borrower to cover the student's education costs if the student is the primary borrower
+
+legally obligated to repay to the lender. Do not include federal education loans. Exclude for which the student is not the
+
+designated borrower. Do not include loans contingent on the student's financial aid (also known as payment deferments) not
+
+backed by another source of security.
+
+Column 1. Number of FTFT DGCS students awarded one or more loans to students from sources other than the federal
+
+government. (Reported value)
+
+This is an unduplicated count. Count each student awarded one or more Other loans to students once on Line 09. This student
+
+count must be less than or equal to the loans to students reported in Column 1, Line 07. Do not include federal loans or loans to
+
+others (e.g., the student's parents or spouse). Do not include any other type of aid such as grants or scholarships. Do not include
+
+loans contingent on the student's financial aid (also known as payment deferments) not backed by another source of security.
+
+Column 2. Percentage of FTFT DGCS students awarded one or more loans Other loans to students (including private loans.
+
+(Calculated value)
+
+Column 3. Total dollar amount of all Other loans to students awarded to FTFT DGCS students. (Reported value)
+
+Column 4. Average dollar amount of Other loans to students awarded to FTFT DGCS students. (Calculated value)
+
+Column 5. Average dollar amount of Other loans to students awarded to FTFT DGCS students. (Prior year value)
+
+
+
+
+
+Section 2. Military Servicemembers and Veteran Students with Benefits
+
+
+
+Purpose of Survey Component
+
+The purpose of this section is to collect student counts and financial assistance amounts known to the institution disbursed to undergraduate and graduate students enrolled during the 2023-24 academic year.
+
+
+
+Detailed Instruction
+
+This section provides line-by-line instructions for reporting Post-9/11 GI Bill benefits and Department of Defense Tuition Assistance to IPEDS.
+
+Screening Question
+
+Indicate whether your institution participated in the U.S. Department of Veterans Affairs Post-9/11 GI Bill or U.S. Department of Defense Military Tuition Assistance benefit programs during the 2023-24 award period. If your institution participated in either program, check yes and check which program(s) your institution participated in. Responding ‘Yes’ to this question means your institution will report Section 2.
+
+What NOT to Include
+
+Do not report the following aid types in student counts and total benefit amounts:
+
+Post-9/11 GI Bill Yellow Ribbon program institutional or state match,
+
+VA Work Study, or
+
+ROTC aid, which is excluded from estimated financial assistance, also known as EFA.
+
+
+
+Reporting Reminders:
+
+Report student counts and total benefit amounts disbursed known to the institution for the U.S. Department Veteran's Affairs Post-9/11 GI Bill Program.
+
+Report student counts and disbursed amounts received and disbursed by the institution for the U.S. Department of Defense Tuition Assistance Program.
+
+Report unduplicated student counts within a category (e.g., Post-9/11 GI Bill Benefits), however, a student can appear in both categories (i.e., a student
+
+can be counted as a Post-9/11 GI Bill Benefits recipient and a Department of Defense Tuition Assistance recipient).
+
+Student recipients can also include eligible dependents.
+
+A student may receive benefits at the undergraduate level and the graduate level during award period.
+
+Consult with your campus certifying official, who may not be in the student financial aid office.
+
+For Post-9/11 GI Bill Benefits, do not include the institutional or state matching share for aid provided through the Yellow Ribbon Program if your school
+
+participated.
+
+Do not leave a cell blank. Enter zero (0) if your institution did not have recipients for the financial assistance program or program level.
+
+Line Description
+
+Post-9/11 GI Bill Benefits for undergraduate and graduate students.
+
+The U.S. Department of Veterans Affairs provides up to 36 months of Post-9/11 GI Bill Benefits for tuition and fees; books and supplies;
+
+and housing for veterans who served on active duty after September 10, 2001.The tuition and fees are disbursed to the institution—
+
+passed through the institution to the student.
+
+Report student counts and disbursed amounts known to the institution for tuition and fees; books and supplies; and housing benefits for
+
+students enrolled during the prior 2023-24 academic year and disbursed for the July 1, 2023, to June 30, 2024, award period.
+
+Note: It is possible to disburse benefits to a student enrolled for the academic year at the undergraduate level and the graduate levels. If
+
+benefits were disbursed to a student at the undergraduate and graduate levels for the award period, count the student and the aid
+
+disbursed at both levels. For example, if $500 for tuition and fees was disbursed to A student as an undergraduate student and $800 for
+
+tuition and fees was disbursed to A student as a graduate student, (1) count The student once as an undergraduate and include the $500
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 23/27 disbursed in the total dollar amount of benefits/assistance disbursed to undergraduate students and (2) count The student once as a graduate student and include the $800 disbursed in the total dollar amount of benefits/assistance disbursed to graduate students.
+
+It is also possible for a student to received Post-9/11 GI Bill benefits and Department of Defense Tuition Assistance during the same academic year. If benefits were disbursed to a student for both programs during the reporting periods requested, count the student and report the aid disbursed for both programs.
+
+Lastly, it is possible Post-9/11 benefits for the reporting period were disbursed after the last day of the award period. Include funds disbursed after June 30, 2024, for the prior 2023-24 award period.
+
+Do not include Yellow Ribbon Program institutional or state match.
+
+01 Post-9/11 GI Bill Benefits disbursed to undergraduate students. Report Post-9/11 tuition and fees, books and supplies,
+
+and housing benefits disbursed to undergraduate students known to the institution.
+
+Do not include graduate students or Yellow Ribbon Program institutional or state match.
+
+Column 1. Unduplicated number of undergraduate students disbursed benefits through the institution. (Reported
+
+value)
+
+This is an unduplicated student count. Report the total number of undergraduate students disbursed Post-9/11 GI Bill education
+
+benefits for the award period known to the institution.
+
+Column 2. Total dollar amount of benefits disbursed to undergraduate students known to the institution. (Reported
+
+value)
+
+Column 3. Average dollar amount of benefits disbursed to undergraduate students known to the institution.
+
+(Calculated value)
+
+Column 4. Average dollar amount of benefits disbursed to undergraduate students known to the institution. (Prior
+
+year value)
+
+02 Post-9/11 GI Bill Benefits disbursed to graduate student. Report Post-9/11 tuition and fee, books and supplies, and
+
+housing benefits disbursed to graduate students known to the institution.
+
+Do not include undergraduate students or Yellow Ribbon Program institutional or state match.
+
+Column 1. Unduplicated number of graduate students disbursed benefits through the institution. (Reported value)
+
+This is an unduplicated student count. Report the total number of graduate students disbursed Post-9/11 GI Bill education
+
+benefits for the award period known to the institution.
+
+Column 2. Total dollar amount of benefits disbursed to graduate students known to the institution. (Reported value)
+
+Column 3. Average dollar amount of benefits disbursed to graduate students known to the institution. (Calculated
+
+value)
+
+Column 4. Average dollar amount of benefits disbursed to graduate students known to the institution. (Prior year
+
+value)
+
+03 Post-9/11 GI Benefits Program Totals.
+
+Column 1. Total number of undergraduate and graduate students disbursed benefits known to the institution.
+
+(Calculated value)
+
+This is the total number students at all program levels disbursed benefits/assistance. The is not an unduplicated count since a
+
+student disbursed benefits at the undergraduate and graduate levels for the same award period may be counted once at each
+
+level.
+
+Column 2. Total dollar amount of benefits disbursed to all students known to the institution. (Reported value)
+
+Column 3. Average dollar amount of benefits disbursed to all students known to the institution. (Calculated value)
+
+Column 4. Average dollar amount of benefits disbursed to all students known to the institution. (Prior year value)
+
+Department of Defense Tuition Assistance for undergraduate and graduate students.
+
+The U.S. Department of Defense's Military Tuition Assistance (TA) program is a federal program available to eligible servicemembers. It includes active-duty military, selected reserve, coast guard, and army national guard personnel and pays up to 100% of college tuition and course-specific fees for enrollment at a U.S. Department of Education accredited postsecondary institution to support voluntary off-duty professional and self-development education goals.
+
+Funds disbursed are paid directly to the institution—passed through the institution to the student.
+
+Report tuition and fee benefits for students enrolled during the prior 2023-24 academic year and disbursed for the October 1, 2023, to September 30, 2024, award period.
+
+Note: It is possible for the institution to disburse benefits to a student enrolled for the academic year at the undergraduate level and the graduate levels. If the institution disbursed benefits to a student at the undergraduate and graduate levels for the award period, count the student and the aid disbursed at both levels. For example, if $700 for tuition and fees was disbursed to A student as an undergraduate student and $500 for tuition and fees was disbursed to A student as a graduate student, (1) count The student once as an undergraduate and include the $700 disbursed in the total dollar amount of benefits/assistance disbursed to undergraduate students and (2) count The student once as a graduate student and include the $500 disbursed in the total dollar amount of benefits/assistance disbursed to graduate students.
+
+It is also possible for a student to received Department of Defense Tuition Assistance and Post-9/11 GI Bill benefits during the same academic year. If a student was disbursed benefits for both programs during the reporting periods requested, count the student and report the benefit for both programs.
+
+Lastly, it is possible for an institution to received and disburse Department of Defense Tuition Assistance for the reporting period after the last day of the award period. Include funds received and disbursed after September 30, 2024, for the prior 2023-24 award period.
+
+04 Department of Defense Tuition Assistance received and disbursed to undergraduate students. Report TA benefits
+
+received and disbursed to undergraduate students.
+
+Do not include graduate students.
+
+Column 1. Unduplicated number of undergraduate students who received assistance disbursed through the
+
+institution. (Reported value)
+
+This is an unduplicated student count. Report the total number of undergraduate students disbursed TA benefits for the award
+
+period.
+
+Column 2. Total dollar amount of assistance received and disbursed to undergraduate students through the
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 24/27
+
+institution. (Reported value)
+
+Column 3. Average dollar amount of assistance received and disbursed to undergraduate students through the
+
+institution. (Calculated value)
+
+Column 4. Average dollar amount of benefits/assistance received and disbursed to undergraduate students through
+
+the institution. (Prior year value)
+
+05 Department of Defense Tuition Assistance received and disbursed to graduate student. Report TA benefits received and
+
+disbursed to graduate students.
+
+Do not include undergraduate students.
+
+Column 1. Unduplicated number of graduate students who received assistance disbursed through the institution.
+
+(Reported value)
+
+This is an unduplicated student count. Report the total number of graduate students disbursed TA benefits for the award period.
+
+Column 2. Total dollar amount of assistance received and disbursed to graduate students through the institution.
+
+(Reported value)
+
+Column 3. Average dollar amount of assistance received and disbursed to graduate students through the
+
+institution. (Calculated value)
+
+Column 4. Average dollar amount of benefits/assistance received and disbursed to graduate students through the
+
+institution. (Prior year value)
+
+06 Department of Defense Tuition Assistance Totals.
+
+Column 1. Total number of undergraduate and graduate students who received assistance disbursed through the
+
+institution. (Calculated value)
+
+This is the total number students at all program levels disbursed assistance through the institution. The is not an unduplicated
+
+count since a student disbursed aid at the undergraduate and graduate levels for the same award period may be counted once at
+
+each level.
+
+Column 2. Total dollar amount of assistance received and disbursed to all students through the institution.
+
+(Calculated value)
+
+Column 3. Average dollar amount of assistance received and disbursed to all students through the institution.
+
+(Calculated value)
+
+Column 4. Average dollar amount of assistance received and disbursed to all students through the institution. (Prior
+
+year value)
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 25/27 Glossary
+
+Term Definition
+
+Cohort year The year that a cohort of students begins attending college.
+
+Cross-over award period A term or period of enrollment in a course or program that begins in one award year and ends in the subsequent award year.
+
+Grants provided by federal agencies such as the U.S. Department of Education, including Title IV Pell Grants and Supplemental
+
+Federal grants
+
+Educational Opportunity Grants (SEOG). Also includes need-based and merit-based educational assistance funds and training
+
+(grants/educational
+
+vouchers provided from other federal agencies and/or federally sponsored educational benefits programs. (Used for reporting
+
+assistance funds)
+
+on the Student Financial Aid component)
+
+A part-time work program awarding on- or off-campus jobs to students who demonstrate financial need. FWS positions are primarily funded by the federal government (federal share), but are also partially funded by other organizations, including the institution (non-federal share). FWS is awarded to eligible students by the college as part of the student's financial aid package.
+
+Federal Work Study (FWS)
+
+The maximum FWS award is based on the student's financial need, the number of hours the student is able to work, and the amount of FWS funding available at the institution. This is a type of Title IV Aid, but it is not considered grant or loan aid to students.
+
+Federal Work Study, grants, loans to students (government and/or private), assistantships, scholarships, fellowships, tuition
+
+Financial aid waivers, tuition discounts, employer aid (tuition reimbursement) and other monies (other than from relatives/friends) provided to
+
+students to meet expenses. This excludes loans to parents.
+
+A student who has no prior postsecondary experience (except as noted below) attending any institution for the first time at the
+
+First-time student undergraduate level. This includes students enrolled in academic or occupational programs. It also includes students enrolled
+
+(undergraduate) in the fall term who attended college for the first time in the prior summer session, and students who entered with advanced
+
+standing (college credits or recognized postsecondary credential earned before graduation from high school).
+
+Scholarships and fellowships granted and funded by the institution and/or individual departments within the institution, (i.e., instruction, research, public service) that may contribute indirectly to the enhancement of these programs . Includes
+
+Institutional grants
+
+scholarships targeted to certain individuals (e.g., based on state of residence, major field of study, athletic team participation) for which the institution designates the recipient.
+
+The Integrated Postsecondary Education Data System (IPEDS), conducted by the NCES, began in 1986 and involves annual
+
+institution-level data collections. All postsecondary institutions that have a Program Participation Agreement with the Office of
+
+Integrated Postsecondary Postsecondary Education (OPE), U.S. Department of Education (throughout IPEDS referred to as "Title IV") are required to report
+
+Education Data System data using a web-based data collection system. IPEDS currently consists of the following components: Institutional
+
+(IPEDS) Characteristics (IC); 12-month Enrollment (E12);Completions (C); Admissions (ADM); Student Financial Aid (SFA); Human
+
+Resources (HR) composed of Employees by Assigned Position, Fall Staff, and Salaries; Fall Enrollment (EF); Graduation Rates
+
+(GR); Outcome Measures (OM); Finance (F); and Academic Libraries (AL).
+
+Any monies that must be repaid to the lending institution for which the student is the designated borrower. Includes all Title IV
+
+Loans to students subsidized and unsubsidized loans and all institutionally and privately sponsored loans. Does not include Parent PLUS and other
+
+loans made directly to parents.
+
+A program that funds up to 100% of an eligible servicemember's college tuition and course-specific fees. Available only to
+
+Military Tuition Assistance eligible servicemembers who are currently in active service as long as criteria limits are not exceeded and students are enrolled (TAP) Program off-duty in an U.S. Department of Education accredited post-secondary institution. This military benefit is paid directly to the
+
+postsecondary institution by the individual's Armed service.
+
+Any residence hall or housing facility owned or controlled by an institution within the same reasonably contiguous geographic
+
+On-campus housing
+
+area and used by the institution in direct support of or in a manner related to, the institution's educational purposes.
+
+A federal education benefit program for veterans, who served on active duty after September 10, 2001. This Department of Veteran Affairs benefit provides up to 36 months of education benefits at an approved institution for the following college costs:
+
+Post 9/11 GI Bill tuition and fees, books and supplies, and housing. The tuition and fees payment, which is the cost for an in-state student
+
+attending a public institution, is made directly to the postsecondary institution whereas payments for books and supplies and housing are sent directly to the student.
+
+Grants-in-aid, trainee stipends, tuition and required fee waivers, prizes or other monetary awards given to undergraduate
+
+Scholarships
+
+students.
+
+Grant monies provided by the state such as Leveraging Educational Assistance Partnerships (LEAP) program (formerly State Student Incentive Grant program or SSIG); merit scholarships provided by the state; and tuition and fee waivers for which the
+
+State and local grants
+
+institution was reimbursed by a state agency. Local government grants include scholarships or gift-aid awarded directly to the student. (Used for reporting for private for-profit institutions on the Finance component)
+
+Title IV aid to students includes grant aid, work study aid, and loan aid. Current and historical programs include: Federal Pell
+
+Grant, Federal Supplemental Educational Opportunity Grant (FSEOG), Academic Competitiveness Grant (ACG), National Science and Mathematics Access to Retain Talent Grant (National SMART Grant), Teacher Education Assistance for College and Higher
+
+Title IV aid
+
+Education (TEACH) Grant, Federal Work-Study, Federal Perkins Loan (formerly the National Direct Student loan or NDSL
+
+program), Subsidized and Unsubsidized Federal Family Education Loan (FFEL) also known as the Stafford Loan (formerly the Guaranteed Student Loan or GSL program), and Subsidized and Unsubsidized William D. Ford Direct Loan.
+
+Title IV institution An institution that has a written agreement with the Secretary of Education that allows the institution to participate in any of the
+
+Title IV federal student financial assistance programs (other than the Leveraging Educational Assistance Partnerships or LEAP,
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 26/27
+
+formerly State Student Incentive Grant or SSIG and the National Early Intervention Scholarship and Partnership or NEISP programs).
+
+A program through which any unused Post 9/11 GI Bill may be transferred to a spouse or dependent(s) as long as
+
+Transfer of Entitlement Option servicemembers or veterans meet the additional Department of Veterans Affairs criteria. Only Department of Defense (DoD) can
+
+approve transfer of benefits requests.
+
+A voluntary program through which participating public and private institutions can provide veterans and eligible beneficiaries additional institutional aid to cover the costs of tuition and fees at their institutions. The Yellow Ribbon Program is a
+
+Yellow Ribbon Program
+
+supplementary program to the Post 9/11 GI Bill coverage of in-state tuition and fees. The Department of Veterans Affairs matches the institutional aid provided beyond the in-state tuition and fees, but up to a certain limit each year.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=7&instructionid=30016&formid=16 27/27
+
+
+
+
+

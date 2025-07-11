@@ -1,26 +1,809 @@
-Usage: .ebook-convert-wrapped input_file output_file [options]
+2024-25 IPEDS HELP DESK (877) 225-2568 | ipedshelp@rti.org
 
-Convert an e-book from one format to another.
-
-input_file is the input and output_file is the output. Both must be specified as the first two arguments to the command.
-
-The output e-book format is guessed from the file extension of output_file. output_file can also be of the special format .EXT where EXT is the output file extension. In this case, the name of the output file is derived from the name of the input file. Note that the filenames must not start with a hyphen. Finally, if output_file has no extension, then it is treated as a folder and an "open e-book" (OEB) consisting of HTML files is written to that folder. These files are the files that would normally have been passed to the output plugin.
-
-After specifying the input and output file you can customize the conversion by specifying various options. The available options depend on the input and output file types. To get help on them specify the input and output file and then use the -h option.
-
-For full documentation of the conversion system see
-https://manual.calibre-ebook.com/conversion.html
-
-Whenever you pass arguments to .ebook-convert-wrapped that have spaces in them, enclose the arguments in quotation marks. For example: "/some path/with spaces"
-
-Options:
-  --version       show program's version number and exit
-
-  -h, --help      show this help message and exit
-
-  --list-recipes  List builtin recipe names. You can create an e-book from a
-                  builtin recipe like this: ebook-convert "Recipe Name.recipe"
-                  output.epub
+Data Collection System OMB NO. 1850-0582 v.33 : Approval Expires 8/31/2027
 
 
-Created by Kovid Goyal <kovid@kovidgoyal.net>
+
+2024-25 Survey Materials  Form
+
+
+
+Admissions
+
+Overview
+
+Admissions Overview
+
+Welcome to the IPEDS Admissions (ADM) survey component. The primary purpose of ADM is to collect basic information about the undergraduate selection process for entering first-time, degree/certificate-seeking students in the fall term. This includes information about admissions considerations, admissions yields, and SAT and ACT test scores (if test scores are used in admissions decisions). The ADM survey component is collected only from institutions that do not have an open admissions policy for entering first-time students, which is captured on the IC survey component.
+
+
+
+Data Reporting Reminders:
+
+Report data to accurately reflect the time period corresponding with the IPEDS survey component, even if such reporting is seemingly inconsistent with prior-
+
+year reporting.
+
+Institutions that have scores based on the old (2016) SAT score range should convert scores using the College Board concordance tables.
+
+Institutions operating on a traditional academic year calendar (semester, trimester, quarter, or 4-1-4) report admissions as of the institution's official fall
+
+reporting date or October 15. Institutions operating on an "other academic calendar”, a calendar that differs by program, or that enrolls students on a
+
+continuous basis (referred to as program reporters) report admissions as students who enroll any time during the period of August 1 through October 31.
+
+ADM is only applicable to first-time students; DO NOT include other students (i.e., transfer-in students ) in the number of applicants, number of admits, and
+
+number (of admitted) that enrolled. Only include levels (full-time, part-time) that you indicated were offered in the IC Header. If you made an error in the IC
+
+Header, please call the IPEDS Help Desk.
+
+Changes to reporting:
+
+Revised the Gender Unknown or Another Gender than Provided Categories questions for clarity.
+
+Added notes at top of considerations page to clarify reporting.
+
+Added clarification of term 'Considered' on the screen and in the instructions.
+
+Clarified FAQ #12 related to reporting of legacy status.
+
+
+
+If you have questions about completing this survey, please contact the IPEDS Help Desk at 1-877-225-2568.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 1/11 Admissions Considerations
+
+1. Select the option that best describes how your institution used any of the following data in its undergraduate selection process for the fall 2024 first-time
+
+student cohort.
+
+The options are:
+
+Required to be considered for admission (not applicable for legacy status)
+
+Not required for admission, but considered if submitted
+
+Not considered for admission, even if submitted
+
+Considered means that an institution includes an item in the package that is reviewed by admissions officers during the review process and the item may factor into a decision for admission.
+
+Required to be Not considered for
+
+Not required for admission,
+
+Admission Considerations considered for admission, even if
+
+but considered if submitted
+
+admission submitted
+
+Secondary school GPA
+
+Secondary school rank
+
+Secondary school record
+
+Completion of college-preparatory program
+
+Recommendations
+
+Formal demonstration of competencies (e.g., portfolios, certificates of
+
+mastery, assessment instruments)
+
+Work experience
+
+Personal statement or essay
+
+Legacy status N/A
+
+Admission test scores Required to be Not required for admission, Not considered for
+
+Select options based on whether scores are required for admissions, not considered for but considered if submitted admission, even if
+
+placement once admitted. admission (Test Optional) submitted (Test Blind)
+
+SAT / ACT
+
+Other Test (ATB, Wonderlic, WISC-III, etc.)
+
+Note: If this is the only requirement other than a diploma or equivalent,
+
+and few students are not admitted due to this test, your institution is
+
+open enrollment. Please contact the Help Desk to correct your response
+
+to this question.
+
+English Proficiency Test (for applicable students)
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 2/11 Selection Process - Applicants, Admits, and Enrolled
+
+2. Provide the number of first-time, degree/certificate-seeking undergraduate students who applied, who were admitted, and who enrolled (either full- or part-
+
+time) at your institution for Fall 2024. Include early decision, early action, and students who began studies during the summer prior to Fall 2024.
+
+Remember that this question applies only to first-time, degree/certificate-seeking undergraduates. Do not include any other students in these totals. Report admitted students who enrolled in the summer ONLY IF they remained enrolled into the fall.
+
+Only include levels that you indicated were offered in the IC survey component. If you made an error in IC, please remember to fix the error next year.
+
+The ‘gender unknown’ category will be determined by subtracting (men + women + another gender) from the Total.
+
+Is your institution able to report another gender for the Fall 2024?
+
+If you indicate 'No, my institution is not able to report another gender,' leave the cells in the rows for 'Another gender' blank (i.e., do not report 0). If you indicate 'No, some cells will have a value of less than 5 students,' your institution collects data on another gender, but some cells have a value of less than 5 students, do not report the data and leave the cells in the rows for 'Another gender' blank. If you indicate 'Yes', but no students identified as another gender, please enter '0'.
+
+
+
+No, my institution is not able to report another gender (do not report)
+
+No, some cells will have a value of less than 5 students (do not report)
+
+Yes
+
+
+
+Men Women Another gender Total Gender Unknown
+
+Number of applicants
+
+Number of admissions
+
+Number (of admitted) that enrolled full-time
+
+Number (of admitted) that enrolled part-time
+
+Total enrolled full-time and part-time
+
+Percent of admissions enrolled full-time and part-time
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 3/11 Selection Process - Test Scores
+
+
+
+
+
+3. Provide data for all students for whom a test score was used in the admissions decision for Fall 2024. Include new students admitted the summer prior to Fall 2024. If you report less than 5 students for any of the scores, do not report percentiles.
+
+
+Institutions that use test scores for some students report the number of students for whom test scores were used.
+
+
+
+Number of enrolled students for whom an SAT score was used in the admissions decision
+
+Percent of enrolled students for whom an SAT score was used in the admissions decision
+
+Number of enrolled students for whom an ACT score was used in the admissions decision
+
+Percent of enrolled students for whom an ACT score was used in the admissions decision
+
+
+
+Report the scores used in the admission decision, whether test scores are required or are only considered for admission. If you report less than 5 students for any of the scores, do not report percentiles.
+
+Institutions that use test scores for some students report the percentile scores for the students for whom test scores were used.
+
+
+
+50th Percentile
+
+25th Percentile 75th Percentile
+
+(median)
+
+SAT Evidence-Based Reading and Writing
+
+SAT Math
+
+
+
+ACT Composite
+
+ACT English
+
+ACT Math
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 4/11 Prepared by
+
+
+
+
+
+Prepared by
+
+
+Reporting Reminders:
+
+The name of the preparer is being collected so that we can follow up with the appropriate person in the event that there are questions concerning the data.
+
+The Keyholder will be copied on all email correspondence to other preparers.
+
+The time it took to prepare this component is being collected so that we can continue to improve our estimate of the reporting burden associated with IPEDS.
+
+Please include in your estimate the time it took for you to review instructions, query and search data sources, complete and review the component, and
+
+submit the data through the Data Collection System.
+
+Thank you for your assistance.
+
+
+
+This survey component was prepared by:
+
+Keyholder SFA Contact HR Contact
+
+Finance Contact Academic Library Contact Other
+
+Name:
+
+Email:
+
+
+
+How many staff from your institution only were involved in the data collection and reporting process of this survey component?
+
+Number of Staff (including yourself)
+
+
+
+How many hours did you and others from your institution only spend on each of the steps below when responding to this survey component?
+
+Exclude the hours spent collecting data for state and other reporting purposes.
+
+Revising Data to Match
+
+Staff member Collecting Data Needed Entering Data Revising and Locking Data
+
+IPEDS Requirements
+
+Your office hours hours hours hours
+
+Other offices hours hours hours hours
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 5/11 Summary
+
+
+
+
+
+Admissions Component Summary
+
+
+The purpose of this summary is to provide you an opportunity to view some of the data that, when accepted through the IPEDS quality control process, will appear
+
+on the College Navigator website and/or your institution’s Data Feedback Report (DFR). In addition, all data reported in IPEDS survey components become publicly
+
+available through the IPEDS Use the Data and appear as aggregated statistics in various Department of Education reports. College Navigator is updated
+
+approximately three months after the data collection period closes and DFRs will be available through the IPEDS Use the Data and sent to your institution’s CEO at the end of 2025.
+
+Please review your data for accuracy. If you have questions about the data displayed below or after reviewing the data reported on the survey screens, please
+
+contact the IPEDS Help Desk at: 1-877-225-2568 or ipedshelp@rti.org.
+
+
+
+ADMISSION INFORMATION
+
+Undergraduate Admissions Total Male Female
+
+Number of applicants
+
+Percent admitted (%)
+
+Percent admitted who enrolled (%)
+
+Admissions Considerations
+
+Required
+
+Not required, but Considered
+
+Not Considered
+
+
+
+Test Scores
+
+Number of Submitting Scores Percent of Submitting Scores (%)
+
+SAT
+
+ACT
+
+
+
+25th Percentile 50th Percentile 75th Percentile
+
+SAT Evidence-Based Reading and Writing
+
+SAT Math
+
+
+
+ACT Composite
+
+ACT English
+
+ACT Math
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 6/11 Admissions full instructions
+
+
+
+Purpose of Admissions Survey
+
+Changes in Reporting
+
+General Instructions
+
+Reporting Period for Admissions
+
+Context Boxes
+
+Coverage
+
+Where to Get Help
+
+Where the Data Will Appear
+
+Reporting Directions
+
+
+
+Purpose of Survey
+
+The primary purpose of the IPEDS Admissions (ADM) component is to collect basic information about the undergraduate selection process for entering first-time, degree/certificate-seeking students in the fall term. This includes information about admissions considerations, admissions yields, and SAT and ACT test scores (if test scores are used in admissions decisions). The ADM survey component is collected only from institutions that do not have an open admissions policy for all or most entering first-time students, which is captured on the IC survey component.
+
+
+
+Changes in reporting
+
+The following changes were implemented for the 2024-25 data collection period:
+
+Revised the Gender Unknown or Another Gender than Provided Categories questions for clarity. Added notes at top of considerations page to clarify reporting.
+
+Added clarification of term 'Considered' on the screen and in the instructions.
+
+Clarified FAQ #12 related to reporting of legacy status.
+
+
+
+General Instructions
+
+
+
+Reporting period covered
+
+Institutions operating on a traditional academic year calendar (semester, trimester, quarter, or 4-1-4) report admissions data:
+
+For applicants and admitted students: Include all students who applied for enrollment or were admitted if they would have been considered first-time degree/certificate-seeking undergraduate students as of the institution's official fall reporting date, or October 15. For admitted students who enrolled: Include all students who were considered first-time degree/certificate-seeking undergraduate students as of the institution's official fall reporting date, or October 15.
+
+Institutions operating on a calendar that differs by program or that enrolls students on a continuous basis (referred to as program reporters) report admissions
+
+data:
+
+For applicants and admitted students: Include all students who applied for enrollment or were admitted if they would have been considered first-time degree/certificate-seeking undergraduate students any time during the period of August 1 through October 31. For admitted students who enrolled: Include all students who were considered first-time degree/certificate-seeking undergraduate students any time during the period of August 1 through October 31.
+
+
+
+
+
+Context Boxes
+
+Context boxes are provided to allow institutions to provide more information regarding survey component items. Note that some context boxes are posted on
+
+the College Navigator Website, which is the college search tool offered by NCES. NCES will review entries in these context boxes for applicability and
+
+appropriateness before posting them on the College Navigator Website; institutions should check grammar and spelling of their entries.
+
+
+
+
+
+Coverage
+
+ADM is only applicable to first-time degree/certificate-seeking undergraduate students; do not include other students in the number of applicants, number of admits, and number (of admitted) that enrolled.
+
+For the number (of admitted) that enrolled, include all students enrolled for credit after the official drop date. Exclude students who are not enrolled for credit.
+
+For example, exclude:
+
+Students enrolled exclusively in courses that cannot be applied towards a recognized postsecondary credential Students enrolled only in ESL programs (programs comprised exclusively of ESL courses)
+
+Students enrolled exclusively in Continuing Education Units (CEUs)
+
+Students exclusively auditing classes
+
+Any student studying abroad (e.g., at a foreign university) if their enrollment at the 'home' institution serves as an administrative record Students enrolled in any branch campus located in a foreign country.
+
+Only include levels (full-time, part-time) that you indicated were offered in the IC Header. If you made an error in the IC Header, please call the IPEDS Help Desk and correct your error.
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 7/11
+
+
+
+Where to Get Help with Reporting
+
+
+
+IPEDS Help Desk
+
+Phone: (877) 225-2568
+
+E-mail: ipedshelp@rti.org
+
+Web Tutorials
+
+You can consult the IPEDS Website's Trainings & Outreach page which contains several tutorials on IPEDS data collection, a self-paced overview of IPEDS tools,
+
+and other valuable resources.
+
+IPEDS Resource Page
+
+The IPEDS Website's Reporting Tools page contains frequently asked questions, a link to data tip sheets, tutorials, taxonomies, information centers (e.g.,
+
+academic libraries, average net price, human resources, race/ethnicity, etc.), and other valuable information.
+
+
+
+
+
+Where the Reported Data Will Appear
+
+Data collected through IPEDS will be accessible at the institution and aggregate levels.
+
+At the institution-level, data will appear in the:
+
+College Navigator Website
+
+IPEDS Use the Data portal
+
+IPEDS Data Feedback Reports
+
+College Affordability and Transparency Center Website
+
+At the aggregate-level, data will appear in:
+
+IPEDS Data Explorer
+
+IPEDS Data Feedback Reports
+
+The Digest of Education Statistics
+
+The Condition of Education
+
+
+
+
+
+Reporting Directions
+
+
+
+Admission considerations
+
+Select the option that best describes how your institution used any of the following data in its selection process for the fall 2024 first-time student cohort. (If
+
+your institution has changed its admissions considerations for the next year’s first-time student cohort, you may indicate such changes in the context box
+
+immediately following this section).
+
+Admission Considerations:
+
+Secondary school GPA
+
+Secondary school rank
+
+Secondary school record
+
+Completion of college-preparatory program
+
+Recommendations
+
+Formal demonstration of competencies (e.g., portfolios, certificates of mastery, assessment instruments)
+
+Work experience
+
+Personal statement or Essay
+
+Legacy status
+
+Admission test scores
+
+SAT/ACT
+
+Other test (ATB, Wonderlic, WISC-III, etc.)
+
+English Proficiency Test (for applicable students)
+
+Options for how Considerations are used in admissions decisions:
+
+Required to be considered for admission (not applicable for legacy status)
+
+Not required for admission, but considered if submitted
+
+For test scores, test optional institutions should select this option
+
+Not considered for admission, even if submitted
+
+For test scores, test blind institutions should select this option
+
+Considered means that an institution includes an item in the admission materials that are reviewed by admissions officers during the review process and the
+
+item may factor into a decision for admission.
+
+Note: If ATB, Wonderlic, WISC-III (or similar) test is the only requirement other than a diploma or equivalent, and few students are not admitted due to this
+
+test, please call the IPEDS Help Desk so that your response to the screening question for this component can be corrected.
+
+
+
+
+
+Selection Process
+
+Applicants/admitted/enrolled students
+
+Provide the number of men, women, another gender, and total first-time, degree/certificate-seeking undergraduate students who applied, who were
+
+admitted, and who enrolled (either full- or part-time) at your institution for Fall 2024. Include information for all first-time students for whom admissions
+
+criteria (other than a school diploma) were required. If your institution does not collect data on another gender, please select 'No', my institution does not
+
+collect data on another gender' to the question and leave the cells in the 'Another gender' row blank (do not input 0s). If you institution collects data on
+
+another gender, but some cells will have a value of less than 5 students, please select 'No, some cells will have a value of less than 5 students,' do not
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 8/11
+
+report the data and leave the cells in the rows for 'Another gender' blank. If you indicate 'Yes', but no students identified as another gender, please enter '0'
+
+in the appropriate row(s).
+
+Since the total may include students who did not provide gender data, the detail need not sum to the total.
+
+You should not report admissions data for any level that you did not report as an offering on the Enrollment levels question in IC-Header. For example, if
+
+you indicated that you do not enroll part-time, first-time students leave those boxes blank.
+
+Number of applicants
+
+Applicants should include only those students who fulfilled all requirements for consideration for admission and who have been notified of one of the following actions: admission, non-admission, placement on a wait list, or application withdrawn (by applicant or institution). Admitted applicants (admissions) should include wait-listed students who were subsequently offered admission.
+
+Number of admissions
+
+Include all students who were offered admission to your institution. This would include:
+
+early decision students who were notified of an admissions decision prior to the regular notification date and who agreed to accept; early action students who were notified of an admission decision prior to the regular notification date with no commitment to accept; and admitted students who began studies during the summer prior to Fall 2024.
+
+Number (of admitted) that enrolled
+
+Remember that this question is only applicable to first-time students; do not include other students in these totals. Include students enrolled in the fall term who attended college for the first time in the prior summer session. Also include students who entered with advanced standing (college credits earned before graduation from high school).
+
+
+
+
+
+Selection process
+
+Test scores
+
+If test scores are required for admission for first-time, degree/certificate-seeking undergraduate students, provide the number and percentage of enrolled
+
+students submitting SAT and/or ACT scores, as well as the 25th, 50th (median), and 75th percentile scores for each test. If you report less than 5 students
+
+for any of the scores, do not report percentiles.
+
+Number and percent of enrolled students that submitted test scores
+
+Provide data for Fall 2024. Include information for ALL enrolled, degree/certificate-seeking, first-time (freshman) students for whom test scores were required. Include new students admitted the summer prior to Fall 2024.
+
+Test Scores
+
+Provide data for Fall 2024. Report the scores used in the admission decision, whether test scores are required or are only considered for admission. If you report less than 5 students for any of the scores, do not report percentiles. Institutions that use test scores for some students report the percentile scores for the students for whom test scores were used.
+
+If students submitted both SAT and ACT scores, but only SAT scores were considered for admission, only report the SAT scores (and vice versa). If students submitted both SAT and ACT scores, and both SAT and ACT scores were considered for admission, report both scores. If a student submitted two sets of scores for a single test, report this information according to how you use the data. For example:
+
+If you consider the highest scores from either submission, use the highest combination of scores (e.g., verbal from one submission, math from the other).
+
+If you average the scores, use the average to report the scores.
+
+SAT Evidence-Based Reading and Writing and math scores should be reported based on the (2016) SAT score range 200-800. Institutions that have scores based on the old (2015) SAT score range should convert scores using the College Board concordance tables (more information about converting
+
+scores using concordance tables is available at https://collegereadiness.collegeboard.org/educators/higher-ed/scoring-changes/concordance).
+
+Do not convert test scores (e.g., do NOT convert an ACT score into a SAT score); scores must be reported separately. Do not include partial test scores (e.g., mathematics scores but not verbal scores for a category of students) or combine other standardized test results (such as TOEFL) in this item.
+
+Do not report scores if you cannot convert from old score to new score using the concordance tables.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 9/11 Glossary
+
+Term Definition
+
+25th percentile The score at or below which 25 percent of students submitting test scores to an institution scored.
+
+The score at which 50 percent of students submitting test scores to an institution scored above and 50 percent scored below
+
+50th percentile (median)
+
+(i.e., midpoint of the test score distribution).
+
+75th percentile The score above which 25 percent of students submitting test scores to an institution scored.
+
+ACT, previously known as the American College Testing program, measures educational development and readiness to pursue
+
+ACT college-level coursework in English, mathematics, natural science, and social studies. Student performance does not reflect
+
+innate ability and is influenced by a student's educational preparedness.
+
+This annual component is required of all currently operating Title IV postsecondary institutions in the United States and other
+
+areas that do not have an open admissions policy. Eligibility for Admissions is determined using a screening question in the
+
+Institutional Characteristics component and open admissions institutions will not see the component. Admissions data are
+
+collected for the current fall reporting period. Data are collected on admissions requirements, the number of applicants,
+
+Admissions (ADM)
+
+admitted students, the number of admitted students that subsequently enrolled, and percentiles for ACT and SAT test scores.
+
+The number of applicants, admitted, and enrolled students is disaggregated by gender; enrolled students are further
+
+disaggregated by part-time and full-time status. Prior to the 2014-15 data collection cycle, Admissions was part of the
+
+Institutional Characteristics components. In 2014-15, it became part of the Winter data collection.
+
+Admissions test scores Scores on standardized admissions tests or special admissions tests.
+
+Admitted students Applicants that have been granted an official offer to enroll in a postsecondary institution.
+
+An individual who has fulfilled the institution's requirements to be considered for admission (including payment or waiving of the
+
+Applicant application fee, if any) and who has been notified of one of the following actions: admission, nonadmission, placement on
+
+waiting list, or application withdrawn by applicant or institution.
+
+Cambridge Certificate of A standardized test designed to determine an applicant's ability to benefit from instruction in English.
+
+Advanced English (CAE)
+
+Duolingo A standardized test designed to determine an applicant's ability to benefit from instruction in English.
+
+An admission plan that allows students to apply and be notified of an admission decision well in advance of the regular
+
+Early action notification dates. If admitted, the candidate is not committed to enroll (unlike early decision). Students may reply to the offer
+
+under the college's regular reply policy.
+
+A policy under which students who have not completed high school are admitted to and enrolled full-time in college, usually
+
+Early admission
+
+after completion of their junior year.
+
+A test of English language abilities required for admission from incoming international students that are not from an English
+
+proficiency exempt country (as defined by the institution). Examples include but are not limited to: the Test of English as a
+
+English Proficiency Test
+
+Foreign Language (TOEFL), the International English Language Testing System (IELTS), The Cambridge Certificate of Advanced
+
+English (CAE), and Duolingo.
+
+A student who has no prior postsecondary experience (except as noted below) attending any institution for the first time at the
+
+First-time student undergraduate level. This includes students enrolled in academic or occupational programs. It also includes students enrolled
+
+(undergraduate) in the fall term who attended college for the first time in the prior summer session, and students who entered with advanced
+
+standing (college credits or recognized postsecondary credential earned before graduation from high school).
+
+Undergraduate: A student enrolled for 12 or more semester credits, or 12 or more quarter credits, or 24 or more clock hours a
+
+week each term. Graduate: A student enrolled for 9 or more semester credits, or 9 or more quarter credits, or a student involved
+
+Full-time student
+
+in thesis or dissertation preparation that is considered full-time by the institution. Doctor's degree - Professional practice - full-
+
+time as defined by the institution.
+
+The Integrated Postsecondary Education Data System (IPEDS), conducted by the NCES, began in 1986 and involves annual
+
+institution-level data collections. All postsecondary institutions that have a Program Participation Agreement with the Office of
+
+Integrated Postsecondary Postsecondary Education (OPE), U.S. Department of Education (throughout IPEDS referred to as "Title IV") are required to report
+
+Education Data System data using a web-based data collection system. IPEDS currently consists of the following components: Institutional
+
+(IPEDS) Characteristics (IC); 12-month Enrollment (E12);Completions (C); Admissions (ADM); Student Financial Aid (SFA); Human
+
+Resources (HR) composed of Employees by Assigned Position, Fall Staff, and Salaries; Fall Enrollment (EF); Graduation Rates
+
+(GR); Outcome Measures (OM); Finance (F); and Academic Libraries (AL).
+
+International English
+
+Language Testing System A standardized test designed to determine an applicant's ability to benefit from instruction in English.
+
+(IELTS)
+
+Legacy status Students who have a familial tie to an institution including parents or relatives who are alumni or a sibling who currently attends.
+
+Undergraduate: A student enrolled for either less than 12 semester or quarter credits, or less than 24 clock hours a week each
+
+Part-time student
+
+term. Graduate: A student enrolled for less than 9 semester or quarter credits.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 10/11
+
+Previously known as the Scholastic Aptitude Test, this is an examination administered by the Educational Testing Service (ETS)
+
+SAT
+
+and used to predict the facility with which an individual will progress in learning college-level academic subjects.
+
+Test of English as a Foreign
+
+A standardized test designed to determine an applicant's ability to benefit from instruction in English.
+
+Language (TOEFL)
+
+An institution that has a written agreement with the Secretary of Education that allows the institution to participate in any of the Title IV federal student financial assistance programs (other than the Leveraging Educational Assistance Partnerships or LEAP,
+
+Title IV institution
+
+formerly State Student Incentive Grant or SSIG and the National Early Intervention Scholarship and Partnership or NEISP programs).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=14&instructionid=30102&formid=102 11/11
+
+
+
+
+

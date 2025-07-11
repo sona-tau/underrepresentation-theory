@@ -1,26 +1,1703 @@
-Usage: .ebook-convert-wrapped input_file output_file [options]
+2024-25 IPEDS HELP DESK (877) 225-2568 | ipedshelp@rti.org
 
-Convert an e-book from one format to another.
-
-input_file is the input and output_file is the output. Both must be specified as the first two arguments to the command.
-
-The output e-book format is guessed from the file extension of output_file. output_file can also be of the special format .EXT where EXT is the output file extension. In this case, the name of the output file is derived from the name of the input file. Note that the filenames must not start with a hyphen. Finally, if output_file has no extension, then it is treated as a folder and an "open e-book" (OEB) consisting of HTML files is written to that folder. These files are the files that would normally have been passed to the output plugin.
-
-After specifying the input and output file you can customize the conversion by specifying various options. The available options depend on the input and output file types. To get help on them specify the input and output file and then use the -h option.
-
-For full documentation of the conversion system see
-https://manual.calibre-ebook.com/conversion.html
-
-Whenever you pass arguments to .ebook-convert-wrapped that have spaces in them, enclose the arguments in quotation marks. For example: "/some path/with spaces"
-
-Options:
-  --version       show program's version number and exit
-
-  -h, --help      show this help message and exit
-
-  --list-recipes  List builtin recipe names. You can create an e-book from a
-                  builtin recipe like this: ebook-convert "Recipe Name.recipe"
-                  output.epub
+Data Collection System OMB NO. 1850-0582 v.33 : Approval Expires 8/31/2027
 
 
-Created by Kovid Goyal <kovid@kovidgoyal.net>
+
+2024-25 Survey Materials  Form
+
+
+
+12-month Enrollment for public 2-year and less-than-2-year non-degree-granting institutions
+
+Overview
+
+12-month Enrollment Overview
+
+The 12-month Enrollment survey component collects unduplicated student enrollment counts and instructional activity data for an entire 12-month period. Using the instructional activity data reported, a full-time equivalent (FTE) student enrollment at the undergraduate and graduate level is estimated (4-year institutions only). Institutions with Doctor's - professional practice students will also report the FTE enrollment of those students (4-year institutions only). NCES uses the FTE enrollment to produce indicators such as expenses by function per FTE as reported in the IPEDS Data Feedback Report.
+
+Data Reporting Reminder:
+
+All institutions must use the July 1 - June 30 reporting period.
+
+Report data to accurately reflect the time period corresponding with the IPEDS survey component, even if such reporting is seemingly inconsistent with prior-year reporting.
+
+Changes in reporting
+
+The following changes were implemented for the 2024-25 data collection period:
+
+Added screening question to indicate whether the institution enrolled high school students in college courses for credit during the 12-month reporting period. Note: This screening question originally appeared on the Institutional Characteristics Header component when first added in the 2023–24 data collection. This item was added to the 12-month (E12) component in the 2024–25 data collection to better align the timing of this screening question to the reporting of the enrollment counts. This change was prompted by feedback from the IPEDS Help Desk and IPEDS data reporters that separating the screening question and enrollment count reporting on two different components led to confusion and timing misalignment. Revised the Gender Unknown or Another Gender than Provided Categories screen for clarity. Removed mention of "non-first-time" on survey screens and instructions when discussing "transfer-in" student enrollment status to clarify the distinction between these two terms. This change was prompted by feedback from the IPEDS data reporters and data users that IPEDS survey materials conflated the concepts of "transfer-in" and "non-first-time," which led to misunderstanding in interpretation. This change will clearly separate these two concepts in the IPEDS survey materials to improve clarity and understanding of these terms.
+
+Added a new FAQ to better clarify the relationship between "transfer-in" enrollment status on the Fall Enrollment (EF) and 12-month Enrollment (E12) components and the "non-first-time" cohort on the Outcome Measures (OM) component. This change was prompted by feedback from the IPEDS data reporters and data users that the IPEDS survey materials conflated the concepts of "transfer-in" and "non-first-time," which led to misunderstanding in interpretation. This change will clearly separate these two concepts in IPEDS survey materials to improve clarity and understanding of these terms. Revised definition for "Transfer-in student" Glossary term to improve clarity. This change was prompted by feedback from the IPEDS data reporters and data users that the current definition for "Transfer-in student" led to misunderstanding in interpretation. This change will clarify this term for greater understanding among the IPEDS audiences.
+
+Revised definition for "Non-first-time student (undergraduate)" Glossary term to improve clarity. This change was prompted by feedback from the IPEDS data reporters and data users that the current definition for "Non-first-time student (undergraduate)" led to misunderstanding in interpretation. This change will clarify this term for greater understanding among the IPEDS audiences.
+
+Revised definition for "Continuing/Returning student (undergraduate)" Glossary term to improve clarity. This change was prompted by feedback from the IPEDS data reporters and data users that the current definition for "Continuing/Returning student (undergraduate)" led to misunderstanding in interpretation. This change will clarify this term for greater understanding among the IPEDS audiences.
+
+Resources:
+
+To download the survey materials for this component: Survey Materials
+
+
+
+If you have questions about completing this survey, please contact the IPEDS Help Desk at 1-877-225-2568.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 1/21 12-month Enrollment Screening Questions
+
+1. Which instructional activity units will you use to report undergraduate instructional activity?
+
+Undergraduate instructional activity data in Part B may be reported in units of clock hours or credit hours.
+
+Clock hours
+
+Credit hours
+
+Both clock and credit hours (some undergraduate programs measured in clock hours and some measured in credit hours)
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+2. Did your institution enroll high school students in college courses for credit during the 12-month Enrollment (E12) reporting period of July 1, 2023 - June 30, 2024?
+
+If you answer Yes to this question, you will be able to report the unduplicated count of high school students enrolled in college courses for credit on Part C of the 12-month Enrollment (E12) survey component.
+
+Yes.
+
+Within a dual enrollment program.
+
+Outside a dual enrollment program.
+
+No
+
+
+
+Note:
+
+Within a dual enrollment program is defined as within an organized system with special guidelines that allows high school students to take college-level courses. The guidelines might have to do with entrance or eligibility requirements, funding, limits on course taking, etc. Outside a dual enrollment program is defined as high school students who simply enroll in credit courses through your institution, and are treated as regularly enrolled college students.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 2/21 Part A - Unduplicated Count for Full-time Undergraduate Students
+
+12-month Unduplicated Count by Race/Ethnicity and Gender - Full-time Undergraduate Students July 1, 2023 – June 30, 2024
+
+Reporting Reminders:
+
+The 12-month unduplicated count must be equal or greater than the corresponding prior year fall enrollment. Report Hispanic/Latino individuals of any race as Hispanic/Latino
+
+Report race for non-Hispanic/Latino individuals only
+
+Even though Teacher Preparation certificate programs may require a bachelor's degree for admission, they are considered subbaccalaureate undergraduate programs, and students in these programs are undergraduate students.
+
+Men
+
+Total,
+
+First‑time, Other Non‑certificate-
+
+Students enrolled for credit Full‑time undergraduate
+
+certificate‑seeking certificate‑seeking seeking
+
+students
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total men
+
+Total men prior year
+
+
+
+Women
+
+Total,
+
+First‑time, Other Non‑certificate-
+
+Students enrolled for credit Full-time undergraduate
+
+certificate‑seeking certificate‑seeking seeking
+
+students
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total women
+
+Total women prior year
+
+
+
+Grand total (2023-24)
+
+Prior year data:
+
+Grand total (men+women) prior year
+
+Total Full-time undergraduate enrollment Fall 2023
+
+NOTE: Grand total (2023-24) calculated above is expected
+
+to be greater than total Full-time undergraduate enrollment
+
+Fall 2023.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 3/21 Part A - Unduplicated Count for Part-time Undergraduate Students
+
+12-month Unduplicated Count by Race/Ethnicity and Gender - Part-time Undergraduate Students July 1, 2023 – June 30, 2024
+
+Reporting Reminders:
+
+The 12-month unduplicated count must be equal or greater than the corresponding prior year fall enrollment.
+
+Report Hispanic/Latino individuals of any race as Hispanic/Latino
+
+Report race for non-Hispanic/Latino individuals only
+
+Even though Teacher Preparation certificate programs may require a bachelor's degree for admission, they are considered subbaccalaureate undergraduate
+
+programs, and students in these programs are undergraduate students.
+
+Men
+
+Total,
+
+First‑time, Other Non‑certificate- Part‑time
+
+Students enrolled for credit
+
+certificate‑seeking certificate‑seeking seeking undergraduate
+
+students
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total men
+
+Total men prior year
+
+
+
+Women
+
+Total,
+
+First‑time, Other Non‑certificate- Part-time
+
+Students enrolled for credit
+
+certificate‑seeking certificate‑seeking seeking undergraduate
+
+students
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total women
+
+Total women prior year
+
+
+
+Grand total (2023-24)
+
+Prior year data:
+
+Grand total (men+women) prior year
+
+Total Part-time undergraduate enrollment Fall 2023
+
+NOTE: Grand total (2023-24) calculated above is
+
+expected to be greater than total Part-time
+
+undergraduate enrollment Fall 2023.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 4/21 Part A - Unduplicated Count for Undergraduate Students
+
+12-month Unduplicated Count by Race/Ethnicity and Gender - Undergraduate Student Total July 1, 2023 – June 30, 2024
+
+Men
+
+Total full-time Total part-time Grand total,
+
+Enrolled for credit
+
+undergraduate students undergraduate students all undergraduate students
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total men
+
+
+
+Women
+
+Total full-time Total part-time Grand total,
+
+Enrolled for credit
+
+undergraduate students undergraduate students all undergraduate students
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total women
+
+
+
+Grand Total (men+women)
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 5/21 Part A - Gender Unknown or Another Gender than Provided Categories
+
+12-month Unduplicated Count by Gender Unknown or Another Gender than Provided Categories
+
+Reporting Reminders:
+
+The purpose of this supplemental section is to determine whether institutions are able to report the number of students for whom gender is unknown and the
+
+number of students for whom gender does not align with the 'Men' and 'Women' categories. Note that these students must still be allocated into the 'Men' and
+
+'Women' categories in all other sections of the survey component.
+
+Institutions should not ask students that do not select a binary gender to allocate themselves to a binary gender category; it is up to the institution to allocate
+
+unknown students and students that indicate another gender into the binary categories throughout the forms where required. One method commonly used by
+
+institutions is to allocate these students to the binary categories required in other parts of the form using the proportion of men to women reported.
+
+The 'gender unknown' category is to report students for whom the institution does not know a gender.
+
+Is your institution able to report another gender for the July 1, 2023 - June 30, 2024 reporting period? If you indicate 'No, my institution is not able to report another gender,' leave the cells in the rows for 'Another gender' blank (i.e., do not report 0). If you indicate 'No, some cells will have a value of less than 5 students,' your institution collects data on another gender, but some cells have a value of less than 5 students, do not report the data and leave the cells in the rows for 'Another gender' blank. If you indicate 'Yes', but no students identified as another gender, please enter '0'.
+
+Undergraduate students:
+
+No, my institution is not able to report another gender (do not report)
+
+No, some cells will have a value of less than 5 students (do not report)
+
+Yes
+
+
+
+Of the total students reported, how many students did you allocate to a binary gender category (Men/Women) because their gender was unknown or another gender than the provided categories?
+
+Number of students
+
+Undergraduate students
+
+Current Year Prior year
+
+Grand total
+
+Gender unknown (i.e., gender information is not known or not collected).
+
+Another gender (i.e., gender information is known but does not fall into either of the mutually exclusive binary
+
+categories provided [Men/Women]).
+
+Total of Gender unknown + Another gender
+
+Total of Students for whom gender is known and falls into one of the mutually exclusive binary categories provided
+
+[Men/Women]
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 6/21 Part A – 12-month Enrollment by Distance Education Status
+
+12-month Unduplicated Count - Distance Education Status
+
+July 1, 2023 – June 30, 2024
+
+Undergraduate Students
+
+Degree/certificate-seeking Non-degree/non-certificate-seeking
+
+Students enrolled exclusively in distance education courses
+
+Students enrolled in at least one but not all distance education courses
+
+Students not enrolled in any distance education courses
+
+
+
+Total (Carried forward from part A)
+
+
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website. Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 7/21 Part B - Instructional Activity
+
+
+
+
+
+12-month Instructional Activity
+
+
+July 1, 2023 - June 30, 2024
+
+Instructional Activity Reporting Reminder:
+
+Instructional activity is used to calculate an IPEDS FTE based on the institution’s reported calendar system.
+
+FTE Reporting Reminder:
+
+Institutions need not report their own calculations of undergraduate FTE unless IPEDS FTE calculations would be misleading for comparison purposes
+
+among all IPEDS reporting institutions.
+
+Instructional Activity
+
+2023-24 total activity Prior year data
+
+Undergraduate level:
+
+Clock hour activity
+
+Credit hour activity
+
+
+
+Full-Time Equivalent (FTE) of Students
+
+Calendar system (as reported on the prior year IC survey component):
+
+
+
+If the IPEDS calculated FTE estimates below are not reasonable, AND you have reported the correct instructional activity hours above, enter your best FTE estimate in the "Institution reported FTE" column below and save the page. This option should be used ONLY if the calculated estimate is not reasonable for your institution and IPEDS comparisons.
+
+Please provide your best estimate of undergraduate FTE for the 12-month reporting period only if the calculated FTE estimate below is not reasonable for IPEDS comparison purposes. Please provide an explanation in the context box if the option is used due to Coronavirus Pandemic.
+
+Calculated FTE Institution reported Prior year FTE
+
+2023-24 FTE 2023-24 2022-23
+
+Undergraduate student FTE
+
+Context notes will be posted on the College Navigator website. Therefore, you should write all context notes using proper grammar (e.g., complete sentences with
+
+punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 8/21 Part C – Unduplicated Count of Dual Enrolled Students
+
+
+
+
+
+12-month Unduplicated Count of Dual Enrolled Students
+
+
+July 1, 2023 – June 30, 2024
+
+Reporting Reminders:
+
+The number of high school students enrolled in college courses for credit was reported in Part A as part of the non-certificate-seeking unduplicated enrollment.
+
+The number of high school students enrolled in college courses for credit reported in Part C will have some duplication with the non-certificate-seeking enrollment students reported in Part A.
+
+The number of high school students enrolled in college courses for credit reported in Part C should be less than the number of non-certificate-seeking students reported in Part A unless all these students at your institution are high school students enrolled in college courses for credit.
+
+Report Hispanic/Latino individuals of any race as Hispanic/Latino
+
+Report race for non-Hispanic/Latino individuals only
+
+
+
+In Part A, your institution reported the following number of students
+
+in the non-certificate-seeking unduplicated headcount.
+
+
+
+High school students enrolled in college courses for credit
+
+Men Women Total
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total
+
+Total prior year
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 9/21 Prepared by
+
+
+
+
+
+Prepared by
+
+
+Reporting Reminders:
+
+The name of the preparer is being collected so that we can follow up with the appropriate person in the event that there are questions concerning the data.
+
+The Keyholder will be copied on all email correspondence to other preparers.
+
+The time it took to prepare this component is being collected so that we can continue to improve our estimate of the reporting burden associated with IPEDS.
+
+Please include in your estimate the time it took for you to review instructions, query and search data sources, complete and review the component, and
+
+submit the data through the Data Collection System.
+
+Thank you for your assistance.
+
+
+
+This survey component was prepared by:
+
+Keyholder SFA Contact HR Contact
+
+Finance Contact Academic Library Contact Other
+
+Name:
+
+Email:
+
+
+
+How many staff from your institution only were involved in the data collection and reporting process of this survey component?
+
+Number of Staff (including yourself)
+
+
+
+How many hours did you and others from your institution only spend on each of the steps below when responding to this survey component? Exclude the hours spent collecting data for state and other reporting purposes.
+
+Revising Data to Match
+
+Staff member Collecting Data Needed Entering Data Revising and Locking Data
+
+IPEDS Requirements
+
+Your office hours hours hours hours
+
+Other offices hours hours hours hours
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 10/21 Summary
+
+
+
+
+
+12-Month Enrollment Component Summary
+
+
+The purpose of this summary is to provide you an opportunity to view some of the data that, when accepted through the IPEDS quality control process, will appear
+
+on the College Navigator website and/or your institution’s Data Feedback Report (DFR). In addition, all data reported in IPEDS survey components become publicly
+
+available through the IPEDS Use the Data and appear as aggregated statistics in various Department of Education reports. College Navigator is updated
+
+approximately three months after the data collection period closes and DFRs will be available through the IPEDS Use the Data and sent to your institution’s CEO at the end of 2025.
+
+Please review your data for accuracy. If you have questions about the data displayed below or after reviewing the data reported on the survey screens, please
+
+contact the IPEDS Help Desk at: 1-877-225-2568 or ipedshelp@rti.org.
+
+
+
+12-Month Unduplicated Headcount and Full-Time Equivalent Students
+
+Total 12-month unduplicated headcount enrollment
+
+Undergraduate student unduplicated headcount enrollment
+
+
+
+Total 12-month full-time equivalent (FTE) student enrollment
+
+Undergraduate student FTE enrollment
+
+
+
+Total 12-month Undergraduate Student Characteristics
+
+Percent of undergraduate students who are female %
+
+Percent of undergraduate students who are full-time %
+
+Percent of undergraduate students who are enrolled exclusively in distance education courses %
+
+
+
+Percent of undergraduate students by U.S. resident status and race/ethnicity: Note: Race/ethnicity is not collected for U.S. Nonresidents.
+
+U.S. Resident %
+
+American Indian or Alaska Native %
+
+Asian %
+
+Black or African American %
+
+Hispanic/Latino %
+
+Native Hawaiian or Pacific Islander %
+
+White %
+
+Two or More Races %
+
+Race and ethnicity unknown %
+
+U .S. Nonresident %
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 11/21 12-month Enrollment for public 2-year and less-than-2-year non-degree-granting institutions
+
+
+
+Purpose of the Survey
+
+Changes in Reporting
+
+General Instructions
+
+Reporting Period Covered
+
+Context Boxes
+
+Coverage
+
+Who To Include
+
+Who To Exclude
+
+Where to Get Help for Reporting
+
+IPEDS Help Desk
+
+AIR Website
+
+IPEDS Website Resources
+
+Where the Reported Data Will Appear
+
+Institution Level
+
+Aggregate Level
+
+Reporting Directions
+
+Screening Question
+
+Reporting Individuals by Racial/Ethnic Categories
+
+Part A: Unduplicated Count by Student Level, Race/Ethnicity, and Gender
+
+Part B: Instructional Activity and Full-Time Equivalent Enrollment
+
+Part C: Unduplicated Count of Dual Enrolled Students
+
+
+
+Purpose of Survey
+
+The purpose of the 12-month Enrollment survey component of IPEDS is to collect unduplicated enrollment counts of all students enrolled for credit and instructional activity data in postsecondary institutions for an entire 12-month period. For undergraduate students, unduplicated enrollment counts are collected by gender, attendance status (full-time, part-time), race/ethnicity, applicable progression statuses (e.g., first-time (entering), other), and applicable certificate-seeking statuses (e.g., certificate-seeking or non-certificate-seeking). Instructional activity is collected as total credit and/or clock hours attempted at all enrollment levels. A full-time equivalent (FTE) student enrollment at the undergraduate and graduate levels is estimated using the instructional activity data reported.
+
+
+
+
+
+Changes in reporting
+
+The following changes were implemented for the 2024-25 data collection period:
+
+Added screening question to indicate whether the institution enrolled high school students in college courses for credit during the 12-month reporting
+
+period. Note: This screening question originally appeared on the Institutional Characteristics (IC) component when first added in the 2023–24 data
+
+collection. This item was added to the 12-month (E12) component in the 2024–25 data collection to better align the timing of this screening question to
+
+the reporting of the enrollment counts. This change was prompted by feedback from the IPEDS Help Desk and IPEDS data reporters that separating the
+
+screening question and enrollment count reporting on two different components led to confusion and timing misalignment.
+
+Revised the Gender Unknown or Another Gender than Provided Categories screen for clarity.
+
+Removed mention of "non-first-time" on survey screens and instructions when discussing "transfer-in" student enrollment status to clarify the distinction
+
+between these two terms. This change was prompted by feedback from the IPEDS data reporters and data users that IPEDS survey materials conflated
+
+the concepts of "transfer-in" and "non-first-time," which led to misunderstanding in interpretation. This change will clearly separate these two concepts in
+
+the IPEDS survey materials to improve clarity and understanding of these terms.
+
+Added a new FAQ to better clarify the relationship between "transfer-in" enrollment status on the Fall Enrollment (EF) and 12-month Enrollment (E12)
+
+components and the "non-first-time" cohort on the Outcome Measures (OM) component. This change was prompted by feedback from the IPEDS data
+
+reporters and data users that the IPEDS survey materials conflated the concepts of "transfer-in" and "non-first-time," which led to misunderstanding in
+
+interpretation. This change will clearly separate these two concepts in IPEDS survey materials to improve clarity and understanding of these terms.
+
+Revised definition for "Transfer-in student" Glossary term to improve clarity. This change was prompted by feedback from the IPEDS data reporters and
+
+data users that the current definition for "Transfer-in student" led to misunderstanding in interpretation. This change will clarify this term for greater
+
+understanding among the IPEDS audiences.
+
+Revised definition for "Non-first-time student (undergraduate)" Glossary term to improve clarity. This change was prompted by feedback from the IPEDS
+
+data reporters and data users that the current definition for "Non-first-time student (undergraduate)" led to misunderstanding in interpretation. This
+
+change will clarify this term for greater understanding among the IPEDS audiences.
+
+Revised definition for "Continuing/Returning student (undergraduate)" Glossary term to improve clarity. This change was prompted by feedback from the
+
+IPEDS data reporters and data users that the current definition for "Continuing/Returning student (undergraduate)" led to misunderstanding in
+
+interpretation. This change will clarify this term for greater understanding among the IPEDS audiences.
+
+
+
+
+
+General Instructions
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 12/21
+
+
+
+
+
+Reporting Period Covered
+
+
+The 12-month reporting period is July 1, 2023 - June 30, 2024.
+
+
+
+
+
+Context Boxes
+
+Context boxes are provided to allow institutions to provide more information regarding survey component items. Note that some context boxes are posted on
+
+the College Navigator Website, which is the college search tool offered by NCES. NCES will review entries in these context boxes for applicability and
+
+appropriateness before posting them on the College Navigator Website; institutions should check grammar and spelling of their entries.
+
+
+
+
+
+Coverage
+
+Who to Include
+
+Include all students enrolled for credit (enrolled in instructional activity, courses or programs, that can be applied towards the requirements for a
+
+postsecondary degree, diploma, certificate, or other recognized postsecondary credential), regardless of whether or not they are seeking a degree or
+
+certificate. This includes:
+
+Students enrolled for credit in off-campus centers
+
+High school students taking college courses for credit
+
+Students taking developmental courses if the student is degree-seeking for the purpose of student financial aid determination Students from overseas enrolled for credit at your institution (e.g., online students)
+
+Students who are incarcerated (e.g., postsecondary prison education program)
+
+
+
+
+
+Who to Exclude
+
+Exclude students who are not enrolled for credit. For example, exclude:
+
+Students enrolled exclusively in courses that cannot be applied towards a recognized postsecondary credential Students enrolled only in ESL programs (programs comprised exclusively of ESL courses)
+
+Students enrolled exclusively in Continuing Education Units (CEUs)
+
+Students exclusively auditing classes
+
+In addition, the following students should be excluded:
+
+Any student studying abroad (e.g., at a foreign university) if their enrollment at the 'home' institution serves as an administrative record Students enrolled in any branch campus located in a foreign country
+
+
+
+
+
+Where to Get Help with Reporting
+
+IPEDS Help Desk
+
+Phone: (877) 225-2568
+
+E-mail: ipedshelp@rti.org
+
+Web Tutorials
+
+You can consult the IPEDS Website's Trainings & Outreach page which contains several tutorials on IPEDS data collection, a self-paced overview of IPEDS tools,
+
+and other valuable resources.
+
+IPEDS Resource Page
+
+The IPEDS Website's Reporting Tools page contains frequently asked questions, a link to data tip sheets, tutorials, taxonomies, information centers (e.g.,
+
+academic libraries, average net price, human resources, race/ethnicity, etc.), and other valuable information.
+
+
+
+
+
+Where the Reported Data Will Appear
+
+Data collected through IPEDS will be accessible at the institution and aggregate levels.
+
+At the institution-level, data will appear in the:
+
+College Navigator Website
+
+IPEDS Use the Data portal
+
+IPEDS Data Feedback Reports
+
+College Affordability and Transparency Center Website
+
+At the aggregate-level, data will appear in:
+
+IPEDS Data Explorer
+
+IPEDS Data Feedback Reports
+
+The Digest of Education Statistics
+
+The Condition of Education
+
+
+
+
+
+Reporting Directions
+
+
+
+Screening Question
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 13/21 Before entering any data, the screening question will need to be answered.
+
+Instructional Activity Units
+
+Select which units your institution will use to report undergraduate instructional activity for this component. Institutions are given the option to report undergraduate instructional activity in clock hours, credit hours, or a combination of the two.
+
+Clock hours are a unit of measure that represent an hour of scheduled instruction given to students. Credit hours are a unit of measure representing the equivalent of approximately one hour of instruction per week over the entire term. Select the method that best describes the units used to measure instructional activity at your institution.
+
+The option for both clock and credit hours should only be used if some programs are measured in clock hours while others are measured in credit hours. If your institution measures courses or programs in a unit of measure other than standard credit or clock hours, select credit hours and convert the instructional activity offered to credit hour equivalents for reporting in Part B of this component.
+
+
+
+Enrolled High School Students
+
+Indicate whether your institution enrolls high school students in college courses for credit. If ‘Yes’, indicate whether those students are enrolled:
+
+Within a dual enrollment program OR
+
+Outside a dual enrollment program
+
+Note:
+
+Within a dual enrollment program is defined as within an organized system with special guidelines that allows high school students to take college-level courses. The guidelines might have to do with entrance or eligibility requirements, funding, limits on course taking, etc.
+
+Outside a dual enrollment program is defined as high school students who simply enroll in credit courses through your institution and are treated as regularly enrolled college students.
+
+Your response to this question will determine whether you need to report 12-month unduplicated count of high school students enrolled in college courses for credit on Part C of the survey component.
+
+
+
+
+
+Reporting Persons by Racial/Ethnic Category (1997 OMB)
+
+This information is being collected in compliance with Title VI of the Civil Rights Act of 1964 and Title IX of the Education Amendments of 1972 and Sec. 421(a) (1) of the Carl D. Perkins Vocational Education Act. These instructions correspond with the Final Guidance on Maintaining, Collecting, and Reporting Racial and Ethnic Data to the U.S. Department of Education, published in the Federal Register on October 19, 2007.
+
+Method of collection - Institutions must collect race and ethnicity information using a 2-question format. The first question is whether the respondent is Hispanic/Latino. The second question is whether the respondent is from one or more races from the following list: American Indian or Alaska Native, Asian, Black or African American, Native Hawaiian or Other Pacific Islander, and White. Institutions should allow students and staff to self-identify their race and ethnicity. For further details on the guidance for collecting these data, please see the full Federal Register notice.
+
+Method of reporting aggregate data - Institutions must report aggregate data to the U.S. Department of Education using the NINE categories below. Racial/ethnic designations are requested only for United States citizens, residents, and other eligible non-citizens. Eligible noncitizens include all students who completed high school or a GED equivalency within the United States (including DACA and undocumented students) and who were not on an F-1 non-immigrant student visa at the time of high school graduation. More information about other eligible (for financial aid purposes) non-citizens is available at
+
+https://studentaid.gov/understand-aid/eligibility/requirements/non-us-citizens.
+
+Hispanic or Latino, regardless of race
+
+For Non-Hispanic/Latino individuals:
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+In addition, the following categories may be used:
+
+U.S. Nonresident
+
+Race and ethnicity unknown
+
+Racial/ethnic descriptions - Racial/ethnic designations as used in this survey do not denote scientific definitions of anthropological origins. The categories are:
+
+Hispanic or Latino- A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race.
+
+American Indian or Alaska Native- A person having origins in any of the original peoples of North and South America (including Central America) who
+
+maintains cultural identification through tribal affiliation or community attachment.
+
+Asian- A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example,
+
+Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+
+Black or African American- A person having origins in any of the black racial groups of Africa.
+
+Native Hawaiian or Other Pacific Islander- A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+
+White - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+
+Other descriptive categories
+
+U.S. Nonresident - A person who is not a citizen or national of the United States and who is in this country on a visa or temporary basis and does not
+
+have the right to remain indefinitely. Do not include DACA, undocumented, or other eligible noncitizens in this category. NOTE - U.S. Nonresidents are to
+
+be reported separately, in the boxes provided, rather than included in any of the seven racial/ethnic categories.
+
+Race and ethnicity unknown - This category is used only if the person did not select EITHER a racial or ethnic designation.
+
+
+
+
+
+Determining Attendance Status (Full-Time vs. Part-Time)
+
+The attendance status of students is determined on the first full term (i.e., semester or quarter) at entry. For example, if a transfer-in (other) undergraduate student entered an institution in the Spring term of the July 1 - June 30 reporting period as part-time, this student should be reported as a part-time, other undergraduate student. Or, if a certificate-seeking undergraduate student who took a summer session preceding the start of the July 1 - June 30 reporting period enrolled in the following fall term as a full-time student, they should be reported as a full-time, first-time certificate-seeking undergraduate student. Note: Even if the student’s attendance status changes (i.e., full-time to part-time, or vice versa) or if the student drops out, transfers out, or transfers back into the institution during the 12-month period, the student’s attendance status is reported as of entry to the institution for the first full term.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 14/21
+
+Part A: Unduplicated Count of Full-Time Undergraduate Students by Race/Ethnicity and Gender
+
+On this screen, include all students enrolled for credit, full-time at the undergraduate level at any time during the July 1, 2023 – June 30, 2024 reporting
+
+period. The undergraduate level includes students enrolled in undergraduate level courses, in 4 or 5 -year bachelor’s degree programs, associate’s degree
+
+programs, or any certificate programs below the baccalaureate level. Students who have already earned a bachelor’s degree but are taking undergraduate
+
+courses for credit should be included as undergraduates.
+
+Number of Students Enrolled for Credit: The number of students enrolled for credit at the close of the official add period for each program. If there is no
+
+official add period, report as of the 15th day of each regular program, and the 5th day of each summer session or short term.
+
+To determine the unduplicated 12-month enrollment, count each student only once during the 12-month period. For example: If a student enrolls in the fall
+
+term, drops out in winter, but enrolls again in spring, count that student once.
+
+Full-time, first-time certificate-seeking undergraduate students
+
+In column 1, report undergraduate students who have no prior postsecondary experience and have enrolled full-time with the intent to earn a degree,
+
+certificate, or other recognized postsecondary credential. The following are also considered first-time:
+
+Students enrolled and attended college for the first time at any time during July 1 – June 30 reporting period Students who entered with advanced standing (any college credits or recognized postsecondary credential earned before graduation from high school)
+
+Full-time, Other certificate-seeking undergraduate students
+
+In column 2, report the total number of all other (i.e. not first-time) full-time certificate-seeking undergraduate students. This includes:
+
+transfer-in certificate-seeking students. These are students who enter the reporting institution for the first time but known to have previously attended a postsecondary institution at the undergraduate level. Include students enrolled in the institution who transferred into the institution at least once during the July 1 – June 30 reporting period.
+
+continuing certificate-seeking students. These are students who are not new to the institution at the beginning of July 1 – June 30 reporting period, but instead are continuing their studies at the institution.
+
+Full-time, Non-certificate-seeking undergraduate students
+
+In column 3, report the total number of full-time non-certificate-seeking undergraduate students. These students are enrolled for credit but not with the intent
+
+of earning a certificate or other recognized postsecondary credential for a whole July 1 – June 30 reporting period.
+
+Note: High school students enrolled in college courses for credit prior to high school graduation are considered non-degree/non-certificate-seeking students.
+
+Once you save the data by clicking the ‘Verify and Save’ button, the ‘Total, full-time undergraduate students (column 4) will be calculated by the system and
+
+display on the survey screen.
+
+Student Level Reporting Reminders:
+
+Students who already hold an undergraduate degree but are enrolled as an undergraduate for additional undergraduate courses should be reported as undergraduate students
+
+To provide context, two prior year enrollment totals are displayed at the bottom of the screen. The first is the total 12-month unduplicated count reported last
+
+year (2023-24). The second is the total fall enrollment from Fall 2023, as reported on the Fall Enrollment survey component. Since the Fall 2023 enrollment
+
+falls within the 12-month period currently being reported (2023-24), the 12-month unduplicated count must be greater than or equal to the Fall 2023 total
+
+enrollment.
+
+Part A: Unduplicated Count of Part-Time Undergraduate Students by Race/Ethnicity and Gender
+
+Report part-time students using the same definitions and instructions provided for full-time undergraduate students.
+
+Part A: 12-month Enrollment – Gender Unknown or Another Gender than Provided Categories
+
+Of the total undergraduate and graduate reported on previous Part A screens, indicate how many students you had to allocate to a binary gender category
+
+(Men/Women) because their gender was unknown or another gender than the provided categories (Men/Women). If your institution is not able to report
+
+another gender, please select 'No, my institution is not able to report another gender' to the question and leave the cells in the 'Another gender' row blank (do
+
+not input 0s). If you institution collects data on another gender, but some cells will have a value of less than 5 students, please select 'No, some cells will have
+
+a value of less than 5 students,' do not report the data and leave the cells in the rows for 'Another gender' blank. If you indicate 'Yes', but no students
+
+identified as another gender, please enter '0' in the appropriate row(s).
+
+Part A: Unduplicated Count by Distance Education Status
+
+On this screen, report all students reported on previous Part A screens who, during the July 1 – June 30 reporting period:
+
+Enrolled exclusively in distance education courses offered at your institution
+
+Enrolled in at least one but not all distance education courses offered at your institution: Students who are enrolled in at least one course that is considered a distance education course, but are not enrolled exclusively in distance education courses. Not enrolled in any distance education courses offered at your institution: This number represents the students who are not enrolled in any distance education courses at your institution. It will be calculated by subtracting the (students enrolled exclusively in distance education courses + students enrolled in at least one but not all distance education courses) from the total enrolled students from previous Part A screens, which is the totals for certificate-seeking undergraduate (first-time + all other(transfer-in + continuing/returning) and, non-certificate-seeking undergraduate students.
+
+
+
+
+
+Part B: Instructional Activity and Full-Time Equivalent Enrollment
+
+Report the total clock hour and/or credit hour activity attempted during the 12-month period of July 1, 2023 - June 30, 2024. The instructional activity data
+
+reported will be used by the Data Collection System to calculate full-time equivalent (FTE) student enrollment at the institution.
+
+Step 1: Institution Reports Total Instructional Activity
+
+The IPEDS keyholder reports total instructional activity attempted in clock hours and/or credit hours. Do not convert clock hour activity into credit hour
+
+activity, and vice versa.
+
+Option A: Reporting Clock Hour Activity
+
+First, calculate total clock hour activity by course. Include only courses offered for credit that are measured in clock hours (see the IPEDS Glossary for the definition of "credit course").
+
+To determine the clock hour activity for a course, multiply the clock hour value of the course by the number of students enrolled in the course for credit.
+
+Clock Hour Activity of a Course = Course Clock Hour Value * Number of Students Enrolled for Credit Clock Hour Value of a Course: The clock hour value of a course is the number of hours per week that the course meets multiplied by the number of weeks the course is given. For example, a 3-week real estate licensure course that meets 15 hours per week has a value of 45 clock hours. Number of Students Enrolled for Credit: The number of students enrolled for credit at the close of the official add period for each program. If there is no official add period, report as of the 15th day of each regular program, and the 5th day of each summer session or short program.
+
+Second, calculate total clock hour activity for the institution by adding each calculated total clock hour activity by course. Report this aggregate value on the survey form.
+
+Example Calculation: Total clock hour activity for Institution A.
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 15/21
+
+Institution A offers 3 courses during the July 1, 2023 - June 30, 2024 reporting period:
+
+Course 1 is a 50-week course with 30 clock hours per week and 10 students.
+
+Course 2 is a 20-week course with 35 clock hours per week and 5 students.
+
+Course 3 is a 15-week course with 20 clock hours per week and 10 students.
+
+Compute the clock hour activity for each course:
+
+Course 1: 50 * 30 * 10 = 15,000 hours
+
+Course 2: 20 * 35 * 5 = 3,500 hours
+
+Course 3: 15 * 20 * 10 = 3,000 hours
+
+Compute the total clock hour activity for the institution by summing the clock hour activity for all courses offered for credit that are measured in clock
+
+hours:
+
+15,000 hours + 3,500 hours + 3,000 hours = 21,500 hours
+
+Third, once you have reported total instructional activity information, click "save" and the FTE student enrollment will be calculated and appear on the
+
+screen.
+
+Reporting Reminder:
+
+If a course does not start and end within the same 12-month reporting period, the clock hour activity reported should be only for the number of
+
+weeks which fall within the July 1 - June 30 period. For example, if only 40 weeks of a 64 week course (which meets 15 hours per week and has an
+
+enrollment of 30 students) falls within the 12-month period, the clock hour activity for this course would be computed as follows: 40 weeks x 15
+
+hours per week x 30 students = 18,000 clock hours.
+
+Option B: Reporting Credit Hour Activity
+
+First, calculate total credit hour activity by course. Include only courses offered for credit that are measured in credit hours (see the IPEDS Glossary
+
+for the definition of "credit course").
+
+To determine the credit hour activity for a course, multiply the credit hour value of the course by the number of students enrolled in the course for
+
+credit.
+
+Credit Hour Activity of a Course = Course Credit Hour Value * Number of Students Enrolled for Credit
+
+Number of Students Enrolled for Credit: The number of students enrolled for credit at the close of the official add period for each term. If there
+
+is no official add period, report as of the 15th day of each regular term and the 5th day of each summer session or short term.
+
+Second, calculate total credit hour activity for the institution by adding each calculated total credit hour activity by course. Report this aggregate value on
+
+the survey form.
+
+Example Calculation: Total credit hour activity for Institution B.
+
+Institution B offers 3 courses during the July 1, 2023 - June 30, 2024 reporting period:
+
+Course 1 is a 3 credit hour course with 20 students.
+
+Course 2 is a 5 credit hour course with 10 students.
+
+Course 3 is a 4 credit hour course with 15 students.
+
+Compute the credit hour activity for each course:
+
+Course 1: 3*20 = 60 hours
+
+Course 2: 5*10 = 50 hours
+
+Course 3: 4*15 = 60 hours
+
+Compute the total credit hour activity for the institution by summing the credit hour activity for all courses offered for credit and measured in credit
+
+hours:
+
+60 hours + 50 hours + 60 hours = 170 hours
+
+Third, once you have reported total instructional activity information, click "save" and the FTE student enrollment will be calculated and appear on the
+
+screen.
+
+Reporting Reminder:
+
+If a course does not start and end within the same 12-month reporting period, report all credit hour activity for the course in the 12-month period
+
+in which the course began. Because course enrollment counts (necessary for calculating total credit hour activity) are typically taken at the close of
+
+the official add/drop period for a course, this date can also be used as the course start date for the purposes of determining the appropriate 12-
+
+month period. If there is no official add/drop period, report as of the 15th day of each full term, and the 5th day of each summer session or short
+
+term.
+
+
+
+Step 2: Data Collection System Calculates FTE Enrollment
+
+Full-Time Equivalent (FTE) Calculation
+
+Full-time equivalent (FTE) student enrollment will be calculated for the institution using the instructional activity data (total clock hour and credit hour
+
+activity) reported in Part B. A FTE student is a unit of measurement intended to represent one student enrolled full time for one academic year.
+
+
+
+Step 3: Institution Confirms and Accepts Data Collection System FTE Enrollment Calculation - OR - Institution Provides "Institution Reported FTE"
+
+If these calculated FTE estimates are not reasonable for the institution, please double check the clock hours and/or credit hours reported to ensure
+
+their accuracy. If the instructional activity data reported are inaccurate, then the calculated FTE estimate will also be inaccurate.
+
+After double checking the instructional activity data reported, if the FTE count estimated for the institution is still not reasonable, the system will allow
+
+you to enter more accurate FTE data for the institution in the "Institution reported FTE" column below. This option should be used ONLY if the
+
+system calculated estimates are not reasonable for the institution and would be misleading for comparison purposes among all IPEDS reporting
+
+institutions.
+
+Calculated Full-Time Equivalent (FTE) Estimate. After entering the instructional activity, the FTE estimate will be calculated as follows:
+
+For institutions reporting clock hours, the number of total clock hours reported is divided by 900. For example, the FTE for Institution A would be
+
+1150/900, or approximately 1 student.
+
+For institutions operating on a Quarter calendar system (as reported in the prior year IC survey component), undergraduate credit hours are divided by
+
+45. If Institution B from the example above was an undergraduate program on the quarter system, the FTE would be 170/45, or approximately 4
+
+students.
+
+For institutions operating on a semester, 4-1-4 Plan, or other calendar type (as reported in the prior year IC survey component), undergraduate credit
+
+hours are divided by 30. If Institution B was an undergraduate program on one of these systems, the FTE would be 170/30, or approximately 6
+
+students.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 16/21
+
+Part C: Unduplicated Count of High School Students Enrolled for Credit
+
+On this screen, include all high school students enrolled in college courses for credit (i.e., dual enrolled students) at the IPEDS reporting institution during the
+
+July 1, 2023 – June 30, 2024 reporting period. Student performance is recorded on a college transcript and postsecondary credit is awarded for a passing
+
+grade in the course. Dual enrollment includes: All postsecondary courses, independent of course delivery mode, course location, course instructor, whether
+
+secondary credit is also offered, and whether the student enrolls through a formal state/local program or enrolls outside a formal state/local program. Dual
+
+enrollment excludes: Credit-by-exam models such as Advanced Placement (AP) and International Baccalaureate (IB) in which the student is not enrolled in a
+
+postsecondary institution.
+
+High School Students enrolled in college courses for credit include students enrolled:
+
+within a dual enrollment program is defined as within an organized system with special guidelines that allows high school students to take college-level courses. The guidelines might have to do with entrance or eligibility requirements, funding, limits on course taking, etc. AND outside a dual enrollment program is defined as high school students who simply enroll in credit courses through your institution and are treated as regularly enrolled college students.
+
+Number of High School Students enrolled in college courses for credit: The number of high school students enrolled in college courses for credit at the
+
+close of the official add/drop period. If there is no official add/drop period, report as of the 15th day of each full term, and the 5th day of each summer session
+
+or short term.
+
+To determine the unduplicated 12-month enrollment, count each student only once during the 12-month period. For example: If a student enrolls in the fall
+
+term, drops out in winter, but enrolls again in spring, count that student once.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 17/21 Glossary
+
+Term Definition
+
+This annual component of IPEDS collects unduplicated student enrollment counts and instructional activity data for an entire
+
+12-month period. These data were collected in the Enrollment component prior to the 2007 IPEDS data collection. Institutions
+
+report an unduplicated head count for the total number of students, by gender, attendance status (full-time, part-time),
+
+race/ethnicity, level (undergraduate, and graduate, including doctor's – professional practice), first-time (entering), transfer-in,
+
+continuing/returning, and degree/certificate-seeking statuses, enrolled throughout the reporting period. Students included are 12-month enrollment (E12)
+
+those enrolled in any courses for credit leading to a degree or other recognized postsecondary credential, as well as those
+
+enrolled in courses that are part of a terminal vocational or occupational program. Institutions also report the total instructional
+
+activity for the same 12-month period for both undergraduate and graduate programs. Instructional activity data are reported in
+
+units of clock hours or credit hours. Starting with the 2023-24 data collection, institutions also report data on dual enrollment
+
+(i.e., the number of high school students enrolled at the postsecondary level).
+
+A 12-month period defined by an institution for reporting a full year of activity (All institutions must use the July 1 - June 30 12-month period
+
+reporting period). This time period should be consistent across all IPEDS data collections and from year-to-year.
+
+The 4-1-4 calendar usually consists of 4 courses taken for 4 months, 1 course taken for 1 month, and 4 courses taken for 4 4-1-4 (calendar system)
+
+months. There may be an additional summer session.
+
+American Indian or Alaska A person having origins in any of the original peoples of North and South America (including Central America) who maintains Native cultural identification through tribal affiliation or community attachment.
+
+A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for Asian
+
+example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+
+Term used when a student elects to take a course, but does not wish to receive credit for the course toward a degree or other Audit/auditing (a class)
+
+recognized postsecondary credential.
+
+Black or African American A person having origins in any of the black racial groups of Africa.
+
+The number of FTE students is calculated based on the credit and/or clock hours reported by the institution on the IPEDS 12-
+
+month enrollment (E12) component and the institution's calendar system, as reported on the IC component. The following table
+
+indicates the level of instructional activity used to convert the credit and/or clock hours reported to an indicator of full-time
+
+equivalents (FTE students):
+
+Quarter calendar system
+
+Enrollment level (One FTE over 12-month period)
+
+Undergraduate 45 credit hours, 900 clock hours
+
+Graduate 36 credit hours
+
+Calculation of FTE students
+
+Semester/trimester/4-1-4 plan/other calendar system
+
+(using instructional activity)
+
+Enrollment level (one FTE over 12-month period)
+
+Undergraduate 30 credit hours 900 clock hours
+
+Graduate 24 credit hours
+
+For institutions with continuous enrollment programs, FTE is determined by dividing the number of clock hours attempted by
+
+900.
+
+The total 12-month FTE is generated by summing the estimated or reported undergraduate FTE and the estimated or reported
+
+graduate FTE and reported Doctor's Professional Practice FTE.
+
+Calendar system The method by which an institution structures most of its courses for the academic year.
+
+A period of time consisting of (1) A 50- to 60-minute class, lecture, or recitation in a 60-minute period; (2) A 50- to 60-minute Clock hour faculty-supervised laboratory, shop training, or internship in a 60-minute period; or (3) Sixty minutes of preparation in a
+
+correspondence course.
+
+Clock hour activity The provision of coursework to students which can be measured in terms of clock hours.
+
+Cohort year The year that a cohort of students begins attending college.
+
+Contact hour (old definition) A unit of measure that represents an hour of scheduled instruction given to students. Also referred to as clock hour.
+
+Continuing/Returning student A degree/certificate-seeking student who is not new to the institution during the IPEDS enrollment reporting period, but instead (undergraduate) is continuing their studies at the institution (i.e., not an entering first-time or transfer-in student).
+
+A calendar system classification that is used by institutions that allow students to enroll/start classes at any time during the Continuous basis year. For example, a cosmetology school or a word processing school might allow students to enroll and begin studies at
+
+various times, with no requirement that classes begin on a certain date.
+
+Recognition of attendance or performance in an instructional activity (course or program) that can be applied by a recipient
+
+Credit toward the requirements for a postsecondary degree, diploma, certificate, or other recognized postsecondary credential,
+
+irrespective of the activity's unit of measurement.
+
+A course that, if successfully completed, can be applied toward the number of courses required for achieving a
+
+Credit course postsecondary degree, diploma, certificate, or other recognized postsecondary credential, irrespective of the activity's unit of
+
+measurement.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 18/21
+
+A unit of measure representing the equivalent of an hour (50 minutes) of instruction per week over the entire term. It is applied
+
+Credit hour toward the total number of credit hours needed for completing the requirements of a degree, diploma, certificate, or other
+
+recognized postsecondary credential.
+
+Credit hour activity The provision of coursework to students which can be measured in terms of credit hours.
+
+Students enrolled in courses for credit who are seeking a degree, certificate, or other recognized postsecondary credential. This includes students who:
+
+- received any type of federal financial aid, regardless of what courses they took at any time;
+
+Degree/certificate-seeking - received any state or locally based financial aid with an eligibility requirement that the student be enrolled in a degree,
+
+students (DCGS) certificate, or transfer-seeking program; or
+
+- obtained a student visa to study at a U.S. postsecondary institution
+
+High school students also enrolled in postsecondary courses for credit are not considered degree/certificate-seeking.
+
+Instructional courses designed for students deficient in the general competencies necessary for a regular postsecondary
+
+Developmental courses
+
+curriculum and educational setting.
+
+A calendar system classification that is used by institutions that have occupational/vocational programs of varying lengths.
+
+Differs by program (calendar
+
+These schools may enroll students at specific times depending on the program desired. For example, a school might offer a 2-
+
+system)
+
+month program in January, March, May, September, and November; and a 3-month program in January, April, and October.
+
+Education that uses one or more technologies to deliver instruction to students who are separated from the instructor and to support regular and substantive interaction between the students and the instructor synchronously or asynchronously.
+
+Technologies used for instruction may include the following: Internet; one-way and two-way transmissions through open
+
+Distance education
+
+broadcasts, closed circuit, cable, microwave, broadband lines, fiber optics, satellite or wireless communication devices; audio conferencing; and video cassette, DVDs, and CD-ROMs, if the cassette, DVDs, and CD-ROMs are used in a course in conjunction with the technologies listed above.
+
+
+
+A course in which the instructional content is delivered exclusively via distance education. Requirements for coming to campus
+
+Distance education course
+
+for orientation, testing, or academic support services do not exclude a course from being classified as distance education.
+
+A program for which all the required coursework for program completion is able to be completed via distance education
+
+Distance education program
+
+courses.
+
+Refers to students who enroll in college courses offered by an institution of higher education while enrolled in high school or seeking a recognized equivalent. Student performance is recorded on a college transcript and postsecondary credit is awarded for a passing grade in the course.
+
+- Includes: All postsecondary courses, independent of course delivery mode, course location, course instructor, whether
+
+Dual enrollment
+
+secondary credit is also offered, and whether the student enrolls through a formal state/local program or enrolls outside a formal state/local program.
+
+- Excludes: Credit-by-exam models such as Advanced Placement and International Baccalaureate in which the student is not
+
+enrolled in a postsecondary institution.
+
+Credit can be measured in units such as clock hours or credit hours. Credit is the recognition of attendance or performance in
+
+Enrolled for credit an instructional activity (course or program) that can be applied by a recipient toward the requirements for a postsecondary
+
+degree, diploma, certificate, or other recognized postsecondary credential, irrespective of the activity's unit of measurement.
+
+Students at the undergraduate level, both full-time and part-time, enrolled at the institution for the first time during the IPEDS
+
+Entering students enrollment reporting period (e.g., fall term or preceding summer session for Fall Enrollment survey component). This includes
+
+(undergraduate) all degree/certificate-seeking first-time students, degree/certificate-seeking transfer-in students, and non-degree/non-certificate-
+
+seeking students new to the institution (not including high school students).
+
+A student who has no prior postsecondary experience (except as noted below) attending any institution for the first time at the
+
+First-time student undergraduate level. This includes students enrolled in academic or occupational programs. It also includes students enrolled
+
+(undergraduate) in the fall term who attended college for the first time in the prior summer session, and students who entered with advanced
+
+standing (college credits or recognized postsecondary credential earned before graduation from high school).
+
+Undergraduate: A student enrolled for 12 or more semester credits, or 12 or more quarter credits, or 24 or more clock hours a week each term. Graduate: A student enrolled for 9 or more semester credits, or 9 or more quarter credits, or a student involved
+
+Full-time student
+
+in thesis or dissertation preparation that is considered full-time by the institution. Doctor's degree - Professional practice - full-time as defined by the institution.
+
+A document certifying the successful completion of a prescribed secondary school program of studies, or any of the following:
+
+- recognized attainment of satisfactory scores on the GED or another state-authorized examination
+
+High school diploma or - recognized completion of homeschooling at the secondary level as defined by state law
+
+recognized equivalent - completion of secondary school education in a homeschool setting which qualifies for an exemption from compulsory
+
+attendance requirements under state law, if state law does not require a homeschooled student to receive credential for their education
+
+Hispanic/Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race.
+
+Instructional activity The total number of credit and clock hours all students are engaged in during the specified period.
+
+Integrated Postsecondary The Integrated Postsecondary Education Data System (IPEDS), conducted by the NCES, began in 1986 and involves annual
+
+Education Data System institution-level data collections. All postsecondary institutions that have a Program Participation Agreement with the Office of
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 19/21
+
+(IPEDS) Postsecondary Education (OPE), U.S. Department of Education (throughout IPEDS referred to as "Title IV") are required to report
+
+data using a web-based data collection system. IPEDS currently consists of the following components: Institutional
+
+Characteristics (IC); 12-month Enrollment (E12);Completions (C); Admissions (ADM); Student Financial Aid (SFA); Human
+
+Resources (HR) composed of Employees by Assigned Position, Fall Staff, and Salaries; Fall Enrollment (EF); Graduation Rates
+
+(GR); Outcome Measures (OM); Finance (F); and Academic Libraries (AL).
+
+Native Hawaiian or Other
+
+A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands. Pacific Islander
+
+A student enrolled in courses for credit who is not recognized by the institution as seeking a degree or recognized Non-degree-seeking student
+
+postsecondary credential.
+
+A student who has previously enrolled at a postsecondary institution (not as a high school student) before enrolling at the IPEDS
+
+reporting institution as a degree/certificate-seeking student. Non-first-time cohort includes entering transfer-in students from Non-first-time student
+
+Fall Enrollment (EF) and 12-month Enrollment (E12) components and also includes students who entered the institution as non-(undergraduate)
+
+degree/non-certificate-seeking (not as a high school student) but became degree/certificate-seeking during the Outcome
+
+Measures (OM) cohort reporting period.
+
+A course or activity having no credit applicable toward a degree, diploma, certificate, or other recognized postsecondary Noncredit course
+
+credential.
+
+Other academic calendar Category used to describe "non-traditional" calendar systems at 4-year and 2-year degree-granting institutions. These can system include schools that offer primarily on-line courses or "one course at a time."
+
+Undergraduate: A student enrolled for either less than 12 semester or quarter credits, or less than 24 clock hours a week each Part-time student
+
+term. Graduate: A student enrolled for less than 9 semester or quarter credits.
+
+A calendar system in which the academic year consists of 3 sessions called quarters of about 12 weeks each. The range may Quarter (calendar system)
+
+be from 10 to 15 weeks as defined by the institution. There may be an additional quarter in the summer.
+
+Race and ethnicity unknown The category used to report students or employees whose race and ethnicity are not known.
+
+Categories developed in 1997 by the Office of Management and Budget (OMB) that are used to describe groups to which
+
+individuals belong, identify with, or belong in the eyes of the community. The categories do not denote scientific definitions of
+
+anthropological origins. The designations are used to categorize U.S. citizens, residents, and other eligible non-citizens.
+
+Individuals are asked to first designate ethnicity as:
+
+- Hispanic or Latino or
+
+- Not Hispanic or Latino
+
+Race/ethnicity
+
+Second, individuals are asked to indicate all races that apply among the following:
+
+- American Indian or Alaska Native
+
+- Asian
+
+- Black or African American
+
+- Native Hawaiian or Other Pacific Islander
+
+- White
+
+A recognized postsecondary credential includes any credential that is recognized by the institution’s appropriate governing body
+
+and received after completion of an academic program or that is awarded in recognition of an individual's attainment of Recognized postsecondary
+
+measurable technical or industry/occupational skills necessary to obtain employment or advance within an industry/occupation. credential
+
+These technical or industry/occupational skills generally are based on standards developed or endorsed by employers or
+
+industry associations.
+
+A person who is not a citizen or national of the United States but who has been admitted as a legal immigrant for the purpose of Resident (and other eligible obtaining permanent resident status (and who holds either a registration card (Form I-551 or I-151), a Temporary Resident Card non-citizens) (Form I-688), or an Arrival-Departure Record (Form I-94) with a notation that conveys legal immigrant status such as Section 207
+
+Refugee, Section 208 Asylee, Conditional Entrant Parolee or Cuban-Haitian).
+
+A calendar system that consists of two sessions called semesters during the academic year with about 15 weeks for each
+
+semester of instruction. There may be an additional summer session. Note: the standard term length range is defined by the Semester (calendar system)
+
+Office of Postsecondary Education. More information can be found at: https://ifap.ed.gov/electronic-
+
+announcements/110519RevisionGuidelinesApplicableStandardTerms
+
+Arrangement by which a student completes part of the college program studying in another country. Can be at a campus abroad Study abroad
+
+or through a cooperative agreement with some other U.S. college or an institution of another country.
+
+An institution that has a written agreement with the Secretary of Education that allows the institution to participate in any of the
+
+Title IV federal student financial assistance programs (other than the Leveraging Educational Assistance Partnerships or LEAP, Title IV institution
+
+formerly State Student Incentive Grant or SSIG and the National Early Intervention Scholarship and Partnership or NEISP
+
+programs).
+
+A degree/certificate-seeking undergraduate student entering the IPEDS reporting institution for the first time but known to have
+
+previously enrolled at a different postsecondary institution (not as a high school student). The student may transfer with or Transfer-in student
+
+without credit. For systems of coordinated institutions (multi-campus system), students are to be identified as transfer-in
+
+students upon entering an institution from another institution within the same coordinated system.
+
+Trimester (calendar system) An academic year consisting of 3 terms of about 15 weeks each.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 20/21
+
+A person who is not a citizen or national of the United States and who is in this country on a visa or temporary basis and does
+
+U.S. Nonresident
+
+not have the right to remain indefinitely.
+
+A student who is taking courses at the baccalaureate or below the baccalaureate level. These students may or may not be
+
+Undergraduate student
+
+enrolled in undergraduate programs.
+
+The sum of students enrolled for credit with each student counted only once during the reporting period, regardless of when the
+
+Unduplicated count
+
+student enrolled.
+
+White A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=9&instructionid=30040&formid=110 21/21
+
+
+
+
+

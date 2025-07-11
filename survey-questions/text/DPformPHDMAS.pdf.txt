@@ -1,26 +1,368 @@
-Usage: .ebook-convert-wrapped input_file output_file [options]
-
-Convert an e-book from one format to another.
-
-input_file is the input and output_file is the output. Both must be specified as the first two arguments to the command.
-
-The output e-book format is guessed from the file extension of output_file. output_file can also be of the special format .EXT where EXT is the output file extension. In this case, the name of the output file is derived from the name of the input file. Note that the filenames must not start with a hyphen. Finally, if output_file has no extension, then it is treated as a folder and an "open e-book" (OEB) consisting of HTML files is written to that folder. These files are the files that would normally have been passed to the output plugin.
-
-After specifying the input and output file you can customize the conversion by specifying various options. The available options depend on the input and output file types. To get help on them specify the input and output file and then use the -h option.
-
-For full documentation of the conversion system see
-https://manual.calibre-ebook.com/conversion.html
-
-Whenever you pass arguments to .ebook-convert-wrapped that have spaces in them, enclose the arguments in quotation marks. For example: "/some path/with spaces"
-
-Options:
-  --version       show program's version number and exit
-
-  -h, --help      show this help message and exit
-
-  --list-recipes  List builtin recipe names. You can create an e-book from a
-                  builtin recipe like this: ebook-convert "Recipe Name.recipe"
-                  output.epub
+Print copy of form Submit completed form as email attachment
 
 
-Created by Kovid Goyal <kovid@kovidgoyal.net>
+
+Departmental Profile
+
+Fall 2019
+
+
+
+Return to: American Mathematical Society | PO Box 6248 | Providence, RI 02940-6248
+
+Email: ams-survey@ams.org 401.331.3842 (f) Attn: Annual Survey | 800.321.4267 ext. 4189 (t)
+
+Web: www.ams.org/annual-survey/DPformPHDMAS.pdf
+
+
+
+Institution: _______________________________________________________
+
+
+
+Department: ______________________________________________________ your records, and return it to the above address Please complete this form, keeping a copy for
+
+by February 27, 2020.
+
+Address _________________________________________________________ Any necessary corrections to the address or
+
+highest degree offered by your department
+
+__________________________________________________________ should be noted on the label at the left.
+
+Highest Degree Offered by Department ____________________________________
+
+
+
+Answer every question for the entire department named above.
+
+Be sure to include all faculty, graduate students, course enrollments and majors in the named department even though this department may include other disciplines such as computer science, etc. Do not exclude anyone except where noted.
+
+
+
+Name of person completing form: Date:
+
+
+
+Title: Phone:
+
+
+
+Email: Fax:
+
+
+
+Section A: Department Chair – Gender
+
+
+
+A.1 Please provide the gender for your current department chair/head. Male Female Other
+
+
+
+Section B: Fall 2019 – Course Enrollment • Report the sum of combined enrollments of all the courses in Fall 2019, not the number of sections of cours-
+
+es. (Take the number of students in each course and add them together.)
+
+• Include thesis enrollments (thesis, honors thesis, research, reading, etc) for your students as course
+
+enrollments.
+
+• Enrollment in undergraduate and graduate courses should be reported below in their respective categories
+
+regardless of whether the individual students enrolled are undergraduate or graduate students.
+
+
+
+B.1 Report your department’s total undergraduate course enrollment
+
+(all enrollments combined) for Fall 2019. ...............................................................................
+
+
+
+B.2 Report your department’s total graduate course enrollment
+
+(all enrollments combined) for Fall 2019. ...............................................................................
+
+
+
+Continue with Section C on page 2.
+
+Section C: Fall 2019 – Faculty
+
+REPORT EACH FACULTY MEMBER ONLY ONCE
+
+
+
+Full-time faculty: Report in this section individuals who are full-time in the institution for the academic year
+
+and at least half-time in your department. Each faculty member should be reported in exactly one category.
+
+Please review all categories before reporting faculty below. If you’re not sure where to put a faculty member, please call
+
+1-800-321-4267, ext. 4189 for help.
+
+
+
+• If your institution does not recognize tenure, please check the following box and then report your
+
+full-time faculty in the appropriate lines in sections C.2 and C.3 below.
+
+
+
+C.1 Tenured and Tenure-eligible faculty (include tenure-track faculty who are on leave):
+
+Number of Faculty
+
+With PhD Without PhD
+
+Male Female Other Male Female Other
+
+C.1.a Tenured full-professor faculty
+
+C.1.b Other Tenured faculty
+
+C.1.c Tenure-eligible faculty (i.e. without tenure)
+
+
+
+C.2 Postdoctoral and Visiting faculty: Report in this subsection those (full-time) faculty who have teaching
+
+and/or research responsibilities, but for a strictly limited term of employment.
+
+Number of Faculty
+
+With PhD Without PhD
+
+Male Female Other Male Female Other
+
+C.2.a Postdoctoral Faculty under whatever title*
+
+C.2.b Visitors on leave from another institution
+
+*A postdoctoral appointment is a temporary position primarily intended to provide an opportunity to continue training or to further research experience.
+
+
+
+C.3 Non-tenure-eligible faculty: Report in this subsection (full-time) faculty eligible for benefits and with an
+
+appointment that lasts at least one academic year.
+
+Number of Faculty
+
+With PhD Without PhD
+
+Report non-tenure track (full-time) faculty who are: Male Female Other Male Female Other
+
+C.3.a Individuals with a renewable appointment*
+
+C.3.b Individuals with fixed-term (not renewable) appointments
+
+C.3.c Other full-time faculty not reported above
+
+* Include in this line those with appointments that are eligible for unlimited renewal. These include positions with titles such as Lecturer, Senior Lecturer, Instructor, Senior Instructor, Associate/Assistant/Full Teaching Professor, Professor of the Practice, Clinical Professor, and similar titles for research only faculty.
+
+
+
+C.4 Of the total full-time faculty reported in C.1, C.2, and C.3 (above), how many
+
+taught one or more courses other than mathematics or statistics in Fall 2019? ...............
+
+C.4.a Of the total reported in C.4, how many taught only computer sciences
+
+courses in Fall 2019? .................................................................................................
+
+Continue with Section C on page 3.
+
+
+
+2
+
+Section C (continued)
+
+
+
+Part-time Appointments: Report in this section instructors who do not hold a full-time appointment for the
+
+academic year.
+
+
+
+C.5 Report in this subsection faculty who are hired term-by-term, and are paid by the course.
+
+Number of Faculty
+
+With PhD Without PhD
+
+Male Female Other Male Female Other
+
+C.5.a Part-time faculty receiving benefits
+
+C.5.b Other part-time faculty
+
+C.5.c Part-time faculty in phased retirement*
+
+*Phased retirement is an employer-employee relationship that is different from the traditional model in which the employee converts from a full-time employee to a full-time retiree.
+
+
+
+Section D: Fall 2019 – Graduate Students
+
+If your department does not have graduate students, check here and go to Section E.
+
+• Report only graduate students whose major course of study is within your department and who are actually
+
+enrolled in Fall 2019.
+
+• Report your graduate students as full-time or part-time according to how they are classified by your institu-
+
+tion.
+
+• The counts of full-time graduate students reported in the first row should include the counts of first-year full-
+
+time graduate students reported in the second row.
+
+• Include in your counts graduate students in your department studying mathematics education.
+
+• UNDERREPRESENTED MINORITIES include any person who is a US citizen or permanent resident and who
+
+is Black or African American, Hispanic or Latino, American Indian, Alaska Native, or Native Hawaiian or Other Pacific Islander.
+
+• If you are unable to report underrepresented minorities, check here . If you have none check here
+
+.
+
+Any box left blank is assumed to be zero.
+
+Please report data for US Citizens and Permanent Residents separately from Non-US Citizens.
+
+
+
+Graduate Students Enrolled Permanent Residents Underrepresented Non-US Citizens US Citizens &
+
+
+
+Fall 2019 Male Total Minorities* Total Female Other Male Female Other Male Female Other
+
+
+
+D.1 Number of FULL-TIME students
+
+
+
+D.2 Number of FULL-TIME students
+
+who are 1st-year students
+
+
+
+D.3 Number of PART-TIME students
+
+(enrolled for Fall 2019)
+
+* These counts are a subset of the counts reported in the ‘US Citizens & Permanent Residents Columns’.
+
+
+
+Continue with Section E on reverse side (page 4).
+
+
+
+3
+
+Section E: Undergraduate Degrees Awarded
+
+If your department does not have undergraduate degrees in the mathematical sciences, check here .
+
+
+
+For the period between July 1, 2018 and June 30, 2019:
+
+
+
+E.1 Report the number of bachelors degrees awarded to mathematical sciences majors within your
+
+department (include joint and double majors). Each student should be reported only once. Use the
+
+other majors category for a major in your department who does not fit into one of the earlier categories.
+
+Number of
+
+Bachelors Degrees Awarded
+
+Area of Major Male Female Other
+
+E.1.a Mathematics (include joint and double majors)
+
+E.1.b Mathematics Education
+
+E.1.c Statistics (only)
+
+E.1.d Computer Science (only)
+
+E.1.e Other majors in your department not reported above
+
+
+
+E.2 Of those reported in E.1.a–E.1.e, how many expected to enter a graduate program in mathematical sciences
+
+by fall of 2019?
+
+Male Female Other
+
+
+
+Section F: Masters Degrees Awarded
+
+If your department does not award masters degrees in the mathematical sciences, check here .
+
+
+
+For the period between July 1, 2018 and June 30, 2019:
+
+
+
+F.1 Report the number of masters degrees awarded to mathematical sciences majors within your department
+
+(include joint and double majors). Each student should be reported only once. Use the other majors
+
+category for a major in your department who does not fit into one of the earlier categories.
+
+
+
+Number of
+
+Masters Degrees Awarded
+
+Area of Major Male Female Other
+
+F.1.a Mathematics (include joint and double majors)
+
+F.1.b Mathematics Education
+
+F.1.c Statistics (only)
+
+F.1.d Computer Science (only)
+
+F.1.e Other majors in your department not reported above
+
+
+
+Please remember to retain a copy of this completed form for your records.
+
+
+
+Your assistance in gathering the data necessary for this survey is greatly appreciated.
+
+
+
+Thank you!
+
+
+
+4
+
+
+
+
+

@@ -1,26 +1,516 @@
-Usage: .ebook-convert-wrapped input_file output_file [options]
+2024-25 IPEDS HELP DESK (877) 225-2568 | ipedshelp@rti.org
 
-Convert an e-book from one format to another.
-
-input_file is the input and output_file is the output. Both must be specified as the first two arguments to the command.
-
-The output e-book format is guessed from the file extension of output_file. output_file can also be of the special format .EXT where EXT is the output file extension. In this case, the name of the output file is derived from the name of the input file. Note that the filenames must not start with a hyphen. Finally, if output_file has no extension, then it is treated as a folder and an "open e-book" (OEB) consisting of HTML files is written to that folder. These files are the files that would normally have been passed to the output plugin.
-
-After specifying the input and output file you can customize the conversion by specifying various options. The available options depend on the input and output file types. To get help on them specify the input and output file and then use the -h option.
-
-For full documentation of the conversion system see
-https://manual.calibre-ebook.com/conversion.html
-
-Whenever you pass arguments to .ebook-convert-wrapped that have spaces in them, enclose the arguments in quotation marks. For example: "/some path/with spaces"
-
-Options:
-  --version       show program's version number and exit
-
-  -h, --help      show this help message and exit
-
-  --list-recipes  List builtin recipe names. You can create an e-book from a
-                  builtin recipe like this: ebook-convert "Recipe Name.recipe"
-                  output.epub
+Data Collection System OMB NO. 1850-0582 v.33 : Approval Expires 8/31/2027
 
 
-Created by Kovid Goyal <kovid@kovidgoyal.net>
+
+2024-25 Survey Materials  Form
+
+
+
+200% Graduation Rates for less-than-4-year institutions reporting on a full-year cohort (program reporters)
+
+Overview
+
+Graduation Rates 200 Overview
+
+Welcome to the IPEDS Graduation Rates 200 (GR200) survey component. The GR200 component is a further extension of the traditional Graduation Rates (GR) component which carries forward 100% and 150% graduation rates data previously reported in the GR component and requests information on any additional completers and exclusions from the cohort between 151% and 200% of normal time for students to complete all requirements of their program of study. This information is collected to assist institutions with complying with the requirements of the Higher Education Act, as amended.
+
+Data Reporting Reminders
+
+Report data to accurately reflect the time period corresponding with the IPEDS survey component, even if such reporting is seemingly inconsistent with prior-year reporting.
+
+The reporting of data for the 200% completion period is not cumulative. Respondents are ONLY asked to report data for the time period between 151% and 200% of normal time to completion.
+
+
+
+When reporting award levels for sub-baccalaureate certificates, determine program length by the number of credit or clock hours.
+
+Changes to reporting:
+
+No changes for the 2024-25 data collection period.
+
+
+
+If you have questions about completing this survey, please contact the IPEDS Help Desk at 1-877-225-2568.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=2&instructionid=30084&formid=82 1/10 Screening Question
+
+Your institution reported to the GR survey component as having the following number of students who did not complete, but were still enrolled at your institution:
+
+
+
+Do you have students to report who, 1) received an award between 151% and 200% of the normal time to complete OR are still enrolled as of 200% of normal time?
+
+No
+
+Yes
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=2&instructionid=30084&formid=82 2/10 Completers within 200%
+
+
+
+
+
+For less than 4-year institutions, report on the 2020 cohort of full-time, first-time degree/certificate-seeking undergraduate students. Information for this cohort was originally reported by your institution in the 2023-24 IPEDS Graduation Rates survey component. The data on lines 1-5 are preloaded based on the information provided.
+
+
+Graduation rates
+
+1 Revised cohort
+
+2 Exclusions within 150%
+
+3 Adjusted cohort 150%
+
+4 Number of students in the cohort who completed a program within 100% of normal time to completion
+
+5 Number of students in the cohort who completed a program within 150% of normal time to completion
+
+6 Additional exclusions (between 151% and 200% of normal time)
+
+7 Adjusted cohort 200% (line 3 - line 6)
+
+Number of students in the cohort who completed a program between 151% and 200% of normal time to
+
+8
+
+completion
+
+9 Still enrolled as of 200% of normal time to completion
+
+10 Total completers within 200% of normal time (line 5 + line 8)
+
+You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
+
+Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=2&instructionid=30084&formid=82 3/10 Prepared by
+
+
+
+
+
+Prepared by
+
+
+Reporting Reminders:
+
+The name of the preparer is being collected so that we can follow up with the appropriate person in the event that there are questions concerning the data. The Keyholder will be copied on all email correspondence to other preparers.
+
+The time it took to prepare this component is being collected so that we can continue to improve our estimate of the reporting burden associated with IPEDS. Please include in your estimate the time it took for you to review instructions, query and search data sources, complete and review the component, and submit the data through the Data Collection System.
+
+Thank you for your assistance.
+
+
+
+This survey component was prepared by:
+
+Keyholder SFA Contact HR Contact
+
+Finance Contact Academic Library Contact Other
+
+Name:
+
+Email:
+
+
+
+How many staff from your institution only were involved in the data collection and reporting process of this survey component?
+
+Number of Staff (including yourself)
+
+
+
+How many hours did you and others from your institution only spend on each of the steps below when responding to this survey component? Exclude the hours spent collecting data for state and other reporting purposes.
+
+Revising Data to Match
+
+Staff member Collecting Data Needed Entering Data Revising and Locking Data
+
+IPEDS Requirements
+
+Your office hours hours hours hours
+
+Other offices hours hours hours hours
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=2&instructionid=30084&formid=82 4/10 Summary
+
+Graduation Rate 200% Component Summary
+
+The purpose of this summary is to provide you an opportunity to view some of the data that, when accepted through the IPEDS quality control process, will appear
+
+on the College Navigator website and/or your institution’s Data Feedback Report (DFR). In addition, all data reported in IPEDS survey components become publicly
+
+available through the IPEDS Use the Data and appear as aggregated statistics in various Department of Education reports. College Navigator is updated
+
+approximately three months after the data collection period closes and DFRs will be available through the IPEDS Use the Data and sent to your institution’s CEO at the end of 2025.
+
+Please review your data for accuracy. If you have questions about the data displayed below or after reviewing the data reported on the survey screens, please
+
+contact the IPEDS Help Desk at: 1-877-225-2568 or ipedshelp@rti.org.
+
+Graduation Rates for 100%, 150%, and 200% of
+
+normal time – Cohort Year 2020
+
+Graduation Rate – 100% of normal time (%)
+
+Graduation Rate – 150% of normal time (%)
+
+Graduation Rate – 200% of normal time (%)
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=2&instructionid=30084&formid=82 5/10 200% Graduation Rates Full Instructions - Less Than 4-Year Institutions
+
+
+
+Purpose of Survey
+
+Changes in Reporting
+
+General Instructions
+
+Reporting period covered
+
+Context boxes
+
+Coverage
+
+Where to get help
+
+Where the Reported Data Will Appear
+
+Uploading Files to the IPEDS Data Collection System
+
+Data Reporting Instructions
+
+
+
+Purpose of the Survey
+
+The primary purpose of the IPEDS GR200 survey component is to collect more extensive data on graduation rates as required by the Higher Education Act, as amended. The necessary data are collected to calculate graduation rates at 200% of normal time to complete all requirements of their program of study for the cohort of full-time, first-time bachelor's or equivalent degree-seeking students at 4-year institutions; and for all full-time, first-time degree/certificate-seeking undergraduate students at less than 4-year institutions.
+
+
+
+
+
+Changes in reporting
+
+The following changes were implemented for the 2024-25 data collection period:
+
+Rephrased "remedial education" terminology in survey materials to "developmental education," including Glossary terms
+
+
+
+
+
+General Instructions
+
+
+
+Reporting period covered
+
+This survey component collects data on the cohort of full-time, first-time degree/certificate-seeking undergraduate students enrolled at your institution either (1) as of October 15, 2020 (or the institution's official fall reporting date) for institutions that offer a predominant number of programs based on standard academic terms (e.g., semesters, trimesters, quarters, or 4-1-4 plan); or (2) during the period between September 1, 2020 and August 31, 2021 for institutions that do not offer a predominant number of programs based on standard academic terms. Institutions are to report the status of these students as of August 31, 2024.
+
+The status of this cohort of students (the 2020 Graduation Rates cohort) within 150% of normal time to completion was previously reported on the 2023-24 IPEDS Graduation Rates survey component. The GR200 component further tracks the status of these students at 200% of normal time to completion.
+
+
+
+Context Boxes
+
+Context boxes are provided to allow institutions to provide more information regarding survey component items. Note that some context boxes are posted on
+
+the College Navigator Website, which is the college search tool offered by NCES. NCES will review entries in these context boxes for applicability and
+
+appropriateness before posting them on the College Navigator Website; institutions should check grammar and spelling of their entries.
+
+
+
+
+
+Coverage
+
+Data on the cohort of full-time, first-time degree/certificate-seeking undergraduate students in your institution's 2020 Graduation Rates cohort, previously reported on the 2023-24 IPEDS Graduation Rates survey component, are preloaded into the GR200 survey. The parameters for coverage of the original cohort are outlined below.
+
+Who to include in the cohort
+
+Include all full-time, first-time degree/certificate-seeking undergraduate students entering the institution either during the fall term or during the 12-month period as described above. Include students enrolled in the fall term who attended college for the first time in the prior summer session and students who entered with advanced standing (college credits earned before graduating from high school). Students must be enrolled in courses creditable toward a degree, diploma, certificate, or other recognized postsecondary credential. Include students enrolled in courses that are part of a vocational or occupational program, INCLUDING those enrolled in off-campus centers and those enrolled in distance learning/home study programs.
+
+Be sure to include full-time students taking developmental courses if the student is considered degree-seeking for the purpose of student financial aid determination. This includes students who:
+
+Received any type of federal financial aid, regardless of what courses they took at any time Received any state or locally based financial aid with an eligibility requirement that the student be enrolled in a degree, certificate, or transfer-seeking program
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=2&instructionid=30084&formid=82 6/10
+
+Obtained a student visa to study at a U.S. postsecondary institution
+
+A student who is designated as a member of the 2020 cohort remains in the 2020 cohort, even if the student:
+
+Becomes a part-time student
+
+Transfers to another institution
+
+Drops out of the institution
+
+Stops out of the institution
+
+Has not fulfilled the institution's requirements to receive a degree or certificate
+
+Who to exclude from the cohort
+
+DO NOT include students in the cohort who are:
+
+Enrolled exclusively in courses not creditable toward a recognized postsecondary credential or the completion of a vocational program (i.e., non-degree/certificate-seeking students)
+
+Exclusively taking CEUs
+
+Exclusively auditing classes
+
+Enrolled part-time
+
+Transfers into the institution
+
+Foreign students who are only taking coursework at a host institution (e.g., an American institution overseas), if these students are not enrolled at a U.S. institution.
+
+
+
+Where to Get Help with Reporting
+
+IPEDS Help Desk
+
+Phone: (877) 225-2568
+
+E-mail: ipedshelp@rti.org
+
+Web Tutorials
+
+You can consult the IPEDS Website's Trainings & Outreach page which contains several tutorials on IPEDS data collection, a self-paced overview of IPEDS tools, and other valuable resources.
+
+IPEDS Resource Page
+
+The IPEDS Website's Reporting Tools page contains frequently asked questions, a link to data tip sheets, tutorials, taxonomies, information centers (e.g., academic libraries, average net price, human resources, race/ethnicity, etc.), and other valuable information.
+
+
+
+
+
+Where the Reported Data Will Appear
+
+Data collected through IPEDS will be accessible at the institution and aggregate levels.
+
+At the institution-level, data will appear in the:
+
+College Navigator Website
+
+IPEDS Use the Data portal
+
+IPEDS Data Feedback Reports
+
+College Affordability and Transparency Center Website
+
+At the aggregate-level, data will appear in:
+
+IPEDS Data Explorer
+
+IPEDS Data Feedback Reports
+
+The Digest of Education Statistics
+
+The Condition of Education
+
+
+
+
+
+Uploading Files to the IPEDS Data Collection System
+
+The File Import/Upload option is found under the Tools menu. In order to perform the upload you’ll need to have a file formatted to specifications. Upload specifications are included with the survey materials found under the Help menu. There are two upload formats available for the GR200 survey component:
+
+Fixed width file
+
+Key value file
+
+
+
+
+
+Data Reporting Instructions
+
+The GR200 survey component collects additional data on the cohort of full-time, first-time degree/certificate-seeking undergraduate students in your institution's 2020 Graduation Rates cohort, as first reported on the 2023-24 Graduation Rates survey component. Institutions must report the status of these students as of August 31, 2024 so that a 200% graduation rate may be calculated. One hundred percent and 150% graduation rates were previously calculated in the 2023-24 Graduation Rates survey.
+
+Graduation Rates data reported in the GR200 component are NOT reported by race and ethnicity. A number of data elements are preloaded in this survey. Data elements 1-5 are preloaded based on your institution's 2023-24 Graduation Rates reporting. These fields may not be updated. The 100% and 150% graduation rates calculated for the cohort based on the data reported in 2023-24 are also preloaded, and may not be adjusted.
+
+On line 6, please enter any additional allowable exclusions to the cohort. This should include any additional students who left your institution between 151% and 200% of the normal time to complete their program (and have neither graduated nor transferred to another institution) due to one of the following documented reasons:
+
+a. The student is deceased or is totally and permanently disabled and thus unable to return to school. b. The student left school to serve in the armed forces or was called up to active duty. (DO NOT include students already in the military who transfer to
+
+another duty station.)
+
+c. The student left school to serve with a foreign aid service of the Federal Government, such as the Peace Corps. d. The student left school to serve on an official church mission.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=2&instructionid=30084&formid=82 7/10 NOTE: Students who leave the institution for one of the reasons noted above, but return prior to the status date of August 31, 2024, may still be reported as exclusions.
+
+Line 7, 200% adjusted cohort, is a calculated value representing the difference between the 150% adjusted cohort (line 3) and the additional exclusions reported on line 6.
+
+On line 8, report the number of students who completed a program (including eligible transfer-preparatory programs; as outlined in the instructions for the Graduation Rates survey component) within the period of 151% to 200% of normal time. Once you save the page, the total completers within 200% and the 200% graduation rate will be calculated in the appropriate boxes on line 10.
+
+On line 9, report the number of students who are still enrolled at your institution as of 200% of normal time to completion.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=2&instructionid=30084&formid=82 8/10 Glossary
+
+Term Definition
+
+The result of removing any allowable exclusions from a cohort (or subcohort). For the Fall Enrollment component, it is the
+
+cohort for calculating retention rate; for the Graduation Rates component, this is the cohort from which graduation and transfer-
+
+Adjusted cohort
+
+out rates are calculated; and for the Outcome Measures component, these are the four cohorts (first-time, full-time; first-time, part-time; non-first-time, full-time; or non-first-time, part-time) for which outcomes rates are calculated at 4, 6, and 8 years.
+
+Cohort A specific group of students established for tracking purposes.
+
+Cohort year The year that a cohort of students begins attending college.
+
+Those students who may be removed (deleted) from a cohort (or subcohort). For the Graduation Rates, Outcome Measures,
+
+and Fall Enrollment retention rate reporting, students may be removed from a cohort if they left the institution for one of the
+
+Exclusions
+
+following reasons: death or total and permanent disability; service in the armed forces (including those called to active duty); service with a foreign aid service of the federal government, such as the Peace Corps; or service on official church missions.
+
+The group of students entering in the fall term established for tracking purposes. For the Graduation Rates component, this
+
+Fall cohort includes all students who enter an institution as full-time, first-time degree or certificate-seeking undergraduate students during
+
+the fall term of a given year.
+
+A student who has no prior postsecondary experience (except as noted below) attending any institution for the first time at the
+
+First-time student undergraduate level. This includes students enrolled in academic or occupational programs. It also includes students enrolled
+
+(undergraduate) in the fall term who attended college for the first time in the prior summer session, and students who entered with advanced
+
+standing (college credits or recognized postsecondary credential earned before graduation from high school).
+
+Undergraduate: A student enrolled for 12 or more semester credits, or 12 or more quarter credits, or 24 or more clock hours a week each term. Graduate: A student enrolled for 9 or more semester credits, or 9 or more quarter credits, or a student involved
+
+Full-time student
+
+in thesis or dissertation preparation that is considered full-time by the institution. Doctor's degree - Professional practice - full-time as defined by the institution.
+
+This is a group of students entering at any time during the 12-month period for tracking and reporting. For Graduation Rate (GR),
+
+a full-year cohort is from September 1 through August 31 and is used primarily by institutions that offer occupational programs
+
+Full-year cohort of varying lengths. Students must be full-time and first-time to be considered in the cohort. For Outcome Measures (OM)
+
+component, all degree-granting institutions report on a full-year cohort from July 1 through June 30. Students are reported once in one of the four OM cohorts: first-time, full-time; first-time, part-time: non-first-time, full-time; or non-first-time, part-time.
+
+The rate required for disclosure and/or reporting purposes under Student Right-to-Know Act. This rate is calculated as the total
+
+Graduation rate
+
+number of completers within 150% of normal time divided by the revised adjusted cohort.
+
+This annual component of IPEDS was added in 1997 to help institutions satisfy the requirements of the Student Right-to-Know legislation. Data are collected on the number of students entering the institution as full-time, first-time, degree/certificate-seeking undergraduate students in a particular year (cohort), by race/ethnicity and gender; the number completing their program within 150 percent of normal time to completion; the number that transfer to other institutions if transfer is part of the
+
+Graduation Rates (GR)
+
+institution's mission. Prior to 2007, institutions who offered athletically-related student aid were asked to report, by sport, the number of students receiving aid and whether they completed within 150 percent of normal time to completion. Now, these institutions only need to report a URL where the athletic data is located on their website, when available. GR automatically generates worksheets that calculate rates, including average rates over 4 years.
+
+The Integrated Postsecondary Education Data System (IPEDS), conducted by the NCES, began in 1986 and involves annual
+
+institution-level data collections. All postsecondary institutions that have a Program Participation Agreement with the Office of
+
+Integrated Postsecondary Postsecondary Education (OPE), U.S. Department of Education (throughout IPEDS referred to as "Title IV") are required to report
+
+Education Data System data using a web-based data collection system. IPEDS currently consists of the following components: Institutional
+
+(IPEDS) Characteristics (IC); 12-month Enrollment (E12);Completions (C); Admissions (ADM); Student Financial Aid (SFA); Human
+
+Resources (HR) composed of Employees by Assigned Position, Fall Staff, and Salaries; Fall Enrollment (EF); Graduation Rates
+
+(GR); Outcome Measures (OM); Finance (F); and Academic Libraries (AL).
+
+The amount of time necessary for a student to complete all requirements for a degree or certificate according to the institution's catalog. This is typically 4 years (8 semesters or trimesters, or 12 quarters, excluding summer sessions) for a
+
+Normal time to completion bachelor's degree in a standard term-based institution; 2 years (4 semesters or trimesters, or 6 quarters, excluding summer
+
+sessions) for an associate's degree in a standard term-based institution; and the various scheduled times for certificate
+
+programs.
+
+A recognized postsecondary credential includes any credential that is recognized by the institution’s appropriate governing body and received after completion of an academic program or that is awarded in recognition of an individual's attainment of
+
+Recognized postsecondary
+
+measurable technical or industry/occupational skills necessary to obtain employment or advance within an industry/occupation.
+
+credential
+
+These technical or industry/occupational skills generally are based on standards developed or endorsed by employers or industry associations.
+
+Initial cohort after revisions are made. Cohorts may be revised if an institution discovers that incorrect data were reported in an
+
+Revised cohort
+
+earlier year.
+
+Student Right-to-Know Act Also known as the "Student Right-to-Know and Campus Security Act" (P.L. 101-542), which was passed by Congress November
+
+9, 1990. Title I, Section 103, requires institutions eligible for Title IV funding to calculate completion or graduation rates of certificate- or degree-seeking, full-time students entering that institution, and to disclose these rates to all students and prospective students. Further, Section 104 requires each institution that participates in any Title IV program and is attended by
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=2&instructionid=30084&formid=82 9/10
+
+students receiving athletically-related student aid to submit a report to the Secretary of Education annually. This report is to contain, among other things, graduation/completion rates of all students as well as students receiving athletically-related student aid by race/ethnicity and gender and by sport, and the average completion or graduation rate for the four most recent years. These data are also required to be disclosed to parents, coaches, and potential student athletes when the institution offers athletically-related student aid. The Graduation Rates component of IPEDS was developed specifically to help institutions respond to these requirements. See Graduation Rates for the current description of data collected.
+
+An institution that has a written agreement with the Secretary of Education that allows the institution to participate in any of the Title IV federal student financial assistance programs (other than the Leveraging Educational Assistance Partnerships or LEAP,
+
+Title IV institution
+
+formerly State Student Incentive Grant or SSIG and the National Early Intervention Scholarship and Partnership or NEISP programs).
+
+A degree/certificate-seeking undergraduate student entering the IPEDS reporting institution for the first time but known to have previously enrolled at a different postsecondary institution (not as a high school student). The student may transfer with or
+
+Transfer-in student
+
+without credit. For systems of coordinated institutions (multi-campus system), students are to be identified as transfer-in students upon entering an institution from another institution within the same coordinated system.
+
+A student who discontinues enrollment at the IPEDS reporting institution and enrolls at a different postsecondary institution. For
+
+Transfer-out student systems of coordinated institutions (multi-campus system), students are to be identified as transfer-out students when leaving
+
+an institution to enroll into another institution within the same coordinated system.
+
+A program designed specifically to provide a student with the basic knowledge needed to transfer into a higher level program. For example, this may be the first 2 years of a baccalaureate level program for which the institution does not offer an award, or 2
+
+Transfer-preparatory program
+
+years of undergraduate study needed for entrance into a first-professional program, or 1 or more years of undergraduate study needed for entrance into health services fields.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=2&instructionid=30084&formid=82 10/10
+
+
+
+
+

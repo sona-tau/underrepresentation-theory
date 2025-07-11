@@ -1,26 +1,1752 @@
-Usage: .ebook-convert-wrapped input_file output_file [options]
+2024-25 IPEDS HELP DESK (877) 225-2568 | ipedshelp@rti.org
 
-Convert an e-book from one format to another.
-
-input_file is the input and output_file is the output. Both must be specified as the first two arguments to the command.
-
-The output e-book format is guessed from the file extension of output_file. output_file can also be of the special format .EXT where EXT is the output file extension. In this case, the name of the output file is derived from the name of the input file. Note that the filenames must not start with a hyphen. Finally, if output_file has no extension, then it is treated as a folder and an "open e-book" (OEB) consisting of HTML files is written to that folder. These files are the files that would normally have been passed to the output plugin.
-
-After specifying the input and output file you can customize the conversion by specifying various options. The available options depend on the input and output file types. To get help on them specify the input and output file and then use the -h option.
-
-For full documentation of the conversion system see
-https://manual.calibre-ebook.com/conversion.html
-
-Whenever you pass arguments to .ebook-convert-wrapped that have spaces in them, enclose the arguments in quotation marks. For example: "/some path/with spaces"
-
-Options:
-  --version       show program's version number and exit
-
-  -h, --help      show this help message and exit
-
-  --list-recipes  List builtin recipe names. You can create an e-book from a
-                  builtin recipe like this: ebook-convert "Recipe Name.recipe"
-                  output.epub
+Data Collection System OMB NO. 1850-0582 v.33 : Approval Expires 8/31/2027
 
 
-Created by Kovid Goyal <kovid@kovidgoyal.net>
+
+2024-25 Survey Materials  Form
+
+
+
+Graduation Rates for 4-year institutions reporting on a full-year cohort (program reporters)
+
+Overview
+
+Graduation Rates Overview
+
+Welcome to the IPEDS Graduation Rates (GR) survey component. The GR component collects data on the cohort of full-time, first-time degree/certificate-seeking undergraduate students and tracks their completion status at 150% of the normal time to complete all requirements of their program of study. This information is collected to assist institutions in complying with the requirements of the Student Right-to-Know Act.
+
+Data Reporting Reminders
+
+Report data to accurately reflect the time period corresponding with the IPEDS survey component, even if such reporting is seemingly inconsistent with prior-year reporting.
+
+Once a student is in the cohort, they remain in the cohort, even if their status changes to part-time or they drop out or transfer out of the institution. However, adjustments can be made to the cohort for allowable exclusions, which include the death of a student, total and permanent disability, military deployment, or service on an official church mission or with a foreign aid service of the Federal government.
+
+
+
+When reporting award levels for sub-baccalaureate certificates, determine program length by the number of credit or clock hours, NOT the academic year length in parentheses. The academic year length is meant only to provide context.
+
+Changes to reporting for 2024-25:
+
+The following changes were implemented for the 2024-25 data collection period:
+
+Removed the Gender Unknown or Another Gender than Provided Categories question.
+
+
+
+If you have questions about completing this survey, please contact the IPEDS Help Desk at 1-877-225-2568.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 1/25 Section I - Establishing cohorts, part 1
+
+Establishing cohorts
+
+Based on your institution's response to the predominant calendar system question (Section 1 - Part B, Question 4) on the Institutional Characteristics survey component from the IPEDS Fall 2024 data collection,
+
+Your institution reported to the GR survey component as having the following number of students who did not complete, Full-Year Cohort (September 1, 2018 -but were still enrolled at your institution: August 31, 2019)
+
+A fall cohort is used by institutions with standard academic terms (semester, trimester, quarter, 4-1-4). A full-year cohort is used by institutions offering primarily occupational/vocational programs and operating on a continuous basis.
+
+Reporting Reminder:
+
+Report Hispanic/Latino individuals of any race as Hispanic/Latino
+
+Report race for non-Hispanic/Latino individuals only
+
+NOTE: Reporting using the new race/ethnicity categories is now mandatory. On this screen you will need to establish your 2018 cohort of full-time, first-time
+
+degree/certificate-seeking undergraduate students using the new race/ethnicity categories. For information and assistance with this, please visit the IPEDS
+
+Race/Ethnicity Information Center.
+
+
+
+Men
+
+Screen 1 of 2 Cohort year 2018
+
+Cohort
+
+(Column 01)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total men
+
+
+
+Women
+
+Screen 1 of 2 Cohort year 2018
+
+Cohort
+
+(Column 01)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total women
+
+
+
+Total men + women
+
+Total in prior year (men and women)
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 2/25 Section I - Establishing cohorts, part 2
+
+Incoming students seeking a bachelor's degree should be reported in Column 02. Column 03 will then be generated for you. Column 03 is meant to include
+
+any full-time, first-time entering students who were seeking a degree or certificate other than a bachelor's degree, such as an associate's degree or undergraduate certificate.
+
+If you have no changes to the preloaded data on this screen, click the "Save and Next" button to generate additional screens for reporting completers and transfers/exclusions.
+
+Establishing cohorts
+
+Report Hispanic/Latino individuals of any race as Hispanic/Latino
+
+Report race for non-Hispanic/Latino individuals only
+
+Men
+
+Screen 2 of 2 Cohort year 2018
+
+Other degree/certificate-seeking
+
+Bachelor's or equivalent subcohort
+
+Cohort
+
+degree-seeking subcohort (Cohort minus Bachelor’s or equivalent degree-seeking
+
+subcohort)
+
+(Column 01) (Column 02) (Column 03)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total men
+
+
+
+Women
+
+Screen 2 of 2 Cohort year 2018
+
+Other degree/certificate-seeking
+
+Bachelor's or equivalent subcohort
+
+Cohort
+
+degree-seeking subcohort (Cohort minus Bachelor’s or equivalent degree-seeking
+
+subcohort)
+
+(Column 01) (Column 02) (Column 03)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total women
+
+
+
+Total men + women
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 3/25 Section II - Bachelor's or equivalent degree-seeking subcohort - Completers within 150%
+
+In the columns below, report the status of the bachelor's degree-seeking subcohort of students listed in Column 10. Of the students in Column 10, those who attained a degree or certificate OTHER THAN A BACHELOR'S DEGREE within 150% of the normal time to complete the program as of August 31, 2024 should be reported in either Column 11 or 12, depending on the length of the program completed.
+
+Of the students in Column 10, those who attained a bachelor's degree or equivalent within 150% of normal time should be reported in Column 18.
+
+Subcohort of full-time, first-time students seeking a bachelor's or equivalent degree
+
+Report Hispanic/Latino individuals of any race as Hispanic/Latino
+
+Report race for non-Hispanic/Latino individuals only
+
+Men
+
+Screen 1 of 4 Cohort year 2018
+
+Subcohort students who completed their program within 150% of normal time to
+
+
+
+seeking subcohort equivalent degree-Bachelor's or completion Total completers Completers of programs Completers of programs of at Completers of within 150% of less than 2 academic yrs least 2 but less than 4 academic bachelor's or
+
+(or equivalent) yrs (or equivalent) equivalent degrees
+
+(Column 10) (Column 11) (Column 12) (Column 18) (Column 29)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or
+
+Alaska Native
+
+Asian
+
+Black or African
+
+American
+
+Native Hawaiian or
+
+Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity
+
+unknown
+
+Total men
+
+
+
+Women
+
+Screen 1 of 4 Cohort year 2018
+
+Subcohort students who completed their program within 150% of normal time to
+
+Bachelor's or completion
+
+Total completers
+
+equivalent degree-
+
+seeking subcohort bachelor's or Completers of programs Completers of programs of at Completers of within 150%
+
+of less than 2 academic yrs least 2 but less than 4 academic
+
+(or equivalent) yrs (or equivalent) equivalent degrees
+
+(Column 10) (Column 11) (Column 12) (Column 18) (Column 29)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or
+
+Alaska Native
+
+Asian
+
+Black or African
+
+American
+
+Native Hawaiian or
+
+Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity
+
+unknown
+
+Total women
+
+
+
+Total men + women
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 4/25
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 5/25 Section II - Bachelor's completers by length of time to degree
+
+
+
+Those students in the bachelor's or equivalent degree-seeking subcohort who attained a bachelor's degree or equivalent within 150% of normal time to completion, as reported on the previous screen, are listed in Column 18. In Column 19, report the number of these students who earned a bachelor's degree in 4 years. In Column 20, report the number of these students who earned a bachelor's degree in 5 years. Column 21 will be calculated for you.
+
+Subcohort of full-time, first-time students seeking a bachelor's or equivalent degree
+
+Report Hispanic/Latino individuals of any race as Hispanic/Latino
+
+Report race for non-Hispanic/Latino individuals only
+
+Men
+
+Screen 2 of 4 Cohort year 2018
+
+Subcohort students who attained a bachelor's degree or
+
+Completed bachelor's equivalent
+
+Bachelor's or equivalent degree- degree
+
+seeking subcohort or equivalent within Completed the Completed the Completed the
+
+150% program in program in program in
+
+4 yrs or less 5 yrs 6 yrs
+
+(Column 10) (Column 18) (Column 19) (Column 20) (Column 21)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska
+
+Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other
+
+Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total men
+
+
+
+Women
+
+Screen 2 of 4 Cohort year 2018
+
+Subcohort students who attained a bachelor's degree or
+
+Completed bachelor's equivalent
+
+Bachelor's or equivalent degree- degree
+
+seeking subcohort or equivalent within Completed the Completed the Completed the
+
+150% program in program in program in
+
+4 yrs or less 5 yrs 6 yrs
+
+(Column 10) (Column 18) (Column 19) (Column 20) (Column 21)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska
+
+Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other
+
+Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total women
+
+
+
+Total men + women
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 6/25 Section II - Bachelor's or equivalent degree-seeking subcohort - Transfers/exclusions
+
+In the columns below, report the status of those students in the BACHELOR'S OR EQUIVALENT DEGREE-SEEKING SUBCOHORT listed in Column 10 who did
+
+not complete a program within 150% of normal time to completion.
+
+Report transfers-out who did not complete a program in Column 30. If the mission of your institution includes providing substantial preparation for students to enroll in another eligible institution WITHOUT having completed a program, you must report transfer-out data in Column 30. A school is required to report only on those students that the school knows have transferred to another eligible institution. A school must document that the student actually transferred. If it is not part of your mission, you may report transfer-out data if you wish.
+
+Report eligible exclusions from the subcohort in Column 45. The ONLY allowable categories for this column are: Students who died or became totaly and permanently disabled
+
+Students who left school to serve in the armed forces (or have been called up to active duty) Students who left school to serve with a foreign aid service of the Federal Government
+
+Students who left school to serve on an official church mission
+
+Column 52 [No longer enrolled] will be calculated for you. This includes students who have dropped out as well as those who completed in greater than 150% of normal time.
+
+If you do not have any values to report in either Column 30, 45, or 51, you must enter at least one zero in a field on this screen to continue.
+
+Subcohort of full-time, first-time students seeking a bachelor's or equivalent degree
+
+Report Hispanic/Latino individuals of any race as Hispanic/Latino
+
+Report race for non-Hispanic/Latino individuals only
+
+Men
+
+Screen 3 of 4 Cohort year 2018
+
+Bachelor's or
+
+Total
+
+equivalent Total transfer-out Total Still No longer
+
+completers
+
+degree-seeking students exclusions enrolled enrolled
+
+within 150%
+
+subcohort
+
+(Column 10) (Column 29) (Column 30) (Column 45) (Column 51) (Column 52)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific
+
+Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total men
+
+
+
+Women
+
+Screen 3 of 4 Cohort year 2018
+
+Bachelor's or
+
+Total
+
+equivalent Total transfer-out Total Still No longer
+
+completers
+
+degree-seeking students exclusions enrolled enrolled
+
+within 150%
+
+subcohort
+
+(Column 10) (Column 29) (Column 30) (Column 45) (Column 51) (Column 52)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific
+
+Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total women
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 7/25 Total men + women
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 8/25 Section II - Bachelor’s or equivalent degree-seeking cohort - Pell recipients and a recipients of a subsidized Direct Loan who did not
+
+receive a Pell Grant
+
+For each subcohort, report the number of students in the cohort, total exclusions for the cohort, the number of students that completed a bachelor’s or equivalent degree within 150% of normal time to completion, and the total completers within 150%.
+
+Recipients of a Pell Grant and Recipients of a Direct Subsidized Loan that did not receive a Pell Grant are mutually exclusive, that is, if a student is in one cohort, they cannot be in the other cohort.
+
+- The total of these 2 subcohorts must be less than the Bachelor’s or equivalent degree-seeking cohort
+
+Subcohort of full-time, first-time students seeking a bachelor's or equivalent degree
+
+Screen 4 of 4 Cohort year 2018
+
+Completed
+
+Number of students bachelor's degree Total completers
+
+Total exclusions
+
+in cohort or equivalent within within 150%
+
+150%
+
+(Column 10) (Column 45) (Column 18) (Column 29)
+
+Bachelor's or equivalent degree-seeking cohort
+
+Recipients of a Pell Grant (within entering year)
+
+Recipients of a Direct Subsidized Loan (within entering
+
+year) that did not receive a Pell Grant
+
+Did not receive either a Pell Grant or Direct Subsidized
+
+Loan (within entering year)
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 9/25 Section III - Other degree/certificate-seeking subcohort - Completers within 150%
+
+
+
+
+
+In the columns below, report the status of the subcohort of students seeking other than a bachelor's or equivalent degree listed in Column 10. Of the students in Column 10, those who attained a degree or certificate other than a bachelor's degree within 150% of the normal time to complete the program as of August 31, 2024 should be reported in either Column 11 or 12, depending on the length of the program completed. Of the students in Column 10, those who attained a bachelor's degree or equivalent within 150% of normal time should be reported in Column 18.
+
+
+Subcohort of full-time, first-time students seeking other than a bachelor's degree
+
+Report Hispanic/Latino individuals of any race as Hispanic/Latino
+
+Report race for non-Hispanic/Latino individuals only
+
+Men
+
+Screen 1 of 3 Cohort year 2018
+
+Subcohort students who completed their program within 150% of normal time to
+
+completion
+
+
+
+Other degree/certificate- Completers of Total seeking subcohort Completers of Completers of programs completers programs of less than 2 within 150% of at least 2 but less than 4 bachelor's or
+
+academic yrs (or
+
+academic yrs (or equivalent) equivalent degrees
+
+equivalent)
+
+(Column 10) (Column 11) (Column 12) (Column 18) (Column 29)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or
+
+Alaska Native
+
+Asian
+
+Black or African
+
+American
+
+Native Hawaiian or
+
+Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity
+
+unknown
+
+Total men
+
+
+
+Women
+
+Screen 1 of 3 Cohort year 2018
+
+Subcohort students who completed their program within 150% of normal time to
+
+completion
+
+
+
+Other degree/certificate- Completers of Total seeking subcohort Completers of Completers of programs completers programs of less than 2 within 150% of at least 2 but less than 4 bachelor's or
+
+academic yrs (or
+
+academic yrs (or equivalent) equivalent degrees
+
+equivalent)
+
+(Column 10) (Column 11) (Column 12) (Column 18) (Column 29)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or
+
+Alaska Native
+
+Asian
+
+Black or African
+
+American
+
+Native Hawaiian or
+
+Other Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity
+
+unknown
+
+Total women
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 10/25 Total men + women
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 11/25 Section III - Other degree/certificate-seeking subcohort - Transfers/exclusions
+
+
+In the columns below, report the status of those students in the OTHER DEGREE/CERTIFICATE-SEEKING SUBCOHORT listed in Column 10 who did not
+
+
+complete a program within 150% of normal time to completion.
+
+Report transfers-out who did not complete a program in Column 30. A school is required to report only on those students that the school knows have transferred to another eligible institution. A school must document that the student actually transferred. If it is not part of your mission, you may report transfer-out data if you wish.
+
+Report eligible exclusions from the subcohort in Column 45. The ONLY allowable categories for this column are: Students who died or became totaly and permanently disabled
+
+Students who left school to serve in the armed forces (or have been called up to active duty) Students who left school to serve with a foreign aid service of the Federal Government
+
+Students who left school to serve on an official church mission
+
+Column 52 [No longer enrolled] will be calculated for you. This includes students who dropped out as well as those who completed in greater than 150% of normal time.
+
+If you do not have any values to report in either Column 30, 45, or 51, you must enter at least one zero in a field on this screen to continue.
+
+Subcohort of full-time, first-time students seeking other than a bachelor's degree
+
+Report Hispanic/Latino individuals of any race as Hispanic/Latino
+
+Report race for non-Hispanic/Latino individuals only
+
+Men
+
+Screen 2 of 3 Cohort year 2018
+
+Other degree/certificate- Total completers Total transfer-out Total Still No longer
+
+seeking subcohort within 150% students exclusions enrolled enrolled
+
+(Column 10) (Column 29) (Column 30) (Column 45) (Column 51) (Column 52)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska
+
+Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other
+
+Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total men
+
+
+
+Women
+
+Screen 2 of 3 Cohort year 2018
+
+Other degree/certificate- Total completers Total transfer-out Total Still No longer
+
+seeking subcohort within 150% students exclusions enrolled enrolled
+
+(Column 10) (Column 29) (Column 30) (Column 45) (Column 51) (Column 52)
+
+U.S. Nonresident
+
+Hispanic/Latino
+
+American Indian or Alaska
+
+Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other
+
+Pacific Islander
+
+White
+
+Two or more races
+
+Race and ethnicity unknown
+
+Total women
+
+
+
+Total men + women
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 12/25
+
+
+
+
+
+Section III - Other degree/certificate-seeking subcohort - Pell recipients and recipients of a subsidized Direct Loan who did not receive a
+
+
+Pell Grant
+
+For each subcohort, report the number of students in the cohort, total exclusions for the cohort, the number of students who completed a bachelor’s or equivalent degree with 150%, and the total completers within 150%.
+
+Recipients of a Pell Grant and Recipients of a Direct Subsidized Loan that did not receive a Pell Grant are mutually exclusive, that is, if a student is in one cohort, they cannot be in the other cohort.
+
+- The total of these 2 subcohorts must be less than the other degree/certificate-seeking cohort
+
+Subcohort of full-time, first-time students seeking other than a bachelor's degree
+
+Screen 3 of 3 Cohort year 2018
+
+Completed
+
+Number of students bachelor's degree Total completers
+
+Total exclusions
+
+in cohort or equivalent within within 150%
+
+150%
+
+(Column 10) (Column 45) (Column 18) (Column 29)
+
+Other degree/certificate-seeking cohort
+
+Recipients of a Pell Grant (within entering year)
+
+Recipients of a Direct Subsidized Loan (within entering
+
+year) that did not receive a Pell Grant
+
+Did not receive either a Pell Grant or Direct Subsidized
+
+Loan (within entering year)
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 13/25 Prepared by
+
+Prepared by
+
+Reporting Reminders:
+
+The name of the preparer is being collected so that we can follow up with the appropriate person in the event that there are questions concerning the data. The Keyholder will be copied on all email correspondence to other preparers.
+
+The time it took to prepare this component is being collected so that we can continue to improve our estimate of the reporting burden associated with IPEDS. Please include in your estimate the time it took for you to review instructions, query and search data sources, complete and review the component, and submit the data through the Data Collection System.
+
+Thank you for your assistance.
+
+
+
+This survey component was prepared by:
+
+Keyholder SFA Contact HR Contact
+
+Finance Contact Academic Library Contact Other
+
+Name:
+
+Email:
+
+
+
+How many staff from your institution only were involved in the data collection and reporting process of this survey component?
+
+Number of Staff (including yourself)
+
+
+
+How many hours did you and others from your institution only spend on each of the steps below when responding to this survey component? Exclude the hours spent collecting data for state and other reporting purposes.
+
+Revising Data to Match
+
+Staff member Collecting Data Needed Entering Data Revising and Locking Data
+
+IPEDS Requirements
+
+Your office hours hours hours hours
+
+Other offices hours hours hours hours
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 14/25 Summary
+
+
+
+
+
+Graduation Rate Component Summary
+
+
+The purpose of this summary is to provide you an opportunity to view some of the data that, when accepted through the IPEDS quality control process, will appear
+
+on the College Navigator website and/or your institution’s Data Feedback Report (DFR). In addition, all data reported in IPEDS survey components become publicly
+
+available through the IPEDS Use the Data and appear as aggregated statistics in various Department of Education reports. College Navigator is updated
+
+approximately three months after the data collection period closes and DFRs will be available through the IPEDS Use the Data and sent to your institution’s CEO at the end of 2025.
+
+Please review your data for accuracy. If you have questions about the data displayed below or after reviewing the data reported on the survey screens, please
+
+contact the IPEDS Help Desk at: 1-877-225-2568 or ipedshelp@rti.org.
+
+
+
+Overall Graduation Rate
+
+Graduation Rate (%)
+
+Total number of students in the Adjusted Cohort
+
+Total number of completers within 150% of normal time
+
+
+
+Overall Transfer-out Rate
+
+Transfer-out Rate (%)
+
+Total number of students in the Adjusted Cohort
+
+Total number of transfers-out within 150% of normal time
+
+
+
+Graduation Rate for students pursuing Bachelor’s Degrees
+
+Graduation Rate for Bachelor’s Cohort (%)
+
+Total number of students in the Adjusted Cohort
+
+Total number of bachelor’s degree completers within 150% of normal time
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 15/25 Graduation Rates Full Instructions - 4-Year Institutions
+
+
+
+
+
+Purpose of the Survey
+
+
+Changes in Reporting
+
+General Instructions
+
+Reporting Period Covered
+
+Context Boxes
+
+Coverage
+
+Who to Include
+
+Who to Exclude
+
+Where to Get Help for Reporting
+
+Where the Reported Data Will Appear
+
+Uploading Files to the IPEDS Data Collection System
+
+Reporting Directions
+
+Reporting Individuals by Racial/Ethnic Categories
+
+Section I: Establishing and Revising Cohorts
+
+Section II: Bachelor's Degree Subcohort
+
+Section III: Other Degree/Certificate-Seeking Subcohorts
+
+Worksheets
+
+
+
+Purpose of the Survey
+
+The purpose of the IPEDS Graduation Rates survey component is to track given cohorts of full-time, first-time degree/certificate-seeking undergraduate students -as well as their completion status at 150% of the normal time to complete all requirements of their program of study - at postsecondary institutions. These data are collected to assist institutions in complying with the requirements of the Student Right-to-Know Act.
+
+
+
+
+
+Changes in reporting for 2024-25
+
+The following changes were implemented for the 2024-25 data collection period:
+
+Removed the Gender Unknown or Another Gender than Provided Categories question.
+
+
+
+
+
+General Instructions
+
+
+
+Reporting Period Covered
+
+This survey component collects data on the cohort of full-time, first-time degree/certificate-seeking undergraduate students enrolled in your institution either (1) as of October 15, 2018 (or the institution's official fall reporting date) for institutions that offer a predominant number of programs based on standard academic terms (e.g., semesters, trimesters, quarters, or 4-1-4 plan); or (2) during the period between September 1, 2018 and August 31, 2019 for institutions that do not offer a predominant number of programs based on standard academic terms. Institutions are to report the status of these students as of August 31, 2024.
+
+
+
+
+
+Context Boxes
+
+Context boxes are provided to allow institutions to provide more information regarding survey component items. Note that some context boxes are posted on
+
+the College Navigator Website, which is the college search tool offered by NCES. NCES will review entries in these context boxes for applicability and
+
+appropriateness before posting them on the College Navigator Website; institutions should check grammar and spelling of their entries.
+
+
+
+
+
+Coverage
+
+Who to Include in the Cohort
+
+Include all full-time, first-time degree/certificate-seeking undergraduate students entering the institution either during the fall term or during the 12-month period as described above. Include students enrolled in the fall term who attended college for the first time in the prior summer session and students who entered with advanced standing (college credits earned before graduating from high school).
+
+For institutions that will report using a full-year cohort, count as entering students all students who entered the institution between September 1, 2018 and August 31, 2019, and who were enrolled for at least 15 days in a program of up to and including one year in length; or 30 days in a program of greater than
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 16/25 one year in length.
+
+Include all students enrolled for credit toward a degree, diploma, certificate, or other recognized postsecondary credential. Include students enrolled in courses that are part of a vocational or occupational program, INCLUDING those enrolled in off-campus centers and those enrolled in distance learning/home study programs.
+
+Be sure to include full-time students taking developmental courses if the student is considered degree-seeking for the purpose of student financial aid determination. This includes students who:
+
+Received any type of federal financial aid, regardless of what courses they took at any time Received any state or locally based financial aid with an eligibility requirement that the student be enrolled in a degree, certificate, or transfer-seeking program
+
+Obtained a student visa to enroll at a U.S. postsecondary institution
+
+A student who is designated as a member of the cohort remains in the cohort, even if the student:
+
+Becomes a part-time student
+
+Transfers to another institution
+
+Drops out of the institution
+
+Stops out of the institution
+
+Has not fulfilled the institution's requirements to receive a degree or certificate
+
+Went on a study abroad program the first year upon entering the institution
+
+Who to Exclude from the Cohort
+
+Do NOT include students in the cohort who are:
+
+Enrolled exclusively in courses not creditable toward a recognized postsecondary credential or the completion of a vocational program (i.e., non-degree/certificate-seeking students)
+
+Exclusively taking CEUs
+
+Exclusively auditing classes
+
+Enrolled part-time
+
+Transfers into the institution
+
+Foreign students who are only taking coursework at a host institution (e.g., an American institution overseas), if these students are not enrolled at a U.S. institution.
+
+
+
+
+
+Where to Get Help with Reporting
+
+IPEDS Help Desk
+
+Phone: (877) 225-2568
+
+E-mail: ipedshelp@rti.org
+
+Web Tutorials
+
+You can consult the IPEDS Website's Trainings & Outreach page which contains several tutorials on IPEDS data collection, a self-paced overview of IPEDS tools, and other valuable resources.
+
+IPEDS Resource Page
+
+The IPEDS Website's Reporting Tools page contains frequently asked questions, a link to data tip sheets, tutorials, taxonomies, information centers (e.g., academic libraries, average net price, human resources, race/ethnicity, etc.), and other valuable information.
+
+
+
+
+
+Where the Reported Data Will Appear
+
+Data collected through IPEDS will be accessible at the institution and aggregate levels.
+
+At the institution-level, data will appear in the:
+
+College Navigator Website
+
+IPEDS Use the Data portal
+
+IPEDS Data Feedback Reports
+
+College Affordability and Transparency Center Website
+
+At the aggregate-level, data will appear in:
+
+IPEDS Data Explorer
+
+IPEDS Data Feedback Reports
+
+The Digest of Education Statistics
+
+The Condition of Education
+
+
+
+
+
+Uploading Files to the IPEDS Data Collection System
+
+The File Import/Upload option is found under the Tools menu. In order to perform the upload you’ll need to have a file formatted to specifications. Upload specifications are included with the survey materials found under the Help menu. There are three upload formats available for the Graduation Rates survey component:
+
+Fixed width file
+
+Key value file
+
+
+
+
+
+Reporting Instructions
+
+
+
+Reporting Persons by Racial/Ethnic Category (1997 OMB)
+
+This information is being collected in compliance with Title VI of the Civil Rights Act of 1964 and Title IX of the Education Amendments of 1972 and Sec. 421(a) (1) of the Carl D. Perkins Vocational Education Act. These instructions correspond with the Final Guidance on Maintaining, Collecting, and Reporting Racial and
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 17/25 Ethnic Data to the U.S. Department of Education, published in the Federal Register on October 19, 2007.
+
+Method of collection - Institutions must collect race and ethnicity information using a 2-question format. The first question is whether the respondent is Hispanic/Latino. The second question is whether the respondent is from one or more races from the following list: American Indian or Alaska Native, Asian, Black or African American, Native Hawaiian or Other Pacific Islander, and White. Institutions should allow students and staff to self-identify their race and ethnicity. For further details on the guidance for collecting these data, please see the full Federal Register notice.
+
+Method of reporting aggregate data - Institutions must report aggregate data to the U.S. Department of Education using the NINE categories below. Racial/ethnic designations are requested only for United States citizens, residents, and other eligible non-citizens. Eligible noncitizens include all students who completed high school or a GED equivalency within the United States (including DACA and undocumented students) and who were not on an F-1 non-immigrant student visa at the time of high school graduation. More information about other eligible (for financial aid purposes) non-citizens is available at
+
+https://studentaid.gov/understand-aid/eligibility/requirements/non-us-citizens.
+
+Hispanic or Latino, regardless of race
+
+For Non-Hispanic/Latino individuals:
+
+American Indian or Alaska Native
+
+Asian
+
+Black or African American
+
+Native Hawaiian or Other Pacific Islander
+
+White
+
+Two or more races
+
+In addition, the following categories may be used:
+
+U.S. Nonresident
+
+Race and ethnicity unknown
+
+Racial/ethnic descriptions - Racial/ethnic designations as used in this survey do not denote scientific definitions of anthropological origins. The categories are:
+
+Hispanic or Latino- A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race. American Indian or Alaska Native- A person having origins in any of the original peoples of North and South America (including Central America) who maintains cultural identification through tribal affiliation or community attachment.
+
+Asian- A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam. Black or African American- A person having origins in any of the black racial groups of Africa. Native Hawaiian or Other Pacific Islander- A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands. White - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+
+Other descriptive categories
+
+U.S. Nonresident - A person who is not a citizen or national of the United States and who is in this country on a visa or temporary basis and does not have the right to remain indefinitely. Do not include DACA, undocumented, or other eligible noncitizens in this category. NOTE - U.S. Nonresidents are to be reported separately, in the boxes provided, rather than included in any of the seven racial/ethnic categories. Race and ethnicity unknown - This category is used only if the person did not select EITHER a racial or ethnic designation.
+
+
+
+
+
+Section I – Establishing Cohorts
+
+Cohort Type
+
+The method used to report graduation rates data on this survey is predetermined by your institution's response to the predominant calendar system question (Part B, Question 4) on the IC survey component of the IPEDS Fall 2024 data collection, according to the following rules:
+
+Institutions that offer a predominant number of programs based on standard academic terms (semesters, trimesters, quarters, or 4-1-4 plan) will report using a fall cohort of students. Institutions may use October 15, 2018 or the institution's official fall reporting date to determine the cohort. This should be the same reporting date used for the IPEDS Fall Enrollment survey.
+
+Institutions that do not offer a predominant number of programs based on standard academic terms (as defined above) will report using a full-year cohort. These institutions must count as entering students all those students who entered the institution between September 1, 2018 and August 31, 2019, and who were enrolled for at least 15 days in a program of up to and including one year in length; or 30 days in a program of greater than one year in length.
+
+Establishing your Cohorts
+
+Report each student only once.
+
+Please complete all of Section I. Screens for Sections II and III will be generated based on the data reported in Section I.
+
+Initial cohort - If you are reporting on a fall cohort, the information reported on full-time, first-time degree/certificate-seeking undergraduate student enrollment at your institution on the 2018 IPEDS Fall Enrollment survey will be preloaded in this column. If you did not respond to that survey, or if you are reporting on a full-year cohort, the column will be blank.
+
+Revised cohort (Column 01) - Institutions have the option of revising their preloaded cohort if:
+
+there are eligible students who were omitted in the past
+
+students were reported who did not belong in the cohort (e.g., they were not actually first-time, or full-time) better information regarding race/ethnicity or gender is available for eligible students
+
+Please review the data in the Initial cohort column (if applicable) and re-enter the cohort data in the Revised cohort column according to the 1997 racial/ethnic categories, making any necessary corrections for omissions, erroneous reporting, or where better information regarding race/ethnicity or gender is available. If your data do not appear in the Initial cohort column, please provide the enrollment data as requested in the Revised cohort column.
+
+
+
+Establishing Subcohorts
+
+For 4-year institutions, the cohort is divided into two subcohorts: (1) those students who upon entry are seeking a bachelor's or equivalent degree, and (2) those students who upon entry are seeking an undergraduate award other than a bachelor's degree. Institutions that do not determine degree intent upon entry should report all students as if they are bachelor's degree-seeking.
+
+Bachelor's or equivalent degree-seeking subcohort (Column 02) –Of the revised cohort of students listed in Column 1, indicate the number of these students who declared intent to seek a bachelor's or equivalent degree upon entry. As indicated above, this should also include any students whose intent was not known. These data will be carried forward to Section II.
+
+Other degree/certificate-seeking subcohort (Column 03) –This column represents the difference between the Revised cohort (Column 1) and the Bachelor's or equivalent degree-seeking subcohort (Column 2). The values in this column are calculated for you, and represent the number of students who declared intent to seek an undergraduate award other than a bachelor's level degree (e.g., an associate's degree or other recognized postsecondary credential) upon entry. These data will be carried forward to Section III.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 18/25
+
+Section II – Completers within 150% - Bachelor’s or Equivalent Degree-Seeking Subcohort Report each student only once.
+
+
+
+Report the status of the 2018 subcohort of bachelor’s or equivalent degree-seeking students as of 150% of normal time to completion or August 31, 2024 (whichever was earlier) in terms of the number of completers by type of program completed. Report all students by race/ethnicity and gender.
+
+Report only for full-time, first-time students who were seeking a bachelor’s or equivalent degree upon entry. Do NOT include part-time students, students who transferred into your institution, or students who changed their program of study to a bachelor's level degree after their first semester.
+
+Count completers only once and indicate the highest award level attained.
+
+SPECIAL NOTE: In order to resolve a potential conflict between transfers-out and the mission of particular programs to prepare students for transfer to other institutions, institutions may count as completers those students who have successfully completed a transfer-preparatory program. Transfer-preparatory program is defined in 34 CFR Student Assistance General Provisions, Section 668.8(b)(1)(ii) as "the successful completion of at least a 2-year program that is acceptable for full credit toward a bachelor’s degree and qualifies a student for admission into the third year of a bachelor’s degree program." The Secretary considers this the equivalent of an associate’s degree, thus completers of transfer-preparatory programs (although they do not receive a "recognized postsecondary credential") should be counted as completers of an at least 2 but less than 4 year program.
+
+Similarly, institutions may count as completers those students who have successfully completed the first three years of a 3-2 program and are eligible to enter another institution to complete the program (provided the program is acceptable for full credit towards a five-year bachelor's degree, and qualifies a student for admission into the fourth year of a five-year bachelor's degree program). As with a transfer-preparatory program, these students should be counted as completers of an at least 2 but less than 4 year program.
+
+In order to calculate a graduation rate that complies with Student Right-to-Know regulations, institutions may count as completers only those students who received their degree/certificate (or completed a transfer-preparatory program) within 150% of the normal time for program completion (normal time to completion is the amount of time necessary to complete all requirements for a program according to the institution's catalog). Do not count as completers students who receive their degree from another institution.
+
+Note that completers should be reported in terms of the type of program completed, as defined by award level. For programs that are defined in terms of clock or credit hours, the program type may not be indicative of the actual calendar time a program takes to complete. For more information on program types, please consult the IPEDS Glossary.
+
+Bachelor's or equivalent degree-seeking subcohort (Column 10) - The data in this column are carried forward from Section I for your reference.
+
+Completers of programs of less than 2 academic years (or equivalent) (Column 11) - Enter the number of students in the bachelor's or equivalent degree-seeking subcohort who completed programs of less than 2 full-time equivalent academic years within 150% of normal time to completion. This includes awards, certificates, or diplomas of less than one academic year and of at least one but less than two academic years; or designed for completion in less than 60 semester or trimester credit hours, less than 90 quarter credit hours, or less than 1,800 clock hours. Completers of programs of at least 2 but less than 4 academic years (or equivalent) (Column 12) - Enter the number of students in the bachelor's or equivalent degree-seeking subcohort who completed programs of at least 2 but less than 4 full-time equivalent academic years within 150% of normal time to completion. This includes awards, certificates, or diplomas of at least two but less than four academic years - or designed for completion in at least 60 but less than 120 semester or trimester credit hours, at least 90 but less than 180 quarter credit hours, or at least 1,800 but less than 3,600 clock hours -and associate's degrees.
+
+Completers of bachelor's or equivalent degrees (Column 18) - Enter the number of students in the bachelor's or equivalent degree-seeking subcohort who completed a bachelor’s degree or equivalent program within 150% of normal time to completion. Note: Completers of 3-year bachelor’s degree programs should only be included if they completed the program within 4-1/2 years.
+
+Total completers within 150% (Column 29) - This column is the sum of the previous three columns, and is calculated for you by the data collection system.
+
+
+
+
+
+Section II – Bachelor’s Completers by Length of Time to Degree
+
+Report each student only once.
+
+Of those students in the bachelor's or equivalent degree-seeking subcohort who completed a bachelor's degree or equivalent program within 150% of normal time to completion you must provide additional information on the length of time it took them to complete their program. Include all baccalaureate level degrees, including 5-year bachelor's/cooperative programs and those bachelor's degrees in which the normal 4 years of work are completed in 3 years. Of the total number of completers of bachelor's or equivalent degrees within 150% of normal time listed in Column 18, provide the following breakout:
+
+Completed the program in 4 yrs or less (Column 19) - Enter the number of students who completed a bachelor's degree or equivalent in 4 years or less. This should include all students who completed a bachelor's degree or equivalent by August 31, 2022.
+
+Completed the program in 5 yrs (Column 20) - Enter the number of students who completed a bachelor's degree or equivalent in 5 years. This should include all students who completed a bachelor's degree or equivalent in the period from September 1, 2022 through August 31, 2023. Do NOT include students who completed their program in 4 years or less in this column.
+
+Completed the program in 6 yrs (Column 21) - This column represents the difference between the number of completers of bachelor's degrees or equivalent within 150% of normal time (Column 18) and the sum of those who completed their program in 4 years or less (Column 19) and those who completed their program in 5 years (Column 20). This should include all students who completed a bachelor's degree or equivalent in the period from September 1, 2023 through August 31, 2024. This column is calculated for you by the data collection system.
+
+
+
+
+
+Section II – Non-completers - Bachelor’s or Equivalent Degree-Seeking Subcohort
+
+Report each student only once.
+
+Report the status of the non-completers from the 2018 subcohort of bachelor’s or equivalent degree-seeking students as of 150% of the normal time to completion for their program or August 31, 2024 (whichever was earlier). Report all students by race/ethnicity and gender.
+
+Report only for full-time, first-time students who were seeking a bachelor's or equivalent degree upon entry. Do NOT include part-time students, students who transferred into your institution, or students who changed their program of study to a bachelor's level degree after their first semester.
+
+Bachelor's or equivalent degree-seeking subcohort (Column 10) – The data in this column are carried forward from Section I for your reference. Total completers within 150% (Column 29) - The data in this column are carried forward from page 1 of Section II for your reference.
+
+Total transfer-out students (Column 30) - If the mission of your institution includes providing substantial preparation for students to enroll in another eligible institution without having completed a program, you must report the total number of students who transferred out of your institution (without earning a degree/award) within 150% of normal time to completion. Include students who transferred out of your institution and subsequently re-enrolled at another eligible institution. If it is not part of your mission, you may still report transfer-out data if you wish.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 19/25 Total exclusions (Column 45)- Indicate the total number of students who left your institution within 150% of normal time to completion for their program (and have neither graduated nor transferred to another institution) due to one of the following documented reasons:
+
+a. The student is deceased or is totally and permanently disabled and thus unable to return to school. b. The student left school to serve in the armed forces or was called up to active duty. (Do NOT include students already in the military who transfer to
+
+another duty station.)
+
+c. The student left school to serve with a foreign aid service of the Federal Government, such as the Peace Corps. d. The student left school to serve on an official church mission.
+
+NOTE: Students who leave the institution for one of the reasons noted above, but return prior to the status date of August 31, 2024, may still be subtracted/excluded from the cohort during the calculation of graduation rates.
+
+Still enrolled (Column 51) - Enter the number of students who were still enrolled at your institution as of 150% of normal time to completion for their program (or August 31, 2024 if 150% of normal time to completion had not elapsed by that time).
+
+No longer enrolled (Column 52) - This column represents the difference between the bachelor's or equivalent degree-seeking subcohort (Column 10) and the sum of Columns 29, 30, 45, and 51. This column should include students who graduated from their program after 150% of normal time to completion elapsed.
+
+
+
+
+
+Section II – Bachelor’s or equivalent degree-seeking cohort - Graduation Rate for Pell recipients and recipients of a
+
+subsidized Direct Loan who did not receive a Pell Grant
+
+Report each student only once.
+
+Report the status of the 2018 subcohort of bachelor’s or equivalent degree-seeking students as of 150% of normal time to completion or August 31, 2024 (whichever was earlier) in terms of the number of completers.
+
+Report only for full-time, first-time students who were seeking a bachelor’s or equivalent degree upon entry. Do NOT include part-time students, students who transferred into your institution, or students who changed their program of study to a bachelor's level degree after their first semester.
+
+SPECIAL NOTE: In order to resolve a potential conflict between transfers-out and the mission of particular programs to prepare students for transfer to other institutions, institutions may count as completers those students who have successfully completed a transfer-preparatory program.
+
+Transfer-preparatory program is defined in 34 CFR Student Assistance General Provisions, Section 668.8(b)(1)(ii) as "the successful completion of at least a 2-year program that is acceptable for full credit toward a bachelor’s degree and qualifies a student for admission into the third year of a bachelor’s degree program." The Secretary considers this the equivalent of an associate’s degree, thus completers of transfer-preparatory programs (although they do not receive a "recognized postsecondary credential") should be counted as completers of an at least 2 but less than 4 year program.
+
+Similarly, institutions may count as completers those students who have successfully completed the first three years of a 3-2 program and are eligible to enter another institution to complete the program (provided the program is acceptable for full credit towards a five-year bachelor's degree, and qualifies a student for admission into the fourth year of a five-year bachelor's degree program). As with a transfer-preparatory program, these students should be counted as completers of an at least 2 but less than 4 year program.
+
+In order to calculate a graduation rate that complies with Student Right-to-Know regulations, institutions may count as completers only those students who received their degree/certificate (or completed a transfer-preparatory program) within 150% of the normal time for program completion (normal time to completion is the amount of time necessary to complete all requirements for a program according to the institution's catalog). Do not count as completers students who receive their degree from another institution.
+
+For each of two different subcohorts - Bachelor's or equivalent degree-seeking students and Other degree/certificate-seeking students, data will be collected on those students who were recipients of a Pell Grant and those students who were recipients of a subsidized Direct Loan that did not receive a Pell Grant.
+
+Recipients are defined as those students receiving and using their Pell Grant or Subsidized Direct loan. These students must receive and use the award within their first year at the institution. If the student is a recipient of an award at a later point, they would not be included in one of the subcohorts.
+
+Number of students in the cohort - The number of students in the bachelor's or equivalent degree-seeking subcohort will be preloaded from Section 1 of the GR form. Of those students, report the number of students who received a Pell Grant and the number of students who received a subsidized Direct Loan but DID NOT receive a Pell Grant. These two categories() will be mutually exclusive. The total of these two subcohorts must be less than or equal to the total of all students.
+
+Total exclusions - The number of exclusions in the bachelor's or equivalent degree-seeking subcohort will be preloaded from Section II of the GR form. Of those students reported as exclusions, report the number of students who received a Pell Grant and the number of students who received a subsidized Direct Loan but DID NOT receive a Pell Grant. These two categories will be mutually exclusive. The total of these two subcohorts must be less than or equal to the total of all students.
+
+Completed bachelor's degree or equivalent within 150% - The number of students in the bachelor's or equivalent degree-seeking subcohort who completed a bachelor’s degree or equivalent program within 150% of normal time to completion will be preloaded from Section II of the GR form. Of those students reported as completers, report the number of students who received a Pell Grant and the number of students who received a subsidized Direct Loan but DID NOT receive a Pell Grant. This must be less than or equal to the Completers within 150% of normal time. The total of these two subcohorts must be less than or equal to the total of all students.
+
+Total completers within 150% of normal time - The total number of students who completed their program within 150% of normal time to completion will be preloaded from Section II of the GR form. Of those students reported as completers, report the number of students who received a Pell Grant and the number of students who received a subsidized Direct Loan but DID NOT receive a Pell Grant. These two categories will be mutually exclusive. The total of these two subcohorts must be less than or equal to the total of all students.
+
+
+
+
+
+Section III – Completers within 150% - Other Degree/Certificate-Seeking Subcohort
+
+Report each student only once.
+
+Report the status of the 2018 subcohort of students seeking other than a bachelor's degree as of 150% of normal time to completion or August 31, 2024 (whichever was earlier) in terms of the number of completers by type of program completed. Report all students by race/ethnicity and gender.
+
+Report only for full-time, first-time students who were seeking undergraduate degrees or certificates other than a bachelor’s degree upon entry (within entering year). Do NOT include part-time students, students who transferred into your institution, or students who changed their program of study from a bachelor's level degree after the first semester.
+
+Count completers only once and indicate the highest award level attained.
+
+SPECIAL NOTE: In order to resolve a potential conflict between transfers-out and the mission of particular programs to prepare students for transfer to other institutions, institutions may count as completers those students who have successfully completed a transfer-preparatory program.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 20/25
+
+Transfer-preparatory program is defined in 34 CFR Student Assistance General Provisions, Section 668.8(b)(1)(ii) as "the successful completion of at least a 2-year program that is acceptable for full credit toward a bachelor’s degree and qualifies a student for admission into the third year of a bachelor’s degree program." The Secretary considers this the equivalent of an associate’s degree, thus completers of transfer-preparatory programs (although they do not receive a "recognized postsecondary credential") should be counted as completers of an at least 2 but less than 4 year program.
+
+Similarly, institutions may count as completers those students who have successfully completed the first three years of a 3-2 program and are eligible to enter another institution to complete the program (provided the program is acceptable for full credit towards a five-year bachelor's degree, and qualifies a student for admission into the fourth year of a five-year bachelor's degree program). As with a transfer-preparatory program, these students should be counted as completers of an at least 2 but less than 4 year program.
+
+In order to calculate a graduation rate that complies with Student Right-to-Know regulations, institutions may count as completers only those students who received their degree/certificate (or completed a transfer-preparatory program) within 150% of the normal time for program completion (normal time to completion is the amount of time necessary to complete all requirements for a program according to the institution's catalog). Do not count as completers students who receive their degree from another institution.
+
+Note that completers should be reported in terms of the type of program completed, as defined by award level. For programs that are defined in terms of clock or credit hours, the program type may not be indicative of the actual calendar time a program takes to complete. For more information on program types, please consult the IPEDS Glossary. Other degree/certificate-seeking subcohort (Column 10) - The data in this column are carried forward from Section I for your reference.
+
+Completers of programs of less than 2 academic years (or equivalent) (Column 11) - Enter the number of students in the other degree/certificate-seeking subcohort who completed programs of less than 2 full-time equivalent academic years within 150% of normal time to completion. This includes awards, certificates, or diplomas of less than one academic year and of at least one but less than two academic years; or designed for completion in less than 60 semester or trimester credit hours, less than 90 quarter credit hours, or less than 1,800 clock hours.
+
+Completers of programs of at least 2 but less than 4 academic years (or equivalent) (Column 12) - Enter the number of students in the other degree/certificate-seeking subcohort who completed programs of at least 2 but less than 4 full-time equivalent academic years within 150% of normal time to completion. This includes awards, certificates, or diplomas of at least two but less than four academic years - or designed for completion in at least 60 but less than 120 semester or trimester credit hours, at least 90 but less than 180 quarter credit hours, or at least 1,800 but less than 3,600 clock hours -and associate's degrees.
+
+Completers of bachelor's or equivalent degrees (Column 18) - Enter the number of students in the other degree/certificate-seeking subcohort who completed a bachelor’s degree or equivalent program within 150% of normal time to completion. Note: Completers of 3-year bachelor’s degree programs should only be included if they completed the program within 4-1/2 years.
+
+Total completers within 150% (Column 29) - This column is the sum of the previous three columns, and is calculated for you by the data collection system.
+
+
+
+
+
+Section III – Non-completers - Other Degree/Certificate-Seeking Subcohort
+
+Report each student only once.
+
+Report the status of the non-completers from the 2018 subcohort of students seeking other than a bachelor's or equivalent degree as of 150% of the normal time to completion for their program or August 31, 2024 (whichever was earlier). Report all students by race/ethnicity and gender.
+
+Report only for full-time, first-time students who were seeking an undergraduate award other than a bachelor's level degree upon entry. Do NOT include part-time students, students who transferred into your institution, or students who changed their program of study from a bachelor's level degree after their first semester.
+
+Other degree/certificate-seeking subcohort (Column 10) – The data in this column are carried forward from Section I for your reference.
+
+Total completers within 150% (Column 29) - The data in this column are carried forward from page 1 of Section III for your reference. Total transfer-out students (Column 30) - If the mission of your institution includes providing substantial preparation for students to enroll in another eligible institution without having completed a program, you must report the total number of students who transferred out of your institution (without earning a degree/award) within 150% of normal time to completion. Include students who transferred out of your institution and subsequently re-enrolled at another eligible institution. If it is not part of your mission, you may still report transfer-out data if you wish.
+
+Total exclusions (Column 45)- Indicate the total number of students who left your institution within 150% of normal time to completion for their program (and have neither graduated nor transferred to another institution) due to one of the following documented reasons:
+
+a. The student is deceased or is totally and permanently disabled and thus unable to return to school. b. The student left school to serve in the armed forces or was called up to active duty. (DO NOT include students already in the military who transfer to
+
+another duty station.)
+
+c. The student left school to serve with a foreign aid service of the Federal Government, such as the Peace Corps. d. The student left school to serve on an official church mission.
+
+NOTE: Students who leave the institution for one of the reasons noted above, but return prior to the status date of August 31, 2024, may still be subtracted/excluded from the cohort during the calculation of graduation rates.
+
+Still enrolled (Column 51) - Enter the number of students who were still enrolled at your institution as of 150% of normal time to completion for their program (or August 31, 2024 if 150% of normal time to completion had not elapsed by that time). No longer enrolled (Column 52) - This column represents the difference between the other degree/certificate-seeking subcohort (Column 10) and the sum of Columns 29, 30, 45, and 51. This column should include students who graduated from their program after 150% of normal time to completion elapsed.
+
+
+
+
+
+Section III – Other Degree/Certificate-Seeking Subcohort - Pell recipients and recipients of a subsidized Direct Loan who
+
+did not receive a Pell Grant
+
+Report each student only once.
+
+Report the status of the 2018 subcohort of Other degree/certificate-seeking students as of 150% of normal time to completion or August 31, 2024 (whichever was earlier) in terms of the number of completers.
+
+Report only for full-time, first-time students who were seeking Other degree/certificate. Do NOT include part-time students, students who transferred into your institution.
+
+SPECIAL NOTE: In order to resolve a potential conflict between transfers-out and the mission of particular programs to prepare students for transfer to other institutions, institutions may count as completers those students who have successfully completed a transfer-preparatory program.
+
+Transfer-preparatory program is defined in 34 CFR Student Assistance General Provisions, Section 668.8(b)(1)(ii) as "the successful completion of at least a 2-year program that is acceptable for full credit toward a bachelor’s degree and qualifies a student for admission into the third year of a bachelor’s degree
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 21/25
+
+program." The Secretary considers this the equivalent of an associate’s degree, thus completers of transfer-preparatory programs (although they do not receive a "recognized postsecondary credential") should be counted as completers of an at least 2 but less than 4 year program.
+
+Similarly, institutions may count as completers those students who have successfully completed the first three years of a 3-2 program and are eligible to enter another institution to complete the program (provided the program is acceptable for full credit towards a five-year bachelor's degree, and qualifies a student for admission into the fourth year of a five-year bachelor's degree program). As with a transfer-preparatory program, these students should be counted as completers of an at least 2 but less than 4 year program.
+
+In order to calculate a graduation rate that complies with Student Right-to-Know regulations, institutions may count as completers only those students who received their degree/certificate (or completed a transfer-preparatory program) within 150% of the normal time for program completion (normal time to completion is the amount of time necessary to complete all requirements for a program according to the institution's catalog). Do not count as completers students who receive their degree from another institution.
+
+For each of two different subcohorts - Bachelor's or equivalent degree-seeking students and Other degree/certificate-seeking students, data will be collected on those students who were recipients of a Pell Grant and those students who were recipients of a subsidized Direct Loan that did not receive a Pell Grant.
+
+Recipients are defined as those students receiving and using their Pell Grant or Subsidized Direct loan. These students must receive and use the award within their first year at the institution. If the student is a recipient of an award at a later point, they would not be included in one of the subcohorts.
+
+Number of students in the cohort - The number of students in the Other degree/certificate-seeking subcohort will be preloaded from Section 1 of the GR form. Of those students, report the number of students who received a Pell Grant and the number of students who received a subsidized Direct Loan but DID NOT receive a Pell Grant. These two categories will be mutually exclusive. The total of these two subcohorts must be less than or equal to the total of all students.
+
+Total exclusions - The number of exclusions in the Other degree/certificate-seeking subcohort will be preloaded from Section III of the GR form. Of those students reported as exclusions, report the number of students who received a Pell Grant and the number of students who received a subsidized Direct Loan but DID NOT receive a Pell Grant. These two categories will be mutually exclusive. The total of these two subcohorts must be less than or equal to the total of all students.
+
+Completed bachelor's degree or equivalent within 150% - The number of students in the Other degree/certificate-seeking subcohort who completed a Bachelor’s degree or equivalent within 150% of normal time to completion will be preloaded from Section III of the GR form. Of those students reported as completers, report the number of students who received a Pell Grant and the number of students who received a subsidized Direct Loan but DID NOT receive a Pell Grant. These two categories will be mutually exclusive. This must be less than or equal to the Total completers within 150%. The total of these two subcohorts must be less than or equal to the total of all students.
+
+Total completers within 150% - The total number of students in the Other degree/certificate-seeking subcohort who completed their degree/certificate program within 150% of normal time to completion will be preloaded from Section III of the GR form. Of those students reported as completers, report the number of students who received a Pell Grant and the number of students who received a subsidized Direct Loan but DID NOT receive a Pell Grant. These two categories will be mutually exclusive. The total of these two subcohorts must be less than or equal to the total of all students.
+
+
+
+
+
+Calculation of Graduation and Transfer-out Rates
+
+Worksheets
+
+Worksheets calculating the Student Right-To-Know and overall four-year average completion/graduation and transfer-out rates of full-time, first-time degree/certificate-seeking undergraduate students for the 2018 student cohort are provided as a convenience to the institution. In addition, the 4-year, 5-year, and 6-year graduation rates for the 2018 bachelor's or equivalent degree-seeking subcohort are provided for those institutions that are able to report bachelor's or equivalent completers by length of time to degree. Data previously reported by the institution are preloaded for use in these calculations.
+
+Note that certain information from these worksheets will be displayed on College Navigator, as noted. Additional information relevant to the calculated rates may be entered in the context box provided, and will also be displayed on College Navigator.
+
+Privacy Issues With Disclosure
+
+Before using the worksheets for disclosure, please consider the following:
+
+The Family Educational Rights and Privacy Act of 1974 as amended (1998) (FERPA) requires that institutions not disclose information where students could be identified.
+
+
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 22/25 Glossary
+
+Term Definition
+
+The result of removing any allowable exclusions from a cohort (or subcohort). For the Fall Enrollment component, it is the
+
+cohort for calculating retention rate; for the Graduation Rates component, this is the cohort from which graduation and transfer-
+
+Adjusted cohort
+
+out rates are calculated; and for the Outcome Measures component, these are the four cohorts (first-time, full-time; first-time, part-time; non-first-time, full-time; or non-first-time, part-time) for which outcomes rates are calculated at 4, 6, and 8 years.
+
+American Indian or Alaska A person having origins in any of the original peoples of North and South America (including Central America) who maintains Native cultural identification through tribal affiliation or community attachment.
+
+A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for
+
+Asian
+
+example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+
+Associate's degree An award that normally requires at least 2 but less than 4 years of full-time equivalent college work.
+
+An award (baccalaureate or equivalent degree, as determined by the Secretary, U.S. Department of Education) that normally
+
+requires at least 4 but not more than 5 years of full-time equivalent college-level work. This includes all bachelor's degrees
+
+Bachelor's degree conferred in a 5-year cooperative (work-study) program. A cooperative plan provides for alternate class attendance and
+
+employment in business, industry, or government; thus, it allows students to combine actual work experience with their college studies. Also includes bachelor's degrees in which the normal 4 years of work are completed in 3 years.
+
+Bachelor's or equivalent
+
+In the GR component of IPEDS, a cohort of students who were seeking a bachelor's or equivalent degree upon entry.
+
+degree-seeking subcohort
+
+Black or African American A person having origins in any of the black racial groups of Africa.
+
+Cohort A specific group of students established for tracking purposes.
+
+Cohort year The year that a cohort of students begins attending college.
+
+Completers within 150% of
+
+Students who completed their program within 150% of the normal (or expected) time for completion.
+
+normal time
+
+Students enrolled in courses for credit who are seeking a degree, certificate, or other recognized postsecondary credential. This includes students who:
+
+- received any type of federal financial aid, regardless of what courses they took at any time;
+
+Degree/certificate-seeking - received any state or locally based financial aid with an eligibility requirement that the student be enrolled in a degree, students (DCGS) certificate, or transfer-seeking program; or
+
+- obtained a student visa to study at a U.S. postsecondary institution
+
+High school students also enrolled in postsecondary courses for credit are not considered degree/certificate-seeking.
+
+Those students who may be removed (deleted) from a cohort (or subcohort). For the Graduation Rates, Outcome Measures,
+
+and Fall Enrollment retention rate reporting, students may be removed from a cohort if they left the institution for one of the
+
+Exclusions
+
+following reasons: death or total and permanent disability; service in the armed forces (including those called to active duty); service with a foreign aid service of the federal government, such as the Peace Corps; or service on official church missions.
+
+The group of students entering in the fall term established for tracking purposes. For the Graduation Rates component, this
+
+Fall cohort includes all students who enter an institution as full-time, first-time degree or certificate-seeking undergraduate students during
+
+the fall term of a given year.
+
+A student who has no prior postsecondary experience (except as noted below) attending any institution for the first time at the
+
+First-time student undergraduate level. This includes students enrolled in academic or occupational programs. It also includes students enrolled
+
+(undergraduate) in the fall term who attended college for the first time in the prior summer session, and students who entered with advanced
+
+standing (college credits or recognized postsecondary credential earned before graduation from high school).
+
+Undergraduate: A student enrolled for 12 or more semester credits, or 12 or more quarter credits, or 24 or more clock hours a week each term. Graduate: A student enrolled for 9 or more semester credits, or 9 or more quarter credits, or a student involved
+
+Full-time student
+
+in thesis or dissertation preparation that is considered full-time by the institution. Doctor's degree - Professional practice - full-time as defined by the institution.
+
+This is a group of students entering at any time during the 12-month period for tracking and reporting. For Graduation Rate (GR),
+
+a full-year cohort is from September 1 through August 31 and is used primarily by institutions that offer occupational programs
+
+Full-year cohort of varying lengths. Students must be full-time and first-time to be considered in the cohort. For Outcome Measures (OM)
+
+component, all degree-granting institutions report on a full-year cohort from July 1 through June 30. Students are reported once in one of the four OM cohorts: first-time, full-time; first-time, part-time: non-first-time, full-time; or non-first-time, part-time.
+
+The rate required for disclosure and/or reporting purposes under Student Right-to-Know Act. This rate is calculated as the total
+
+Graduation rate
+
+number of completers within 150% of normal time divided by the revised adjusted cohort.
+
+Graduation Rates (GR) This annual component of IPEDS was added in 1997 to help institutions satisfy the requirements of the Student Right-to-Know
+
+legislation. Data are collected on the number of students entering the institution as full-time, first-time, degree/certificate-seeking undergraduate students in a particular year (cohort), by race/ethnicity and gender; the number completing their program within 150 percent of normal time to completion; the number that transfer to other institutions if transfer is part of the institution's mission. Prior to 2007, institutions who offered athletically-related student aid were asked to report, by sport, the number of students receiving aid and whether they completed within 150 percent of normal time to completion. Now, these
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 23/25
+
+institutions only need to report a URL where the athletic data is located on their website, when available. GR automatically generates worksheets that calculate rates, including average rates over 4 years.
+
+Hispanic/Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race.
+
+A specific group of individuals established for tracking purposes. For the Graduation Rates (GR) and Outcome Measures (OM)
+
+components of IPEDS, the initial cohort is defined as the enrollment count before removing revisions and exclusions of all
+
+degree/certificate-seeking students who enter in either (1) the fall term of a given academic year, or (2) between September 1st
+
+Initial cohort
+
+and August 31st of the following year. For the GR component of IPEDS, the initial cohort is only for full-time, first-time students. For OM, all undergraduates are placed in one of four initial cohorts: full-time, first-time; part-time, first-time; full-time, non-first-time; and part-time, non-first time.
+
+The Integrated Postsecondary Education Data System (IPEDS), conducted by the NCES, began in 1986 and involves annual
+
+institution-level data collections. All postsecondary institutions that have a Program Participation Agreement with the Office of
+
+Integrated Postsecondary Postsecondary Education (OPE), U.S. Department of Education (throughout IPEDS referred to as "Title IV") are required to report
+
+Education Data System data using a web-based data collection system. IPEDS currently consists of the following components: Institutional
+
+(IPEDS) Characteristics (IC); 12-month Enrollment (E12);Completions (C); Admissions (ADM); Student Financial Aid (SFA); Human
+
+Resources (HR) composed of Employees by Assigned Position, Fall Staff, and Salaries; Fall Enrollment (EF); Graduation Rates
+
+(GR); Outcome Measures (OM); Finance (F); and Academic Libraries (AL).
+
+Native Hawaiian or Other
+
+A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+
+Pacific Islander
+
+The amount of time necessary for a student to complete all requirements for a degree or certificate according to the institution's catalog. This is typically 4 years (8 semesters or trimesters, or 12 quarters, excluding summer sessions) for a
+
+Normal time to completion bachelor's degree in a standard term-based institution; 2 years (4 semesters or trimesters, or 6 quarters, excluding summer
+
+sessions) for an associate's degree in a standard term-based institution; and the various scheduled times for certificate
+
+programs.
+
+Other degree/certificate- A subset of students belonging to a GR cohort who were seeking a degree or certificate other than bachelor's degree upon seeking (DGCS) subcohort entry.
+
+Race and ethnicity unknown The category used to report students or employees whose race and ethnicity are not known.
+
+Categories developed in 1997 by the Office of Management and Budget (OMB) that are used to describe groups to which individuals belong, identify with, or belong in the eyes of the community. The categories do not denote scientific definitions of anthropological origins. The designations are used to categorize U.S. citizens, residents, and other eligible non-citizens.
+
+Individuals are asked to first designate ethnicity as:
+
+- Hispanic or Latino or
+
+- Not Hispanic or Latino
+
+Race/ethnicity
+
+Second, individuals are asked to indicate all races that apply among the following:
+
+- American Indian or Alaska Native
+
+- Asian
+
+- Black or African American
+
+- Native Hawaiian or Other Pacific Islander
+
+- White
+
+A recognized postsecondary credential includes any credential that is recognized by the institution’s appropriate governing body and received after completion of an academic program or that is awarded in recognition of an individual's attainment of
+
+Recognized postsecondary
+
+measurable technical or industry/occupational skills necessary to obtain employment or advance within an industry/occupation.
+
+credential
+
+These technical or industry/occupational skills generally are based on standards developed or endorsed by employers or industry associations.
+
+Initial cohort after revisions are made. Cohorts may be revised if an institution discovers that incorrect data were reported in an
+
+Revised cohort
+
+earlier year.
+
+Also known as the "Student Right-to-Know and Campus Security Act" (P.L. 101-542), which was passed by Congress November
+
+9, 1990. Title I, Section 103, requires institutions eligible for Title IV funding to calculate completion or graduation rates of certificate- or degree-seeking, full-time students entering that institution, and to disclose these rates to all students and prospective students. Further, Section 104 requires each institution that participates in any Title IV program and is attended by students receiving athletically-related student aid to submit a report to the Secretary of Education annually. This report is to
+
+Student Right-to-Know Act
+
+contain, among other things, graduation/completion rates of all students as well as students receiving athletically-related student aid by race/ethnicity and gender and by sport, and the average completion or graduation rate for the four most recent years. These data are also required to be disclosed to parents, coaches, and potential student athletes when the institution
+
+offers athletically-related student aid. The Graduation Rates component of IPEDS was developed specifically to help institutions respond to these requirements. See Graduation Rates for the current description of data collected.
+
+A predefined subset of the initial cohort or the revised cohort established for tracking purposes. Degree/certificate-seeking
+
+Subcohort students in the bachelor's degree-seeking group in the Graduation Rates (GR) component and Pell-Grant, non-first-time, part-
+
+time students in the Outcome Measures (OM) component are examples of subcohorts.
+
+An institution that has a written agreement with the Secretary of Education that allows the institution to participate in any of the Title IV federal student financial assistance programs (other than the Leveraging Educational Assistance Partnerships or LEAP,
+
+Title IV institution
+
+formerly State Student Incentive Grant or SSIG and the National Early Intervention Scholarship and Partnership or NEISP programs).
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 24/25
+
+A degree/certificate-seeking undergraduate student entering the IPEDS reporting institution for the first time but known to have previously enrolled at a different postsecondary institution (not as a high school student). The student may transfer with or
+
+Transfer-in student
+
+without credit. For systems of coordinated institutions (multi-campus system), students are to be identified as transfer-in students upon entering an institution from another institution within the same coordinated system.
+
+Total number of students who are known to have transferred out of the reporting institution within 150% of normal time to
+
+Transfer-out rate
+
+completion divided by the adjusted cohort.
+
+A student who discontinues enrollment at the IPEDS reporting institution and enrolls at a different postsecondary institution. For
+
+Transfer-out student systems of coordinated institutions (multi-campus system), students are to be identified as transfer-out students when leaving
+
+an institution to enroll into another institution within the same coordinated system.
+
+A program designed specifically to provide a student with the basic knowledge needed to transfer into a higher level program. For example, this may be the first 2 years of a baccalaureate level program for which the institution does not offer an award, or 2
+
+Transfer-preparatory program
+
+years of undergraduate study needed for entrance into a first-professional program, or 1 or more years of undergraduate study needed for entrance into health services fields.
+
+A person who is not a citizen or national of the United States and who is in this country on a visa or temporary basis and does
+
+U.S. Nonresident
+
+not have the right to remain indefinitely.
+
+A student who is taking courses at the baccalaureate or below the baccalaureate level. These students may or may not be
+
+Undergraduate student
+
+enrolled in undergraduate programs.
+
+White A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+
+
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=4&instructionid=30055&formid=57 25/25
+
+
+
+
+

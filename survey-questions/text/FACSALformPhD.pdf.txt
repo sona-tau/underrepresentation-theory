@@ -1,26 +1,220 @@
-Usage: .ebook-convert-wrapped input_file output_file [options]
+Distribution of Part-time Faculty Salaries for Academic Year 2019-2020
 
-Convert an e-book from one format to another.
+DIRECTIONS
 
-input_file is the input and output_file is the output. Both must be specified as the first two arguments to the command.
+In each box, write the number of part-time salaried faculty whose academic-year pay falls within the
 
-The output e-book format is guessed from the file extension of output_file. output_file can also be of the special format .EXT where EXT is the output file extension. In this case, the name of the output file is derived from the name of the input file. Note that the filenames must not start with a hyphen. Finally, if output_file has no extension, then it is treated as a folder and an "open e-book" (OEB) consisting of HTML files is written to that folder. These files are the files that would normally have been passed to the output plugin.
+given interval. Part-time salaried faculty are those who are not full-time in the institution but who are typically paid throughout the academic or calendar year. For the purpose of this survey, the category of
 
-After specifying the input and output file you can customize the conversion by specifying various options. The available options depend on the input and output file types. To get help on them specify the input and output file and then use the -h option.
+part-time salaried faculty does not include those instructional staff who are paid by the course.
 
-For full documentation of the conversion system see
-https://manual.calibre-ebook.com/conversion.html
+Institution: Highest degree offered by department (check one):
 
-Whenever you pass arguments to .ebook-convert-wrapped that have spaces in them, enclose the arguments in quotation marks. For example: "/some path/with spaces"
+Doctorate Masters Bachelors Number of faculty PART-TIME SALARIED
 
-Options:
-  --version       show program's version number and exit
+Department: Associate None whose full-time FACULTY
 
-  -h, --help      show this help message and exit
+salary is Men Women Pay for Instructional Staff Paid
 
-  --list-recipes  List builtin recipe names. You can create an e-book from a
-                  builtin recipe like this: ebook-convert "Recipe Name.recipe"
-                  output.epub
+Address: less than $10,000 Any necessary corrections to the address should be by the Course for Fall 2019
+
+noted on the label at the left. $10,000 to $14,999
 
 
-Created by Kovid Goyal <kovid@kovidgoyal.net>
+
+Faculty Salaries 2019 – 2020 (Facsal) $15,000 to $19,999 (Do not include salaried part-time people)
+
+$20,000 to $24,999 1) Is an academic term in your institution a
+
+$25,000 to $29,999 semester , quarter , or other ? __________
+
+Conducted by American Mathematical Society $30,000 to $34,999 2) For each pay range, enter the number of term-long
+
+$35,000 to $39,999 sections being taught by men and by women
+
+during the fall term of AY 2019–2020. Regard a
+
+Dear Colleague: $40,000 to $44,999 section as a teaching assignment in which students
+
+On behalf of the sponsoring societies for the Mathematical and Statistical Sciences Survey (AMS, ASA, IMS, MAA, $45,000 to $49,999 earn the quivalent of at least “3 credit hours”; in your count, do not attempt to distinguish among
+
+and SIAM), we request that you please complete the enclosed 2019 questionnaire: Faculty Salaries. Thank you for $50,000 to $54,999 courses carrying different amounts of credit (e.g.
+
+your continuing participation in the Mathematical and Statistical Sciences Annual Survey. you need not distinguish between a 3-credit hour $55,000 to $59,999 course and a 4-credit hour course.)
+
+Our timeline is to have your completed questionnaire by October 31, 2019. You may either transmit your responses $60,000 to $64,999
+
+annual-survey/facsalform.pdf), or send them by post to the address given above. $65,000 to $69,999 Number of sections taught as an e-mail attachment to ams-survey@ams.org (using, if you wish, a downloaded PDF form found at ams.org/
+
+$70,000 to $74,999 by pay range and gender know his or her name and contact information. Your data will be treated as strictly confidential. Only statistical Per-course pay range Men Women If it is best completed by another individual (e.g, a dean) please forward this form to that person and let us
+
+$75,000 to $79,999
+
+
+
+summaries will be published; we want to assure you that your individual institution will not be identified unless less than $1,000 $80,000 to $84,999 we have your prior permission. $1,000 to $1,999 $85,000 to $89,999
+
+It will allow us to determine the distribution of faculty salaries at each rank and category of department. The $90,000 to $94,999 We know there are many demands on your time, but your participation in this survey is important for our profession. $2,000 to $2,999 salary information you and others provide will be summarized and reported in an upcoming issue of Notices of $95,000 to $99,999 $3,000 to $3,999 the American Mathematical Society, and highlights will appear in publications of the other sponsoring societies. $4,000 to $4,999
+
+$100,000 to $109,999
+
+If you have any questions or need more time to complete the survey, please feel free to contact us at ams-survey@ $110,000 to $119,999 $5,000 to $5,999 ams.org or phone 1-800-321-4267, extension 4124. $6,000 to $6,999
+
+$120,000 to $129,999
+
+We look forward to receiving your completed questionnaire. $130,000 to $139,999 $7,000 to $7,999
+
+$8,000 and above
+
+Sincerley, $140,000 and above
+
+Amanda Golbeck, chair, AMS-ASA-IMS-MAA-SIAM Joint Data Committee Total number of 0 0 reported above: 0 Total number of sections
+
+faculty reported above 0
+
+Tom Barr, AMS Special Projects Officer Total amount paid to teach
+
+Total of actual academic these sections year salaries (in dollars)
+
+of faculty reported above*
+
+*These totals must be received to make use of the individual
+
+data listed above.
+
+Information about the Mathematical and Statistical Sciences Annual Survey of can be found at www.ams.org/annual-survey.
+
+Report Full-Time Faculty Salaries on next page.
+
+
+
+Faculty Salaries for Academic Year 2019–2020
+
+All data is aggregated, so no individual salary or department will be identifiable in published reports.
+
+DIRECTIONS
+
+In each box, write the number of faculty, as defined below, whose academic-year salary falls within the given salary interval and professional rank. (Exclude summer salaries.)
+
+• Full-time faculty means any member of the department, regardless of which courses they teach, who is full-time with the institution,
+
+and at least half-time in the department.
+
+• If your institution does not recognize tenure, please check the following box and then report those with renewable full-time
+
+appointments under non-tenure-track faculty.
+
+• Salary means payment by the institution for full-time work for the academic year, 9–10 months, even if paid over 11–12 months.
+
+
+
+Please report the: a) Number of full-time faculty with 9–10 month appointments.
+
+b) Number of full-time faculty with 11–12 month appointments (for these appointments
+
+multiply the annual salaries by 0.8 before reporting them in the table).
+
+
+
+Distribution of Faculty Salaries for Academic Year 2019–2020
+
+
+
+Number of TENURE OR TENURE-TRACK FACULTY FULL-TIME FULL-TIME NON-TENURE-TRACK FACULTY faculty whose ASSISTANT PROFESSORS full-time salary is e.g., Lecturers, ASSOCIATE FULL Instructors, Remaining PROFESSORS PROFESSORS New Hires Only Postdocs Assistant Professors
+
+Men Women Men Women Men Women Men Women Men Women
+
+less than $25,000
+
+$25,000 to $29,999
+
+$30,000 to $34,999
+
+$35,000 to $39,999
+
+$40,000 to $44,999
+
+$45,000 to $49,999
+
+$50,000 to $54,999
+
+$55,000 to $59,999
+
+$60,000 to $64,999
+
+$65,000 to $69,999
+
+$70,000 to $74,999
+
+$75,000 to $79,999
+
+$80,000 to $84,999
+
+$85,000 to $89,999
+
+$90,000 to $94,999
+
+$95,000 to $99,999
+
+$100,000 to $109,999
+
+$110,000 to $119,999
+
+$120,000 to $129,999
+
+$130,000 to $139,999
+
+$140,000 to $149,999
+
+$150,000 to $159,999
+
+$160,000 to $169,999
+
+$170,000 to $179,999
+
+$180,000 to $189,999
+
+$190,000 to $199,999
+
+$200,000 to $209,999
+
+$210,000 to $219,999
+
+$220,000 to $229,999
+
+$230,000 to $239,999
+
+$240,000 to $249,999
+
+$250,000 and above
+
+
+
+Reported Above 0 Total Number of Faculty 0 0 0 0 0 0 0 0 0
+
+Total of Actual Academic
+
+Year Salaries (in Dollars)
+
+of Faculty Reported
+
+Above*
+
+*These totals must be received to make use of the individual data listed above.
+
+
+
+Contact Information:
+
+
+
+Name, title, and email of person completing form. Date
+
+
+
+Submit Completed Form as email attachment Print copy of form
+
+
+
+
+
