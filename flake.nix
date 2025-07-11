@@ -52,6 +52,7 @@
 							tinytex
 							units
 							wordcloud
+							word2vec
 						];
 						myPythonPackages = with pkgs.python313Packages; [
 							ipykernel
