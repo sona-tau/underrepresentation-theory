@@ -98,6 +98,25 @@ sources = [Source(
         "College graduates, by broad field of highest degree, father's education, mother's education, level of highest degree, and median amount borrowed to finance undergraduate degree: 2021"
     ]
 ), Source(
+    title = "Survey of Doctorate Recipients",
+    location = "https://ncses.nsf.gov/surveys/doctorate-recipients/2023",
+    years = [2023],
+variables = [
+    "Median annual salary of U.S. residing full-time employed doctoral scientists and engineers, by field of doctorate and sector of employment: 2023",
+    "U.S. residing employed doctoral scientists and engineers, by field of doctorate, ethnicity, race, and sex: 2023",
+    "U.S. residing doctoral scientists and engineers, by fine field of doctorate and employment status: 2023",
+    "U.S. residing doctoral scientists and engineers, by field of doctorate, sex, and employment status: 2023",
+    "U.S. residing doctoral scientists and engineers, by field of doctorate, ethnicity, and race: 2023",
+    "Doctoral scientists and engineers, by fine field of doctorate, residence location, and sex: 2023",
+    "U.S. residing employed doctoral scientists and engineers in 4-year educational institutions, by field of doctorate, sex, and faculty rank: 2023",
+    "U.S. residing employed doctoral scientists and engineers in 4-year educational institutions, by broad field of doctorate, sex, tenure status, and years since doctorate: 2023",
+    "U.S. residing employed doctoral scientists and engineers in 4-year educational institutions, by field of doctorate, sex, and tenure status: 2023",
+    "U.S. residing doctoral scientists and engineers, by occupation and employment status: 2023",
+    "U.S. residing employed doctoral scientists and engineers, by occupation, ethnicity, race, and sex: 2023",
+    "U.S. residing employed minority doctoral scientists and engineers, by occupation, ethnicity, race, and sex: 2023",
+    "Median annual salary of U.S. residing full-time employed doctoral scientists and engineers, by field of doctorate, ethnicity, race, and sex: 2023"]
+    
+),Source(
     title = "Bureau of Labor Statistics",
     location = "https://www.bls.gov/",
     years = [],
