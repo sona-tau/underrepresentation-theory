@@ -1158,7 +1158,7 @@ professional development for full-time permanent faculty, and percentage of facu
 
 two-year colleges in fall 2015 and 2021. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182
 
-TABLE TYF.24 Percentage of program heads classifying various problems as “major” in mathematics
+TABLE TYF.24 Percentage of program heads classifying various problems as "major" in mathematics
 
 departments at two-year colleges in fall 2005, 2010, 2015, and 2021. . . . . . . . . . . . . . . . . . . . 183
 
@@ -1271,17 +1271,17 @@ leges and universities, including data on the appoint-
 
 CBMS2021 is organized as follows: ment type of the course instructor: tables in this chap-
 
-ter are designated with the label E, for “enrollment.”
+ter are designated with the label E, for "enrollment."
 
 • Chapter 1 gives an overview of the most interesting
 
 findings of the 2021 CBMS survey: tables in this chapter • Chapter 4 concerns the demographics of faculty in math-
 
-are designated with the label S, for “summary.” Many ematics and statistics departments of four-year colleges
+are designated with the label S, for "summary." Many ematics and statistics departments of four-year colleges
 
 of the tables in this chapter are presented in more de- and universities: tables in this chapter are designated
 
-tail in later chapters (e.g., all data from four-year math- with the label F, for “faculty.” As explained in this chap-
+tail in later chapters (e.g., all data from four-year math- with the label F, for "faculty." As explained in this chap-
 
 ematics departments is broken down later by level of de- ter, these data were obtained from the Annual Survey,
 
@@ -1293,7 +1293,7 @@ etc.). Topics covered include summary data on enroll- students in mathematics an
 
 ments, number of degrees awarded, appointment type four-year colleges and universities: tables in this chap-
 
-(tenured, tenure-eligible, other full-time, postdoc, or ter are designated with the label FY, for “first year.”
+(tenured, tenure-eligible, other full-time, postdoc, or ter are designated with the label FY, for "first year."
 
 part-time) of course instructor, faculty demographics,
 
@@ -1303,15 +1303,15 @@ and statistics. instructional practices, including Pathways courses, at
 
 two-year colleges: tables in this chapter are designated
 
-• Chapter 2 reports on the special projects of the 2021 with the label TYE, for “two-year enrollment.”
+• Chapter 2 reports on the special projects of the 2021 with the label TYE, for "two-year enrollment."
 
 survey: tables in this chapter are designated with the
 
-label SP, for “special project.” The special projects in • Chapter 7 presents faculty demographics and special
+label SP, for "special project." The special projects in • Chapter 7 presents faculty demographics and special
 
 2021 for two- and four-year institutions are the mathe- topics at two-year colleges: tables in this chapter are
 
-matical education of pre-college mathematics/statistics designated with the label TYF, for “two-year faculty.”
+matical education of pre-college mathematics/statistics designated with the label TYF, for "two-year faculty."
 
 teachers, practices in distance/remote learning courses, Other important information is included in appendices:
 
@@ -1398,7 +1398,7 @@ Throughout this report, the standard error (SE) is of-
 
 ments is generally determined by the comparable historical
 
-ten included with the estimate, e.g., “52% (SE 2.2),” mean-
+ten included with the estimate, e.g., "52% (SE 2.2)," mean-
 
 data available.
 
@@ -1418,7 +1418,7 @@ vious survey is sometimes expressed both as percentage data/cbms-survey/cbms-sur
 
 be found in the Bibliography at the end of this report.
 
-(e.g., “grew by about 13% (2 SEs)” means that if X(2021)
+(e.g., "grew by about 13% (2 SEs)" means that if X(2021)
 
 is the estimate in 2021 and X(2015) is the estimate in
 
@@ -1437,9 +1437,9 @@ Summary of the CBMS2021 Report
 
 In the text that follows, the standard error (SE) in many of pre-college course enrollments were down 60% (9.4
 
-the estimates is provided along with the estimate (e.g., “52% SEs), introductory-level course enrollments were down
+the estimates is provided along with the estimate (e.g., "52% SEs), introductory-level course enrollments were down
 
-(SE 2.2)”); the SEs for all CBMS2021 tables can be found in 33% (5 SEs), calculus-level enrollments were down 18%
+(SE 2.2)"); the SEs for all CBMS2021 tables can be found in 33% (5 SEs), calculus-level enrollments were down 18%
 
 Appendix IX. The change in an estimate from the estimate (2.4 SEs), and advanced-level mathematics course en-
 
@@ -1447,7 +1447,7 @@ in a previous survey is often expressed both as percentage rollments were down 2
 
 change and as the number of SEs of the 2021 estimate that Figure S.2.1.
 
-change represents (e.g., “grew by about 13% (2 SEs)”).
+change represents (e.g., "grew by about 13% (2 SEs)").
 
 • Estimated number of enrollments in statistics courses
 
@@ -1573,11 +1573,11 @@ puter science awarded by four-year mathematics de- D. Distance/remote learning e
 
 partments in 2020–21 declined 71% (7.2 SEs) over the • In fall 2021, distance/remote learning courses were de-
 
-relatively high number of computer science degrees fined to be “courses in which half or more of the instruc-
+relatively high number of computer science degrees fined to be "courses in which half or more of the instruc-
 
 awarded in 2014–15. See Table S.3 and Figures S.3.1 tion occurs with the instructor and the student sepa-
 
-and S.3.2. rated by time and/or place facilitated by technology.” In
+and S.3.2. rated by time and/or place facilitated by technology." In
 
 • The CBMS survey estimated percentage of bachelor’s four-year mathematics departments, distance/remote
 
@@ -1709,9 +1709,9 @@ matics departments and 22% (SE 4.5) of four-year math-
 
 Table S.14.
 
-ematics departments have offered “Pathways sequences
+ematics departments have offered "Pathways sequences
 
-courses” in the last five years. The CBMS 2015 sur- • In fall 2021, the total estimated number of full-time
+courses" in the last five years. The CBMS 2015 sur- • In fall 2021, the total estimated number of full-time
 
 vey estimated that 58% of two-year mathematics de- faculty (permanent, continuing, and other) in two-year
 
@@ -1840,7 +1840,7 @@ timated number of full-time faculty at four-year mathe- the percentages of tenur
 
 matics departments combined occurred in the category over all levels of four-year mathematics departments
 
-of “other full-time faculty” (faculty who are not tenured combined, but higher than the estimated percentages
+of "other full-time faculty" (faculty who are not tenured combined, but higher than the estimated percentages
 
 or tenure-eligible, including postdocs), which rose 80% in fall 2021 of women faculty at doctoral-level mathe-
 
@@ -2541,9 +2541,9 @@ puter science course enrollments offered in four-year math- Table S.2 also shows
 
 ematics departments were broken into the three previous in various course categories in public two-year college math-
 
-levels and an additional new level, “General Education ematics and statistics courses, including distance enroll-
+levels and an additional new level, "General Education ematics and statistics courses, including distance enroll-
 
-Computer Science Courses”; several changes were made in ments, but not dual enrollments.
+Computer Science Courses"; several changes were made in ments, but not dual enrollments.
 
 the list and titles of the statistics courses in the 2021 CBMS In fall 2021, approximately 26% of all two-year college
 
@@ -2740,7 +2740,7 @@ categorized as degrees in mathematics, mathematics edu- estimated number of bach
 
 cation, statistics, computer science, actuarial mathematics, ucation has been declining; the 2020–21 estimate is 60% (4.1
 
-joint majors, or “other.” The bachelor’s degree categories SEs) less than the 1999–2000 estimate and is the smallest
+joint majors, or "other." The bachelor’s degree categories SEs) less than the 1999–2000 estimate and is the smallest
 
 awarded by four-year statistics departments were changed estimate among the six CBMS surveys in Table S.3. The
 
@@ -2750,7 +2750,7 @@ tics, biostatistics, actuarial science, data science, joint statis- 2020–21 in
 
 tics and mathematics, joint statistics and computer science, tics departments combined is estimated at 3703 (SE 591),
 
-statistics education, or “other.” Surveys of four-year math- up from 1509 in 2014–15. The estimated number of bach-
+statistics education, or "other." Surveys of four-year math- up from 1509 in 2014–15. The estimated number of bach-
 
 ematics departments conducted before 2010 contained the elor’s degrees awarded in computer science, while small,
 
@@ -2758,7 +2758,7 @@ additional option of a major in operations research, and the and mainly confined
 
 numbers of operations research majors from those previous partments, is still a significant number, e.g., in 2020–21 it
 
-years have been added to the “other” category in Table S.3; was larger than the estimated number of bachelor’s degrees
+years have been added to the "other" category in Table S.3; was larger than the estimated number of bachelor’s degrees
 
 furthermore, prior surveys broke down the category of joint awarded in statistics by four-year mathematics departments
 
@@ -2768,7 +2768,7 @@ subcategories, while beginning in 2010, the CBMS surveys 2021 survey asked four-
 
 considered all joint majors as one category. Beginning in number of bachelor’s degrees they awarded in data science.
 
-2010, computer science degrees are counted only in four- The CBMS 2021 survey defined a “joint major” as “a
+2010, computer science degrees are counted only in four- The CBMS 2021 survey defined a "joint major" as "a
 
 year mathematics departments. Table E.1.A in Chapter 3 student who completes a single major in your department
 
@@ -2778,7 +2778,7 @@ by mathematics departments in 2020–21, and Table E.1.B program or department, 
 
 gives the estimated numbers of bachelor’s degrees awarded hours than is the sum of the credit hours required by the
 
-by statistics departments in 2020–21; both tables give fur- separate majors.” “Double majors,” students who complete
+by statistics departments in 2020–21; both tables give fur- separate majors." "Double majors," students who complete
 
 ther breakdowns of the degrees awarded, including by the two separate majors, were counted in the CBMS survey ac-
 
@@ -2788,7 +2788,7 @@ awarding the undergraduate degree. they complete. Beginning in the CBMS 2010 sur
 
 Table S.3 shows that the estimated total number of joint mathematics majors were joined into one category of
 
-mathematical sciences bachelor’s degrees granted through “joint majors,” rather than breaking them down into pos-
+mathematical sciences bachelor’s degrees granted through "joint majors," rather than breaking them down into pos-
 
 the nation’s four-year mathematics and statistics depart- sible kinds of joint majors, which had been the CBMS sur-
 
@@ -3121,7 +3121,7 @@ structors in undergraduate mathematics and statistics sec- of sections reported.
 
 tions of courses taught in mathematics and statistics depart- total faculty itemized, the difference was put in the cate-
 
-ments of four- and two-year colleges and universities; infor- gory “unknown.” When there were more faculty given than
+ments of four- and two-year colleges and universities; infor- gory "unknown." When there were more faculty given than
 
 mation on instructors in computer science courses taught there were total number of sections, each appointment type
 
@@ -3139,7 +3139,7 @@ TTE, part-time (PT) faculty, and graduate teaching assis- introductory-level cou
 
 tants (GTAs). A course was to be reported as being taught by courses (combined), lower-level statistics courses
 
-a GTA if and only if the GTA was the “instructor of record” (combined), and lower-level computer science courses
+a GTA if and only if the GTA was the "instructor of record" (combined), and lower-level computer science courses
 
 
 
@@ -3198,17 +3198,17 @@ All 2021 sections 33 67 510 All 2015 sections 64 36 1693 All 2010 sections 54 46
 
 Note: Some faculty sections do not add to 100% because certain institutions reported fewer sections by individual faculty type than the total.
 
-1 Before 2010, the category was “tenured/tenure-eligible”; the word “permanent” was added in 2010. In 2015, the word “permanent” was
+1 Before 2010, the category was "tenured/tenure-eligible"; the word "permanent" was added in 2010. In 2015, the word "permanent" was
 
 deleted.
 
-2 “Full-time” includes full-time permanent, full-time continuing, and other full-time faculty at two-year colleges. For a detailed explanation
+2 "Full-time" includes full-time permanent, full-time continuing, and other full-time faculty at two-year colleges. For a detailed explanation
 
 of these terms, see Chapter 7.
 
 * Beginning in 2005, the CBMS survey asked departments to specify the number of upper-division sections and the number taught by tenured
 
-and tenure-eligible faculty. The deficit from 100% is reported as “unknown.”
+and tenure-eligible faculty. The deficit from 100% is reported as "unknown."
 
 Some rows do not sum to 100% due to round-off. Note: 0 means less than one half of 1%.
 
@@ -3310,11 +3310,11 @@ revealing important trends in the data. Over the three sur- cent CBMS surveys. F
 
 
 
-veys considered, from fall 2010 to fall 2021, there perhaps calculus courses into two pieces: “Mainstream Calculus”
+veys considered, from fall 2010 to fall 2021, there perhaps calculus courses into two pieces: "Mainstream Calculus"
 
 
 
-appears to be a somewhat greater use of OFT faculty gener- and “Non-Mainstream Calculus.” “Mainstream Calculus”
+appears to be a somewhat greater use of OFT faculty gener- and "Non-Mainstream Calculus." "Mainstream Calculus"
 
 
 
@@ -3330,15 +3330,15 @@ some of the SEs are large. Figure S.4.1 contains a bar graph quired in the physi
 
 
 
-showing the distribution of estimated appointment types “Non-Mainstream Calculus” consists of all the other calcu-
+showing the distribution of estimated appointment types "Non-Mainstream Calculus" consists of all the other calcu-
 
 
 
-of instructors in calculus-level courses taught in four-year lus courses (often with titles such as “Calculus for Business
+of instructors in calculus-level courses taught in four-year lus courses (often with titles such as "Calculus for Business
 
 
 
-mathematics departments. and Social Science” or “Calculus for the Life Sciences”).
+mathematics departments. and Social Science" or "Calculus for the Life Sciences").
 
 
 
@@ -3435,7 +3435,7 @@ Percentage sums across rows may differ from 100% due to round-off.
 
 
 
-1 Before 2010, the category was “tenured/tenure-eligible”; the word “permanent” was added in 2010. In 2015, the word “permanent” was
+1 Before 2010, the category was "tenured/tenure-eligible"; the word "permanent" was added in 2010. In 2015, the word "permanent" was
 
 deleted.
 
@@ -3445,7 +3445,7 @@ deleted.
 
 
 
-3 “Full-time” includes full-time permanent, full-time continuing, and other full-time faculty at two-year colleges. For a detailed explanation
+3 "Full-time" includes full-time permanent, full-time continuing, and other full-time faculty at two-year colleges. For a detailed explanation
 
 of these terms, see Chapter 7.
 
@@ -3710,13 +3710,13 @@ Note: Some faculty sections do not add to 100% because certain institutions repo
 
 
 
-1 Before 2010, the category was “tenured/tenure-eligible”; the word “permanent” was added in 2010. In 2015, the word “permanent” was
+1 Before 2010, the category was "tenured/tenure-eligible"; the word "permanent" was added in 2010. In 2015, the word "permanent" was
 
 deleted.
 
 
 
-2 The 2010 survey asked for “Non-Mainstream Cal I, II, and III, etc.”—the data here are our best estimate for Calculus II, III, etc. Previous
+2 The 2010 survey asked for "Non-Mainstream Cal I, II, and III, etc."—the data here are our best estimate for Calculus II, III, etc. Previous
 
 surveys asked only for Non-Mainstream Calculus II.
 
@@ -3726,7 +3726,7 @@ surveys asked only for Non-Mainstream Calculus II.
 
 
 
-4 “Full-time” includes full-time permanent, full-time continuing, and other full-time faculty at two-year colleges. For a detailed explanation
+4 "Full-time" includes full-time permanent, full-time continuing, and other full-time faculty at two-year colleges. For a detailed explanation
 
 of these terms, see Chapter 7.
 
@@ -3826,15 +3826,15 @@ Statistics courses
 
 Note: Some faculty sections do not add to 100% because certain institutions reported fewer sections by individual faculty type than the total.
 
-1 Before 2010, the category was “tenured/tenure-eligible”; the word “permanent” was added in 2010. In 2015, the word “permanent” was
+1 Before 2010, the category was "tenured/tenure-eligible"; the word "permanent" was added in 2010. In 2015, the word "permanent" was
 
 deleted.
 
 2 F1 is the statistics course number on the four-year mathematics survey form.
 
-3 This course was called “Elementary Statistics” in previous CBMS surveys.
+3 This course was called "Elementary Statistics" in previous CBMS surveys.
 
-4 “Full-time” includes full-time permanent, full-time continuing, and other full-time faculty at two-year colleges. For a detailed explanation
+4 "Full-time" includes full-time permanent, full-time continuing, and other full-time faculty at two-year colleges. For a detailed explanation
 
 of these terms, see Chapter 7.
 
@@ -3923,7 +3923,7 @@ Note: Some faculty sections do not add to 100% because certain institutions repo
 
 
 
-percentage (estimated 17%) of estimated enrollments in “a Pathways course sequence” was defined to be “a sin-
+percentage (estimated 17%) of estimated enrollments in "a Pathways course sequence" was defined to be "a sin-
 
 
 
@@ -3939,7 +3939,7 @@ enrollments in these courses. At four-year statistics de- course that is aligned
 
 
 
-partments, distance/remote learning enrollments were es- goals within one academic year.” Table S.10 shows that
+partments, distance/remote learning enrollments were es- goals within one academic year." Table S.10 shows that
 
 
 
@@ -3989,11 +3989,11 @@ The 2021 CBMS survey asked four- and two-year college master’s-level departmen
 
 
 
-mathematics departments if they had offered “a non- ments (in fall 2021, only an estimated 6% (SE 4.5) of doctoral-
+mathematics departments if they had offered "a non- ments (in fall 2021, only an estimated 6% (SE 4.5) of doctoral-
 
 
 
-traditional ‘Pathways’ course sequence” in the last five years; level departments indicated they had offered a Pathways
+traditional ‘Pathways’ course sequence" in the last five years; level departments indicated they had offered a Pathways
 
 
 
@@ -4071,13 +4071,13 @@ Note: Some faculty sections do not add to 100% because certain institutions repo
 
 
 
-1 Beginning in 2010, the CBMS survey added the word “permanent” to the description “tenured/tenure eligible” that was used previously. In
+1 Beginning in 2010, the CBMS survey added the word "permanent" to the description "tenured/tenure eligible" that was used previously. In
 
-2015, the word “permanent” was deleted.
+2015, the word "permanent" was deleted.
 
 
 
-2 In previous CBMS surveys, this course was called “Elementary Statistics.”
+2 In previous CBMS surveys, this course was called "Elementary Statistics."
 
 
 
@@ -4178,11 +4178,11 @@ sequence, and only 67% (SE 9.1) offered some pre-college department and includin
 
 
 
-or introductory-level mathematics course (including pre- egy of “using assessments such as regular graded home-
+or introductory-level mathematics course (including pre- egy of "using assessments such as regular graded home-
 
 
 
-calculus) for credit). work and quizzes to inform teaching” was used at least
+calculus) for credit). work and quizzes to inform teaching" was used at least
 
 
 
@@ -4202,7 +4202,7 @@ of Pathways); four-year mathematics departments were not 78% (SE 10.4) of doctor
 
 
 
-asked about Pathways courses in the CBMS survey in 2015. “Focusing on conceptual understanding” was used at least
+asked about Pathways courses in the CBMS survey in 2015. "Focusing on conceptual understanding" was used at least
 
 
 
@@ -4214,7 +4214,7 @@ of colleges implementing Pathways, mentioned above, was mathematics departments 
 
 
 
-a thirteen-point increase compared with 2015. Pathways mathematics departments combined. “Integrating real-courses in Foundations increased 37 percentage points, world applications” was used at an estimated 68% (SE 6.2)
+a thirteen-point increase compared with 2015. Pathways mathematics departments combined. "Integrating real-courses in Foundations increased 37 percentage points, world applications" was used at an estimated 68% (SE 6.2)
 
 
 
@@ -4222,11 +4222,11 @@ Quantitative Reasoning/Literacy increased 28 percentage of two-year college math
 
 
 
-points, and Statistics increased 11 percentage points in fall 6) of four-year mathematics departments combined. “Us-
+points, and Statistics increased 11 percentage points in fall 6) of four-year mathematics departments combined. "Us-
 
 
 
-2021. See Table TYE.10 in Chapter 6. ing student-centered active learning strategies” was used at
+2021. See Table TYE.10 in Chapter 6. ing student-centered active learning strategies" was used at
 
 
 
@@ -4329,7 +4329,7 @@ Chapter 1. Summary of the CBMS2021 Report 25
 
 
 
-” to
+" to
 
 
 
@@ -4349,7 +4349,7 @@ ath
 
 
 
-“P Two-Year Colleges A
+"P Two-Year Colleges A
 
 statistics
 
@@ -4379,7 +4379,7 @@ e
 
 
 
-.”
+."
 
 complet 6 0 0701 0 0501 67 69 31 57 43 32 68 78 22
 
@@ -4427,7 +4427,7 @@ single Blank
 
 
 
-ABLE “a e:ot T is students’N 26 2021 CBMS Survey of Undergraduate Programs
+ABLE "a e:ot T is students’N 26 2021 CBMS Survey of Undergraduate Programs
 
 
 
@@ -4443,9 +4443,9 @@ at two-year colleges and four-year colleges and at four- ematics departments, fo
 
 year college statistics departments questions about how the and statistics departments. All the departments indicated
 
-course “Introductory Statistics with no calculus prerequi- the greatest sense of success with the instructors’ use of
+course "Introductory Statistics with no calculus prerequi- the greatest sense of success with the instructors’ use of
 
-site” was taught in fall 2021; this data for four-year depart- technology to demonstrate concepts; somewhat less success
+site" was taught in fall 2021; this data for four-year depart- technology to demonstrate concepts; somewhat less success
 
 ments is also discussed in Chapter 5. was indicated in students’ abilities to use technology to ex-
 
@@ -4685,7 +4685,7 @@ pr
 
 your
 
-is 2021?” 2 48 50 77 21 66 32 55 44
+is 2021?" 2 48 50 77 21 66 32 55 44
 
 departments fall
 
@@ -4701,7 +4701,7 @@ taught
 
 
 
-mathematics “How Univ (MA) Mathematics Departments in course ed, e) ask e er 00215 0021 00225 0 41 59 50 50 50 50 41 59 Statistics equisit w er ory Univ (PhD) pr
+mathematics "How Univ (MA) Mathematics Departments in course ed, e) ask e er 00215 0021 00225 0 41 59 50 50 50 50 41 59 Statistics equisit w er ory Univ (PhD) pr
 
 
 
@@ -4808,11 +4808,11 @@ Surveys do not include postdoctoral appointments as a part
 
 ments, all levels of four-year mathematics departments
 
-of “other full-time faculty” (OFT), while CBMS surveys
+of "other full-time faculty" (OFT), while CBMS surveys
 
 combined, and doctoral-level statistics departments in fall
 
-do—i.e., CBMS survey tables list “other full-time faculty”
+do—i.e., CBMS survey tables list "other full-time faculty"
 
 2005, 2010, 2015, and 2021. Figure S.13.1 displays a graph
 
@@ -4828,7 +4828,7 @@ who are postdoctoral appointments. The CBMS surveys of
 
 shows the same information for the numbers of part-time
 
-“statistics departments” include only statistics departments
+"statistics departments" include only statistics departments
 
 mathematics faculty in two- and four-year institutions. Fig-
 
@@ -5193,7 +5193,7 @@ time faculty in the three categories of faculty: permanent, Status of Full-Time 
 
 continuing, and other faculty. In fall 2021, the total esti- Table S.14 gives the estimated numbers of full-time fac-
 
-mated number of faculty reported as “full-time permanent” ulty in the mathematics and doctoral-level statistics depart-
+mated number of faculty reported as "full-time permanent" ulty in the mathematics and doctoral-level statistics depart-
 
 faculty was 9126 (SE 918), a 10% increase of 812 persons ments of four-year colleges and universities in fall 2015 and
 
@@ -5312,9 +5312,9 @@ docs is also broken out of the number of other full-time fac- eligible appointme
 
 ulty so that trends in the growing category of postdoc fac- partments of four-year colleges and universities combined
 
-ulty can be observed. In this table, the category of “other and in doctoral statistics departments in fall 2015 and fall
+ulty can be observed. In this table, the category of "other and in doctoral statistics departments in fall 2015 and fall
 
-full-time” for two-year colleges includes full-time continu- 2021. Table S.15 is broken down further by level of four-
+full-time" for two-year colleges includes full-time continu- 2021. Table S.15 is broken down further by level of four-
 
 ing faculty and other full-time faculty discussed above and year mathematics department in Chapter 4, Tables F.1, F.2,
 
@@ -5340,9 +5340,9 @@ Most of the increase in the estimated numbers of full- ics departments combined,
 
 time faculty at four-year mathematics departments from served in the CBMS 2015 survey. The percentage of women
 
-fall 2015 to fall 2021 occurred in the category of “other varies by appointment type, and by Table S.15, in fall 2021,
+fall 2015 to fall 2021 occurred in the category of "other varies by appointment type, and by Table S.15, in fall 2021,
 
-full-time faculty” (faculty who are not tenured or tenure- women were an estimated 30% of tenured four-year math-
+full-time faculty" (faculty who are not tenured or tenure- women were an estimated 30% of tenured four-year math-
 
 eligible, including postdocs), which by Table S.14, rose 80% ematics faculty, 37% of tenure-eligible faculty, 45% of other
 
@@ -6329,7 +6329,7 @@ Chapter 6.
 
 • The mathematical education of pre-college mathemat- Terminology: Recall that in CBMS2021, the term
 
-ics teachers (TablesSP.1–SP.7) “mathematics department” includes departments of math-
+ics teachers (TablesSP.1–SP.7) "mathematics department" includes departments of math-
 
 
 
@@ -6349,9 +6349,9 @@ ics education, actuarial science, and operations research,
 
 to undergraduates (Tables SP.12–SP.14) tics. Computer science courses are sometimes also of-
 
-fered by mathematics departments. The term “statistics
+fered by mathematics departments. The term "statistics
 
-• Interdisciplinary courses in four-year mathematics de- department” refers to graduate departments of statistics
+• Interdisciplinary courses in four-year mathematics de- department" refers to graduate departments of statistics
 
 partments (Tables SP.15) or biostatistics that offer undergraduate statistics courses.
 
@@ -6361,9 +6361,9 @@ Courses and majors from separate departments of com-
 
 (Tables SP.16 and SP.17) are not included in CBMS2021. Departments are classified
 
-by the highest degree they offered; for example, “master’s-
+by the highest degree they offered; for example, "master’s-
 
-• Requirements in the majors in mathematics and statis- level department” refers to a department that offers a mas-
+• Requirements in the majors in mathematics and statis- level department" refers to a department that offers a mas-
 
 tics in four-year departments (Tables SP.18–SP.19.B) ter’s degree, but not a doctoral degree.
 
@@ -6375,7 +6375,7 @@ of the estimates is provided along with the estimate (e.g.,
 
 matics and statistics departments (Tables SP.20
 
-“estimated 77% (SE 3.5)”); the SEs for all CBMS2021 tables
+"estimated 77% (SE 3.5)"); the SEs for all CBMS2021 tables
 
 and SP.21)
 
@@ -6385,9 +6385,9 @@ can be found in Appendix IX. The change in an estimate in
 
 year mathematics departments and statistics depart- both as percentage change and as the number of SEs in the
 
-ments (Table SP.22) 2021 estimate that change represents (e.g., “increased 22%
+ments (Table SP.22) 2021 estimate that change represents (e.g., "increased 22%
 
-(1.2 SEs)”).
+(1.2 SEs)").
 
 • Assessment in four-year mathematics departments and
 
@@ -6678,7 +6678,7 @@ for each of the three levels of mathematics departments.
 
 Four-year mathematics departments: Numbers The estimated distribution of institutions requiring various
 
-of mathematics and statistics credits required numbers of semester hours in “fundamental ideas in math-for certification of pre-service mathematics K–8 ematics appropriate for elementary school teachers” also
+of mathematics and statistics credits required numbers of semester hours in "fundamental ideas in math-for certification of pre-service mathematics K–8 ematics appropriate for elementary school teachers" also
 
 teachers (Tables SP.4 and SP.5). Tables SP.4 and SP.5 generally trended to be more concentrated at the lower end
 
@@ -6698,11 +6698,11 @@ down by the level of the mathematics department. The Table SP.5 displays fall 20
 
 courses considered are courses taught in the mathematics gous numbers of required semester hours of courses taught
 
-department, courses specifically in “fundamental ideas in in the mathematics department for grades 6–8 mathemat-
+department, courses specifically in "fundamental ideas in in the mathematics department for grades 6–8 mathemat-
 
 mathematics appropriate for elementary (middle) school ics teacher certification and shows substantially higher per-
 
-teachers,” and courses in statistics. Comparing Tables SP.4 centages of institutions requiring more hours of courses
+teachers," and courses in statistics. Comparing Tables SP.4 centages of institutions requiring more hours of courses
 
 and SP.5 shows that in fall 2021, certification for teach- in the mathematics department for grades 6–8 mathemat-
 
@@ -6722,11 +6722,11 @@ not considered in the CBMS 2015 survey. The CBMS 2010 mathematics department, co
 
 survey asked slightly different questions, and CBMS2010, in fall 2015, and 9% (SE 4.7) required more than 12 se-
 
-Table SP.5, p. 51 gave the distribution of the number mester hours in “fundamental ideas in mathematics ap-
+Table SP.5, p. 51 gave the distribution of the number mester hours in "fundamental ideas in mathematics ap-
 
-of mathematics courses (rather than semester hours) re- propriate for middle school teachers,” compared to an es-
+of mathematics courses (rather than semester hours) re- propriate for middle school teachers," compared to an es-
 
-quired for “early” grade (K–5) certification (if the institu- timated 29% in fall 2015. The interval of required semester
+quired for "early" grade (K–5) certification (if the institu- timated 29% in fall 2015. The interval of required semester
 
 tion made a distinction between kinds of K–8 certification, hours in mathematics courses on fundamental mathemat-
 
@@ -7287,13 +7287,13 @@ learning course instruction. The 2021 CBMS survey, de-
 
 Remote Learning Courses layed one year due to the COVID-19 pandemic, made
 
-In the 2021 CBMS survey, the phrase “distance/remote changes to the distance learning section of the CBMS ques-
+In the 2021 CBMS survey, the phrase "distance/remote changes to the distance learning section of the CBMS ques-
 
-learning” replaced “distance learning,” and a slightly mod- tionnaires that had been designed for the 2020 survey before
+learning" replaced "distance learning," and a slightly mod- tionnaires that had been designed for the 2020 survey before
 
 ified definition of distance/remote learning was used. The the pandemic, including introducing some new questions.
 
-2021 CBMS survey used the definition: “Distance/remote In fall 2020, the CBMS survey team also performed a mod-
+2021 CBMS survey used the definition: "Distance/remote In fall 2020, the CBMS survey team also performed a mod-
 
 learning courses are those courses offered by your institu- ified survey of practices used during the pandemic; the re-
 
@@ -7309,9 +7309,9 @@ chronously or asynchronously, by computer software, or by In the COVID Impact St
 
 other technologies). Include only distance/remote learning to respond to the statement regarding future course deliv-
 
-courses offered in normal practice, not courses that became ery plans: “We are considering offering a greater number
+courses offered in normal practice, not courses that became ery plans: "We are considering offering a greater number
 
-distance/remote due to the COVID-19 pandemic.” of online courses.” Figure 6 of that study shows that in
+distance/remote due to the COVID-19 pandemic." of online courses." Figure 6 of that study shows that in
 
 Past CBMS surveys have gathered data on distance fall 2020, an estimated 35% of four-year mathematics de-
 
@@ -7446,7 +7446,7 @@ year mathematics departments. Figure 5 in the COVID Im- fered some sections of c
 
 pact Study shows the increase in faculty preparedness to (face-to-face) learners, some sections of courses that were
 
-teach online courses before and after the pandemic. only for remote learners, and some “hybrid” courses that
+teach online courses before and after the pandemic. only for remote learners, and some "hybrid" courses that
 
 54 2021 CBMS Survey of Undergraduate Programs
 
@@ -7482,7 +7482,7 @@ of
 
 
 
-forms es”) 42 70 70 (BA) “y College
+forms es") 42 70 70 (BA) "y College
 
 
 
@@ -7565,7 +7565,7 @@ TABLE SP.8.B(b). Percentage of statistics departments with the following forms o
 
 struction between on-campus learners and remote learners in the following time periods. (Percentage answering
 
-“yes”)
+"yes")
 
 
 
@@ -7607,7 +7607,7 @@ TABLE SP.8.B(c). Percentage of two-year college departments with the following f
 
 line instruction between on-campus learners and remote learners in the following time periods. (Percentage
 
-answering “yes”)
+answering "yes")
 
 
 
@@ -7649,15 +7649,15 @@ learners in the same section
 
 had on-campus learners and remote learners in the same From Tables SP.8.B(a)–SP.8.B(c), we see that in fall
 
-section. “On-campus learners” were defined to be students 2021, departments reported that during the pandemic, less
+section. "On-campus learners" were defined to be students 2021, departments reported that during the pandemic, less
 
 who would be expected to attend most classes in person, than half of each of the types of departments combined of-
 
-while “remote learners” where defined to be students who fered some courses only in face-to-face format. Further-
+while "remote learners" where defined to be students who fered some courses only in face-to-face format. Further-
 
-would be expected to attend most classes remotely. “Hy- more, the distribution of responses on practices before the
+would be expected to attend most classes remotely. "Hy- more, the distribution of responses on practices before the
 
-brid courses” were courses that contained on-campus and pandemic and in fall 2021 are quite similar; the largest
+brid courses" were courses that contained on-campus and pandemic and in fall 2021 are quite similar; the largest
 
 remote learners in the same section. Responses to these change appears to be in the offering of hybrid courses. Pre-
 
@@ -7693,9 +7693,9 @@ offered some hybrid course. In fall 2021, 59% (SE 5.3) of In the 2015 CBMS surve
 
 four-year mathematics departments, 65% (SE 7.4) of statis- mathematics departments, 66% of statistics departments,
 
-tics departments, and 74% (SE 6.2) of two-year mathematics and 69% of two-year mathematics departments chose “com-
+tics departments, and 74% (SE 6.2) of two-year mathematics and 69% of two-year mathematics departments chose "com-
 
-departments offered some course in a remote-only format. pletely online.” Combining the data from Tables SP.8.A–
+departments offered some course in a remote-only format. pletely online." Combining the data from Tables SP.8.A–
 
 SP.8.B(c) and SP.9, it appears that while more departments
 
@@ -8724,7 +8724,7 @@ that occur regularly in most departments, including the cat-
 
 ments in various dual-enrollment courses in spring 2021
 
-egory “other,” but the surveys have also collected data on
+egory "other," but the surveys have also collected data on
 
 and fall 2021 compared to the total of all other enroll-
 
@@ -8756,7 +8756,7 @@ as in the CBMS 2015 survey, with the addition of the course
 
 marily through two-year colleges. According to the data ob-
 
-“mathematics and social justice.” Table SP.15 gives the es-
+"mathematics and social justice." Table SP.15 gives the es-
 
 tained in the CBMS 2010 survey in fall 2010, an estimated
 
@@ -8768,7 +8768,7 @@ that offer each of the listed interdisciplinary courses, in-
 
 of mathematics departments at four-year colleges and uni-
 
-cluding “other.” This table can be compared to CBMS2015,
+cluding "other." This table can be compared to CBMS2015,
 
 versities, and 8% of statistics departments offered dual-
 
@@ -8784,7 +8784,7 @@ course offered by the largest percentage of departments was
 
 matics departments offering dual-enrollment courses rose
 
-“mathematics and education,” which was offered by an esti-
+"mathematics and education," which was offered by an esti-
 
 to 26% (SE 4.1). The percentages of two-year mathemat-
 
@@ -8800,7 +8800,7 @@ centage of four-year mathematics departments combined
 
 centages in 2010. Moreover, the estimated number of en-
 
-was “mathematics and computer science,” which was of-
+was "mathematics and computer science," which was of-
 
 rollments in dual-enrollment courses offered in 2015 by
 
@@ -8808,11 +8808,11 @@ fered by an estimated 40% (SE 6.1) four-year mathematics
 
 four-year mathematics departments increased dramatically
 
-departments combined, followed by “mathematics and fi-
+departments combined, followed by "mathematics and fi-
 
 over the number of dual enrollments estimated in 2010.
 
-nance or business,” which was offered by an estimated 33%
+nance or business," which was offered by an estimated 33%
 
 The estimated enrollment in dual-enrollment courses of-
 
@@ -8836,11 +8836,11 @@ ments than in master’s- or bachelor’s-level mathematics de-
 
 rollments had risen to 117,399, and again, slightly more
 
-partments. In fall 2021, the interdisciplinary course “math-
+partments. In fall 2021, the interdisciplinary course "math-
 
 than half of the enrollments occurred in fall 2015.
 
-ematics and biology” was offered by an estimated 49% (SE
+ematics and biology" was offered by an estimated 49% (SE
 
 Mathematics departments in two-year colleges had an
 
@@ -8866,7 +8866,7 @@ Tables SP.16 and SP.17: Dual Enrollments— dual enrollments of mathematics depa
 
 College Credit for High School Courses rollments in four-year college dual-enrollment courses were colleges and universities, while in 2015, the estimated en-
 
-Dual-enrollment courses were defined to be “courses about two-thirds of the estimated enrollments in dual-
+Dual-enrollment courses were defined to be "courses about two-thirds of the estimated enrollments in dual-
 
 conducted on a high school campus and taught by high enrollment courses offered by two-year colleges. Statistics
 
@@ -8874,7 +8874,7 @@ school teachers, for which high school students may ob- departments had a much s
 
 tain high school credit and, simultaneously, college credit enrollments at 1478 in 2015, compared with 1573 dual en-
 
-through your institution.” This arrangement is not the rollments in 2010.
+through your institution." This arrangement is not the rollments in 2010.
 
 66 2021 CBMS Survey of Undergraduate Programs
 
@@ -8888,11 +8888,11 @@ na na na na
 
 
 
-ollments Fall 2021 Enrollments ollments” enr ollments) Other 91366 enr Enr
+ollments Fall 2021 Enrollments ollments" enr ollments) Other 91366 enr Enr
 
 
 
-and “Other na na na na learning 1058for 12% (12%) Fall 2021
+and "Other na na na na learning 1058for 12% (12%) Fall 2021
 
 
 
@@ -8928,13 +8928,13 @@ taught of 76% (63%) Fall 2021 Calculus.
 
 
 
-total Two-Year Mathematics Mathematics” eam elsewher
+total Two-Year Mathematics Mathematics" eam elsewher
 
 
 
 courses to ear Dual Enrollments shown ed 40751 42566 12673 22835 22078-Ye o on-Mainstrar Spring 2021 w N
 
-“T
+"T
 
 
 
@@ -9077,7 +9077,7 @@ ments offered through four-year mathematics departments for almost 10,000 enroll
 
 in 2021 were much lower than the numbers observed in Table TYF.1 in Chapter 7 shows that 4716 (SE 969) part-
 
-2015; e.g., dual enrollments in “Precalculus” (which, for time faculty were paid by a third party (e.g., a high school
+2015; e.g., dual enrollments in "Precalculus" (which, for time faculty were paid by a third party (e.g., a high school
 
 four-year mathematics departments, also includes Analytic faculty member teaching a dual-enrollment course for col-
 
@@ -10303,7 +10303,7 @@ Some totals are less than 100% due to round-off.
 
 
 
-Table SP.26: Departmental Activities partments answering “c lot” was 11% (SE 3.8) of all levels
+Table SP.26: Departmental Activities partments answering "c lot" was 11% (SE 3.8) of all levels
 
 in Response to Diversity, Equity, of four-year mathematics departments combined, 32% (SE
 
@@ -10311,7 +10311,7 @@ and Inclusion Issues 7.9) of both levels of statistics departments combined, and
 
 17% (SE 5.1) of two-year mathematics departments. The es-
 
-Table SP.26 summarizes responses from all three types of timated percentage of departments answering “none” was
+Table SP.26 summarizes responses from all three types of timated percentage of departments answering "none" was
 
 departments about the extent to which six possible depart- 35% (SE 6.3) of all levels of four-year mathematics depart-
 
@@ -10321,25 +10321,25 @@ mental activities related to diversity, equity, and inclusion ments combined, 16
 
 previous year; the possible responses for each activity were matics departments.
 
-“none,” “some,” and “a lot” (and in the case of the activity From the distributions of percentages in Table SP.26,
+"none," "some," and "a lot" (and in the case of the activity From the distributions of percentages in Table SP.26,
 
-involving graduate students, “not applicable”). The results the other activities listed, “student discussion designed to
+involving graduate students, "not applicable"). The results the other activities listed, "student discussion designed to
 
-are broken down by level of four-year mathematics depart- increase awareness of DEI issues,” “program or policy
+are broken down by level of four-year mathematics depart- increase awareness of DEI issues," "program or policy
 
 ment, both levels of statistics departments combined, and changes to affect the demographic balance of faculty in
 
-two-year mathematics departments. the mathematical sciences,” “program or policy changes
+two-year mathematics departments. the mathematical sciences," "program or policy changes
 
-The activity “faculty discussion designed to create to affect the demographic balance of undergraduate stu-
+The activity "faculty discussion designed to create to affect the demographic balance of undergraduate stu-
 
-awareness of DEI issues” appears to be the activity that was dents in the mathematical sciences,” and “program or pol-
+awareness of DEI issues" appears to be the activity that was dents in the mathematical sciences," and "program or pol-
 
 most likely to occur. Table SP.26 shows that it is the ac- icy changes intended to affect the demographic balance of
 
-tivity with generally the largest percentages of responses of graduate students in the mathematical sciences” seemed to
+tivity with generally the largest percentages of responses of graduate students in the mathematical sciences" seemed to
 
-“a lot”: the response of 23% (SE 5.4) of all levels of four- have received less attention in departments. year mathematics departments combined, of 32% (SE 7.9) The percentage of departments responding “a lot” was
+"a lot": the response of 23% (SE 5.4) of all levels of four- have received less attention in departments. year mathematics departments combined, of 32% (SE 7.9) The percentage of departments responding "a lot" was
 
 of both levels of statistics departments combined, and of higher for both levels of statistics departments combined
 
@@ -10347,7 +10347,7 @@ of both levels of statistics departments combined, and of higher for both levels
 
 was also the activity with the lowest percentage of answers combined and for two-year mathematics departments for
 
-of “none.” The estimated percentage of departments an- most of the issues. swering “none” was 15% (SE 4.5) of all levels of four-year
+of "none." The estimated percentage of departments an- most of the issues. swering "none" was 15% (SE 4.5) of all levels of four-year
 
 mathematics departments combined, 16% (SE 6.2) of both
 
@@ -10355,13 +10355,13 @@ levels of statistics departments combined, and 14% (SE 5.2) Tables SP.27 and SP.
 
 of two-year mathematics departments. Full-Time Faculty in Four-Year Mathematics
 
-The activity with generally the next largest responses and Statistics Departments of “a lot” and the next smallest percentages of responses of
+The activity with generally the next largest responses and Statistics Departments of "a lot" and the next smallest percentages of responses of
 
-“none” was “consideration of existing or new programs to Concern has been voiced about the early-career profiles of
+"none" was "consideration of existing or new programs to Concern has been voiced about the early-career profiles of
 
 assist underrepresented groups and/or at-risk students in individuals with PhDs in the mathematical sciences. Data
 
-the mathematical sciences,” where the percentage of de- on numbers of faculty obtained from the CBMS survey in
+the mathematical sciences," where the percentage of de- on numbers of faculty obtained from the CBMS survey in
 
 80 2021 CBMS Survey of Undergraduate Programs
 
@@ -10935,7 +10935,7 @@ timate from an estimate in a previous survey is often ex- partments declined fro
 
 pressed both as percentage change and as the number of in 2020–21. See Table E.1.A. The estimated percent-
 
-SEs that change represents (e.g., “increased 21% (1.7 SEs)”). age of the total number of bachelor’s degrees awarded
+SEs that change represents (e.g., "increased 21% (1.7 SEs)"). age of the total number of bachelor’s degrees awarded
 
 
 
@@ -11112,9 +11112,9 @@ jors that are taught in, or granted through, separate depart-
 
 combined, 82% of the estimated advanced-level math- search, etc. Departments are classified by the highest de-
 
-ematics course sections and 86% of all advanced-level gree offered. For example, the term “bachelor’s-level de-
+ematics course sections and 86% of all advanced-level gree offered. For example, the term "bachelor’s-level de-
 
-statistics course sections were taught by tenured or partment” refers to one that does not offer master’s or doc-
+statistics course sections were taught by tenured or partment" refers to one that does not offer master’s or doc-
 
 tenure-eligible faculty, up from 70% and 53%, respec- toral degrees.
 
@@ -11182,23 +11182,23 @@ in fall 2021 than in fall 2015. See Table E.11. the 2009–10 estimate of 21,377
 
 versed the trend of decline in the estimated number of bach-
 
-In the CBMS 2021 survey, the term “mathematics de-
+In the CBMS 2021 survey, the term "mathematics de-
 
 elor’s degrees awarded by mathematics and statistics de-
 
-partment” includes departments of mathematics, applied
+partment" includes departments of mathematics, applied
 
 mathematics, mathematical sciences, and departments of partments combined observed in the 1985–2010 CBMS sur-
 
-mathematics and statistics. The term “statistics depart- veys. The CBMS survey of 1985 estimated that 27,928 bach-
+mathematics and statistics. The term "statistics depart- veys. The CBMS survey of 1985 estimated that 27,928 bach-
 
 elor’s degrees were granted during 1984–85. When com-
 
-ment” refers to departments of statistics that offer under-
+ment" refers to departments of statistics that offer under-
 
-graduate statistics courses. The term “mathematical sci- puter science degrees are removed from the degree count,
+graduate statistics courses. The term "mathematical sci- puter science degrees are removed from the degree count,
 
-ences courses” covers all courses that are taught in math- the estimated number of degrees awarded by mathematics
+ences courses" covers all courses that are taught in math- the estimated number of degrees awarded by mathematics
 
 and statistics departments appeared relatively constant in
 
@@ -11429,7 +11429,7 @@ Degrees awarded by mathematics departments and 2020–21, broken down by level o
 
 broken down by level of department. Table E.1.A Table E.1.A shows that the estimated number of bach-
 
-breaks down the estimated numbers of bachelor’s degrees elor’s degrees in the category “mathematics,” awarded in
+breaks down the estimated numbers of bachelor’s degrees elor’s degrees in the category "mathematics," awarded in
 
 awarded in 2020–21 by the level of mathematics depart- 2020–21 by all levels of mathematics departments com-
 
@@ -11441,7 +11441,7 @@ Table E.1.A, we see that most of the decline in number crease over both the 2009
 
 of degrees awarded by mathematics departments in 2020– larly, Table E.1.A shows that the estimated number of bach-
 
-21 occurred at the bachelor’s- and master’s-level depart- elor’s degrees in the category “math education,” awarded
+21 occurred at the bachelor’s- and master’s-level depart- elor’s degrees in the category "math education," awarded
 
 ments. In 2020–21, doctoral-level departments awarded an in 2020–21 by all levels of mathematics departments com-
 
@@ -11461,7 +11461,7 @@ In the 2005 and 2010 CBMS surveys, most of the growth vious year.
 
 in the number of bachelor’s degrees awarded in mathe- Table E.1.A shows that the estimated number of bache-
 
-matics occurred in the doctoral-level mathematics depart- lor’s degrees in the category of “statistics,” awarded in 2020–
+matics occurred in the doctoral-level mathematics depart- lor’s degrees in the category of "statistics," awarded in 2020–
 
 ments. In 2005, for the first time, the estimated number of 21 by all levels of mathematics departments combined, was
 
@@ -11737,7 +11737,7 @@ Table E.1.A shows that the estimated numbers of bach- 39% (SE 2). The comparable
 
 elor’s degrees awarded by mathematics majors in the cate- (SE 2) women, in 2009–10 was 43% women, and in 2004–
 
-gory of “actuarial mathematics” during 2020–21 decreased 5 was 40% women; in 1989–90, the estimated percentage
+gory of "actuarial mathematics" during 2020–21 decreased 5 was 40% women; in 1989–90, the estimated percentage
 
 over the estimated number in 2014–15, while the estimated of women was 46%. The estimated percentage of bache-
 
@@ -11791,7 +11791,7 @@ time, statistics departments were asked about the num-
 
 partment in 2009–10, 2014–15, and 2020–21.
 
-ber of bachelor’s degrees in “data science” that had been Table E.1.A shows that the percentage of degrees
+ber of bachelor’s degrees in "data science" that had been Table E.1.A shows that the percentage of degrees
 
 awarded by their department, and it is estimated that there
 
@@ -12347,7 +12347,7 @@ The 2021 CBMS survey defined distance/remote learning
 
 ment enrollments in computer science courses were from
 
-courses as “those courses offered by your institution for
+courses as "those courses offered by your institution for
 
 bachelor’s-level departments, though the estimated total
 
@@ -12379,7 +12379,7 @@ courses offered in normal practice, not courses that became
 
 2015 and fall 2010), the bachelor’s-level mathematics de-
 
-distance/remote due to the COVID-19 pandemic.” Data
+distance/remote due to the COVID-19 pandemic." Data
 
 partments had more total estimated enrollments in com-
 
@@ -12728,7 +12728,7 @@ tors were TTE faculty, OFT faculty, PT faculty, and GTAs, by type of department,
 
 
 
-not sum to 100 due to “unknown” instructor percentages.)
+not sum to 100 due to "unknown" instructor percentages.)
 
 
 
@@ -12883,7 +12883,7 @@ instructors were TTE faculty, OFT faculty, PT faculty, and GTAs, by type of depa
 
 
 
-may not sum to 100 due to “unknown” instructor percentages.)
+may not sum to 100 due to "unknown" instructor percentages.)
 
 
 
@@ -13190,7 +13190,7 @@ tors were TTE faculty, OFT faculty, PT faculty, and GTAs, by type of department,
 
 
 
-not sum to 100 due to “unknown” instructor percentages.)
+not sum to 100 due to "unknown" instructor percentages.)
 
 
 
@@ -13341,7 +13341,7 @@ TABLE E.11. Average recitation size in Mainstream Calculus I and II and other Ca
 
 ductory statistics courses that are taught using lecture/recitation method, by type of department in fall 2021, with
 
-fall 2015 data in parentheses. Distance learning sections are not included. (A calculus course is “Mainstream” if
+fall 2015 data in parentheses. Distance learning sections are not included. (A calculus course is "Mainstream" if
 
 it leads to the usual upper-division mathematical sciences courses.)
 
@@ -13482,15 +13482,15 @@ we will consider differences in numbers of faculty across 100), more than double
 
 departments grouped according to the highest degree of- 1238. The estimated number of other full-time statistics
 
-fered (“level of department”), by “type of appointment” faculty rose from 369 in fall 2015 to 1366 (SE 87), the es-
+fered ("level of department"), by "type of appointment" faculty rose from 369 in fall 2015 to 1366 (SE 87), the es-
 
 (tenured, tenure-eligible, other full-time, postdoc, and part- timated number of tenured statistics faculty increased
 
-time), by highest degree obtained by the faculty (“doctoral” from 649 in fall 2015 to 1457 (SE 41) in fall 2021, the es-
+time), by highest degree obtained by the faculty ("doctoral" from 649 in fall 2015 to 1457 (SE 41) in fall 2021, the es-
 
-and “non-doctoral”), and by gender (male, female, and non- timated number of tenure-eligible statistics faculty rose
+and "non-doctoral"), and by gender (male, female, and non- timated number of tenure-eligible statistics faculty rose
 
-binary). The category of “other full-time faculty” includes from 220 in fall 2015 to 573 (SE 21) in fall 2021, and
+binary). The category of "other full-time faculty" includes from 220 in fall 2015 to 573 (SE 21) in fall 2021, and
 
 full-time faculty who are not tenured or tenure-eligible and the estimated number of part-time statistics faculty in-
 
@@ -13516,9 +13516,9 @@ mathematics departments combined was estimated at timated number of full-time fa
 
 31,807 (SE 756), a 41% (12 SEs) increase over fall 2015. types combined at mathematics departments offering
 
-Most of this increase occurred in the category of “other PhDs was 32%, at those offering master’s degrees was
+Most of this increase occurred in the category of "other PhDs was 32%, at those offering master’s degrees was
 
-full-time faculty” (faculty who are not tenured or tenure- 47%, and at those offering bachelor’s degrees was 47%.
+full-time faculty" (faculty who are not tenured or tenure- 47%, and at those offering bachelor’s degrees was 47%.
 
 eligible, including postdocs), which from Table F.1.1,
 
@@ -13648,15 +13648,15 @@ tistics faculty for each of the four appointment types eral differences between 
 
 (tenured, tenure-eligible, other full-time, and postdoc) veys do not include postdoctoral appointments as a part of
 
-in fall 2021 by gender. In fall 2021, women were esti- “other full-time faculty” (OFT), while CBMS surveys do—
+in fall 2021 by gender. In fall 2021, women were esti- "other full-time faculty" (OFT), while CBMS surveys do—
 
-mated at 38% of total full-time statistics faculty (up from i.e., CBMS surveys list “other full-time faculty” (which in-
+mated at 38% of total full-time statistics faculty (up from i.e., CBMS surveys list "other full-time faculty" (which in-
 
 28% in fall 2015) and 31% of tenured statistics faculty cludes postdoctoral appointments) and also breaks out the
 
 (up from 21% in fall 2015). number of other full-time faculty who have postdoctoral ap-
 
-pointments. The CBMS surveys of “statistics” include only
+pointments. The CBMS surveys of "statistics" include only
 
 • Table F.4 presents the estimated distribution of ages statistics departments that offer an undergraduate program
 
@@ -13803,7 +13803,7 @@ this number increased by 210% (see Figure S.13.5). From and Statistics Faculty
 
 Table S.13 and Figures S.13.1 and S.13.3, we see that the
 
-estimated total number of full-time mathematics faculty in The category of “other full-time faculty” includes full-time
+estimated total number of full-time mathematics faculty in The category of "other full-time faculty" includes full-time
 
 four-year colleges and universities across all types of de- faculty who are not tenured or tenure-eligible and con-
 
@@ -14872,23 +14872,23 @@ eligible faculty at bachelor’s-level departments were 60 or However, in the te
 
 above in fall 2021, compared to 26% in fall 2015. The es- bersome federal classifications will be shortened. For exam-
 
-timated average ages of tenure-eligible men and of tenure- ple, “Mexican-American / Puerto Rican / other Hispanic”
+timated average ages of tenure-eligible men and of tenure- ple, "Mexican-American / Puerto Rican / other Hispanic"
 
-eligible women were higher in fall 2021 than in 2015. will be abbreviated to “Hispanic.” Similarly, the federal
+eligible women were higher in fall 2021 than in 2015. will be abbreviated to "Hispanic." Similarly, the federal
 
-At doctoral-level statistics departments, it appears there classifications “Black, not Hispanic” and “White, not His-
+At doctoral-level statistics departments, it appears there classifications "Black, not Hispanic" and "White, not His-
 
-are fewer younger and fewer older tenured or tenure-eligible panic” will be shortened to “Black” and “White,” respec-
+are fewer younger and fewer older tenured or tenure-eligible panic" will be shortened to "Black" and "White," respec-
 
-faculty in fall 2021 than in fall 2015. Using Table F.4, it tively, and “American Indian or Alaskan Native and Native
+faculty in fall 2021 than in fall 2015. Using Table F.4, it tively, and "American Indian or Alaskan Native and Native
 
-appears an estimated 27.6% (19.6% men, 8% women) of Hawaiian / Pacific Islander” will be shortened to “AIAN &
+appears an estimated 27.6% (19.6% men, 8% women) of Hawaiian / Pacific Islander" will be shortened to "AIAN &
 
-tenured or tenure-eligible faculty in doctoral-level statistics NHPI.” For a small percentage of the faculty, race and eth-
+tenured or tenure-eligible faculty in doctoral-level statistics NHPI." For a small percentage of the faculty, race and eth-
 
-departments were under 40 in fall 2021, while the corre- nicity data were listed as “unknown” by the responding de-
+departments were under 40 in fall 2021, while the corre- nicity data were listed as "unknown" by the responding de-
 
-sponding percentage was 33% (22% men, 11% women) in partments, and these faculty are listed as “unknown.”
+sponding percentage was 33% (22% men, 11% women) in partments, and these faculty are listed as "unknown."
 
 fall 2015. Furthermore, 19.6% of tenured or tenure-eligible From Table F.5, we see some variation in the per-
 
@@ -15054,11 +15054,11 @@ tors, and pedagogy used in teaching Introductory Statis- an estimate in a previo
 
 tics. Note that issues involved in teaching beginning and percentage change and as the number of SEs that change
 
-introductory courses, and pathways through mathematics represents (e.g., “increased 21% (1.7 SEs)”). requirements that do not lead to calculus (“pathways se-
+introductory courses, and pathways through mathematics represents (e.g., "increased 21% (1.7 SEs)"). requirements that do not lead to calculus ("pathways se-
 
 
 
-quences”), were addressed in Chapter 2. Highlights of Chapter 5
+quences"), were addressed in Chapter 2. Highlights of Chapter 5
 
 Enrollments: Estimated enrollments for individual
 
@@ -15260,21 +15260,21 @@ Chapter 5. First-Year Courses in Four-Year Colleges and Universities 125
 
 to calculus; these course sequences are often described as courses combined over all levels of departments combined
 
-“pathways” course sequences. In the 2021 CBMS survey, were 706,000 in fall 2005, 863,000 in fall 2010, 1,000,000
+"pathways" course sequences. In the 2021 CBMS survey, were 706,000 in fall 2005, 863,000 in fall 2010, 1,000,000
 
 four- and two-year mathematics departments were asked in fall 2015, and 670,000 (SE 66,300) in fall 2021. Accord-
 
-if they had offered “a non-traditional ‘pathways’ course se- ing to Table E.4 in Chapter 4, distance/remote learning en-
+if they had offered "a non-traditional ‘pathways’ course se- ing to Table E.4 in Chapter 4, distance/remote learning en-
 
-quence” in the last five years; “a pathways course sequence” rollments in all introductory-level courses combined over
+quence" in the last five years; "a pathways course sequence" rollments in all introductory-level courses combined over
 
-was defined to be “a single course or course sequence all levels of departments combined in fall 2021 were about
+was defined to be "a single course or course sequence all levels of departments combined in fall 2021 were about
 
 that enables students to complete a college-level gateway three times those estimated enrollments in fall 2015. Ap-
 
 mathematics or statistics course that is aligned to students’ pendix I breaks the introductory-level course enrollments
 
-academic and/or career goals within one academic year.” down by course and by level of department, including dis-
+academic and/or career goals within one academic year." down by course and by level of department, including dis-
 
 Table S.10 of Chapter 1 shows that in fall 2021, an esti- tance/remote learning enrollments. The decline was larger
 
@@ -15294,9 +15294,9 @@ Table S.10 breaks this data down by level of the department tion to Math Modelin
 
 and shows that these courses are more likely to be found as it has been increasing over the past few CBMS surveys.
 
-in bachelor’s-level and master’s-level departments than in Estimated enrollments in “Math for the Liberal Arts” and
+in bachelor’s-level and master’s-level departments than in Estimated enrollments in "Math for the Liberal Arts" and
 
-doctoral-level departments (in fall 2021, only an estimated “Finite Math” were both down significantly in fall 2021 over
+doctoral-level departments (in fall 2021, only an estimated "Finite Math" were both down significantly in fall 2021 over
 
 6% (SE 4.5) of doctoral-level departments indicated they fall 2015.
 
@@ -15310,7 +15310,7 @@ ferent definition of pathways); four-year mathematics de- Mainstream Calculus
 
 
 
-partments were not asked about pathways courses in 2015. “Mainstream Calculus” courses are the calculus courses
+partments were not asked about pathways courses in 2015. "Mainstream Calculus" courses are the calculus courses
 
 Table S.10 also presents data on pedagogical strategies used needed for the mathematics major or for applications in the
 
@@ -15318,7 +15318,7 @@ in teaching pre-college and introductory classes, again pro- physical sciences o
 
 viding a breakdown of this data by level of the four-year which tend to be for business, social science, or life science
 
-mathematics department. majors, are labeled “Non-Mainstream Calculus.”
+mathematics department. majors, are labeled "Non-Mainstream Calculus."
 
 The 2021 CBMS survey indicated that the estimated Table FY.1 presents information on the appointment
 
@@ -16884,9 +16884,9 @@ Departments at Two-Year Colleges
 
 
 
-This chapter reports estimated enrollment, course offer- The terms “full-time permanent,” “full-time continu-
+This chapter reports estimated enrollment, course offer- The terms "full-time permanent," "full-time continu-
 
-ings, and instructional practices in mathematics and statis- ing,” and “other full-time” faculty occasionally are used in
+ings, and instructional practices in mathematics and statis- ing," and "other full-time" faculty occasionally are used in
 
 tics courses at public two-year colleges in the United States this chapter and other chapters. For a detailed explanation
 
@@ -16900,9 +16900,9 @@ courses offered outside of the mathematics departments, The change in an estimat
 
 and services available to mathematics students. Some ta- survey is often expressed both as percentage change and as
 
-bles contain data from previous CBMS surveys (1975, 1980, the number of SEs that change represents (e.g., “increased
+bles contain data from previous CBMS surveys (1975, 1980, the number of SEs that change represents (e.g., "increased
 
-1985, 1990, 1995, 2000, 2005, 2010, and 2015) and hence al- 22% (1.2 SEs)”).
+1985, 1990, 1995, 2000, 2005, 2010, and 2015) and hence al- 22% (1.2 SEs)").
 
 low for historical comparisons. Further analysis of many of
 
@@ -16916,11 +16916,11 @@ sive point of view in comparison to similar data for four- Enrollments, class si
 
 year colleges and universities. mathematics departments.
 
-The table display code in this chapter is TYE, for “Two-
+The table display code in this chapter is TYE, for "Two-
 
-Year Enrollment,” because this chapter addresses issues re- • From 2015 to 2021, public two-year colleges experi-
+Year Enrollment," because this chapter addresses issues re- • From 2015 to 2021, public two-year colleges experi-
 
-lated to enrollment. There are also instances where “na” enced an overall total enrollment decrease of 28%, an
+lated to enrollment. There are also instances where "na" enced an overall total enrollment decrease of 28%, an
 
 will be displayed in a table, indicating that similar data was estimated total of 4,478,000 and 1,746,000 fewer stu-
 
@@ -17034,11 +17034,11 @@ and TYE.3 in this chapter. from 2015 to 2021 up to 124,000 students compared to
 
 • a 9% increase to a total of 119,000 students in 2015. In CBMS2021, dual-enrollment courses are defined to
 
-be “courses conducted in a high school campus by high Non-Mainstream Calculus I and II decreased 31% to
+be "courses conducted in a high school campus by high Non-Mainstream Calculus I and II decreased 31% to
 
 school teachers, for which students may obtain high 18,000 students, 8000 fewer students in 2021, compared
 
-school credit and, simultaneously, college credit.” Two- to an increase of 18% to 26,000 students in 2015. See
+school credit and, simultaneously, college credit." Two- to an increase of 18% to 26,000 students in 2015. See
 
 year college dual enrollment increased 72% from 2015 Tables TYE.3 and TYE.4.
 
@@ -17209,9 +17209,9 @@ Redesign of mathematics programs—Pathways. 25,613) students in fall 2021, comp
 
 • 4000) students in 2015, which is an increase of 448%. CBMS2015 and CBMS2021 surveys asked questions
 
-about implementation of mathematics “Pathways,” de- See Table S.9 in Chapter 1 and Table TYE.11 for indi-
+about implementation of mathematics "Pathways," de- See Table S.9 in Chapter 1 and Table TYE.11 for indi-
 
-fined to be “a single course or course sequence that vidual course enrollment.
+fined to be "a single course or course sequence that vidual course enrollment.
 
 enables students to complete a college-level gateway • In 2021, distance/remote learning enrollment in all Cal-
 
@@ -17219,7 +17219,7 @@ mathematics or statistics course that is aligned to stu- culus courses also incr
 
 dents’ academic and/or career goals within one aca- 64% of all Calculus enrollments. 96,000 students en-
 
-demic year.” In fall 2021, 71% (SE 6) of colleges reported rolled in Mainstream Calculus, Non-Mainstream Cal-
+demic year." In fall 2021, 71% (SE 6) of colleges reported rolled in Mainstream Calculus, Non-Mainstream Cal-
 
 having implemented a Pathways course sequence, com- culus, and Differential Equations via distance, com-
 
@@ -17249,7 +17249,7 @@ Distance/remote learning courses and practices. or monitored at testing site). S
 
 discussion about the use of distance learning practices
 
-• Distance/remote learning, defined to be “courses in
+• Distance/remote learning, defined to be "courses in
 
 by mathematics departments is included in Chapter 2,
 
@@ -17259,15 +17259,15 @@ Table SP.9.
 
 instructor and the student separated by time and/or
 
-place facilitated by technology,” showed enrollment • Table TYE.12.1 presents data on distance learning de-
+place facilitated by technology," showed enrollment • Table TYE.12.1 presents data on distance learning de-
 
-in two-year college mathematics and statistics depart- livery and course design. “Replicating active learning
+in two-year college mathematics and statistics depart- livery and course design. "Replicating active learning
 
-ments growing to an estimated 823,000 (SE 108,000) in a virtual environment” was a very significant chal-
+ments growing to an estimated 823,000 (SE 108,000) in a virtual environment" was a very significant chal-
 
 students, up 266% compared to 225,000 (SE 25,000) stu- lenge in 53% (SE 6.89) of two-year college departments.
 
-dents in fall 2015. Distance/remote learning enroll- “Maintaining academic integrity on assessments” was
+dents in fall 2015. Distance/remote learning enroll- "Maintaining academic integrity on assessments" was
 
 140 2021 CBMS Survey of Undergraduate Programs
 
@@ -17277,17 +17277,17 @@ the second significant challenge for 49% (SE 6.93) of part-time). This estimate 
 
 departments. The third very significant challenge was rollment projection for public two-year colleges by the Na-
 
-“engaging students online” for 48% (SE 6.82) of the de- tional Center for Educational Statistics (NCES). These en-
+"engaging students online" for 48% (SE 6.82) of the de- tional Center for Educational Statistics (NCES). These en-
 
-partments. In 2015, “maintaining a level of rigor in rollments constitute a 28% enrollment decrease from 2015–
+partments. In 2015, "maintaining a level of rigor in rollments constitute a 28% enrollment decrease from 2015–
 
 distance learning mathematics courses equivalent to 2021, compared with a 14% enrollment decrease from 2010–
 
-courses offered face-to-face” was reported to be “some- 2015 for public two-year colleges. NCES projections indi-
+courses offered face-to-face" was reported to be "some- 2015 for public two-year colleges. NCES projections indi-
 
-what of a challenge” by 41% (SE 5) of two-year colleges cated about a 2% increase in four-year college enrollments
+what of a challenge" by 41% (SE 5) of two-year colleges cated about a 2% increase in four-year college enrollments
 
-and a “very significant challenge” by 17% (SE 5). See in the same time period and totaled 10,766,000 students.
+and a "very significant challenge" by 17% (SE 5). See in the same time period and totaled 10,766,000 students.
 
 Table TYE.12.1 and also Table SP.10 in Chapter 2. Enrollment in two-year colleges in fall 2021 constituted
 
@@ -17335,7 +17335,7 @@ minorities in mathematical studies, undergraduate stu- 2021 is consistent with t
 
 dent research, and independent studies in mathemat- tutional enrollment mentioned above.
 
-ics. Small increases were noted in faculty advising and In CBMS2021, dual-enrolled students are “high school
+ics. Small increases were noted in faculty advising and In CBMS2021, dual-enrolled students are "high school
 
 K–12 outreach activities. These are described in Ta- students who take courses conducted at a high school cam-
 
@@ -17343,7 +17343,7 @@ bles SP.12 and SP.13 in Chapter 2 and Table TYE.13 in pus taught by high school 
 
 this chapter. may obtain high school credit and, simultaneously, college
 
-credit through the two-year college institution.” The esti-
+credit through the two-year college institution." The esti-
 
 Topics of special interest in CBMS2021.
 
@@ -17624,23 +17624,23 @@ In the COVID Impact Study, departments were asked sented in Table TYE.4, which d
 
 to respond to the statement regarding future course deliv- students in dual-enrollment courses. Fall 2021 presented
 
-ery plans: “We are considering offering a greater number Pre-college course enrollment decreases of 55% at two-year
+ery plans: "We are considering offering a greater number Pre-college course enrollment decreases of 55% at two-year
 
-of online courses.” Figure 6 of that study shows that in colleges. In comparison, four-year college Pre-college en-
+of online courses." Figure 6 of that study shows that in colleges. In comparison, four-year college Pre-college en-
 
 fall 2020, an estimated 35% of four-year mathematics de- rollment was a total of 101,000 (SE 16,000) students and ex-
 
 partments, 54% of statistics departments, and 61% of two- perienced a 60% decrease from 2015 to 2021. See Table S.2
 
-year college mathematics departments indicated that they in Chapter 1. “strongly agree or agree” with this statement. Another All two-year college Pre-college courses experienced
+year college mathematics departments indicated that they in Chapter 1. "strongly agree or agree" with this statement. Another All two-year college Pre-college courses experienced
 
 highlight of the COVID survey was that during the pan- a decrease in enrollment from 2015 to 2021: Arithmetic
 
-demic, the format “only online synchronous” was the most & Basic Mathematics at 42,000 (SE 8000) students, down
+demic, the format "only online synchronous" was the most & Basic Mathematics at 42,000 (SE 8000) students, down
 
-frequently used option (50%), followed by “a mixture of on- 40%; Pre-Algebra at 49,000 (SE 8000) students, down 62%;
+frequently used option (50%), followed by "a mixture of on- 40%; Pre-Algebra at 49,000 (SE 8000) students, down 62%;
 
-line and face-to-face sessions” (26%). Elementary Algebra at 89,000 (SE 13,000) students, down
+line and face-to-face sessions" (26%). Elementary Algebra at 89,000 (SE 13,000) students, down
 
 Other factors that may have influenced mathematics 68%; Intermediate Algebra at 145,000 (SE 29,000) students,
 
@@ -17742,7 +17742,7 @@ Total All Two-Year College Mathematics Courses 1696 2024 1918 1333
 
 
 
-Note: 0 means fewer than 500 enrollments, and “na” means not available. Round-off may make column sums seem inaccurate.
+Note: 0 means fewer than 500 enrollments, and "na" means not available. Round-off may make column sums seem inaccurate.
 
 1 Mainstream Calculus is for mathematics, physics, science and engineering. Non-Mainstream Calculus is for biological, social, and man-
 
@@ -17955,7 +17955,7 @@ total of 257,000 (SE 34,000) students, some 23,000 fewer students’ academic an
 
 
 
-students in 2021 than in 2015, representing an 8% de- academic year,” also impacted course enrollments.
+students in 2021 than in 2015, representing an 8% de- academic year," also impacted course enrollments.
 
 
 
@@ -18025,7 +18025,7 @@ In addition, an increase in implementation of math- course, which generally incl
 
 
 
-ematics “Pathways,” defined as “a single course or course bra skills, increased to 60% (SE 6.82), compared to 44% (SE
+ematics "Pathways," defined as "a single course or course bra skills, increased to 60% (SE 6.82), compared to 44% (SE
 
 
 
@@ -18216,7 +18216,7 @@ Table TYE.10. Possibly related to the expanded offering of Calculus-level course
 
 Quantitative Literacy is the decrease in the offering of the See Table TYE.7. For a closer examination of individual
 
-course “Mathematics for Liberal Arts,” which showed a de- course average section sizes in 2021, see Table TYE.8, dis-
+course "Mathematics for Liberal Arts," which showed a de- course average section sizes in 2021, see Table TYE.8, dis-
 
 crease of thirteen points to 49% (SE 5.52) of colleges offering playing a range of 9 (line 25, Teacher Preparation) to 27 (line
 
@@ -18487,7 +18487,7 @@ courses are taught most often by part-time faculty, all
 
 courses showed more sections taught by part-time faculty Distance/remote learning courses. In CBMS2021,
 
-in 2021 than in 2015. Eighty-one percent (81%; SE 0.11) distance/remote learning was defined to be “courses of-
+in 2021 than in 2015. Eighty-one percent (81%; SE 0.11) distance/remote learning was defined to be "courses of-
 
 of all pre-college-level sections were taught by part-time fered by your institution for credit, in which half or more
 
@@ -18499,7 +18499,7 @@ Precalculus/Introductory-level sections, compared with nology (e.g., courses in 
 
 33% (SE 3) in 2015. Twenty percent (20%; SE 0.03) of is taught online, by computer software, or by other tech-
 
-Mainstream Calculus sections were taught by part-time nologies).” Collecting data about distance/remote learn-
+Mainstream Calculus sections were taught by part-time nologies)." Collecting data about distance/remote learn-
 
 faculty in 2021, compared with fifteen percent (15%; SE ing enrollments and section size in CBMS surveys began
 
@@ -18529,9 +18529,9 @@ discussions starting in 2009 and continued into fall 2021. sented a 266% increas
 
 These efforts and discussions led to curricular programs than in 2015. Comparing 2021 to 2015, two-year colleges
 
-called mathematics “Pathways.” In the CBMS2021 sur- had increases in the number of students enrolled in dis-
+called mathematics "Pathways." In the CBMS2021 sur- had increases in the number of students enrolled in dis-
 
-vey, “Pathways” is defined as “a single course or course tance/remote learning courses in every course offering, ex-
+vey, "Pathways" is defined as "a single course or course tance/remote learning courses in every course offering, ex-
 
 sequence that enables students to complete a college-level cept Mathematical Modeling, where distance/remote learn-
 
@@ -18539,7 +18539,7 @@ gateway mathematics or statistics course that is aligned ing stayed constant. Fo
 
 to students’ academic and/or career goals within one aca- departments also saw increased distance enrollments in ev-
 
-demic year.” These curricular changes resulted in new ery course category. courses, revision of current courses, and (often) revisions Distance/remote learning enrollment was more than
+demic year." These curricular changes resulted in new ery course category. courses, revision of current courses, and (often) revisions Distance/remote learning enrollment was more than
 
 of course prerequisites in those courses. Availability of 50% in most courses, except for Geometry, College Algebra
 
@@ -18760,7 +18760,7 @@ those courses were taught only asynchronously online in rollments in all course 
 
 2015, there was a small decrease to 68% (SE 6.4) in 2021. Distance/remote learning delivery and course design
 
-In 2021, some sections were taught online, with an oppor- presented unique challenges for departments. “Replicating
+In 2021, some sections were taught online, with an oppor- presented unique challenges for departments. "Replicating
 
 154 2021 CBMS Survey of Undergraduate Programs
 
@@ -18822,27 +18822,27 @@ developmental mathematics and to/through a college-level mathematics or statisti
 
 
 
-active learning in a virtual environment” was a very signifi- scores on state tests, high school record, and ACT/SAT and
+active learning in a virtual environment" was a very signifi- scores on state tests, high school record, and ACT/SAT and
 
 cant challenge in 53.3% (SE 6.89) of two-year college depart- national assessments, were used for placing students into
 
-ments. “Maintaining academic integrity on assessments” mathematics courses. Eighty-five percent (85%; SE 7 and
+ments. "Maintaining academic integrity on assessments" mathematics courses. Eighty-five percent (85%; SE 7 and
 
 was the second significant challenge for 49% (SE 6.93) of 6, respectively) used high school record and ACT/SAT for
 
-departments. The third very significant challenge was “en- placement.
+departments. The third very significant challenge was "en- placement.
 
-gaging students online” for 47.5% (SE 6.82) of the depart- Table TYE.13 in this chapter and Tables SP.12 and SP.13
+gaging students online" for 47.5% (SE 6.82) of the depart- Table TYE.13 in this chapter and Tables SP.12 and SP.13
 
-ments. In 2015, “maintaining a level of rigor in distance in Chapter 2 report specific outside-of-class opportunities
+ments. In 2015, "maintaining a level of rigor in distance in Chapter 2 report specific outside-of-class opportunities
 
 learning mathematics courses equivalent to courses offered for two- and four-year college mathematics students.
 
-face-to-face” was reported to be “somewhat of a challenge” CBMS2021 results are similar to CBMS2015 or showed
+face-to-face" was reported to be "somewhat of a challenge" CBMS2021 results are similar to CBMS2015 or showed
 
-by 41% (SE 5) of two-year colleges and a “very significant decreases for students’ participation in various activities:
+by 41% (SE 5) of two-year colleges and a "very significant decreases for students’ participation in various activities:
 
-challenge” by 17% (SE 5). See Table TYE.12.1 in this chap- mathematics clubs (22% in 2021 (SE 5), compared with 32%
+challenge" by 17% (SE 5). See Table TYE.12.1 in this chap- mathematics clubs (22% in 2021 (SE 5), compared with 32%
 
 ter and Table SP.10 in Chapter 2. in 2015 (SE 5)) and undergraduate research activities (17%
 
@@ -19248,19 +19248,19 @@ across both two- and four-year colleges, or for two- or four- again providing a 
 
 year institutions individually. Special topics for two- and four-year mathematics department and including two-year
 
-four-year institutions are discussed in Chapters 1, 2, and 6 college data. The strategy of “using assessments such as
+four-year institutions are discussed in Chapters 1, 2, and 6 college data. The strategy of "using assessments such as
 
 of this report. Of special note in CBMS2021 is an emphasis regular graded homework and quizzes to inform teach-
 
-on collecting data regarding instructional strategies. ing” was used at least once a week in fall 2021 at an esti-
+on collecting data regarding instructional strategies. ing" was used at least once a week in fall 2021 at an esti-
 
 Instructional practices, content, and delivery mated 91% (SE 3.6) of two-year college mathematics depart-methods. ments, 92% (SE 3.3) of four-year mathematics departments CBMS2021 included questions on all three
 
 questionnaires (two-year college, four-year college, and sta- combined, and only 78% (SE 10.4) of doctoral-level mathe-
 
-tistics) about content, delivery methods, and instructional matics departments. “Focusing on conceptual understand-
+tistics) about content, delivery methods, and instructional matics departments. "Focusing on conceptual understand-
 
-strategies. Data regarding trends in content including stu- ing” was used at least once a week in an estimated 87%
+strategies. Data regarding trends in content including stu- ing" was used at least once a week in an estimated 87%
 
 dents collecting and analyzing data, solving contextually (SE 4.5) of two-year college mathematics departments and
 
@@ -19275,15 +19275,15 @@ Chapter 6. Two-Year Enrollment, Course Offerings, and Instructional Practices 15
 
 71% (SE 5.9) for four-year mathematics departments com- The activity with generally the next largest responses
 
-bined. “Integrating real-world applications” was used at an of “a lot” and the next smallest percentages of responses of
+bined. "Integrating real-world applications" was used at an of "a lot" and the next smallest percentages of responses of
 
-estimated 68% (SE 6.2) of two-year college mathematics de- “none” was “Consideration of existing or new programs to
+estimated 68% (SE 6.2) of two-year college mathematics de- "none" was "Consideration of existing or new programs to
 
 partments and 56% (SE 6) of four-year mathematics depart- assist underrepresented groups and/or at-risk students in
 
-ments combined. “Using student-centered active learning the mathematical sciences,” where the percentage of de-
+ments combined. "Using student-centered active learning the mathematical sciences," where the percentage of de-
 
-strategies” was used at an estimated 45% (SE 6.6) of two- partments answering “a lot” was 11% (SE 3.8) of all levels
+strategies" was used at an estimated 45% (SE 6.6) of two- partments answering "a lot" was 11% (SE 3.8) of all levels
 
 year college mathematics departments and 47% (SE 6.5) of of four-year mathematics departments combined, 32% (SE
 
@@ -19291,7 +19291,7 @@ four-year mathematics departments combined. 7.9) of both levels of statistics de
 
 Data regarding online instruction appears in 17% (SE 5.1) of two-year mathematics departments. The es-
 
-Tables SP.8.A, SP.8.B(a)–SP.8.B(c), and SP.9 in Chapter 2. timated percentage of departments answering “none” was
+Tables SP.8.A, SP.8.B(a)–SP.8.B(c), and SP.9 in Chapter 2. timated percentage of departments answering "none" was
 
 For example, Table SP.8.A shows that in fall 2021, the esti- 35% (SE 6.3) of all levels of four-year mathematics depart-
 
@@ -19303,25 +19303,25 @@ the pandemic was 46% (SE 5.2) of all four-year mathemat- matics departments.
 
 ics departments combined, 74% (SE 6.8) of all statistics de- From the distributions of percentages in Table SP.26,
 
-partments combined, and 64% (SE 6.4) of two-year mathe- the other activities listed, “Student discussion designed
+partments combined, and 64% (SE 6.4) of two-year mathe- the other activities listed, "Student discussion designed
 
-matics departments. Table SP.8.B(c) presents that an esti- to increase awareness of DEI issues,” “Program or policy
+matics departments. Table SP.8.B(c) presents that an esti- to increase awareness of DEI issues," "Program or policy
 
 mated 30% (SE 6) of two-year mathematics departments of- changes to affect the demographic balance of faculty in
 
-fered some hybrid course pre-pandemic. Then during the the mathematical sciences,” “Program or policy changes
+fered some hybrid course pre-pandemic. Then during the the mathematical sciences," "Program or policy changes
 
 pandemic, 37% (SE 6.8) offered some hybrid course, and in to affect the demographic balance of undergraduate stu-
 
-fall 2021, 60% (SE 6.6) offered some hybrid course. In fall dents in the mathematical sciences,” and “Program or pol-
+fall 2021, 60% (SE 6.6) offered some hybrid course. In fall dents in the mathematical sciences," and "Program or pol-
 
 2021, 59% (SE 5.3) of four-year mathematics departments, icy changes intended to affect the demographic balance of
 
-65% (SE 7.4) of statistics departments, and 74% (SE 6.2) of graduate students in the mathematical sciences,” seemed to
+65% (SE 7.4) of statistics departments, and 74% (SE 6.2) of graduate students in the mathematical sciences," seemed to
 
 two-year mathematics departments offered some course in have received less attention in departments.
 
-a remote-only format. The percentage of departments responding “a lot” was
+a remote-only format. The percentage of departments responding "a lot" was
 
 higher for both levels of statistics departments combined
 
@@ -19338,11 +19338,11 @@ Chapter 2 summarizes responses from all three types of de- most of the issues. p
 
 mental activities related to diversity, equity, and inclusion Scope and organization of pre-service mathe-
 
-(DEI) issues had taken place in the department during the matics education for K–16 teachers. CBMS2021 previous year; the possible responses were “none,” “some,” continued an inquiry that began in 2000 about the level
+(DEI) issues had taken place in the department during the matics education for K–16 teachers. CBMS2021 previous year; the possible responses were "none," "some," continued an inquiry that began in 2000 about the level
 
-and “a lot” (and in the case of the activity involving graduate of involvement of two-year college mathematics depart-
+and "a lot" (and in the case of the activity involving graduate of involvement of two-year college mathematics depart-
 
-students, “not applicable”). The results are broken down by ments in the mathematical education of future mathemat-
+students, "not applicable"). The results are broken down by ments in the mathematical education of future mathemat-
 
 level of four-year mathematics department, both levels of ics teachers. These data are reported primarily among the
 
@@ -19350,15 +19350,15 @@ statistics department combined, and two-year mathematics special topics in Chapt
 
 departments. In the last two decades, involvement in teacher educa-
 
-The activity “faculty discussion designed to create tion at two-year colleges has been active as more students
+The activity "faculty discussion designed to create tion at two-year colleges has been active as more students
 
-awareness of DEI issues” appears to be the activity that was turned to them to take required mathematics and education
+awareness of DEI issues" appears to be the activity that was turned to them to take required mathematics and education
 
 most likely to occur. Table SP.26 shows that it is the ac- courses. Fall 2021 saw student enrollment in Mathemat-
 
 tivity with generally the largest percentages of responses of ics for Elementary School Teachers I increase to 13,000 (SE
 
-“a lot”: the response of 23% (SE 5.4) of all levels of four- 2.1), as compared to the decrease reported in 2015 to 12,000
+"a lot": the response of 23% (SE 5.4) of all levels of four- 2.1), as compared to the decrease reported in 2015 to 12,000
 
 year mathematics departments combined, of 32% (SE 7.9) (SE 1.8). A similar increase of 1000 students (SE 0.94) in
 
@@ -19368,9 +19368,9 @@ of both levels of statistics departments combined, and of fall 2021 was seen in 
 
 was also the activity with the lowest percentage of answers Table TYE.5 shows that 54% (SE 6.65) of two-year col-
 
-of “none.” The estimated percentage of departments an- leges offered the course Mathematics for Elementary School
+of "none." The estimated percentage of departments an- leges offered the course Mathematics for Elementary School
 
-swering “none” was 15% (SE 4.5) of all levels of four-year Teachers I in fall 2021, up 13% from 2015 (41%; SE 5). For
+swering "none" was 15% (SE 4.5) of all levels of four-year Teachers I in fall 2021, up 13% from 2015 (41%; SE 5). For
 
 mathematics departments combined, 16% (SE 6.2) of both the five-year CBMS intervals beginning in 1990 through
 
@@ -19382,15 +19382,15 @@ of two-year mathematics departments. ematics for Elementary School Teachers I ar
 
 
 
-32%, 43%, 49%, 59%, 55%, 41%, and 54%. Of special note is Dual enrollment. In CBMS2021, dual-enrollment the increase in departments offering Mathematics for Ele- courses, defined to be “courses conducted in a high school
+32%, 43%, 49%, 59%, 55%, 41%, and 54%. Of special note is Dual enrollment. In CBMS2021, dual-enrollment the increase in departments offering Mathematics for Ele- courses, defined to be "courses conducted in a high school
 
 mentary School Teachers II in 2021, up 28 points to 45% (SE campus by high school teachers, for which students may ob-
 
-6.79) since 2015. See Table TYE.6. tain high school credit and, simultaneously, college credit,”
+6.79) since 2015. See Table TYE.6. tain high school credit and, simultaneously, college credit,"
 
-In contrast, Table SP.2 in Chapter 2 reports on “or- increased 72% (SE 6) from 2015 to 2021 for 162,000 students
+In contrast, Table SP.2 in Chapter 2 reports on "or- increased 72% (SE 6) from 2015 to 2021 for 162,000 students
 
-ganized” programs at two-year colleges in which students compared with 63% from 2010 to 2015 for an estimated
+ganized" programs at two-year colleges in which students compared with 63% from 2010 to 2015 for an estimated
 
 can obtain their entire mathematics course requirement for 94,000 students. Dual-enrollment increases were noted in
 
@@ -19432,11 +19432,11 @@ ics education for future K–8 teachers, compared with 35% in among all survey r
 
 ignate special mathematics courses for future (pre-service) 5% (SE 3) of mathematics program heads in two-year col-
 
-K–8 teachers, down 33 points from 2015. Fall 2021 saw a leges saw dual-enrollment courses as a “major problem,”
+K–8 teachers, down 33 points from 2015. Fall 2021 saw a leges saw dual-enrollment courses as a "major problem,"
 
 decrease of 17 points from 2015, down to 2% (SE 2), in offer- down two points from 2015. Another 34% (SE 7) found
 
-ing a special mathematics course for pre-service secondary dual-enrollment arrangements “somewhat of a problem,”
+ing a special mathematics course for pre-service secondary dual-enrollment arrangements "somewhat of a problem,"
 
 teachers. Showing increases in 2021, among mathematics down two points from 2015. departments, 81% (SE 16) offered mathematics pedagogy
 
@@ -19473,13 +19473,13 @@ ysis about mathematics faculty and departments in public faculty teach full cour
 
 two-year colleges. It reports the estimated number, teach- from part-time or adjunct faculty.
 
-ing conditions, education, professional activities, age, gen- The Table display code in this chapter is TYF, for “two-
+ing conditions, education, professional activities, age, gen- The Table display code in this chapter is TYF, for "two-
 
-der, and ethnicity of the faculty in these mathematics de- year faculty,” since the chapter discusses issues related to
+der, and ethnicity of the faculty in these mathematics de- year faculty," since the chapter discusses issues related to
 
-partments in fall 2021. Additional analysis of some items faculty. Some tables have entries of “not reported,” “un-
+partments in fall 2021. Additional analysis of some items faculty. Some tables have entries of "not reported," "un-
 
-discussed in this chapter can be found in Chapters 1 and 2, known,” or “status not known or other” where data was not
+discussed in this chapter can be found in Chapters 1 and 2, known," or "status not known or other" where data was not
 
 where they are discussed from a comprehensive point of available or submitted. This is not surprising, given the low
 
@@ -19503,7 +19503,7 @@ CBMS2015, and CBMS2021 include data regarding public from the estimate in a prev
 
 two-year colleges only. The estimated data in this chapter both as percentage change and as the number of SEs that
 
-have not been rounded. Information on the sampling pro- change represents (e.g., “increased 22% (1.2 SEs)”).
+have not been rounded. Information on the sampling pro- change represents (e.g., "increased 22% (1.2 SEs)").
 
 cedure used in the 2021 survey can be found in Appendix II.
 
@@ -19513,7 +19513,7 @@ naire can be found in Appendix VII. Highlights of Chapter 7
 
 
 
-The term “full-time permanent” faculty is used fre- Number of full-time faculty and part-time quently in this document. Two-year college faculty in this faculty. category have an on-going, stable relationship with the
+The term "full-time permanent" faculty is used fre- Number of full-time faculty and part-time quently in this document. Two-year college faculty in this faculty. category have an on-going, stable relationship with the
 
 college’s mathematics departments, and are tenured and • In fall 2021, the total estimated number of full-time tenure-eligible faculty, including those on leave or on sab- faculty (permanent, continuing, and other) in two-year
 
@@ -19529,21 +19529,21 @@ service. mathematics and statistics enrollment to 1,495,170
 
 Full-time faculty who are employed on a non-tenure (SE 157,543) students discussed in Chapter 6. See
 
-track, sometimes continuing, are called “full-time contin- Table S.13 in Chapter 1, Table TYE.2 in Chapter 6, and
+track, sometimes continuing, are called "full-time contin- Table S.13 in Chapter 1, Table TYE.2 in Chapter 6, and
 
-uing” faculty in this document. Two-year colleges often TableTYF.1 in this chapter. have their own individual classification for a third cate-
+uing" faculty in this document. Two-year colleges often TableTYF.1 in this chapter. have their own individual classification for a third cate-
 
-gory of “other” non-tenure-track full-time faculty. Data
+gory of "other" non-tenure-track full-time faculty. Data
 
 about this third classification of positions was collected • It was estimated that there were 9126 (SE 918) full-time
 
 for the first time in CBMS2015. This group is referred to permanent faculty in public two-year college mathe-
 
-as “other” full-time faculty in this document. Full-time matics departments in the U.S. in fall 2021, compared
+as "other" full-time faculty in this document. Full-time matics departments in the U.S. in fall 2021, compared
 
-“permanent” faculty are distinguished from “continuing” with 8314 (SE 840) in 2015. This 10% increase of
+"permanent" faculty are distinguished from "continuing" with 8314 (SE 840) in 2015. This 10% increase of
 
-or “other” full-time faculty who are often meeting a short- 812 persons can be compared to a 15% decrease of
+or "other" full-time faculty who are often meeting a short- 812 persons can be compared to a 15% decrease of
 
 
 
@@ -19694,9 +19694,9 @@ Chapter 7. Two-Year College Mathematics Program Faculty and Program Administrati
 
 fall 2021, compared to 53% in 2015. See Tables TYF.14 2015. The second most popular method for both full-
 
-and TYF.15. time faculty and part-time faculty was “observation of
+and TYF.15. time faculty and part-time faculty was "observation of
 
-classes by other faculty” (full-time: 66%; SE 7, and part-
+classes by other faculty" (full-time: 66%; SE 7, and part-
 
 • Distribution of faculty by age is displayed in Ta-
 
@@ -19710,7 +19710,7 @@ in Table TYF.16 shows a decrease in each age category • The percentage of two-
 
 possibly because of the large percentage, 31% and 2820 continuing education or professional development for
 
-persons, of “not reported” on this question. In 2021, full-time permanent faculty rose two points to 84%
+persons, of "not reported" on this question. In 2021, full-time permanent faculty rose two points to 84%
 
 the category of faculty >59 years of age had the largest (SE 5) in 2021, compared to 82% (SE 4) in 2015. See
 
@@ -19726,34 +19726,34 @@ time permanent women faculty was in age categories colleges in 2021. The three i
 
 of 45–54 and >54 years (12% each; SE 2). The largest matics program heads with the highest percentage as
 
-percentage of full-time permanent men faculty was in being a “major problem” in 2021 were: “low student
+percentage of full-time permanent men faculty was in being a "major problem" in 2021 were: "low student
 
-the category >54 years (12%; SE 2). See Table S.16 in motivation” (48%; SE 7), “students not understanding
-
-
+the category >54 years (12%; SE 2). See Table S.16 in motivation" (48%; SE 7), "students not understanding
 
 
 
-Chapter 1 and Tables TYF.16 and TYF.17. the demands of college work” (42%; SE 7), and “lack
+
+
+Chapter 1 and Tables TYF.16 and TYF.17. the demands of college work" (42%; SE 7), and "lack
 
 
 of student progress from developmental to advanced
 
-Demographics of full-time permanent faculty courses” (29%; SE 6). newly appointed by mathematics departments.
+Demographics of full-time permanent faculty courses" (29%; SE 6). newly appointed by mathematics departments.
 
 
 
-• There were 255 (SE 70) newly appointed full-time per- • When considering issues reported as “somewhat of a
+• There were 255 (SE 70) newly appointed full-time per- • When considering issues reported as "somewhat of a
 
-manent faculty in 2021, compared to 451 (SE 83) newly problem,” the top three items and their percentages
+manent faculty in 2021, compared to 451 (SE 83) newly problem," the top three items and their percentages
 
-appointed full-time permanent faculty in fall 2015. The were: “lack of student progress from developmental
+appointed full-time permanent faculty in fall 2015. The were: "lack of student progress from developmental
 
-largest percentage of new full-time faculty was persons to advanced courses” (55%; SE 7), “faculty salaries too
+largest percentage of new full-time faculty was persons to advanced courses" (55%; SE 7), "faculty salaries too
 
-who had been part-time or full-time temporary faculty low” (55%; SE 7), and “too few students who intend to
+who had been part-time or full-time temporary faculty low" (55%; SE 7), and "too few students who intend to
 
-(42%; SE 16), compared with 26% (6 SE) in the same cat- transfer actually do” (54%; SE 7). See Tables TYF.24
+(42%; SE 16), compared with 26% (6 SE) in the same cat- transfer actually do" (54%; SE 7). See Tables TYF.24
 
 egory in 2015. There was an eight-point increase of new and TYF.25.
 
@@ -19769,13 +19769,13 @@ est degree. See Tables TYF.18 and TYF.19.
 
 • Newly appointed full-time permanent faculty in the strategies in distance learning courses are discussed in
 
-ethnic minority groups of “Asian/Pacific Islander” and Chapters 2 and 6. Distance learning, defined to be
+ethnic minority groups of "Asian/Pacific Islander" and Chapters 2 and 6. Distance learning, defined to be
 
-“Mexican American, Puerto Rican, or other Hispanic” “courses in which half or more of the instruction oc-
+"Mexican American, Puerto Rican, or other Hispanic" "courses in which half or more of the instruction oc-
 
 made up 11% and 10% of all faculty, respectively (SE 6 curs with the instructor and the student separated by
 
-and SE 5), in fall 2021. In 2021, forty-six percent (46%; time and/or place facilitated by technology,” showed
+and SE 5), in fall 2021. In 2021, forty-six percent (46%; time and/or place facilitated by technology," showed
 
 SE 15) of all new appointments were women, down enrollment in mathematics and statistics growing to
 
@@ -19803,7 +19803,7 @@ time faculty are reported in Table TYF.22. The most a combination of test-taking
 
 popular method of evaluation for both full- and part- tored, online, monitored site). See Tables TYE.12 and
 
-time faculty was “forms completed by students” (97%; TYE.12.1 in Chapter 6 and Tables SP.8.B(c) in
+time faculty was "forms completed by students" (97%; TYE.12.1 in Chapter 6 and Tables SP.8.B(c) in
 
 SE 2 and 3, respectively), compared with 95% (3 SEs) in Chapter 2.
 
@@ -19813,15 +19813,15 @@ SE 2 and 3, respectively), compared with 95% (3 SEs) in Chapter 2.
 
 • CBMS2015 and CBMS2021 asked questions about im-
 
-plementation of mathematics “Pathways,” defined to be 27,102 (SE 254) in fall 2021, compared with 22,532 (SE 313)
+plementation of mathematics "Pathways," defined to be 27,102 (SE 254) in fall 2021, compared with 22,532 (SE 313)
 
-“a single course or course sequence that enables stu- in fall 2015, a 20% increase. The institutional enrollment
+"a single course or course sequence that enables stu- in fall 2015, a 20% increase. The institutional enrollment
 
 dents to complete a college-level gateway mathemat- at four-year institutions decreased 29% in fall 2021. See
 
 ics or statistics course that is aligned to students’ aca- Table S.13 in Chapter 1.
 
-demic and/or career goals within one academic year.” Part-time faculty in two-year colleges fell into two cate-
+demic and/or career goals within one academic year." Part-time faculty in two-year colleges fell into two cate-
 
 In fall 2021, 71% (SE 7) of colleges reported having gories: those paid by two-year colleges and others paid by a
 
@@ -19845,7 +19845,7 @@ the 4716 (SE 969) third party payees are excluded, the es-
 
 timated number of part-time faculty was 13,827 (SE 1631),
 
-be “courses conducted in a high school campus by
+be "courses conducted in a high school campus by
 
 compared with 17,888 (SE 1909) in 2015, a decrease of 23%
 
@@ -19853,7 +19853,7 @@ high school teachers, for which students may obtain
 
 from 2015 to 2021. Part-time faculty represented 57% of to-
 
-high school credit and, simultaneously, college credit.”
+high school credit and, simultaneously, college credit."
 
 tal faculty, down 8 percentage points from 2015. The num-
 
@@ -19914,7 +19914,7 @@ bles in Chapter 1, 2, and 6. leges, compared with 68% (SE 5) in 2015. Twenty-two
 
 In fall 2021, the total estimated number of faculty re- cent (22%) of colleges reported weekly contact hour teach-
 
-ported as “full-time permanent” faculty was 9126 (SE 918), ing assignments greater than 15 credit hours, up 3 points
+ported as "full-time permanent" faculty was 9126 (SE 918), ing assignments greater than 15 credit hours, up 3 points
 
 compared with 8314 (SE 840), a 10% decrease of 812 per- from 2015. This included 3% (SE 2) of colleges reporting
 
@@ -20235,7 +20235,7 @@ bers over time. in 2015. Two percent (2%; SE 1) of part-time faculty held
 
 degrees in statistics, down one point from 2015. A six-point
 
-decrease to 13% (3 SEs) was reported in “other fields.” See
+decrease to 13% (3 SEs) was reported in "other fields." See
 
 Educational Credentials of Faculty Table TYF.7.
 
@@ -20669,9 +20669,9 @@ ematics and statistics among U.S. citizens/resident aliens nority faculty within
 
 was 35% in 2019–2020, compared with 36% in 2014–2015. slightly between 2015 and 2021. Caution is suggested in
 
-See Table TYF.9. reviewing the data, as 29% of colleges were “not reported”
+See Table TYF.9. reviewing the data, as 29% of colleges were "not reported"
 
-Table TYF.17 presents the percentage of full-time fac- or “status unknown.” Asian/Pacific Islanders represented
+Table TYF.17 presents the percentage of full-time fac- or "status unknown." Asian/Pacific Islanders represented
 
 ulty in mathematics by age and gender and the percentage the largest ethnic minority groups in fall 2021, down three
 
@@ -20697,7 +20697,7 @@ ulty at two-year colleges are given in Tables TYF.10–TYF.13 nent faculty and t
 
 and Figure TYF.10.1. The minority groups referenced in groups. Caution is again suggested in reviewing the data,
 
-the survey are listed in Table TYF.11. Tables TYF.10 and as 29% of colleges were “not reported” or “status unknown.”
+the survey are listed in Table TYF.11. Tables TYF.10 and as 29% of colleges were "not reported" or "status unknown."
 
 TYF.11 provide a historical perspective, while Tables TYF.12 In fall 2021, the largest percentage of women within a group
 
@@ -21079,7 +21079,7 @@ crease. These faculty under the age of 40 comprised 16% of 2015. When the 1202 c
 
 all full-time permanent faculty, compared to 25% in 2015. ulty are included, the total was 10,328 (SE 1117) persons
 
-The ethnic group “White” was 76% (SE 10) of full-time fac- and represented an increase of 5% compared to 2015. See
+The ethnic group "White" was 76% (SE 10) of full-time fac- and represented an increase of 5% compared to 2015. See
 
 ulty under the age of 40, down 4 points from 2015. The per- Table TYF.1.
 
@@ -21103,7 +21103,7 @@ ican, Puerto Rican, or other Hispanic), down 9 percentage percentage of full-tim
 
 points from 2015. Caution is suggested in reviewing the of 50–59 years decreased seven points to 22% in 2021, a de-
 
-data, given “status unknown” with 1619 (SE 352) persons. crease of 361 persons. The percentage of full-time faculty
+data, given "status unknown" with 1619 (SE 352) persons. crease of 361 persons. The percentage of full-time faculty
 
 Asian/Pacific Islanders comprised 9% (SE 0) of part-time over age 59 was down two points from 2015 to 13% (SE 2)
 
@@ -21373,7 +21373,7 @@ pointments were from graduate school, a decrease of 23% In 2021, 2015, 2010, and
 
 from 2015. This was a decrease of 131 persons from 2015 to method of evaluating full- and part-time teaching was the
 
-2021. In contrast, the percentage of new hires who had been use of “evaluation instruments completed by students.” In
+2021. In contrast, the percentage of new hires who had been use of "evaluation instruments completed by students." In
 
 teaching at four-year institutions was 3% (SE 2) in 2021, 2021, student evaluations were used for full-time faculty
 
@@ -21383,11 +21383,11 @@ In 2015, hiring from among part-time faculty at the same leges for part-time fac
 
 institution was 26% (SE 6), 116 persons. Fall 2021 saw a age points, respectively. The second most common method
 
-16% increase to 42% (SE 16), however, that represented 107 of evaluating both full- and part-time faculty was “observa-
+16% increase to 42% (SE 16), however, that represented 107 of evaluating both full- and part-time faculty was "observa-
 
-faculty appointed from former part-time or full-time tem- tion of classes by other faculty.” “Self-evaluation, such as
+faculty appointed from former part-time or full-time tem- tion of classes by other faculty." "Self-evaluation, such as
 
-porary faculty at the same college and a 10 person decrease teaching portfolios,” was used as a component of the evalu-
+porary faculty at the same college and a 10 person decrease teaching portfolios," was used as a component of the evalu-
 
 from 2015. See Table TYF.18. ation of full-time faculty by 49% (7 SEs) of colleges in 2021,
 
@@ -21399,17 +21399,17 @@ appointed full-time permanent faculty in fall 2021, down cent (20%; SE 6) of res
 
 new faculty with a doctorate degree was 17% (SE 12), up 8 a drop of 42 percentage points.
 
-percentage points from 2015. See Table TYF.19. The percentage of colleges using “observation of classes
+percentage points from 2015. See Table TYF.19. The percentage of colleges using "observation of classes
 
-The 2000, 2005, 2010, 2015, and 2021 CBMS data indi- by other faculty” decreased nine points to 66% (SE 7) for
+The 2000, 2005, 2010, 2015, and 2021 CBMS data indi- by other faculty" decreased nine points to 66% (SE 7) for
 
 cate a decrease of new appointments with a bachelor’s de- full-time faculty and increased fourteen points in 2021 to
 
 gree from 19% to 5% to 2% to 0% to 0% (less than one percent 78% (SE 7) for part-time faculty. The percentage of colleges
 
-and/or round-off may make 0% totals inaccurate), respec- that used “observation of classes by a division or head or
+and/or round-off may make 0% totals inaccurate), respec- that used "observation of classes by a division or head or
 
-tively. other administrator” as a component of full-time faculty
+tively. other administrator" as a component of full-time faculty
 
 In 2021, forty-six percent (46%; SE 15) of new math- evaluation was 61% (SE 7), up sixteen points compared to
 
@@ -21586,15 +21586,15 @@ Note: 0 means less than one half of 1%. Round-off may make column totals seem in
 
 
 
-Professional development obligations and advanced courses” (55%; SE 7), “faculty salaries too low” activities of full-time permanent faculty. In fall (55%; SE 7), and “too few students who intend to transfer
+Professional development obligations and advanced courses" (55%; SE 7), "faculty salaries too low" activities of full-time permanent faculty. In fall (55%; SE 7), and "too few students who intend to transfer
 
-2021, some form of continuing education or professional actually do” (54%; SE 7). See Tables TYF.24 and TYF.25.
+2021, some form of continuing education or professional actually do" (54%; SE 7). See Tables TYF.24 and TYF.25.
 
 development was required of full-time permanent faculty Obtaining travel funds for faculty professional develop-
 
-at 84% (SE 5) of two-year colleges, up two points from 2015. ment have historically been a department concern. “Lack
+at 84% (SE 5) of two-year colleges, up two points from 2015. ment have historically been a department concern. "Lack
 
-Data was collected in CBMS2015 about ways to meet pro- of or reduced funds” available for faculty professional travel
+Data was collected in CBMS2015 about ways to meet pro- of or reduced funds" available for faculty professional travel
 
 fessional development requirements but was not collected and other professional development activities was less of a
 
@@ -21602,35 +21602,35 @@ in 2021. See Table TYF.23. concern to mathematics departments in 2021. In 2015, 
 
 concern about the level of travel funding for mathematics
 
-Concerns and issues in mathematics depart-faculty by program heads was a “major concern” in 25% (SE
+Concerns and issues in mathematics depart-faculty by program heads was a "major concern" in 25% (SE
 
-ments. Table TYF.24 presents various problems experi-4) of reporting colleges and “somewhat of a problem” by
+ments. Table TYF.24 presents various problems experi-4) of reporting colleges and "somewhat of a problem" by
 
 enced by mathematics departments in two-year colleges in 31% (SE 3) of reporting colleges; this decreased to 10% (SE
 
 2021. The three items reported by mathematics program 4) in each case in 2021.
 
-heads with the highest percentage as being a “major prob- In the CBMS surveys between 1985 and 2015, sixty per-
+heads with the highest percentage as being a "major prob- In the CBMS surveys between 1985 and 2015, sixty per-
 
-lem” in 2021 were: “low student motivation” (48%; SE 7), cent or more of mathematics program heads classified “too
+lem" in 2021 were: "low student motivation" (48%; SE 7), cent or more of mathematics program heads classified "too
 
-“students not understanding the demands of college work” many students needing remediation” as a “major” prob-
+"students not understanding the demands of college work" many students needing remediation" as a "major" prob-
 
-(42%; SE 7), and “lack of student progress from develop- lem for their departments. This was the number one major
+(42%; SE 7), and "lack of student progress from develop- lem for their departments. This was the number one major
 
-mental to advanced courses” (29%; SE 6). problem in 2015, 2010, 2005, 2000, and 1995. In fall 2021,
+mental to advanced courses" (29%; SE 6). problem in 2015, 2010, 2005, 2000, and 1995. In fall 2021,
 
 Table TYF.25 includes additional data on the extent this figure decreased to 38% (SE 7), compared to 64% (SE 5)
 
-to which program heads thought items listed were a “ma- in 2015. A possible reason for this decrease could be the in-
+to which program heads thought items listed were a "ma- in 2015. A possible reason for this decrease could be the in-
 
-jor” problem, “somewhat” of a problem, or a “minor or crease in the Pathways offerings (see Table TYE.10 and the
+jor" problem, "somewhat" of a problem, or a "minor or crease in the Pathways offerings (see Table TYE.10 and the
 
-no” problem. When considering issues reported as “some- discussion in Chapter 6). See Tables TYF.24 and TYF.25.
+no" problem. When considering issues reported as "some- discussion in Chapter 6). See Tables TYF.24 and TYF.25.
 
-what of a problem,” the top three items and their percent-
+what of a problem," the top three items and their percent-
 
-ages were: “lack of student progress from developmental to
+ages were: "lack of student progress from developmental to
 
 
 
@@ -21745,7 +21745,7 @@ Chapter 7. Two-Year College Mathematics Program Faculty and Program Administrati
 
 
 
-TABLE TYF.24. Percentage of program heads classifying various problems as “major” in mathematics depart-
+TABLE TYF.24. Percentage of program heads classifying various problems as "major" in mathematics depart-
 
 ments at two-year colleges in fall 2005, 2010, 2015, and 2021.
 
@@ -22863,13 +22863,13 @@ Target Population and Sampling Frames The three parts of the frame were each str
 
 the same two variables that were used in the previous
 
-The Integrated Postsecondary Education Data System three rounds of the CBMS survey, that is, “Highest Degree
+The Integrated Postsecondary Education Data System three rounds of the CBMS survey, that is, "Highest Degree
 
-(IPEDS), a database maintained by the National Center for Granted by the Institution” (PhD, MA, or BA) and “Institu-
+(IPEDS), a database maintained by the National Center for Granted by the Institution" (PhD, MA, or BA) and "Institu-
 
 Education Statistics within the U.S. Department of Educa- tional Full-Time Equivalent (FTE) Undergraduate Fall En-
 
-tion, was used as a basis for building a frame for this sur- rollment.” After an initial investigation on the population
+tion, was used as a basis for building a frame for this sur- rollment." After an initial investigation on the population
 
 vey. For the academic year 2019–2020, there were approxi- distributions of the two variables, it was determined that the
 
@@ -23959,7 +23959,7 @@ March 2021
 
 
 
-The following report is a summary of results from a “Online synchronous” was most survey of undergraduate mathematical and statistical commonly used format sciences programs in two-year and four-year
+The following report is a summary of results from a "Online synchronous" was most survey of undergraduate mathematical and statistical commonly used format sciences programs in two-year and four-year
 
 institutions in the US about how the COVID-19
 
@@ -23979,7 +23979,7 @@ types of departments addressed class formats through
 
 Conference Board of the Mathematical Sciences (CBMS)
 
-the question, “Based on your current plans for the fall
+the question, "Based on your current plans for the fall
 
 in October and November 2020 by the American
 
@@ -23991,7 +23991,7 @@ mathematical sciences sections are taught in the
 
 and with funding from the National Science Foundation,
 
-following formats?”
+following formats?"
 
 the survey consists of six multiple-choice questions, a
 
@@ -24047,19 +24047,19 @@ Percentages may add to more than 100.
 
 • Considering the total of all respondents and
 
-combining the two categories of “almost all” and
+combining the two categories of "almost all" and
 
-“more than half of courses”, the format “only
+"more than half of courses", the format "only
 
-online synchronous” was the most frequently
+online synchronous" was the most frequently
 
-used option (50%), followed by “a mixture of
+used option (50%), followed by "a mixture of
 
-online and face-to-face sessions” (26%; Figure 1).
+online and face-to-face sessions" (26%; Figure 1).
 
-• “Only online and asynchronous” and “only online
+• "Only online and asynchronous" and "only online
 
-synchronous” together accounted for the
+synchronous" together accounted for the
 
 responses from 53% of the mathematics
 
@@ -24071,11 +24071,11 @@ mathematics departments at two-year colleges.
 
 • The least used format in all the departments
 
-combined was “only face-to-face” (10%).
+combined was "only face-to-face" (10%).
 
-• There was more frequent use of the “only online
+• There was more frequent use of the "only online
 
-only asynchronous” format at two-year colleges
+only asynchronous" format at two-year colleges
 
 (24%) and in statistics departments (19%) than at
 
@@ -24085,9 +24085,9 @@ four-year mathematics departments (7%).
 
 • Private four-year mathematics departments
 
-reported offering “almost all” or “more than half”
+reported offering "almost all" or "more than half"
 
-of their courses in “face-to-face” or a “mixture”
+of their courses in "face-to-face" or a "mixture"
 
 format (60%) than departments at public
 
@@ -24119,7 +24119,7 @@ survey was designed to elicit information about these
 
 changes. Figure 2a gives insight to schedule changes
 
-that departments made. The percentages shown are of • Among the total of all responses, terms were “yes” responses to the indicated changes. Note that subdivided at few (7%) departments, and the these numbers are not meant to sum together. terms were shortened at 19% of departments Figure 2b also shows “yes” responses to statements (31% of four-year mathematics departments).
+that departments made. The percentages shown are of • Among the total of all responses, terms were "yes" responses to the indicated changes. Note that subdivided at few (7%) departments, and the these numbers are not meant to sum together. terms were shortened at 19% of departments Figure 2b also shows "yes" responses to statements (31% of four-year mathematics departments).
 
 regarding staffing changes. The results indicate that the • Thirty-three percent of all departments cancelled most frequently utilized personnel changes—except in some classes. Classes were more likely to be the statistics group—were reductions in part-time cancelled at two-year college mathematics faculty numbers and more sections assigned to full-time departments (43%). faculty. Table 2 in the Appendix gives further
 
@@ -24163,19 +24163,19 @@ Emphasis on online over in-person department types. Overwhelmingly, respondents 
 
 that face-to-face outcomes are better. Their responses
 
-Approximately two-thirds of respondents indicated that showed a mix of opinion regarding whether students “more than half” or “almost all” of their staff received have a choice of modality. While mathematics and training in online instruction, and much smaller statistics respondents felt that students were numbers cited similar training for in-person/socially- adequately equipped for online learning, there was distanced teaching. Figure 3 shows these percentages disagreement among two-year respondents about how across the three groups of departments. well students were equipped.
+Approximately two-thirds of respondents indicated that showed a mix of opinion regarding whether students "more than half" or "almost all" of their staff received have a choice of modality. While mathematics and training in online instruction, and much smaller statistics respondents felt that students were numbers cited similar training for in-person/socially- adequately equipped for online learning, there was distanced teaching. Figure 3 shows these percentages disagreement among two-year respondents about how across the three groups of departments. well students were equipped.
 
 
 
 
 
-“Students’ learning outcomes from a face-to-face
+"Students’ learning outcomes from a face-to-face
 
-learning experience are better in an online experience”:
+learning experience are better in an online experience":
 
-72% of all respondents agreed (i.e., “agreed” or
+72% of all respondents agreed (i.e., "agreed" or
 
-“strongly agreed”), and this response was relatively
+"strongly agreed"), and this response was relatively
 
 consistent over the three types of institutions
 
@@ -24183,9 +24183,9 @@ consistent over the three types of institutions
 
 
 
-• “Students have a choice of which mode of
+• "Students have a choice of which mode of
 
-instruction they receive”: 47% of all respondents
+instruction they receive": 47% of all respondents
 
 agreed and 38% disagreed, but this percentage
 
@@ -24193,21 +24193,21 @@ was different across different types of institutions.
 
  In four-year college mathematics departments,
 
-the percentage of those “(strongly) agreeing”
+the percentage of those "(strongly) agreeing"
 
 was about the same as the percentage as those
 
-“(strongly) disagreeing”.
+"(strongly) disagreeing".
 
  A larger percentage of statistics departments
 
-“(strongly) disagreed” than “(strongly) agreed”.
+"(strongly) disagreed" than "(strongly) agreed".
 
 
 
-•  More two-year college mathematics At all departments combined “almost all” plus
+•  More two-year college mathematics At all departments combined "almost all" plus
 
-“more than half” of their faculty received training departments “(strongly) agreed” than in online instruction at 68% of departments and “(strongly) disagreed”. training in face-to-face instruction with social
+"more than half" of their faculty received training departments "(strongly) agreed" than in online instruction at 68% of departments and "(strongly) disagreed". training in face-to-face instruction with social
 
 distancing at 16% of departments (Figure 3).
 
@@ -24221,33 +24221,33 @@ distancing at 16% of departments (Figure 3).
 
 
 
-• “Students taking courses online have the to adequate equipment for online teaching, (2) prefer
+• "Students taking courses online have the to adequate equipment for online teaching, (2) prefer
 
-equipment and internet connections required for face-to-face teaching, and (3) have choices about taking courses online”: Across the total of all teaching modality.
+equipment and internet connections required for face-to-face teaching, and (3) have choices about taking courses online": Across the total of all teaching modality.
 
 
 
-(strongly) disagreed. • “Instructional staff teaching online have access to respondents, 52% (strongly) agreed and 30%
+(strongly) disagreed. • "Instructional staff teaching online have access to respondents, 52% (strongly) agreed and 30%
 
 adequate equipment and technology for teaching
 
- In two-year college mathematics departments, online”: Ninety-six percent of statistics
+ In two-year college mathematics departments, online": Ninety-six percent of statistics
 
 there were about the same percentage of departments, 76% of four-year college departments (strongly) agreeing (42%) as mathematics departments, and 69% of two-year departments (strongly) disagreeing (43%). college mathematics departments (strongly)
 
  In four-year college mathematics departments, agreed.
 
-more departments (strongly) agreed (59%) • “Instructional staff prefer to teach face-to-face than (strongly) disagreed (20%). classes”: Across all respondents combined 73%
+more departments (strongly) agreed (59%) • "Instructional staff prefer to teach face-to-face than (strongly) disagreed (20%). classes": Across all respondents combined 73%
 
  In statistics departments, almost all (strongly) agreed and 13% (strongly) disagreed,
 
 departments (strongly) agreed (69%) as and this percentage was relatively consistent opposed to those that (strongly) disagreed across all three types of departments.
 
-(4%). • “Instructional staff have a choice of which mode
+(4%). • "Instructional staff have a choice of which mode
 
 
 
-Instructional staff have adequate of teaching they provide”: Across all respondents
+Instructional staff have adequate of teaching they provide": Across all respondents
 
 combined 55% (strongly) agreed and 35%
 
@@ -24277,23 +24277,23 @@ Appendix IV. COVID-19 Survey Report 211
 
 
 
-Tables 1 and 4 are combined, we see that at four-year college mathematics departments, as departments where almost all sections were in a the percentage of “almost none” were adequately
+Tables 1 and 4 are combined, we see that at four-year college mathematics departments, as departments where almost all sections were in a the percentage of "almost none" were adequately
 
 particular format, there was less agreement with prepared was 9% at two-year college mathematics the statement that the instructor could choose departments, 31% at statistics departments, and their mode of instruction because choice was not 36% at four-year college mathematics possible. departments.
 
 
 
-Training for online teaching increased Twenty-five percent of all departments combined • had “almost all” or “more than half” of their dramatically with the pandemic faculty adequately prepared pre-pandemic. Ninety
+Training for online teaching increased Twenty-five percent of all departments combined • had "almost all" or "more than half" of their dramatically with the pandemic faculty adequately prepared pre-pandemic. Ninety
 
 
 
-Figure 5 shows a dramatic shift in preparedness to percent of all departments had “almost all” or “more than half” of their faculty adequately teach online between the winter/spring 2020 and fall prepared after the pandemic—a dramatic change. 2020 terms. Chairs were asked the question, “During the terms listed below, what proportion of your • The percentage of departments with “almost all” department’s instructional staff were/are adequately or “more than half” of their faculty adequately prepared to teach online?” and by fall, it was quite rare prepared in fall 2020 was relatively consistent for instructors to be unprepared for online teaching. across all types of institutions. In fall 2020
+Figure 5 shows a dramatic shift in preparedness to percent of all departments had "almost all" or "more than half" of their faculty adequately teach online between the winter/spring 2020 and fall prepared after the pandemic—a dramatic change. 2020 terms. Chairs were asked the question, "During the terms listed below, what proportion of your • The percentage of departments with "almost all" department’s instructional staff were/are adequately or "more than half" of their faculty adequately prepared to teach online?" and by fall, it was quite rare prepared in fall 2020 was relatively consistent for instructors to be unprepared for online teaching. across all types of institutions. In fall 2020
 
 statistics departments had the largest percentage
 
-• At each of the three types of department, the of “almost all” adequately prepared to teach
+• At each of the three types of department, the of "almost all" adequately prepared to teach
 
-largest percentage was “less than half” of the online (73%), followed by two-year college faculty were adequately prepared to teach online mathematics departments (65%), and then by pre-pandemic. Faculty were better prepared pre- four-year college mathematics departments pandemic at two-year college mathematics (54%). departments than at statistics departments or at
+largest percentage was "less than half" of the online (73%), followed by two-year college faculty were adequately prepared to teach online mathematics departments (65%), and then by pre-pandemic. Faculty were better prepared pre- four-year college mathematics departments pandemic at two-year college mathematics (54%). departments than at statistics departments or at
 
 
 
@@ -24309,13 +24309,13 @@ Two-year departments most interested • Private mathematics departments at four
 
 
 
-Faculty and leaders in departments in two-year more online courses in the future (25%). institutions overall show the strongest interest in more • “We are considering offering a broader range of and broadened online course offerings, and smaller distance learning formats in mathematical four-year mathematics and private institutions showed sciences classes (e.g., more types of mathematics the least interest in these sorts of future changes. courses).” Overall, 37% of respondents (strongly) Overall, though, a majority of departments believe that agreed and 37% (strongly) disagreed. Across all more faculty are interested in teaching online courses types of departments, a larger percentage and possibly more sections of online courses will be (strongly) disagreed than (strongly) agreed, except offered. Figure 6 summarizes. for statistics departments and two-year college
+Faculty and leaders in departments in two-year more online courses in the future (25%). institutions overall show the strongest interest in more • "We are considering offering a broader range of and broadened online course offerings, and smaller distance learning formats in mathematical four-year mathematics and private institutions showed sciences classes (e.g., more types of mathematics the least interest in these sorts of future changes. courses)." Overall, 37% of respondents (strongly) Overall, though, a majority of departments believe that agreed and 37% (strongly) disagreed. Across all more faculty are interested in teaching online courses types of departments, a larger percentage and possibly more sections of online courses will be (strongly) disagreed than (strongly) agreed, except offered. Figure 6 summarizes. for statistics departments and two-year college
 
 mathematics departments.
 
 
 
-• “We are considering offering a greater number of distance learning mathematical sciences classes.” • “Additional faculty are showing interest in Combining all respondents, 47% (strongly) agreed participating in distance learning.” Across all respondents 45% (strongly) agreed and 30% while 31% (strongly) disagreed. The percentage of (strongly) disagreed, with 52% of two-year college two-year college mathematics departments
+• "We are considering offering a greater number of distance learning mathematical sciences classes." • "Additional faculty are showing interest in Combining all respondents, 47% (strongly) agreed participating in distance learning." Across all respondents 45% (strongly) agreed and 30% while 31% (strongly) disagreed. The percentage of (strongly) disagreed, with 52% of two-year college two-year college mathematics departments
 
 
 
@@ -24345,7 +24345,7 @@ least 10%.
 
 
 
-Departments were asked, “What are the total Fall • Statistics was the only type of department enrollments in mathematics and statistics courses in reporting a larger percentage of departments with your department for 2019 and 2020? If your Fall term some increase (both categories of increase added has been split into shorter blocks, combine enrollments together) than some decrease (both categories of for all of the blocks in the term.” Overall, more decrease added together).
+Departments were asked, "What are the total Fall • Statistics was the only type of department enrollments in mathematics and statistics courses in reporting a larger percentage of departments with your department for 2019 and 2020? If your Fall term some increase (both categories of increase added has been split into shorter blocks, combine enrollments together) than some decrease (both categories of for all of the blocks in the term." Overall, more decrease added together).
 
 departments reported essentially no change in • In most of the types of departments, the largest enrollment between the two fall terms than any other single category was a change of under 5% (i.e., size change. That said, nearly a third of departments little change) in enrollment—except at two-year reported enrollment decreases of more than 10%. The college mathematics departments (where the department group with the largest percentage citing largest percentage is a decrease of at least 10% in enrollment increase was statistics. Figure 7 provides enrollment). details.
 
@@ -24379,27 +24379,27 @@ grade inflation.
 
 The survey incorporated two free-response questions,
 
-designed respectively to get at the respondents’ sense • “Determining how to effectively do testing.”
+designed respectively to get at the respondents’ sense • "Determining how to effectively do testing."
 
-of key challenges and opportunities presented by • Additional time required by instructor to enforce pandemic conditions. First, the challenge question was, showing all workspace during tests to “ensure “What stands out to you as the greatest difficulty your students are not using cell phone online solvers.”
+of key challenges and opportunities presented by • Additional time required by instructor to enforce pandemic conditions. First, the challenge question was, showing all workspace during tests to "ensure "What stands out to you as the greatest difficulty your students are not using cell phone online solvers."
 
 
 
-department has faced with relation to the COVID-19 • “Providing students with annotate corrections on pandemic? Describe only one.” tests and quizzes.”
+department has faced with relation to the COVID-19 • "Providing students with annotate corrections on pandemic? Describe only one." tests and quizzes."
 
 In the free responses to this question from two-year Regarding the theme of making connections to college mathematics departments, student assessment students, respondents addressed the motivation of and making connections with students emerged as students, engaging students, and employing active frequently-cited challenges. learning strategies:
 
 
 
-In connection with assessment, respondents mentioned • “Interactions between students and faculty have both academic integrity and faculty time and expertise reduced in quality and quantity to a point where with online testing: students feel that they have issues with
+In connection with assessment, respondents mentioned • "Interactions between students and faculty have both academic integrity and faculty time and expertise reduced in quality and quantity to a point where with online testing: students feel that they have issues with
 
 
 
-• comprehension, mentorship, and Increase number of academic dishonesty incidents competitiveness.” Faculty and students feel on exams. “Rampant cheating online, inability to isolated. stop it.” “Continual struggle how to ensure
+• comprehension, mentorship, and Increase number of academic dishonesty incidents competitiveness." Faculty and students feel on exams. "Rampant cheating online, inability to isolated. stop it." "Continual struggle how to ensure
 
-academic integrity of exams.” • “Online communication is a poor substitute for in-
+academic integrity of exams." • "Online communication is a poor substitute for in-
 
-person.”
+person."
 
 
 
@@ -24411,9 +24411,9 @@ Appendix IV. COVID-19 Survey Report 215
 
 
 
-• “Students are choosing to join class remotely out • Maintaining the usual course content.
+• "Students are choosing to join class remotely out • Maintaining the usual course content.
 
-of convenience. It is difficult to connect with these • Engaging students in the new modalities and students and they have various distractions at helping students who were struggling. home.”
+of convenience. It is difficult to connect with these • Engaging students in the new modalities and students and they have various distractions at helping students who were struggling. home."
 
 • Designing appropriate assessments and problems
 
@@ -24435,9 +24435,9 @@ Other difficulties reported by two-year college • Finding adequate classrooms 
 
 • instruction. Lack of bandwidth and technology equipment.
 
-Students not technically prepared for online • The administration’s uncertain and changing classes. “Access to adequate equipment. Most plans, cuts in budgets, poor communication, and technology in faculty hands are centered around lack of faculty involvement in decision-making.
+Students not technically prepared for online • The administration’s uncertain and changing classes. "Access to adequate equipment. Most plans, cuts in budgets, poor communication, and technology in faculty hands are centered around lack of faculty involvement in decision-making.
 
-face-to-face classes.” • Cuts in numbers of faculty and increasing teaching
+face-to-face classes." • Cuts in numbers of faculty and increasing teaching
 
 • loads. The new modalities required more faculty Converting to/from face-to-face instruction to
 
@@ -24445,7 +24445,7 @@ remote instruction. time resulting in low morale and burn-out.
 
 • • Concern that other responsibilities of faculty such Training faculty.
 
-Among respondents in four-year mathematics and as research were compromised statistics programs, a wide variety of difficulties were • A lack of equipment and technical support for reported. Indeed, one response was: “that there are SO faculty. Remote students having inadequate MANY challenges at once.” equipment, internet access, and good working
+Among respondents in four-year mathematics and as research were compromised statistics programs, a wide variety of difficulties were • A lack of equipment and technical support for reported. Indeed, one response was: "that there are SO faculty. Remote students having inadequate MANY challenges at once." equipment, internet access, and good working
 
 environments; accommodating students abroad in
 
@@ -24457,7 +24457,7 @@ distancing, and mixed) for which they were • Addressing student and parent com
 
 initially unprepared, for which they had little • Pressure to offer face-to-face courses, and faculty training and without established departmental reluctance to teach face-to-face. norms.
 
-• Maintaining quality instruction: “the median Opportunities: Learning new teaching
+• Maintaining quality instruction: "the median Opportunities: Learning new teaching
 
 
 
@@ -24465,13 +24465,13 @@ quality of teaching is lower, and the variation is methods and styles, greater f
 
 
 
-bigger”. Replicating active learning, group work, sympathy for students, and more and office hours in online courses.
+bigger". Replicating active learning, group work, sympathy for students, and more and office hours in online courses.
 
-• Institutions using “HyFlex” modalities, where inclusiveness
+• Institutions using "HyFlex" modalities, where inclusiveness
 
 students could choose their modalities, and
 
-The second free-response question was, “What is the
+The second free-response question was, "What is the
 
 accommodating quarantined students, forced
 
@@ -24479,7 +24479,7 @@ greatest benefit, if any, that you see as arising because
 
 faculty to teach in different modalities in the same
 
-of the COVID-19 pandemic? Describe only one.” Among
+of the COVID-19 pandemic? Describe only one." Among
 
 section.
 
@@ -24501,27 +24501,27 @@ opportunity to learn new methods and styles of occur online), and some departmen
 
 professional development. • Faculty are now familiar with new technologies
 
-• (e.g., making videos, using learning management “Faculty have learned online teaching strategies
+• (e.g., making videos, using learning management "Faculty have learned online teaching strategies
 
-and technology that will help them in their future systems, having students submit assignments classes.” electronically) that will be used in the return to
+and technology that will help them in their future systems, having students submit assignments classes." electronically) that will be used in the return to
 
 normal instruction.
 
-• “Potential development of web sections for
+• "Potential development of web sections for
 
-courses that were not under consideration • Faculty found teaching techniques such as before.” “flipped” classes, new assessments, additional
-
-
-
-• “We are learning to use tools that we've had student attention (e.g., putting course content materials for students, and new ways of capturing
+courses that were not under consideration • Faculty found teaching techniques such as before." "flipped" classes, new assessments, additional
 
 
 
-access to for a long time but sat dormant for lack into modules) effective. These techniques are of perceived need.” likely to be used in normal times.
+• "We are learning to use tools that we've had student attention (e.g., putting course content materials for students, and new ways of capturing
 
 
 
-• “Instructors have learned many things; using • Faculty are now more open to trying new teaching Zoom, using drawing tablets, e.g., to help the methods and to rethinking course content. learning environment in different situations.” • Learning Centers provided remote tutoring that • “More students and instructors were educated on may continue and serve more students. the use of technology.” • Faculty have become more sympathetic to the • “More instructors are aware of technology that problems of students and colleagues, which may can be used to enhance their traditional classes.” help inclusiveness and response to under-
+access to for a long time but sat dormant for lack into modules) effective. These techniques are of perceived need." likely to be used in normal times.
+
+
+
+• "Instructors have learned many things; using • Faculty are now more open to trying new teaching Zoom, using drawing tablets, e.g., to help the methods and to rethinking course content. learning environment in different situations." • Learning Centers provided remote tutoring that • "More students and instructors were educated on may continue and serve more students. the use of technology." • Faculty have become more sympathetic to the • "More instructors are aware of technology that problems of students and colleagues, which may can be used to enhance their traditional classes." help inclusiveness and response to under-
 
 Two-year college chairs also mentioned the following: represented groups.
 
@@ -24535,21 +24535,21 @@ delivery. advantages over face-to-face instruction, including
 
 • breakout groups that worked better than some Meetings were streamlined and more convenient. face-to-face group work settings, that some • Faculty realization that students are able to learn students were more willing to write questions in mathematics remotely. the Zoom chat than to ask a question in class, that
 
-• “More students are realizing they can succeed in online classes solved some space problems on
+• "More students are realizing they can succeed in online classes solved some space problems on
 
-online sections.” campus, that online courses may be more
+online sections." campus, that online courses may be more
 
 
 
 Almost ten percent of respondents felt there was convenient for non-traditional students, and they no can provide students from around the world benefit : expanding enrollments.
 
-• “None. It has been an excruciating and • Teaching remotely saved time that was usually
+• "None. It has been an excruciating and • Teaching remotely saved time that was usually
 
-problematic transition with no upside.” lost commuting.
+problematic transition with no upside." lost commuting.
 
-• “None - too many changes and knee jerk • Recordings of class sessions provided students the
+• "None - too many changes and knee jerk • Recordings of class sessions provided students the
 
-reactions, enrollment down 13%.” ability to watch class sessions again.
+reactions, enrollment down 13%." ability to watch class sessions again.
 
 
 
@@ -25361,7 +25361,7 @@ students would not normally be in the same
 
 section.
 
-c. We offer some “hybrid” courses to on-campus
+c. We offer some "hybrid" courses to on-campus
 
 (face-to-face) learners and remote learners in
 
@@ -25663,7 +25663,7 @@ will be used to generate a reduced course list suitable for your department so r
 
 • Make sure that no course is reported in more than one row. • Calculus and Introductory Statistics classes. You will be asked to list separately classes
 
-taught in a large lecture format (with recitation/problem/laboratory sections) and, sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). Please treat any large class that is sometimes broken up into smaller units as a “lecture/recitation” class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate description of the enrollment, enter the enrollment under “other.”
+taught in a large lecture format (with recitation/problem/laboratory sections) and, sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). Please treat any large class that is sometimes broken up into smaller units as a "lecture/recitation" class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate description of the enrollment, enter the enrollment under "other."
 
 
 
@@ -26011,9 +26011,9 @@ enrollments. Distance/remote learning courses are those courses offered by your 
 
 • Columns (c) and (d) for Calculus and Introductory Statistics classes. You will be asked to
 
-list separately classes taught in a large lecture format (with recitation/problem/laboratory sections) and sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). For example, for Mainstream Calculus I, you will be asked for both the number of large lecture courses (E13-1 column (c)) and the total number of recitation sections for all the large lectures (E13-1 column (d)). Please treat any large class that is sometimes broken up into smaller units as a “lecture/recitation” class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate description of the enrollment, enter the enrollment under “other”.
+list separately classes taught in a large lecture format (with recitation/problem/laboratory sections) and sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). For example, for Mainstream Calculus I, you will be asked for both the number of large lecture courses (E13-1 column (c)) and the total number of recitation sections for all the large lectures (E13-1 column (d)). Please treat any large class that is sometimes broken up into smaller units as a "lecture/recitation" class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate description of the enrollment, enter the enrollment under "other".
 
-• Courses, sections, and sessions. In this questionnaire, “course” is used to refer to the
+• Courses, sections, and sessions. In this questionnaire, "course" is used to refer to the
 
 topic area (e.g., Calculus 1 or Number Theory). You may have multiple faculty teaching the same course in the same term but at different times or locations; these divisions of the topic area into separate instances of teaching are called sections. Within a section, you may have times when the students are divided into laboratory or recitation sessions; these are counted as recitation sessions, not as separate sections.
 
@@ -26293,7 +26293,7 @@ will be used to generate a reduced course list suitable for your department so r
 
 • Make sure that no course is reported in more than one row. • Calculus and Introductory Statistics classes. You will be asked to list separately classes
 
-taught in a large lecture format (with recitation/problem/laboratory sections) and, sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). Please treat any large class that is sometimes broken up into smaller units as a “lecture/recitation” class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate description of the enrollment, enter the enrollment under “other.”
+taught in a large lecture format (with recitation/problem/laboratory sections) and, sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). Please treat any large class that is sometimes broken up into smaller units as a "lecture/recitation" class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate description of the enrollment, enter the enrollment under "other."
 
 Taught in Catalog code(s) fall 2021 used for Fall 2021
 
@@ -26391,7 +26391,7 @@ will be used to generate a reduced course list suitable for your department so r
 
 • Make sure that no course is reported in more than one row. • Calculus and Introductory Statistics classes. You will be asked to list separately classes
 
-taught in a large lecture format (with recitation/problem/laboratory sections) and, sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). Please treat any large class that is sometimes broken up into smaller units as a “lecture/recitation” class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate description of the enrollment, enter the enrollment under “other.”
+taught in a large lecture format (with recitation/problem/laboratory sections) and, sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). Please treat any large class that is sometimes broken up into smaller units as a "lecture/recitation" class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate description of the enrollment, enter the enrollment under "other."
 
 
 
@@ -26511,9 +26511,9 @@ enrollments. Distance/remote learning courses are those courses offered by your 
 
 • Columns (c) and (d) for Calculus and Introductory Statistics classes. You will be asked to
 
-list separately classes taught in a large lecture format (with recitation/problem/laboratory sections) and sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). For example, for Introductory Statistics, you will be asked for both the number of large lecture courses (F1-1 column (c)) and the total number of recitation sections for all the large lectures (F1-1 column (d)). Please treat any large class that is sometimes broken up into smaller units as a “lecture/recitation” class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate description of the enrollment, enter the enrollment under “other”.
+list separately classes taught in a large lecture format (with recitation/problem/laboratory sections) and sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). For example, for Introductory Statistics, you will be asked for both the number of large lecture courses (F1-1 column (c)) and the total number of recitation sections for all the large lectures (F1-1 column (d)). Please treat any large class that is sometimes broken up into smaller units as a "lecture/recitation" class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate description of the enrollment, enter the enrollment under "other".
 
-• Courses, sections, and sessions. In this questionnaire, “course” is used to refer to the
+• Courses, sections, and sessions. In this questionnaire, "course" is used to refer to the
 
 topic area (e.g., Calculus 1 or Number Theory). You may have multiple faculty teaching the same course in the same term but at different times or locations; these divisions of the topic area into separate instances of teaching are called sections. Within a section, you may have times when the students are divided into laboratory or recitation sessions; these are counted as recitation sessions, not as separate sections.
 
@@ -26755,7 +26755,7 @@ No .................... If No, go to Section H.
 
 
 
-In December 2013, a joint IEEE Computer Society/ACM Task Force issued its recommendations on “Computer Science Curricula 2013.”
+In December 2013, a joint IEEE Computer Society/ACM Task Force issued its recommendations on "Computer Science Curricula 2013."
 
 That report, which listed 18 Knowledge Areas, is available by clicking http://www.acm.org/education/CS2013-final-report.pdf
 
@@ -26919,7 +26919,7 @@ questionnaire, a dual enrollment section is one that is conducted in a high scho
 
 Distance/remote learning courses are those courses offered by your institution for credit, in which more than half of the instruction occurs with the instructor and the students separated by time and /or place, facilitated by technology (e.g. courses in which more than half of the course is taught online synchronously or asynchronously, or by computer software, or by other technologies).
 
-• Courses, sections, and sessions. In this questionnaire, “course” is used to refer to the topic
+• Courses, sections, and sessions. In this questionnaire, "course" is used to refer to the topic
 
 area (e.g., Calculus 1 or Number Theory). You may have multiple faculty teaching the same course in the same term but at different times or locations; these divisions of the topic area into separate instances of teaching are called sections. Within a section, you may have times when the students are divided into laboratory or recitation sessions; these are counted as recitation sessions, not as separate sections.
 
@@ -27067,7 +27067,7 @@ Introductory Mathematics
 
 
 
-H1. Has your department offered a non-traditional “pathways” course sequence within the last five
+H1. Has your department offered a non-traditional "pathways" course sequence within the last five
 
 years?
 
@@ -27081,7 +27081,7 @@ No ...................
 
 
 
-(“Pathways” is defined to be a single course or course sequence that enables students to complete a college-level gateway mathematics or statistics course that is aligned to students' academic and/or career goals within one academic year.)
+("Pathways" is defined to be a single course or course sequence that enables students to complete a college-level gateway mathematics or statistics course that is aligned to students' academic and/or career goals within one academic year.)
 
 
 
@@ -27373,7 +27373,7 @@ f. Joint 1 Mathematics Majors .....................................
 
 g. Other Mathematics Majors .....................................
 
-1 A “double major” is a student who completes the degree requirements of two separate majors, one in mathematics and one in another program or department. A “joint major” is a student who completes a single major in your department that integrates courses from mathematics and some other program or department and typically requires fewer credit hours that the sum of the credit hours required by the separate majors.
+1 A "double major" is a student who completes the degree requirements of two separate majors, one in mathematics and one in another program or department. A "joint major" is a student who completes a single major in your department that integrates courses from mathematics and some other program or department and typically requires fewer credit hours that the sum of the credit hours required by the separate majors.
 
 
 
@@ -27531,7 +27531,7 @@ in our undergraduate program ...................................................
 
 
 
-I6. Please indicate the extent to which the following activities have taken place in the past year in your department in response to increased national attention to equity, diversity, and inclusion issues (here the term “demographic” includes race, ethnicity, gender, disability status, and other characteristics of individuals).
+I6. Please indicate the extent to which the following activities have taken place in the past year in your department in response to increased national attention to equity, diversity, and inclusion issues (here the term "demographic" includes race, ethnicity, gender, disability status, and other characteristics of individuals).
 
 
 
@@ -27937,7 +27937,7 @@ areas indicate whether the core area is required of all students seeking mathema
 
 If required Special
 
-is “No” Course
+is "No" Course
 
 Required
 
@@ -28277,7 +28277,7 @@ As part of a random sample, your department has been selected to participate in 
 
 
 
-If your college does not have a departmental or divisional structure, consider the group of all mathematics instructors to be the “mathematics department” for the purpose of this survey.
+If your college does not have a departmental or divisional structure, consider the group of all mathematics instructors to be the "mathematics department" for the purpose of this survey.
 
 
 
@@ -28487,7 +28487,7 @@ Number of full-time mathematics faculty ........................................
 
 B2. Of the number in B1, how many are tenured, tenure-eligible, on a tenure-track, or
 
-otherwise considered to be permanent faculty (including appointive and probationary faculty, and those who are on leave or sabbatical)? We will refer to these as “permanent full-time faculty.”
+otherwise considered to be permanent faculty (including appointive and probationary faculty, and those who are on leave or sabbatical)? We will refer to these as "permanent full-time faculty."
 
 
 
@@ -28497,7 +28497,7 @@ Number of permanent full-time faculty ..........................................
 
 B3. Of the number in B1 and excluding those in B2, how many are continuing full-
 
-time faculty? We will refer to these as “non-tenure-track full-time faculty.”
+time faculty? We will refer to these as "non-tenure-track full-time faculty."
 
 
 
@@ -28505,7 +28505,7 @@ Number of non-tenure track full-time faculty ...................................
 
 
 
-B4. Give the number of “other full-time faculty” by computing B1 minus (B2 and B3)
+B4. Give the number of "other full-time faculty" by computing B1 minus (B2 and B3)
 
 
 
@@ -28709,7 +28709,7 @@ students would not normally be in the same
 
 section.
 
-c. We offer some “hybrid” courses to on-campus
+c. We offer some "hybrid" courses to on-campus
 
 (face-to-face) learners and remote learners in
 
@@ -28847,11 +28847,11 @@ D. Pathways and Instructional Strategies Two-Year College Mathematics Questionna
 
 
 
-D1. Has your mathematics department or developmental education department offered a “pathways” course sequence within the last five years?
+D1. Has your mathematics department or developmental education department offered a "pathways" course sequence within the last five years?
 
 
 
-(“Pathways” is defined to be a single course or course sequence that enables students
+("Pathways" is defined to be a single course or course sequence that enables students
 
 to complete a college-level gateway mathematics or statistics course that is aligned to
 
@@ -29017,7 +29017,7 @@ E. Dual Enrollment Courses Two-Year College Mathematics Questionnaire
 
 
 
-• Definition: We use the term “dual/concurrent-enrollment courses” to refer to
+• Definition: We use the term "dual/concurrent-enrollment courses" to refer to
 
 courses conducted on a high school campus by high school teachers, for which students may obtain high school credit and, simultaneously, college credit through your institution.
 
@@ -30015,9 +30015,9 @@ M. Mathematics Preparation of K –12 Teachers (cont.) Two-Year College Mathemat
 
 
 
-M7. Other than the courses “Mathematics for Elementary School Teachers I, II, and other
+M7. Other than the courses "Mathematics for Elementary School Teachers I, II, and other
 
-Mathematics courses for Teacher Preparation ” reported on lines F23, F24, and F25, do you designate any sections of your other mathematics program courses as “especially designed for pre-service elementary school teachers”?
+Mathematics courses for Teacher Preparation " reported on lines F23, F24, and F25, do you designate any sections of your other mathematics program courses as "especially designed for pre-service elementary school teachers"?
 
 
 
@@ -30031,7 +30031,7 @@ No ..........................................................
 
 M8. Which of the following groups can meet their entire mathematics course or licensure
 
-requirement for teaching via an organized program in your department? Consider “pre- service” and “career switchers” as distinct categories. “Career switchers” usually are post- baccalaureate older adults returning for teaching licensure after a non-teaching career and often under state-approved special licensure rules. (Check one on each row.)
+requirement for teaching via an organized program in your department? Consider "pre- service" and "career switchers" as distinct categories. "Career switchers" usually are post- baccalaureate older adults returning for teaching licensure after a non-teaching career and often under state-approved special licensure rules. (Check one on each row.)
 
 
 
@@ -30345,7 +30345,7 @@ Appendix VII. Two-Year Mathematics Questionnaire 305
 
 N3. Please indicate the extent to which the following activities have taken place in the past year in
 
-your department in response to increased national attention to equity, diversity, and inclusion issues (here the term “demographic” includes race, ethnicity, gender, disability status, and other characteristics of individuals).
+your department in response to increased national attention to equity, diversity, and inclusion issues (here the term "demographic" includes race, ethnicity, gender, disability status, and other characteristics of individuals).
 
 
 
@@ -30759,7 +30759,7 @@ students would not normally be in the same
 
 section.
 
-c. We offer some “hybrid” courses to on-campus
+c. We offer some "hybrid" courses to on-campus
 
 (face-to-face) learners and remote learners in
 
@@ -30951,7 +30951,7 @@ Science or Statistics and Operations Research), please use E24 to report on the 
 
 • Introductory Statistics classes. You will be asked to list separately Introductory Statistics classes
 
-taught in a large lecture format (with recitation/problem/laboratory sections) and, sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). For example, you will be asked about large lecture courses (E1-1 column). Please treat any large class that is sometimes broken up into smaller units as a “lecture/recitation” class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate de scription of the enrollment, enter the enrollment under “other.”
+taught in a large lecture format (with recitation/problem/laboratory sections) and, sections that meet as a class with an instructor at a regularly scheduled time (and are not divided into recitation sections). For example, you will be asked about large lecture courses (E1-1 column). Please treat any large class that is sometimes broken up into smaller units as a "lecture/recitation" class (even if there is no lecture); if neither the lecture/recitation or individual class format seems an appropriate de scription of the enrollment, enter the enrollment under "other."
 
 
 
@@ -31183,7 +31183,7 @@ The following instructions apply throughout Section E (pages 10-12).
 
 
 
-• Courses, sections, and sessions. In this questionnaire, “course” is used to refer to the topic
+• Courses, sections, and sessions. In this questionnaire, "course" is used to refer to the topic
 
 area (e.g., Stochastic Processes or Biostatistics). You may have multiple faculty teaching the same course in the same term but at different times or locations; these divisions of the topic area into separate instances of teaching are called sections. Within a section, you may have times when the students are divided into laboratory or recitation sessions; these are counted as recitation sessions, not as separate sections.
 
@@ -31467,7 +31467,7 @@ i. Other Majors
 
 
 
-1 A “double major” is a student who completes the degree requirements of two separate majors, one in statistics and one in another program or department. A “joint major” is a student who completes a single major in your department that integrates courses from statistics and some other program or department and typically requires fewer credit hours that the sum of the credit hours required by the separate majors.
+1 A "double major" is a student who completes the degree requirements of two separate majors, one in statistics and one in another program or department. A "joint major" is a student who completes a single major in your department that integrates courses from statistics and some other program or department and typically requires fewer credit hours that the sum of the credit hours required by the separate majors.
 
 
 
@@ -31627,7 +31627,7 @@ F. Undergraduate Program (Fall 2021) (cont.) Statistics Questionnaire
 
 
 
-F6. Please indicate the extent to which the following activities have taken place in the past year in your department in response to increased national attention to equity, diversity, and inclusion issues (here the term “demographic” includes race, ethnicity, gender, disability status, and other characteristics of individuals).
+F6. Please indicate the extent to which the following activities have taken place in the past year in your department in response to increased national attention to equity, diversity, and inclusion issues (here the term "demographic" includes race, ethnicity, gender, disability status, and other characteristics of individuals).
 
 
 
@@ -31833,7 +31833,7 @@ G. Introductory Statistics Instruction Statistics Questionnaire
 
 
 
-G1. Has your department offered a non-traditional “pathways” course sequence within the last five
+G1. Has your department offered a non-traditional "pathways" course sequence within the last five
 
 years?
 
@@ -31845,7 +31845,7 @@ No ...................
 
 
 
-(“Pathways” is defined to be a single course or course sequence that enables students to complete a college-level gateway mathematics or statistics course that is aligned to students' academic and/or career goals within one academic year.)
+("Pathways" is defined to be a single course or course sequence that enables students to complete a college-level gateway mathematics or statistics course that is aligned to students' academic and/or career goals within one academic year.)
 
 
 
@@ -32041,9 +32041,9 @@ students seeking certification that leads to obtaining credentials as a grades 9
 
 If
 
-“Required”
+"Required"
 
-is “No”: Special
+is "No": Special
 
 Course
 
@@ -37331,9 +37331,9 @@ Bibliography
 
 Computing Machinery (ACM) and IEEE Computer Soci- Available at http://www.ams.org/profession/data/
 
-ety Association for Computer Machinery report, “Computer cbms-survey/cbms-survey.
+ety Association for Computer Machinery report, "Computer cbms-survey/cbms-survey.
 
-Science Curricular 2013.” Available at https://dl.acm. [CBMS2020] Conference Board of Mathematical Sciences 2020–2022 Sur-
+Science Curricular 2013." Available at https://dl.acm. [CBMS2020] Conference Board of Mathematical Sciences 2020–2022 Sur-
 
 org/citation.cfm?id=2534860 . veys. Available at https://www.ams.org/profession/
 
