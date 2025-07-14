@@ -69,8 +69,9 @@ def file_data(filename: str):
             log("Cannot process AMS files", "fatal")
             exit(1)
         elif filename.startswith("cbms"):
-            log("Cannot process cbms files", "fatal")
-            exit(1)
+            for line in file:
+                data.append(line)
+            pages = [data]
     data.append(last_line)
     file.close()
     return pages
