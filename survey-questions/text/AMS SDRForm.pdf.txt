@@ -1,392 +1,61 @@
-For office use only
+First Name
+Last Name 
+Today’s Date
 
-______ 20
-
-
-
-
-
-Survey of Doctorate Recipients (SDR)
-
-
-
-July 1, 2019 – June 30, 2020
-
-Conducted by American Mathematical Society
-
-
-
-Contact Information:
-
-
-
-First Name Last Name Today’s Date
-
-
-
-Doctoral Institution Department/Program City & State
-
-
+Doctoral Institution 
+Department/Program 
+City & State
 
 Type of Research Doctoral Degree (e.g., PhD, Ed.D, etc.)
+Email
 
+When did you start this doctoral degree and when was the degree granted?
 
+What is the title of your dissertation?
 
-Email (please use an email address that is most likely to be active after your graduation.)
+Please write the name of the primary field of your dissertation research (see the list on page 4).
 
+Using the list on page 4, enter the two digit MR code that best describes the primary field of your dissertation.
 
+Who was your dissertation advisor:
 
-Dear PhD recipient,
+During the completion of your degree, did you do any of the following (check all that apply):
 
+Check the one that describes your employment status: 
 
+Please provide the following information (please use the full organization name and avoid acronyms)
 
-Congratulations on receiving your doctorate!
+Employment status:
 
+Which of the following ranges best describes the maximum duration of your current employment?
 
+Is your job:
 
-On behalf of the sponsoring societies for the Mathematical and Statistical Sciences Annual Survey (AMS, ASA, IMS, MAA, and SIAM), we are writing to ask that you complete a brief questionnaire regarding your PhD degree, your experience completing it, and your career direction. Your department chair or other representative has forwarded this request to you on our behalf, and we ask that you return your completed questionnaire to him or her within the time frame mentioned below.
+If you are employed in a post-secondary academic institution, indicate which of the following best describes the category of your job:
 
+Which of the following work activities constitute a significant portion of your primary employment? **(Multi select)**
 
+How many years of full-time employment in the mathematical sciences or related fields have you had prior to your current work?
 
-With the exception of your dissertation title, the data collected will be anonymized, and an aggregated analysis will be published in a report in Notices of the American Mathematical Society.
+Which of the following categories best describes your employer?
 
+What will your basic annual salary be for this job?
 
+Are you currently actively looking for another job?
 
-It is our hope that these reports will provide recognition of your achievements, valuable insights for other students in these programs, guidance for individuals contemplating careers based in mathematical and statistical training, and insight for those who guide and support graduate programs in the mathematical and statistical sciences.
+What is your gender identity?
+Women Men Non-binary
 
+What is your citizenship status?
 
+If a non-US citizen, of which country are you a citizen?
 
-Please complete the attached fillable pdf form and return it via email to your department contact no later than August 30, 2020. We are relying heavily on your initiative to help in making our report as comprehensive and authoritative as possible, so we hope you will respond in a timely fashion.
+What is your Ethnicity?
+Hispanic or Latino Not Hispanic or Latino
 
+What is your racial background (check all that apply)?
+American Indian or Alaskan Native Asian Black or African American Native Hawaiian or other Pacific Islander White Other (specify)
 
+What was your age when you received this PhD?
 
-Please accept our thanks in advance for your willingness to participate. To underscore those thanks, if you complete the form by this date, we will enter you into a drawing for one of ten US$100 Amazon gift cards. The drawing will be held in December 2020.
-
-
-
-If you have questions or concerns about this survey, you many contact us by email at: ams-survey@ams.org.
-
-
-
-Again, congratulations on achieving the milestone of earning a PhD!
-
-
-
-Best regards,
-
-Amanda Golbeck, chair, AMS-ASA-IMS-MAA-SIAM Joint Data Committee
-
-Tom Barr, AMS Special Projects Officer
-
-SECTION A: DEGREE INFORMATION
-
-
-
-
-
-A1. When did you start this doctoral degree and when was the degree granted?
-
-Month/year degree started: Month Year Month/year degree granted: Month Year
-
-
-
-A2. What is the title of your dissertation?
-
-
-
-A3. Please write the name of the primary field of your dissertation research (see the list on page 4). _________________________________________
-
-
-
-A4. Using the list on page 4, enter the two digit MR code that best describes the primary field of your dissertation. _____________________________
-
-
-
-A5. Who was your dissertation advisor:
-
-
-
-Advisor 1 name: __________________________________________ Department and Institution*: _______________________________________
-
-Advisor 2 name: __________________________________________ Department and Institution*: _______________________________________
-
-* If different from doctoral-granting institution.
-
-A6. During the completion of your degree, did you do any of the following (check all that apply):
-
-1 Grading 4 Research Assistant 2 Recitation sections 5 Other _____________________________________ 3 Full responsibility for teaching a section of a course 6 None
-
-
-
-SECTION B: EMPLOYMENT INFORMATION
-
-B1. Check the one that describes your employment status: B5. Is your job
-
-
-
-1 I am currently employed or have a job lined up to start by 1 An academic postdoc*
-
-September 1, 2020. 2 A government or industry postdoc*
-
-
-
-2 Actively searching for a job 3 Neither of the above Primarily pursuing further education 3
-
-4 Other; please specify: ______________________________ * A postdoctoral appointment is an academic position for a term of one to three years primarily intended
-
-to provide an opportunity to extend graduate training or to further research experience.
-
-
-
-If you answered 1 above, please provide the following information; B6. If you are employed in a post-secondary academic institution,
-
-otherwise go to Section C. indicate which of the following best describes the category of your
-
-job:
-
-B2. Please provide the following information (please use the full
-
-organization name and avoid acronyms): 1 Tenured-track/tenured faculty
-
-Job title: _____________________________________________ 2 Renewable but not tenure eligible
-
-Department: __________________________________________ 3 Academic staff
-
-4 Other (specify) ____________________________________
-
-Name of the company/organization/institution:
-
-____________________________________________________
-
-B7. Which of the following work activities constitute a significant
-
-Geographic location (City & state/country): ____________________ portion of your primary employment?
-
-
-
-B3. Employment status: (Please check all that apply)
-
-
-
-1 1 Teaching Full-time (35+ hrs/week or equivalent)
-
-2 2 Research Part-time (Less than 35 hrs/week)
-
-3 Customer/client services
-
-
-
-B4. Which of the following ranges best describes the maximum 4 Individual-effort technical (e.g., programming) work duration of your current employment? Team-based technical work 5 0–1 year 1 Management or administration 6 1–2 years 2 Other; please specify: ______________________________ 7 2–3 year 3
-
-4 more than three years, but time limited
-
-B8. How many years of full-time employment in the mathematical B11. Are you currently actively looking for another job?
-
-
-
-sciences or related fields have you had prior to your current
-
-work? 1 Yes 2 No
-
-(Do not count time as a graduate assistant or research assistant.)
-
-
-
-Number of years (round to whole years; may be zero) SECTION C: BACKGROUND
-
-B9. Which of the following categories best describes your employer? INFORMATION
-
-
-
-1 Academic institution; please choose one: This data will be treated as strictly confidential;
-
-1.1 Four-year college or university only statistical summaries of these will be published.
-
-1.2 Two-year college or university
-
-1.3 Elementary/secondary school or system C1. What is your gender identity?
-
-1.4 Other; please specify: ____________________________ 1 Woman 2 Man 3 Non-binary
-
-
-
-2 Research institute or other not-for-profit; C2. What is your citizenship status?
-
-
-
-3 Government; please choose one: 1 US Citizen
-
-3.1 Federal 2 Non-US Citizen with permanent resident US Visa
-
-3.2 State/Local 3 Non-US Citizen with temporary US Visa
-
-3.3 Other; please specify: ___________________________
-
-4 C3. If a non-US citizen, of which country are you a citizen? Business/Industry; please choose one:
-
-
-
-4.1 Financial Services (including banking & insurance) _____________________________________________
-
-4.2 Business Services (including engineering, technology,
-
-consulting services)
-
-C4. What is your Ethnicity?
-
-4.3 Aerospace/Defense
-
-4.4 1 Hispanic or Latino Energy
-
-4.5 2 Not Hispanic or Latino Software
-
-4.6 Health care
-
-C5. What is your racial background (check all that apply)?
-
-4.7 Pharmaceutical & Medical Devices
-
-4.8 Biotechnology 1 American Indian or Alaskan Native
-
-4.9 Survey/Market Research 2 Asian
-
-4.10 Communications (TV, radio, telecom, internet-Google, 3 Black or African American
-
-Yahoo, Facebook)
-
-4 Native Hawaiian or other Pacific Islander
-
-4.11 Consumer Merchandising (ebay, Amazon, Walmart, Target) 5 White
-
-4.12 Self-employed; please specify: _____________________ 6 Other (specify) ___________________________________
-
-4.13 Other; please specify: ____________________________
-
-C6. What was your age when you received this PhD? ________
-
-B10. What will your basic annual salary be for this job?(Used to calculate
-
-starting salaries. This data will be treated as strictly confidential; only statistical summaries of these will be
-
-published.)
-
-US$_____________. 00 (preferred) Please enter any comments you wish to provide in the space
-
-below:
-
-If you prefer not to report an exact amount, please indicate into which
-
-range your current or expected salary falls?
-
-1 $40,000 or less 11 $130,001 - $140,000
-
-2 $40,001 - $50,000 12 $140,001 - $150,000
-
-3 $50,001 - $60,000 13 $150,001 - $160,000
-
-4 $60,001 - $70,000 14 $160,001 - $170,000
-
-5 $70,001 - $80,000 15 $170,001 - $180,000
-
-6 $80,001 - $90,000 16 $180,001 - $190,000
-
-7 $90,001 - $100,000 17 $190,001 - $200,000
-
-
-
-9 Thank you for completing this questionnaire. $110,001 - $120,000 8 $100,001 - $110,000 18 $200,001 - $210,000
-
-19 $210,001or more
-
-
-
-
-
-Field of Thesis Groupings
-
-
-
-
-
-Dissertations are grouped by using the Mathematical Reviews (MR) 2020 Mathematics Subject Classifications. The fields of study below should be used in responding to item A3 on page 2. Please choose the MR code which best describes your field of thesis.
-
-
-
-(1-ALG) ALGEBRA/NUMBER THEORY
-
-06 Order, lattices, ordered algebraic structures 13 Commutative algebras 17 Nonassociative rings and algebras 08 General algebraic systems 14 Algebraic geometry 18 Category theory, homological algebra 11 Number theory 15 Linear and multilinear algebra; matrix theory 19 K-theory 12 Field theory and polynomials 16 Associative rings and algebras 20 Group theory and generalizations
-
-
-
-(2-ANAL) REAL, COMPLEX, FUNCTIONAL, HARMONIC ANALYSIS (AND TOPOLOGICAL GROUPS) 22 Topological groups, Lie groups 31 Potential theory 42 Harmonic analysis on Euclidean spaces 26 Real functions 32 Several complex variables and analytic spaces 43 Abstract harmonic analysis 28 Measure and integration 33 Special functions 44 Integral transforms, operational calculus 30 Functions of a complex variable 40 Sequences, series, summability 46 Functional analysis
-
-47 Operator theory
-
-
-
-(3-GEOM) GEOMETRY/TOPOLOGY
-
-51 Geometry 53 Differential geometry 55 Algebraic topology 52 Convex sets and discrete geometry 54 General topology 57 Manifolds and cell complexes
-
-58 Global analysis, analysis on manifolds
-
-
-
-(4-DISC) DISCRETE MATH/COMBINATORICS/LOGIC/COMPUTER SCIENCE
-
-03 Mathematical logic and foundations 05 Combinatorics 68 Computer science
-
-
-
-(5-PROB) PROBABILITY
-
-60 Probability theory and stochastic processes
-
-
-
-(6-STAT) BIOSTATISTICS/STATISTICS
-
-61 Biostatistics (Annual Survey of new PhDs only) 62 Statistics
-
-
-
-(7-APPL) APPLIED MATHEMATICS
-
-70 Mechanics of particles and systems 80 Classical thermodynamics, heat transfer 90 Operations research, mathematical programming 74 Mechanics of deformable solids 81 Quantum theory 91 Game theory, economics, social, and behavioral sciences 76 Fluid mechanics 82 Statistical mechanics, structure of matter 92 Biology and other natural sciences, behavioral sciences 78 Optics, electromagnetic theory 83 Relativity and gravitational theory 94 Information and communications, circuits 79 Mathematical Physics, physical applications 85 Astronomy and astrophysics
-
-86 Geophysics
-
-
-
-(8-NUM) NUMERICAL ANALYSIS/APPROXIMATIONS
-
-41 Approximations and expansions 65 Numerical analysis
-
-
-
-(9-OPT) LINEAR, NON-LINEAR OPTIMIZATION/CONTROL
-
-49 Calculus of variations and optimal control; optimization 93 Systems theory; control
-
-
-
-(10-EQUA) DIFFERENTIAL, INTEGRAL, DIFFERENCE EQUATIONS
-
-34 Ordinary differential equations 37 Dynamical systems and ergodic theory 45 Integral equations 35 Partial differential equations 39 Differences and functional equations
-
-
-
-(11-EDUC) MATHEMATICS EDUCATION
-
-97 Mathematics Education
-
-
-
-(12-OTH) OTHER/UNKNOWN
-
-00 General and overarching topics, collections 01 History and biography
-
-
-
-
-
+Please enter any comments you wish to provide in the space below:
