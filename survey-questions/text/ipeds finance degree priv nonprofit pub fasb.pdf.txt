@@ -635,3 +635,78 @@ IPEDS Requirements
 Your office hours hours hours hours
 
 Other offices hours hours hours hours
+
+https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=5&instructionid=29087&formid=87 8/19 Summary
+
+
+
+
+
+Finance Component Summary
+
+
+The purpose of this summary is to provide you an opportunity to view some of the data that, when accepted through the IPEDS quality control process, will appear
+
+on the College Navigator website and/or your institution’s Data Feedback Report (DFR). In addition, all data reported in IPEDS survey components become publicly
+
+available through the IPEDS Use the Data and appear as aggregated statistics in various Department of Education reports. College Navigator is updated
+
+approximately three months after the data collection period closes and DFRs will be available through the IPEDS Use the Data and sent to your institution’s CEO at the end of 2025.
+
+Please review your data for accuracy. If you have questions about the data displayed below or after reviewing the data reported on the survey screens, please
+
+contact the IPEDS Help Desk at: 1-877-225-2568 or ipedshelp@rti.org.
+
+
+
+Core Revenues
+
+Revenue Source Reported values Percent of total core revenues (%) Core revenues per FTE enrollment
+
+Tuition and fees
+
+Government grants and contracts
+
+Sales and services of educational activities
+
+Other core revenues
+
+Total core revenues
+
+Total revenues N/A
+
+Other core revenues include federal appropriations; sales and services of educational activities; other operating and nonoperating sources; and other revenues and additions (e.g., capital appropriations, capital grants and gifts, etc.). Core revenues exclude revenues from auxiliary enterprises (e.g., bookstores, dormitories), hospitals, and independent operations. For institutions reporting in Full parent/child relationships, core revenues per FTE enrollment amounts will not be allocated to child institutions.
+
+
+
+Core Expense
+
+Expense function Reported values Percent of total core expenses (%) Core expenses per FTE enrollment
+
+Instruction
+
+Research
+
+Public service
+
+Academic support
+
+Institutional support
+
+Student services
+
+Other core expenses
+
+Total core expenses
+
+Total expenses N/A
+
+Other core expenses include scholarships and fellowships, net of discounts and allowances, and other expenses. Core expenses exclude expenses from auxiliary enterprises (e.g., bookstores, dormitories), hospitals, and independent operations. For institutions reporting in Full parent/child relationships, core expenses per FTE enrollment amounts will not be allocated to child institutions.
+
+
+
+Calculated value
+
+FTE enrollment
+
+The full-time equivalent (FTE) enrollment used in this report is the sum of the institution’s FTE undergraduate enrollment and FTE graduate enrollment (as calculated from or reported on the 12-month Enrollment component). FTE is estimated using 12- month instructional activity (credit and/or clock hours). All doctor’s degree students are reported as graduate students.
