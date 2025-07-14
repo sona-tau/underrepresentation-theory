@@ -1,226 +1,68 @@
-Department address (update, if necessary): Please return your completed survey by . November 22, 2019
+Department address (update, if necessary)
+Department
+Institution
+Name of individual completing survey
+Email of individual completing survey
 
-Department:
+Did your department seek to fill any full-time positions requiring a doctorate during the academic year 2018-2019?
 
-Institution:
+Please report the total number of full-time positions under recruitment during academic year 2018-2019. Tenure-track positions
 
-Name of individual completing survey:
+Please report the total number of full-time positions under recruitment during academic year 2018-2019. Non-tenure-track positions
 
-Email of individual completing survey:
+For the tenure-track position(s) reported in Question 2.1: How many were open to new doctoral recipients?
 
+For the tenure-track position(s) reported in Question 2.1: How many were at the associate/full professor level?
 
+For the non-tenure-track position(s) reported in Question 2.2: How many were open to new doctoral recipients?
 
-This survey asks you to provide information on FULL-TIME positions requiring a doctorate (tenure-track and non-tenure-track, including postdoctoral positions, instructors, lectures, etc.) that were under recruitment during the academic year 2018-2019 for employment beginning in the fall of 2019. The data you provide on this survey will allow us to publish a comprehensive picture of last year's academic job market in Mathematics.
+For the non-tenure-track position(s) reported in Question 2.2: How many were for only one academic year?
 
-You will be asked to report on positions under recruitment and on positions filled in two disjoint categories: tenure-track positions and non-tenure-track positions. Throughout this survey, the term "tenure-track position" includes positions that carry tenure with appointment to the position as well as any position where an appointment carries eligibility to earn tenure.
+Did your department make any appointments to the tenure-track positions under recruitment in 2018-2019?
 
+Among the individuals who received the tenure-track appointments: How many were NEW doctorate recipients? **(Table)**
+Women Men Other
 
+Among the individuals who received the tenure-track appointments: How many received their doctorate prior to July 1, 2018? **(Table)**
+Women Men Other
 
-Positions Under Recruitment during AY 2018-2019
+Of those reported in (b) above, how many held a postdoctoral position the previous year? **(Table)**
+Women Men Other
 
-1) Did your department seek to fill any full-time positions requiring a doctorate during the academic year 2018-2019?
+Of those just reported in (b) above, how many held a non-tenure-track position other than a postdoc? **(Table)**
+Women Men Other
 
-Yes No
+Did your department make any appointments to the non-tenure-track position(s) under recruitment in 2018-2019?
 
-Please report on the full-time positions requiring a doctorate that were under recruitment during 2018-2019, reporting separately for tenure-track versus non-tenure-track positions.
+Among the individuals who received the non-tenure-track appointments: How many were NEW doctorate recipients? **(Table)**
+Women Men Other
 
-2) Please report the total number of full-time positions under recruitment during academic year 2018-2019. (If none, enter zero.)
+Among the individuals who received the non-tenure-track appointments: How many received their doctorate prior to July 1, 2018? **(Table)**
+Women Men Other
 
-2.1) Tenure-track positions....................................................
+Among the individuals who received the non-tenure-track appointments: How many did not hold the doctoral degree as of July 1, 2019, nor expect to receive their doctoral degree by July 1, 2020? **(Table)**
+Women Men Other
 
-2.2) Non-tenure-track positions..............................................
+Among the individuals who received the non-tenure-track appointments, how many were appointed for a single academic year with the expectation that their position would be re-advertised for recruitment during 2018-2019? **(Table)**
+Women Men Other
 
-3) For the tenure-track position(s) reported in Question 2.1: (If none, enter zero.)
+Among the individuals who received the non-tenure-track appointments, how many were appointed to a postdoctoral position? **(Table)**
+Women Men Other
 
-3.1) How many were open to new doctoral recipients? .........
+For the period July 1, 2018 through June 30, 2019, report the number of full-time faculty in your department who left their position. **(Table)**
 
-3.2) How many were at the associate/full professor level?....
+For the period July 1, 2018 through June 30, 2019, report the number of full-time faculty who died while in full-time service?
 
-4) For the non-tenure-track position(s) reported in Question 2.2: (If none, enter zero.)
+For the period July 1, 2018 through June 30, 2019, report the number of full-time faculty who retired from full-time service?
 
-4.1) How many were open to new doctoral recipients? ...........
-
-4.2) How many were for only one academic year?..................
-
-
-
-We now ask you to report on any appointments your department made for the tenure-track positions under recruitment during 2018-2019 that were reported on the previous page.
-
-5) Did your department make any appointments to the tenure-track positions under recruitment in 2018-2019?
-
-Yes No
-
-Report on Tenure-track Appointments
-
-6) Among the individuals who received the tenure-track appointments: (NOTE: the sum of the numbers reported in (a) and (b) should not exceed the number of tenure-track positions reported as under recruitment in Question 2.1.) (If none, enter zero).
-
-(a) How many were NEW doctorate recipients? (Individuals who received their doctorate on
-
-or after July 1, 2018, plus anyone who expects to receive their doctorate by July 1, 2020.)
-
-Women
-
-Men
-
-Other
-
-(b) How many received their doctorate prior to July 1, 2018 (not reported above in 6(a))?
-
-Women
-
-Men
-
-Other
-
-(b.1) Of those reported in (b) above, how many held a postdoctoral position the previous year? On this survey, a postdoctoral position is a non-tenure-track position that a) is intended for a new or very recent Ph.D. and b) is primarily intended to provide an opportunity to extend graduate training or further research experience.
-
-Women
-
-Men
-
-Other
-
-(b.2) Of those just reported in (b) above, how many held a non-tenure-track position other than a postdoc?
-
-Women
-
-Men
-
-Other
-
-
-
-Report Non-tenure-track Appointments
-
-We now ask you to report on any appointments made to the non-tenure-track positions under recruitment in 2018-2019.
-
-7) Did your department make any appointments to the non-tenure-track position(s) under recruitment in 2018-2019?
-
-Yes No
-
-
-
-
-
-Continue reporting on Non-tenure-track Appointments
-
-
-8) Among the individuals who received the non-tenure-track appointments: (Note: the sum of the numbers reported in (a), (b) and (c) should not exceed the number of non-tenure-track positions reported as under recruitment in Question 2.2.) (If none, enter zero.)
-
-(a) How many were NEW doctorate recipients? (Individuals who received their doctorate on
-
-or after July 1, 2018, plus anyone who expects to receive their doctorate by July 1, 2020.)
-
-Women
-
-Men
-
-Other
-
-(b) How many received their doctorate prior to July 1, 2018 (not reported above in 8(a))?
-
-Women
-
-Men
-
-Other
-
-(c) How many did not hold the doctoral degree as of July 1, 2019, nor expect to receive
-
-their doctoral degree by July 1, 2020 (not reported above in 8(a or b)?
-
-Women
-
-Men
-
-Other
-
-9) Among the individuals who received the non-tenure-track appointments, how many were appointed for a single academic year with the expectation that their position would be re-advertised for recruitment during 2018-2019? (If none, enter zero.)
-
-9.1) Report the number of women.................................................
-
-9.2) Report the number of men .....................................................
-
-9.3) Report the number of other ....................................................
-
-10) Among the individuals who received the non-tenure-track appointments, how many were appointed to a postdoctoral position? On this survey, a postdoctoral position is a non-tenure-track position that a) is intended for a new or very recent Ph.D. and b) is primarily intended to provide an opportunity to extend graduate training or further research experience. (If none, enter zero.)
-
-10.1) Report the number of women appointed to a postdoctoral appointment .................................................................................
-
-10.2) Report the number of men appointed to a postdoctoral appointment. ................................................................................
-
-10.3) Report the number of other appointed to a postdoctoral appointment .................................................................................
-
-
-
-
-
-Faculty Attrition
-
-
-11) For the period July 1, 2018 through June 30, 2019, report the number of full-time faculty in your department who: (If none, enter zero.)
-
-(a) left their position in order to take
-
-(i) an academic job in a different department or institution (faculty, administration, etc.).........................................................................................
-
-(ii) a job in a business, industry, or government ............................................
-
-(iii) a job in primary or secondary education ...................................................
-
-(iv) a job in another sector ..............................................................................
-
-(a.1) How many of the faculty reported above in 11(a) were in
-
-(i) postdocs or other term appointments..........................................................
-
-(ii) tenure-eligible or renewable appointments ................................................
-
-(iii) tenured appointments ................................................................................
-
-12) For the period July 1, 2018 through June 30, 2019, report the number of full-time faculty who: (If none, enter zero)
-
-Died while in full-time service? .......................................................................
-
-Retired from full-time service? ........................................................................
-
-
-
-13) How many of those who retired were tenured (or permanent if your institution does not recognize tenure)? (If none, enter zero.)
-
-
-
-Contact Information
-
-The survey staff at the AMS along with the members of the AMS-ASA-IMS-MAA-SIAM Data Committee
-
-sincerely appreciate you taking the time to complete this survey.
-
-Please send this survey electronically to:
-
-Email address:
+How many of those who retired were tenured (or permanent if your institution does not recognize tenure)?
 
 Please provide us with contact information for the individual completing this survey in case we have questions.
-
-Name:
-
-Position:
-
-Email address:
-
-Phone Number:
+Name
+Position
+Email address
+Phone Number
 
 Please provide your current department chair information:
-
-Current Chair or Head:
-
-Chair Email:
-
-
-
-Print copy of form Submit Completed Form as email attachment
-
-
-
-
-
+Current Chair or Head
+Chair Email
