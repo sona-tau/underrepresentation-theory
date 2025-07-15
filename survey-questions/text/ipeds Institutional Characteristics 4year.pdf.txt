@@ -1,66 +1,10 @@
-Section 1- Header Information: Part A - Educational Offerings
+Which of the following types of for-credit instruction/programs are offered by your institution?
 
-1. Which of the following types of for-credit instruction/programs are offered by your institution? [Check one or more]
+Provide the institution's mission statement or a web address (URL) where the mission statement can be found. Typed statements are limited to 2,000 characters or less. The mission statement will be available to the public on College Navigator.
 
+What is your institutional control or affiliation?
 
-
-Survey Tip Icon If your institution does not offer for-credit occupational, academic or continuing professional programs, you are not expected to complete this or
-
-any other IPEDS survey component.
-
-Occupational, may lead to a certificate, degree, or other recognized postsecondary credential
-
-Academic, may lead to a certificate, degree, or diploma
-
-Continuing professional (postbaccalaureate only)
-
-Recreational or avocational (leisure) programs
-
-Adult basic or developmental instruction or high school equivalency
-
-Secondary (high school)
-
-Developmental
-
-
-
-https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=12&instructionid=30104&formid=94 3/30 Section 1- Header Information: Part B - Mission Statement
-
-1. Provide the institution's mission statement or a web address (URL) where the mission statement can be found. Typed statements are limited to 2,000 characters or less. The mission statement will be available to the public on College Navigator.
-
-
-
-Mission Statement URL: http://
-
-
-
-Mission Statement:
-
-
-
-https://surveys.nces.ed.gov/ipeds/public/survey-materials/forms?surveyid=12&instructionid=30104&formid=94 4/30 Section 1- Header Information: Part B - Organization - Control and Levels
-
-2. What is your institutional control or affiliation?
-
-Be sure to select the correct control for your institution. Errors on this question have an impact throughout the IPEDS surveys, in federal reporting, in net price groupings, and on your institutions' appearance to students. If you reported incorrectly in a previous year, please contact the IPEDS Help Desk at 877.225.2568 to correct the error.
-
-Public - Select primary and/or secondary controls below
-
-Primary control Secondary control (if applicable)
-
-Select One Select One
-
-Private for-profit
-
-Private not-for-profit independent (no religious affiliation)
-
-Private not-for-profit religious affiliation - Select affiliation below
-
-Select One
-
-
-
-3. What award levels are offered by your institution? [Check all that apply]
+What award levels are offered by your institution? [Check all that apply]
 
 Award Levels reported should be completed based on the current year. When reporting award levels for subbaccalaureate certificates (levels 1a, 1b, 2, and 4), determine program length by the number of credit or clock hours.
 
@@ -68,77 +12,11 @@ The "Other" award level should not be used unless your program truly does not fi
 
 Even though Teacher Preparation certificate programs may require a bachelor's degree for admission, they are considered subbaccalaureate undergraduate programs. Check the applicable award level 1a, 1b, 2, or 4, depending on the length of the Teacher Preparation program.
 
-Award Level
-
-BELOW THE BACCALAUREATE:
-
-Postsecondary award, certificate, or diploma of
-
-- less than 300 clock hours, or
-
-1a
-
-- less than 9 semester or trimester credit hours, or
-
-- less than 13 quarter credit hours
-
-Postsecondary award, certificate, or diploma of
-
-- 300-899 clock hours, or
-
-1b
-
-- 9-29 semester or trimester credit hours, or
-
-- 13-44 quarter credit hours
-
-Postsecondary award, certificate, or diploma of
-
-- at least 900 but less than 1,800 clock hours, or
-
-2
-
-- at least 30 but less than 60 semester or trimester credit hours, or
-
-- at least 45 but less than 90 quarter credit hours
-
-3 Associate's degree
-
-Postsecondary award, certificate, or diploma of
-
-- 1,800 or more clock hours, or
-
-4
-
-- 60 or more semester or trimester credit hours, or
-
-- 90 or more quarter credit hours
-
-BACCALAUREATE AND ABOVE:
-
-5 Bachelor's degree or equivalent
-
-6 Postbaccalaureate certificate
-
-7 Master's degree
-
-8 Post-master's certificate
-
-17 Doctor's degree - research/scholarship
-
-18 Doctor's degree - professional practice
-
-19 Doctor's degree - other
-
-12 Other (please specify in context box below)
 
 
 
 Yes, I confirm that I reviewed the award levels offered by my institution above.
 
-You may use the box below to provide additional context for the data you have reported above. Context notes will be posted on the College Navigator website.
-
-Therefore, you should write all context notes using proper grammar (e.g., complete sentences with punctuation) and common language that can be easily understood by students and parents (e.g., spell out acronyms).
 
 
 
