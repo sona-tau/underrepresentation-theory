@@ -45,7 +45,7 @@ with open(output_file, "w") as file:
 
 print(f"Processed {len(processed_items)} non-empty lines and saved to {output_file}.")
 
-second_output_file = "final_output.txt"
+second_output_file = "Ipeds_output.txt"
 
 with open(second_output_file, "a") as file:
     file.write(one_line_output)
