@@ -1,0 +1,8 @@
+"Did your institution participate in the U.S. Department of Veterans Affairs Post-9/11 GI Bill or U.S. Department of Defense Military Tuition Assistance benefit programs during the 2023-24 award period?","MC"
+"Military Servicemembers and Veteran's Benefits - Graduate Students","TI"
+"This survey component was prepared by:","MC"
+"Name:","WR"
+"Email:","WR"
+"How many staff from your institution only were involved in the data collection and reporting process of this survey component?","WR"
+"How many hours did you and others from your institution only spend on each of the steps below when responding to this survey component?","TI"
+"Student Financial Aid Component Summary","TI"
