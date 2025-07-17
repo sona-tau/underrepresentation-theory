@@ -37,7 +37,12 @@ for (vars in sources[[4]]) {
 	# The line with the inner_join and count is needed because count produces a
 	# tibble with only two columns (word_stem and n) and we want to preserve the
 	# word that the word stem came from. This is done using an inner_join.
+
 	word_counts <- (tidy_text
+		# WARNING: REMOVE THE NUMBERS HERE
+		# WARNING: REMOVE THE NUMBERS HERE
+		# WARNING: REMOVE THE NUMBERS HERE
+		# WARNING: REMOVE THE NUMBERS HERE
 		|> inner_join(count(tidy_text, word_stem, sort = TRUE)) # Count words and match them to their word_stem.
 		|> filter(n > 5) # Filter out all the low ranking words
 		# Filtering out words that share the same stem lets us pick an
