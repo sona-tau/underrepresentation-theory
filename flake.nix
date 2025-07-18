@@ -30,11 +30,13 @@
 							ggplot2
 							gutenbergr
 							jsonlite
+							lsa
 							pagedown
 							plotly
 							readr
 							remotes
 							resampledata
+							reticulate
 							rhdf5
 							rmarkdown
 							s2
@@ -51,10 +53,11 @@
 							tidyverse
 							tinytex
 							units
-							wordcloud
 							word2vec
+							wordcloud
 						];
 						myPythonPackages = with pkgs.python313Packages; [
+							colorama
 							ipykernel
 							jupyter-core
 							jupyterlab
