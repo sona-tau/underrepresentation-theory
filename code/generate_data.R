@@ -55,36 +55,53 @@ py2r <- function(df, rows) {
 	return(df)
 }
 
-word_category <- function(x) {
-	lgbt <- list("lgbt","lgbtq","sex","identity","gender","orientation","nonbinary") |>
-		sim_v(x) |>
-		mean(na.rm = TRUE)
-	race_ethnicity <- list("race","ethnicity","african","american","black","hispanic","asian","indigenous","native","latino","latina","latine") |>
-		sim_v(x) |>
-		mean(na.rm = TRUE)
-	women <- list("woman","women","girl","female","feminine","femeninity","ms","mrs") |>
-		sim_v(x) |>
-		mean(na.rm = TRUE)
-	men <- list("man", "men", "boy", "male", "masculine", "masculinity", "mr") |>
-		sim_v(x) |>
-		mean(na.rm = TRUE)
-	disabilities <- list("disabilities","disabled","disability","handicap","handicapped","neurodivergent") |>
-		sim_v(x) |>
-		mean(na.rm = TRUE)
-	m <- max(lgbt,race_ethnicity,women,men,disabilities, na.rm = TRUE)
-	if (m < 0.25) {
-		return("none")
-	} else if (m == lgbt) {
-		return("lgbt")
-	} else if (m == race_ethnicity) {
-		return("race/ethnicity")
-	} else if (m == women) {
-		return("women")
-	} else if (m == disabilities) {
-		return("disabilities")
-	} else {
-		return("men")
+rep <- function(str, count) {
+	out <- character(length = count)
+	for (i in 1:count) {
+		out[i] <- str
 	}
+	out
+}
+
+word_category <- function(x, threshold = 0.3) {
+	lgbt <- list("lgbt","lgbtq","sex","identity","gender","orientation","nonbinary")
+	race_ethnicity <- list("race","ethnicity","african","american","black","hispanic","asian","indigenous","native","latino","latina","latine")
+	women <- list("woman","women","girl","feminine","femeninity","ms","mrs")
+	men <- list("man", "men", "boy", "male", "masculine", "masculinity", "mr")
+	disabilities <- list("disabilities","disabled","disability","handicap","handicapped","neurodivergent")
+	all <- c(lgbt, race_ethnicity, women, men, disabilities)
+
+	similarities <- data.frame(
+			sim = sim_v(x, all),
+			word = as.character(all),
+			word_category = c(
+				rep("lgbt", length(lgbt)),
+				rep("race/ethnicity", length(race_ethnicity)),
+				rep("women", length(women)),
+				rep("men", length(men)),
+				rep("disabilities", length(disabilities))
+			)
+	)
+	similarities <- similarities[similarities |> complete.cases(),]
+	m <- max(similarities $ sim, na.rm = TRUE)
+	if (m > threshold) similarities[m == similarities,] |> head(1) else data.frame(sim = NA, word = NA, word_category = NA)
+}
+
+word_category_v <- function(x) {
+	res <- Vectorize(word_category)(x) |> t()
+	sim <- numeric(length = length(x))
+	word <- character(length = length(x))
+	word_category <- character(length = length(x))
+	for (i in 1:nrow(res)) {
+		sim[i] <- res[,"sim"][[i]]
+		word[i] <- res[,"word"][[i]]
+		word_category[i] <- res[,"word_category"][[i]]
+	}
+	data.frame(
+		sim = sim,
+		word = word,
+		word_category = word_category
+	)
 }
 
 # Read data from CSV and convert it into its R representation
@@ -107,7 +124,8 @@ for (row_idx in 1:nrow(data)) {
 	clean_txt <- anti_join(tmp[!grepl("\\d", tmp $ word),], stop_words)
 
 	stem_txt <- mutate(clean_txt, word_stem = wordStem(word))
-	sema_txt <- mutate(clean_txt, word_category = word_category(word))
+	word_categories <- word_category_v(clean_txt $ word)
+	sema_txt <- mutate(clean_txt, tag = word_categories $ word, word_category = word_categories $ word_category)
 
 	stem_count <- stem_txt |>
 		inner_join(count(stem_txt, word_stem)) |>
@@ -115,9 +133,9 @@ for (row_idx in 1:nrow(data)) {
 		distinct(word_stem, .keep_all = TRUE)
 
 	sema_count <- sema_txt |>
-		inner_join(count(sema_txt, word_category)) |>
-		filter(n > 5) |>
-		distinct(word_category, .keep_all = TRUE)
+		inner_join(count(sema_txt, tag)) |>
+		distinct(tag, .keep_all = TRUE)
+
 	title <- data[row_idx,"title"]
 	save(stem_count, file = paste("data/stem_", title, ".Rda", sep = ""))
 	save(sema_count, file = paste("data/google_sema_", title, ".Rda", sep = ""))
