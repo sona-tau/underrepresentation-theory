@@ -63,44 +63,62 @@ rep <- function(str, count) {
 	out
 }
 
+lgbt_tags <- list("lgbt","lgbtq","sex","identity","gender","orientation","nonbinary") |> as.character()
+race_ethnicity_tags <- list("race","ethnicity","african","american","black","hispanic","asian","indigenous","native","latino","latina","latine") |> as.character()
+women_tags <- list("woman","women","girl","feminine","femeninity","ms","mrs") |> as.character()
+men_tags <- list("man", "men", "boy", "male", "masculine", "masculinity", "mr") |> as.character()
+disabilities_tags <- list("disabilities","disabled","disability","handicap","handicapped","neurodivergent") |> as.character()
+tags <- c(lgbt_tags, race_ethnicity_tags, women_tags, men_tags, disabilities_tags)
+tag_vectors <- w2v_v(tags)
+tag_category <- c(
+	rep("lgbt", length(lgbt)),
+	rep("race/ethnicity", length(race_ethnicity)),
+	rep("women", length(women)),
+	rep("men", length(men)),
+	rep("disabilities", length(disabilities))
+)
+
 word_category <- function(x, threshold = 0.3) {
-	lgbt <- list("lgbt","lgbtq","sex","identity","gender","orientation","nonbinary")
-	race_ethnicity <- list("race","ethnicity","african","american","black","hispanic","asian","indigenous","native","latino","latina","latine")
-	women <- list("woman","women","girl","feminine","femeninity","ms","mrs")
-	men <- list("man", "men", "boy", "male", "masculine", "masculinity", "mr")
-	disabilities <- list("disabilities","disabled","disability","handicap","handicapped","neurodivergent")
-	all <- c(lgbt, race_ethnicity, women, men, disabilities)
+
+	similarity_vectors <- numeric(length = length(all_vecs[1,]))
+	for (i in seq_along(all_vecs[1,])) {
+		w <- tag_vectors[,i]
+		similarity_vectors[i] <- word2vec_similarity(w2v(x), w, type = "cosine")
+	}
 
 	similarities <- data.frame(
-			sim = sim_v(x, all),
-			word = as.character(all),
-			word_category = c(
-				rep("lgbt", length(lgbt)),
-				rep("race/ethnicity", length(race_ethnicity)),
-				rep("women", length(women)),
-				rep("men", length(men)),
-				rep("disabilities", length(disabilities))
-			)
+			sim = similarity_vectors,
+			tags = tags,
+			tag_category = tag_category
 	)
+
 	similarities <- similarities[similarities |> complete.cases(),]
 	m <- max(similarities $ sim, na.rm = TRUE)
-	if (m > threshold) similarities[m == similarities,] |> head(1) else data.frame(sim = NA, word = NA, word_category = NA)
+	if (m > threshold) similarities[m == similarities,] |> head(1) else data.frame(sim = NA, tag = NA, tag_category = NA)
+}
+
+memo <- new.env(hash = TRUE, parent = emptyenv())
+word_category_m <- function(x, threshold = 0.3) {
+	if (is.null(memo[[x]])) {
+		memo[[x]] <- word_category(x, threshold)
+	}
+	return(memo[[x]])
 }
 
 word_category_v <- function(x) {
-	res <- Vectorize(word_category)(x) |> t()
+	res <- Vectorize(word_category_m)(x) |> t()
 	sim <- numeric(length = length(x))
-	word <- character(length = length(x))
-	word_category <- character(length = length(x))
+	tag <- character(length = length(x))
+	tag_category <- character(length = length(x))
 	for (i in 1:nrow(res)) {
 		sim[i] <- res[,"sim"][[i]]
-		word[i] <- res[,"word"][[i]]
-		word_category[i] <- res[,"word_category"][[i]]
+		tag[i] <- res[,"tag"][[i]]
+		tag_category[i] <- res[,"tag_category"][[i]]
 	}
 	data.frame(
 		sim = sim,
-		word = word,
-		word_category = word_category
+		tag = tag_category,
+		tag_category = tag_category
 	)
 }
 
@@ -116,27 +134,59 @@ selection <- ams_selection | cbms_selection | ipeds_selection
 
 data <- data[selection,]
 
-for (row_idx in 1:nrow(data)) {
-	raw_txt <- data[row_idx,"variables"]
-	title <- data[row_idx,"title"]
-	tib_txt <- tibble(line = seq_along(raw_txt[[1]]), text = raw_txt[[1]])
-	tmp <- unnest_tokens(tib_txt, word, text)
-	clean_txt <- anti_join(tmp[!grepl("\\d", tmp $ word),], stop_words)
+clean_text <- function(raw_text) {
+	tmp <- tibble(
+			line = seq_along(raw_text),
+			text = raw_text
+		) |> unnest_tokens(word, text)
+	tmp[!grepl("\\d", tmp $ word),] |> anti_join(stop_words)
+}
 
-	stem_txt <- mutate(clean_txt, word_stem = wordStem(word))
-	word_categories <- word_category_v(clean_txt $ word)
-	sema_txt <- mutate(clean_txt, tag = word_categories $ word, word_category = word_categories $ word_category)
+# Word stems analysis
+
+for (row_idx in 1:nrow(data)) {
+	stem_txt <- clean_text(data[row_idx,"variables"][[1]]) |>
+		mutate(word_stem = wordStem(word))
 
 	stem_count <- stem_txt |>
 		inner_join(count(stem_txt, word_stem)) |>
 		filter(n > 5) |>
 		distinct(word_stem, .keep_all = TRUE)
 
-	sema_count <- sema_txt |>
-		inner_join(count(sema_txt, tag)) |>
-		distinct(tag, .keep_all = TRUE)
-
 	title <- data[row_idx,"title"]
-	save(stem_count, file = paste("data/stem_", title, ".Rda", sep = ""))
-	save(sema_count, file = paste("data/google_sema_", title, ".Rda", sep = ""))
+	save(sema_count, file = paste("data/stem_", title, ".Rda", sep = ""))
 }
+
+
+# Word semantics analysis
+
+word_semantic_analysis <- function(emb, data, model_name, threshold = 0.3) {
+	for (row_idx in 1:nrow(data)) {
+		word_categories <- word_category_v(clean_txt $ word, threshold)
+
+		sema_txt <- clean_text(data[row_idx,"variables"][[1]]) |>
+			mutate(tag = word_categories $ tag, word_category = word_categories $ tag_category)
+
+		sema_count <- sema_txt |>
+			inner_join(count(sema_txt, tag)) |>
+			distinct(tag, .keep_all = TRUE)
+
+		title <- data[row_idx,"title"]
+		save(sema_count, file = paste("data/", model_name, "_", threshold, "_", title, ".Rda", sep = ""))
+	}
+}
+
+read.wordvectors("google_vecs.bin", type = "bin") |>
+	word_semantic_analysis(data = data, model_name = "google_news", threshold = 0.216)
+
+read.wordvectors("glove.6B.300d.txt", type = "txt") |>
+	word_semantic_analysis(data = data, model_name = "glove_300d", threshold = 0.154)
+
+read.wordvectors("glove.6B.200d.txt", type = "txt") |>
+	word_semantic_analysis(data = data, model_name = "glove_200d", threshold = 0.182)
+
+read.wordvectors("glove.6B.100d.txt", type = "txt") |>
+	word_semantic_analysis(data = data, model_name = "glove_100d", threshold = 0.227)
+
+read.wordvectors("glove.6B.50d.txt", type = "txt") |>
+	word_semantic_analysis(data = data, model_name = "glove_50d", threshold = 0.270)
