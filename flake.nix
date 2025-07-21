@@ -44,6 +44,8 @@
 							scales
 							sf
 							shiny
+							shinydashboard
+							shinylive
 							showtext
 							showtextdb
 							stringr
