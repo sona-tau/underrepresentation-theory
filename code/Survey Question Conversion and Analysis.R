@@ -68,7 +68,7 @@ CBMS_MSp1 <- othervariablesandquestiontypes$multiple.selects[17][[1]]
 CBMS_MSp2 <- cbmssurveyquestions |>
   filter(Type == "MS") |>
   pull(Question)
-CBMS_all_multipleselect = c(CBMS_MSp1, CBMS_MSp2)
+CBMS_all_multipleselect = as.character(c(CBMS_MSp1, CBMS_MSp2))
 CBMS_multiselect_count = length(CBMS_all_multipleselect)
 
 
@@ -146,10 +146,81 @@ tagged_AMS <- sapply(AMS_all_questions, function(text) {
   if (length(matches) > 0) {
     paste("Tags:", paste(unique(matches), collapse = ", "))
   } else {
-    "Tags: None"
+    NA
+  }
+  
+})
+tagged_AMS_df <- as.data.frame(tagged_AMS)
+
+
+tagged_AMS_multiplechoice <- sapply(AMS_MC, function(text) {
+  matches <- str_extract_all(text, paste(keywords, collapse = "|"))[[1]]
+  if (length(matches) > 0) {
+    paste("Tags:", paste(unique(matches), collapse = ", "))
+  } else {
+    NA
   }
 })
-tagged_AMS_list <- as.list(tagged_AMS)
+ams_mc_tagged <- as.data.frame(tagged_AMS_multiplechoice)
+
+AMS_writtenresponse_tags <- sapply(AMS_WR, function(text) {
+  matches <- str_extract_all(text, paste(keywords, collapse = "|"))[[1]]
+  if (length(matches) > 0) {
+    paste("Tags:", paste(unique(matches), collapse = "|"))
+  } else {
+    NA
+  }
+})
+
+ams_wr_tagged <- as.data.frame(AMS_writtenresponse_tags)
+
+AMS_tableinput_tags <- sapply(AMS_TI, function(text) {
+  matches <- str_extract_all(text, paste(keywords, collapse = "|"))[[1]]
+  if (length(matches) > 0) {
+    paste("Tags:", paste(unique(matches), collapse = "|"))
+  } else {
+    NA
+  }
+})
+
+ams_ti_tagged <- as.data.frame(AMS_tableinput_tags)
+
+AMS_multipleselect_tags <- sapply(AMS_MS, function(text) {
+  matches <- str_extract_all(text, paste(keywords, collapse = "|"))[[1]]
+  if (length(matches) > 0) {
+    paste("Tags:", paste(unique(matches), collapse = "|"))
+  } else {
+    NA
+  }
+})
+
+ams_ms_tagged <- as.data.frame(AMS_multipleselect_tags)
+
+AMS_Question_Tags <- data.frame(
+  questions = AMS_questions_list,
+  tags = tagged_AMS_df
+)
+
+AMS_MC_Tags <- data.frame(
+  questions = AMS_MC,
+  tags = ams_mc_tagged
+)
+
+AMS_MS_Tags <- data.frame(
+  questions = AMS_MS,
+  tags = ams_ms_tagged
+)
+
+AMS_TI_Tags <- data.frame(
+  questions = AMS_TI,
+  tags = ams_ti_tagged
+)
+
+AMS_WR_Tags <- data.frame (
+  questions = AMS_WR,
+  tags = ams_wr_tagged
+)
+
 
 CBMS_all_questions_char <- as.character(CBMS_all_questions)
 
@@ -158,32 +229,136 @@ tagged_CBMS <- sapply(CBMS_all_questions_char, function(text) {
   if (length(matches) > 0) {
     paste("Tags:", paste(unique(matches), collapse = ", "))
   } else {
-    "Tags: None"
+    NA
   }
 })
 
-tagged_CBMS_list <- as.list(tagged_CBMS)
+tagged_CBMS_df <- as.data.frame(tagged_CBMS)
 
-number_tagged_CBMS <- tagged_CBMS_list |>
+CBMS_mc_tagged <-sapply(CBMSMC_full, function(text) {
+  matches <- str_extract_all(text, paste(keywords, collapse = "|"))[[1]]
+  if (length(matches) > 0) {
+    paste("Tags:", paste(unique(matches), collapse = ", "))
+  } else {
+    NA
+  }
+})
 
+tagged_cbms_mc <- as.data.frame(CBMS_mc_tagged)
 
+CBMS_ms_tagged <- sapply(CBMS_all_multipleselect, function(text) {
+  matches <- str_extract_all(text, paste(keywords, collapse = "|"))[[1]]
+  if (length(matches) > 0) {
+    paste("Tags:", paste(unique(matches), collapse = ", "))
+  } else {
+    NA
+  }
+})
 
+tagged_cbms_ms <- as.data.frame(CBMS_ms_tagged)
+
+CBMS_ti_tagged <-sapply(CBMS_all_tableinput, function(text) {
+  matches <- str_extract_all(text, paste(keywords, collapse = "|"))[[1]]
+  if (length(matches) > 0) {
+    paste("Tags:", paste(unique(matches), collapse = ", "))
+  } else {
+    NA
+  }
+})
+
+tagged_cbms_ti <- as.data.frame(CBMS_ti_tagged)
+  
+  
+CBMS_wr_tagged <- sapply(CBMS_all_writtenresponse, function(text) {
+  matches <- str_extract_all(text, paste(keywords, collapse = "|"))[[1]]
+  if (length(matches) > 0) {
+    paste("Tags:", paste(unique(matches), collapse = ", "))
+  } else {
+    NA
+  }
+})
+
+tagged_cbms_wr <- as.data.frame(CBMS_wr_tagged)
+
+CBMS_all_questions_df <- as.data.frame(CBMS_all_questions_char)
+
+CBMS_Question_Tags <- data.frame(
+  questions = CBMS_all_questions_df,
+  tags = tagged_CBMS_df
+)
+
+CBMS_MC_Tags <- data.frame(
+  questions = CBMSMC_full,
+  tags = CBMS_mc_tagged
+)
+all_multiselect_CBMS <- as.data.frame(CBMS_all_multipleselect)
+
+class(CBMS_all_multipleselect)
+
+CBMS_MS_Tags <- data.frame(
+  questions = CBMS_all_multipleselect,
+  tags = tagged_cbms_ms$CBMS_ms_tagged
+)
+
+rownames(CBMS_MS_Tags) <- NULL
+
+CBMS_TI_Tags <- data.frame(
+  questions = CBMS_all_tableinput,
+  tags = tagged_cbms_ti$CBMS_ti_tagged
+)
+
+rownames(CBMS_TI_Tags) <- NULL
+
+CBMS_WR_Tags <- data.frame(
+  questions = CBMS_all_writtenresponse,
+  tags = tagged_cbms_wr$CBMS_wr_tagged
+)
+
+rownames(CBMS_TI_Tags) <- NULL
 
 tagged_IPEDS <- sapply(IPEDS_all_questions, function(text) {
   matches <- str_extract_all(text, paste(keywords, collapse = "|"))[[1]]
   if (length(matches) > 0) {
     paste("Tags:", paste(unique(matches), collapse = ", "))
   } else {
-    "Tags: None"
+    NA
   }
 })
 
-tagged_IPEDS_list <- as.list(tagged_IPEDS)
+tagged_IPEDS_df <- as.data.frame(tagged_IPEDS)
+
+
+#there were no tagged questions in the IPEDS survey, so I assigned each question type a value of zero.
+IPEDS_multiplechoice_tagged = 0 
+IPEDS_multipleslect_tagged = 0
+IPEDS_tableinput_tagged = 0
+IPEDS_writtenresponse_tagged = 0 
+
+tagged_AMS_count <- tagged_AMS_df[complete.cases(tagged_AMS_df),] |> length()
+tagged_ams_mc_count <- ams_mc_tagged[complete.cases(ams_mc_tagged),] |> length()
+tagged_ams_ms_count <- ams_ms_tagged[complete.cases(ams_ms_tagged),] |> length()
+tagged_ams_ti_count <- ams_ti_tagged[complete.cases(ams_ti_tagged),] |> length()
+tagged_ams_wr_count <- ams_wr_tagged[complete.cases(ams_wr_tagged),] |> length()
+
+tagged_CBMS_count <- tagged_CBMS_df[complete.cases(tagged_CBMS_df),] |> length()
+tagged_cbms_mc_count <- tagged_cbms_mc[complete.cases(tagged_cbms_mc),] |> length()
+tagged_cbms_ms_count <- tagged_cbms_ms[complete.cases(tagged_cbms_ms),] |> length()
+tagged_cbms_wr_count <-tagged_cbms_wr[complete.cases(tagged_cbms_wr),] |> length()
+tagged_cbms_ti <- tagged_cbms_ti[complete.cases(tagged_cbms_ti),] |> length()
+
+
+tagged_IPEDS_count <- tagged_IPEDS_df[complete.cases(tagged_IPEDS_df),] |> length()
+
+ggplot
 
 
 
 
+  
+  
+  
 
+  
 
 
   
