@@ -41,39 +41,13 @@ def save_full(questions: set[tuple[str, str]], filepath: str):
 
 def file_data(filename: str):
     file = open(filename)
-    last_line = ""
-    pages = []
     data = []
-    page_num = 0
     for line in file:
-        last_line = line
         if len(line) == 1:
             continue
-        if filename.startswith("ipeds"):
-            if page_num == 0:
-                if line.startswith("https"):
-                    page_num = 1
-                continue
-            elif page_num == -1:
-                continue
-            elif line.startswith("https"):
-                pages.append(data.copy())
-                data = []
-                page_num += 1
-            elif line.startswith("Purpose of"):
-                page_num = -1
-            else:
-                data.append(line)
-        elif filename.startswith("AMS"):
-            log("Cannot process AMS files", "fatal")
-            exit(1)
-        elif filename.startswith("cbms"):
-            for line in file:
-                data.append(line)
-            pages = [data]
-    data.append(last_line)
+        data.append(line)
     file.close()
-    return pages
+    return [data]
 
 def process(pages: list[list[str]], intermediate: str) -> set[list[str]]:
     current_question = ""
