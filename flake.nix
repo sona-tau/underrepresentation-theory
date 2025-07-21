@@ -36,6 +36,7 @@
 							readr
 							remotes
 							resampledata
+							reshape2
 							reticulate
 							rhdf5
 							rmarkdown
@@ -55,6 +56,7 @@
 							units
 							word2vec
 							wordcloud
+							viridis
 						];
 						myPythonPackages = with pkgs.python313Packages; [
 							colorama
