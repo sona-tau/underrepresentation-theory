@@ -45,35 +45,35 @@ for (data in data_sources) {
 }
 dev.off()
 
-load("data/glove_100d_AMS.Rda")
+load("data/glove_100d_0.219_AMS.Rda")
 sema_count_glove_100d_ams <- sema_count
-load("data/glove_100d_CBMS.Rda")
+load("data/glove_100d_0.219_CBMS.Rda")
 sema_count_glove_100d_cbms <- sema_count
-load("data/glove_100d_IPEDS.Rda")
+load("data/glove_100d_0.219_IPEDS.Rda")
 sema_count_glove_100d_ipeds <- sema_count
-load("data/glove_200d_AMS.Rda")
+load("data/glove_200d_0.164_AMS.Rda")
 sema_count_glove_200d_ams <- sema_count
-load("data/glove_200d_CBMS.Rda")
+load("data/glove_200d_0.164_CBMS.Rda")
 sema_count_glove_200d_cbms <- sema_count
-load("data/glove_200d_IPEDS.Rda")
+load("data/glove_200d_0.164_IPEDS.Rda")
 sema_count_glove_200d_ipeds <- sema_count
-load("data/glove_300d_AMS.Rda")
+load("data/glove_300d_0.134_AMS.Rda")
 sema_count_glove_300d_ams <- sema_count
-load("data/glove_300d_CBMS.Rda")
+load("data/glove_300d_0.134_CBMS.Rda")
 sema_count_glove_300d_cbms <- sema_count
-load("data/glove_300d_IPEDS.Rda")
+load("data/glove_300d_0.134_IPEDS.Rda")
 sema_count_glove_300d_ipeds <- sema_count
-load("data/glove_50d_AMS.Rda")
+load("data/glove_50d_0.273_AMS.Rda")
 sema_count_glove_50d_ams <- sema_count
-load("data/glove_50d_CBMS.Rda")
+load("data/glove_50d_0.273_CBMS.Rda")
 sema_count_glove_50d_cbms <- sema_count
-load("data/glove_50d_IPEDS.Rda")
+load("data/glove_50d_0.273_IPEDS.Rda")
 sema_count_glove_50d_ipeds <- sema_count
-load("data/google_sema_AMS.Rda")
+load("data/google_news_0.185_AMS.Rda")
 sema_count_google_ams <- sema_count
-load("data/google_sema_CBMS.Rda")
+load("data/google_news_0.185_CBMS.Rda")
 sema_count_google_cbms <- sema_count
-load("data/google_sema_IPEDS.Rda")
+load("data/google_news_0.185_IPEDS.Rda")
 sema_count_google_ipeds <- sema_count
 
 get_df <- function(str) {
