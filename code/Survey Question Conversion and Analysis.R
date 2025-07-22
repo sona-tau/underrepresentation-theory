@@ -653,14 +653,20 @@ WR_Tagged_Graph <- ggplot(Counts_of_Tagged_Sources_WR_long, aes(x = Source, y = 
        title = "Written Response")
 WR_Tagged_Graph
 
-All_Tagged_Graph + 
+Big_Graph <- All_Tagged_Graph + 
   MC_Tagged_Graph + 
   MS_Tagged_Graph + 
   TI_Tagged_Graph + 
   WR_Tagged_Graph +
   plot_layout(nrow = 1)
 
+Big_Graph
 
+save(big_question_tag_df, file = "big_question_tag_df.rda")
+save(MC_Tag_df, file = "MC_Tag_df.rda")
+save(MS_Tag_df, file = "MS_Tag_df.rda")
+save(TI_Tag_df, file = "TI_Tag_df.rda")
+save(WR_Tag_df, file = "WR_Tag_df.rda")
 
   
   
