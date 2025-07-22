@@ -1,31 +1,55 @@
 library(shiny)
 library(shinydashboard)
-library(shinylive)
+library(ggplot2)
+library(viridis)
+library(SnowballC)
+source("data.R")
 
 ui <- dashboardPage(
 	dashboardHeader(),
-	dashboardSidebar(
-		sidebarMenu(
-			menuItem("Dashboard", tabName = "dashboard", icon = icon("dashboard")),
-			menuItem("Widgets", tabName = "widgets", icon = icon("th"))
+	sidebarMenu(
+		menuItem(
+			"Home",
+			tabName = "home",
+			icon = icon("house-blank")
+		),
+		menuItem(
+			"Dashboard",
+			tabName = "dashboard",
+			icon = icon("dashboard")
+		),
+		menuItem(
+			"About",
+			tabName = "about",
+			icon = icon("info")
 		)
-	),
-	dashboardBody(
-		tabItems(
-			tabItem(
-				tabName = "dashboard",
-				fluidRow(
-					box(plotOutput("plot1", height = 250)),
-
-					box(title = "Controls", sliderInput("slider", "Number of observations:", 1, 100, 50))
-				)
-			),
-			tabItem(
-				tabName = "widgets",
-				h2("Widgets tab content")
+	) |> dashboardSidebar(),
+	tabItems(
+		tabItem(
+			tabName = "home",
+			h2("Home information.")
+		),
+		tabItem(
+			tabName = "dashboard",
+			fluidRow(
+				box(
+					selectInput(
+						inputId = "selected_tag",
+						label = "Select a tag below:",
+						choices = tags |> as.list()
+					) |> box(),
+					htmlOutput(
+						outputId = "filtered_sources",
+					) |> box()
+				),
+				plotOutput("occurrences_v_tags")
 			)
+		),
+		tabItem(
+			tabName = "about",
+			h2("About information.")
 		)
-	)
+	) |> dashboardBody()
 )
 
 server <- function(input, output) {
@@ -33,12 +57,27 @@ server <- function(input, output) {
 
 	histdata <- rnorm(500)
 
-	output $ plot1 <- renderPlot({
-		data <- histdata[seq_len(input $ slider)]
+	output $ value <- renderText({
+		input $ selected_tag
+	})
 
-		hist(data)
+	output $ filtered_sources <- renderText({
+		sources <- get_df_tag(input $ selected_tag)
+		sources <- sources[sources $ n != 0,]
+		print(sources)
+	})
+
+	output $ occurrences_v_tags <- renderPlot({
+#		ggplot(df, aes(fill = model, x = title, y = n)) +
+#			geom_bar(position = "dodge", stat = "identity") +
+#			scale_fill_viridis_d() +
+#			labs(
+#				x = "Data Source",
+#				y = "Occurrences"
+#			) +
+#			theme_light() +
+#			theme(aspect.ratio = 1)
 	})
 }
 
-shinylive::export(appdir = ".", destdir = "../../site")
-shinyApp(ui, server, options = c(port = "6969"))
+shinyApp(ui, server, options = list(port = 6969))
