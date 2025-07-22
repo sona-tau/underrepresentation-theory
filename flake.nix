@@ -20,6 +20,7 @@
 					venvDir = ".venv";
 					packages = let
 						myRPackages = with pkgs.rPackages; [
+							bslib
 							Matrix
 							SnowballC
 							TDA
@@ -40,6 +41,7 @@
 							reticulate
 							rhdf5
 							rmarkdown
+							rsconnect
 							s2
 							scales
 							sf
