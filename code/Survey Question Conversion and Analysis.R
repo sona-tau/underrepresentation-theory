@@ -8,6 +8,8 @@ install.packages("dplyr")
 install.packages("SnowballC")
 install.packages("tibble")
 install.packages("tidyr")
+install.packages("patchwork")
+library(patchwork)
 library(ggplot2)
 library(tidyverse)
 library(tidytext)
@@ -461,12 +463,210 @@ Counts_of_Tagged_Sources_long <- pivot_longer(
   values_to = "Number Tagged"
 )
 
-ggplot(Counts_of_Tagged_Sources_long, aes(x = Source, y = `Number Tagged`)) +
+All_Tagged_Graph <- ggplot(Counts_of_Tagged_Sources_long, aes(x = Source, y = `Number Tagged`, fill = Source)) +
   geom_col() +
-  scale_y_continuous(breaks = seq(0, max(Counts_of_Tagged_Sources_long$`Number Tagged`), by = 1))
+  scale_y_continuous(breaks = seq(0, max(Counts_of_Tagged_Sources_long$`Number Tagged`), by = 1)) +
+  labs(y = NULL,
+       x = NULL,
+       title = "ALL")
 
+All_Tagged_Graph
+
+AMS_MC_Tags$Source = "AMS"
+CBMS_MC_Tags$Source = "CBMS"
+IPEDS_MC_Tags$Source = "IPEDS"
+
+MC_Tag_df <- rbind(AMS_MC_Tags, CBMS_MC_Tags, IPEDS_MC_Tags)
+
+
+AMS_MC_Sources_Counts<- MC_Tag_df|>
+  filter(Source == "AMS", !is.na(Tags))|>
+  nrow()
+AMS_MC_Sources_Counts
+
+#Counting CMS
+CBMS_MC_Sources_Counts<- MC_Tag_df|>
+  filter(Source == "CBMS", !is.na(Tags)) |>
+  nrow() 
+CBMS_MC_Sources_Counts
+
+#Counting IPEDS
+IPEDS_MC_Sources_Counts<- MC_Tag_df|>
+  filter (Source == "IPEDS", !is.na(Tags)) |>
+  nrow()
+IPEDS_MC_Sources_Counts   
+
+Counts_of_Tagged_Sources_MC <- data.frame(
+  AMS = AMS_MC_Sources_Counts, 
+  IPEDS = IPEDS_MC_Sources_Counts, 
+  CBMS = CBMS_MC_Sources_Counts)
+
+Counts_of_Tagged_Sources_MC_long <- pivot_longer(
+  as_tibble(Counts_of_Tagged_Sources_MC),
+  cols = everything(),
+  names_to = "Source",
+  values_to = "Number Tagged"
+)
+
+MC_Tagged_Graph <- ggplot(Counts_of_Tagged_Sources_MC_long, aes(x = Source, y = `Number Tagged`, fill = Source)) +
+  geom_col() +
+  scale_y_continuous(breaks = seq(0, max(Counts_of_Tagged_Sources_long$`Number Tagged`), by = 1)) +
+  labs(y = NULL,
+       x = NULL,
+       title = "Multiple Choice")
   
+MC_Tagged_Graph
 
+
+AMS_MS_Tags$Source = "AMS"
+CBMS_MS_Tags$Source = "CBMS"
+IPEDS_MS_Tags$Source = "IPEDS"
+
+MS_Tag_df <- rbind(AMS_MS_Tags, CBMS_MS_Tags, IPEDS_MS_Tags)
+
+
+AMS_MS_Sources_Counts<- MS_Tag_df|>
+  filter(Source == "AMS", !is.na(Tags))|>
+  nrow()
+AMS_MS_Sources_Counts
+
+#Counting CMS
+CBMS_MS_Sources_Counts<- MS_Tag_df|>
+  filter(Source == "CBMS", !is.na(Tags)) |>
+  nrow() 
+CBMS_MS_Sources_Counts
+
+#Counting IPEDS
+IPEDS_MS_Sources_Counts<- MS_Tag_df|>
+  filter (Source == "IPEDS", !is.na(Tags)) |>
+  nrow()
+IPEDS_MS_Sources_Counts   
+
+Counts_of_Tagged_Sources_MS <- data.frame(
+  AMS = AMS_MS_Sources_Counts, 
+  IPEDS = IPEDS_MS_Sources_Counts, 
+  CBMS = CBMS_MS_Sources_Counts)
+
+Counts_of_Tagged_Sources_MS_long <- pivot_longer(
+  as_tibble(Counts_of_Tagged_Sources_MS),
+  cols = everything(),
+  names_to = "Source",
+  values_to = "Number Tagged"
+)
+
+MS_Tagged_Graph <- ggplot(Counts_of_Tagged_Sources_MS_long, aes(x = Source, y = `Number Tagged`, fill = Source)) +
+  geom_col() +
+  scale_y_continuous(breaks = seq(0, max(Counts_of_Tagged_Sources_long$`Number Tagged`), by = 1)) +
+  labs(y = NULL,
+       x = NULL,
+       title = "Multiple Select")
+
+MS_Tagged_Graph
+
+
+AMS_TI_Tags$Source = "AMS"
+CBMS_TI_Tags$Source = "CBMS"
+IPEDS_TI_Tags$Source = "IPEDS"
+
+TI_Tag_df <- rbind(AMS_TI_Tags, CBMS_TI_Tags, IPEDS_TI_Tags)
+
+
+AMS_TI_Sources_Counts<- TI_Tag_df|>
+  filter(Source == "AMS", !is.na(Tags))|>
+  nrow()
+AMS_TI_Sources_Counts
+
+#Counting CMS
+CBMS_TI_Sources_Counts<- TI_Tag_df|>
+  filter(Source == "CBMS", !is.na(Tags)) |>
+  nrow() 
+CBMS_TI_Sources_Counts
+
+#Counting IPEDS
+IPEDS_TI_Sources_Counts<- TI_Tag_df|>
+  filter (Source == "IPEDS", !is.na(Tags)) |>
+  nrow()
+IPEDS_TI_Sources_Counts   
+
+Counts_of_Tagged_Sources_TI <- data.frame(
+  AMS = AMS_TI_Sources_Counts, 
+  IPEDS = IPEDS_TI_Sources_Counts, 
+  CBMS = CBMS_TI_Sources_Counts)
+
+Counts_of_Tagged_Sources_TI_long <- pivot_longer(
+  as_tibble(Counts_of_Tagged_Sources_TI),
+  cols = everything(),
+  names_to = "Source",
+  values_to = "Number Tagged"
+)
+
+TI_Tagged_Graph <- ggplot(Counts_of_Tagged_Sources_TI_long, aes(x = Source, y = `Number Tagged`, fill = Source)) +
+  geom_col() +
+  scale_y_continuous(breaks = seq(0, max(Counts_of_Tagged_Sources_long$`Number Tagged`), by = 1)) +
+  labs(y = NULL,
+       x = NULL,
+       title = "Table Input")
+
+TI_Tagged_Graph
+
+AMS_WR_Tags$Source = "AMS"
+CBMS_WR_Tags$Source = "CBMS"
+IPEDS_WR_Tags$Source = "IPEDS"
+
+WR_Tag_df <- rbind(AMS_WR_Tags, CBMS_WR_Tags, IPEDS_WR_Tags)
+
+
+AMS_WR_Sources_Counts<- WR_Tag_df|>
+  filter(Source == "AMS", !is.na(Tags))|>
+  nrow()
+AMS_WR_Sources_Counts
+
+#Counting CMS
+CBMS_WR_Sources_Counts<- WR_Tag_df|>
+  filter(Source == "CBMS", !is.na(Tags)) |>
+  nrow() 
+CBMS_WR_Sources_Counts
+
+#Counting IPEDS
+IPEDS_WR_Sources_Counts<- WR_Tag_df|>
+  filter (Source == "IPEDS", !is.na(Tags)) |>
+  nrow()
+IPEDS_WR_Sources_Counts   
+
+Counts_of_Tagged_Sources_WR <- data.frame(
+  AMS = AMS_WR_Sources_Counts, 
+  IPEDS = IPEDS_WR_Sources_Counts, 
+  CBMS = CBMS_WR_Sources_Counts)
+
+Counts_of_Tagged_Sources_WR_long <- pivot_longer(
+  as_tibble(Counts_of_Tagged_Sources_WR),
+  cols = everything(),
+  names_to = "Source",
+  values_to = "Number Tagged"
+)
+
+WR_Tagged_Graph <- ggplot(Counts_of_Tagged_Sources_WR_long, aes(x = Source, y = `Number Tagged`, fill = Source)) +
+  geom_col() +
+  scale_y_continuous(breaks = seq(0, max(Counts_of_Tagged_Sources_long$`Number Tagged`), by = 1)) +
+  labs(y = NULL,
+       x = NULL,
+       title = "Written Response")
+WR_Tagged_Graph
+
+Big_Graph <- All_Tagged_Graph + 
+  MC_Tagged_Graph + 
+  MS_Tagged_Graph + 
+  TI_Tagged_Graph + 
+  WR_Tagged_Graph +
+  plot_layout(nrow = 1)
+
+Big_Graph
+
+save(big_question_tag_df, file = "big_question_tag_df.rda")
+save(MC_Tag_df, file = "MC_Tag_df.rda")
+save(MS_Tag_df, file = "MS_Tag_df.rda")
+save(TI_Tag_df, file = "TI_Tag_df.rda")
+save(WR_Tag_df, file = "WR_Tag_df.rda")
 
   
   
