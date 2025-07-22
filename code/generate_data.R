@@ -174,6 +174,31 @@ word_semantic_analysis <- function(emb, data, model_name, threshold = 0.3) {
 		title <- data[row_idx,"title"]
 		clean_txt <- clean_text(data[row_idx, "variables"][[1]])
 
+		memo <- new.env(hash = TRUE, parent = emptyenv())
+		word_category_m <- function(x, tag_vectors, emb, threshold = 0.3) {
+			if (is.null(memo[[x]])) {
+				memo[[x]] <- word_category(x, tag_vectors, emb, threshold)
+			}
+			return(memo[[x]])
+		}
+
+		word_category_v <- function(words, tag_vectors, emb, threshold = 0.3) {
+			res <- Vectorize(function(word) word_category_m(word, tag_vectors, emb, threshold))(words) |> t()
+			sim <- numeric(length = length(words))
+			tags <- character(length = length(words))
+			tag_categories <- character(length = length(words))
+			for (i in 1:nrow(res)) {
+				sim[i] <- res[,"sim"][[i]]
+				tags[i] <- res[,"tag"][[i]]
+				tag_categories[i] <- res[,"tag_category"][[i]]
+			}
+			data.frame(
+				sim = sim,
+				tag = tags,
+				tag_category = tag_categories
+			)
+		}
+
 		word_categories <- word_category_v(clean_txt $ word, tag_vectors, emb, threshold)
 		sema_txt <- clean_txt |>
 			mutate(tag = word_categories $ tag, word_category = word_categories $ tag_category)
@@ -202,16 +227,16 @@ word_semantic_analysis <- function(emb, data, model_name, threshold = 0.3) {
 # - https://code.google.com/archive/p/word2vec/
 
 read.wordvectors("google_vecs.bin", type = "bin") |>
-	word_semantic_analysis(data = data, model_name = "google_news", threshold = 0.216)
+	word_semantic_analysis(data = data, model_name = "google_news", threshold = 0.185)
 
 read.wordvectors("glove.6B.300d.txt", type = "txt") |>
-	word_semantic_analysis(data = data, model_name = "glove_300d", threshold = 0.154)
+	word_semantic_analysis(data = data, model_name = "glove_300d", threshold = 0.134)
 
 read.wordvectors("glove.6B.200d.txt", type = "txt") |>
-	word_semantic_analysis(data = data, model_name = "glove_200d", threshold = 0.182)
+	word_semantic_analysis(data = data, model_name = "glove_200d", threshold = 0.164)
 
 read.wordvectors("glove.6B.100d.txt", type = "txt") |>
-	word_semantic_analysis(data = data, model_name = "glove_100d", threshold = 0.227)
+	word_semantic_analysis(data = data, model_name = "glove_100d", threshold = 0.219)
 
 read.wordvectors("glove.6B.50d.txt", type = "txt") |>
-	word_semantic_analysis(data = data, model_name = "glove_50d", threshold = 0.270)
+	word_semantic_analysis(data = data, model_name = "glove_50d", threshold = 0.273)
