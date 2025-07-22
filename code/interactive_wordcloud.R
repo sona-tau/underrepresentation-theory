@@ -69,7 +69,7 @@ view(word_counts_ipeds)
 
 #install.packages("wordcloud2")
 library("wordcloud2")
-install.packages("httpgd")
+#install.packages("httpgd")
 
 #AMS
 my_palette = c("#355070",
